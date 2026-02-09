@@ -45,198 +45,170 @@ The library behavior can be controlled via environment variables:
 
 ## Command-Line Interface (CLI)
 
+- [`info`](#info)
+- [`to-json`](#to-json)
+- [`from-json`](#from-json)
+- [`export-consts-data`](#export-consts-data)
+- [`set-session-name`](#set-session-name)
+- [`players`](#players)
+  - [`players list`](#players-list)
+  - [`players inventory`](#players-inventory)
+    - [`players inventory show`](#players-inventory-show)
+    - [`players inventory export`](#players-inventory-export)
+- [`map`](#map)
+  - [`map markers`](#map-markers)
+    - [`map markers show`](#map-markers-show)
+    - [`map markers add`](#map-markers-add)
+    - [`map markers export`](#map-markers-export)
+    - [`map markers remove`](#map-markers-remove)
+- [`find-free-stuff`](#find-free-stuff)
+- [`gen-cli-docs`](#gen-cli-docs)
+
 ```bash
-usage: python.exe -m sat_sav_parse [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,export-consts-data,set-session-name,html,players,map,find-free-stuff,gen-cli-docs} ...
+usage: python.exe -m sat_save_tools [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,export-consts-data,set-session-name,players,map,find-free-stuff,gen-cli-docs} ...
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `--log-level`: Set log level [default: INFO]
 - `--disable-logging`: Disable logging
 - `--data-folder`: Path to static JSON data
 
 ### Subcommands
-
 #### `info`
-
 ```bash
-usage: python.exe -m sat_sav_parse info [-h] [--json] [--plain] filename
+usage: python.exe -m sat_save_tools info [-h] [--json] [--plain] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the save file
 - `--json, -j`: Show as JSON
 - `--plain, -p`: Disable indent and colors for JSON output
 
 #### `to-json`
-
 ```bash
-usage: python.exe -m sat_sav_parse to-json [-h] [--output OUTPUT] filename
+usage: python.exe -m sat_save_tools to-json [-h] [--output OUTPUT] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the save file
 - `--output, -o`: Path to output JSON file; if not set, saved in {input}.json
 
 #### `from-json`
-
 ```bash
-usage: python.exe -m sat_sav_parse from-json [-h] [--output OUTPUT] filename
+usage: python.exe -m sat_save_tools from-json [-h] [--output OUTPUT] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the JSON file
 - `--output, -o`: Path to output sav file; if not set, saved in {input}.sav
 
 #### `export-consts-data`
-
 ```bash
-usage: python.exe -m sat_sav_parse export-consts-data [-h] foldername
+usage: python.exe -m sat_save_tools export-consts-data [-h] foldername
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `foldername`: Path to the save file
 
 #### `set-session-name`
-
 ```bash
-usage: python.exe -m sat_sav_parse set-session-name [-h] [--output OUTPUT] filename session-name
+usage: python.exe -m sat_save_tools set-session-name [-h] [--output OUTPUT] filename session-name
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the JSON file
 - `session-name`: Session name
 - `--output, -o`: Path to output JSON file; if not set, saved in {filename}.json
 
-#### `html`
-
-```bash
-usage: python.exe -m sat_sav_parse html [-h] [--output OUTPUT] filename
-```
-
-**Arguments:**
-
-- `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
-- `filename`: Path to the save file
-- `--output, -o`: Path to output JSON file; if not set, saved in {input}.html
-
 #### `players`
-
 ```bash
-usage: python.exe -m sat_sav_parse players [-h] {list,inventory} ...
+usage: python.exe -m sat_save_tools players [-h] {list,inventory} ...
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 
 ### Subcommands
-
-#### `list`
-
+#### `players list`
 ```bash
-usage: python.exe -m sat_sav_parse players list [-h] filename
+usage: python.exe -m sat_save_tools players list [-h] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the JSON file
 
-#### `inventory`
-
+#### `players inventory`
 ```bash
-usage: python.exe -m sat_sav_parse players inventory [-h] {show,export} ...
+usage: python.exe -m sat_save_tools players inventory [-h] {show,export} ...
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 
 ### Subcommands
-
-#### `show`
-
+#### `players inventory show`
 ```bash
-usage: python.exe -m sat_sav_parse players inventory show [-h] --player-id PLAYER_ID filename
+usage: python.exe -m sat_save_tools players inventory show [-h] --player-id PLAYER_ID filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the JSON file
 - `--player-id`: Player ID to show inventory for (required)
 
-#### `export`
-
+#### `players inventory export`
 ```bash
-usage: python.exe -m sat_sav_parse players inventory export [-h] --player-id PLAYER_ID [--output OUTPUT] filename
+usage: python.exe -m sat_save_tools players inventory export [-h] --player-id PLAYER_ID [--output OUTPUT] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the JSON file
 - `--player-id`: Player ID to export inventory (required)
 - `--output, -o`: Player ID to export inventory
 
 #### `map`
-
 ```bash
-usage: python.exe -m sat_sav_parse map [-h] {markers} ...
+usage: python.exe -m sat_save_tools map [-h] {markers} ...
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 
 ### Subcommands
-
-#### `markers`
-
+#### `map markers`
 ```bash
-usage: python.exe -m sat_sav_parse map markers [-h] {show,add,export,remove} ...
+usage: python.exe -m sat_save_tools map markers [-h] {show,add,export,remove} ...
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 
 ### Subcommands
-
-#### `show`
-
+#### `map markers show`
 ```bash
-usage: python.exe -m sat_sav_parse map markers show [-h] filename
+usage: python.exe -m sat_save_tools map markers show [-h] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the save file or JSON file to show map markers from
 
-#### `add`
-
+#### `map markers add`
 ```bash
-Usage: python.exe -m sat_sav_parse map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID]
-                                                   [--somersloops] [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME]
-                                                   [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE] [--hd-icon-id HD_ICON_ID]
-                                                   filename
+Usage: python.exe -m sat_save_tools map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID] [--somersloops]
+                                                    [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE] [--hd-icon-id HD_ICON_ID]
+                                                    filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Save file path
 - `--output, -o`: Output save file path (required)
@@ -258,51 +230,43 @@ Usage: python.exe -m sat_sav_parse map markers add [-h] --output OUTPUT [--recre
 - `--hd-compass-view-distance`: Compass view distance for Hard Drives [default: ECompassViewDistance::CVD_Off]
 - `--hd-icon-id`: Icon ID for Hard Drives. See icon_ids.json. [default: 652]
 
-#### `export`
-
+#### `map markers export`
 ```bash
-usage: python.exe -m sat_sav_parse map markers export [-h] [-o OUTPUT] filename
+usage: python.exe -m sat_save_tools map markers export [-h] [-o OUTPUT] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the save file to export map markers from
 - `-o, --output`: Path to output the exported map markers to (defaults: {filename}.map_markers.json)
 
-#### `remove`
-
+#### `map markers remove`
 ```bash
-usage: python.exe -m sat_sav_parse map markers remove [-h] [-o OUTPUT] [--id MARKER_IDS] filename
+usage: python.exe -m sat_save_tools map markers remove [-h] [-o OUTPUT] [--id MARKER_IDS] filename
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `filename`: Path to the save file
 - `-o, --output`: Path to output
 - `--id, -i`: Marker IDs [default: []]
 
 #### `find-free-stuff`
-
 ```bash
-usage: python.exe -m sat_sav_parse find-free-stuff [-h] [--filename FILENAME] [--item ITEM]
+usage: python.exe -m sat_save_tools find-free-stuff [-h] [--filename FILENAME] [--item ITEM]
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `--filename, -f`: Path to the save file
 - `--item, -i`:
 
 #### `gen-cli-docs`
-
 ```bash
-usage: python.exe -m sat_sav_parse gen-cli-docs [-h] [--readme README]
+usage: python.exe -m sat_save_tools gen-cli-docs [-h] [--readme README]
 ```
 
 **Arguments:**
-
 - `-h, --help`: show this help message and exit [default: ==SUPPRESS==]
 - `--readme`: Path to README.md [default: README.md]
 

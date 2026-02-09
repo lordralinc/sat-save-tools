@@ -12,6 +12,29 @@ def strip_ansi(text: str) -> str:
     return ANSI_ESCAPE.sub("", text)
 
 
+def generate_toc(parser: argparse.ArgumentParser, parent: str = "", level: int = 0) -> list[str]:
+    lines: list[str] = []
+
+    subparsers = next(
+        (a for a in parser._actions if isinstance(a, argparse._SubParsersAction)),  # noqa: SLF001
+        None,
+    )
+
+    if not subparsers:
+        return lines
+
+    indent = "  " * level
+
+    for name, sub in subparsers.choices.items():
+        full = f"{parent} {name}".strip()
+        anchor = full.lower().replace(" ", "-")
+
+        lines.append(f"{indent}- [`{full}`](#{anchor})")
+        lines.extend(generate_toc(sub, full, level + 1))
+
+    return lines
+
+
 def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "") -> str:
     lines: list[str] = []
 
@@ -49,12 +72,16 @@ def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "")
     if subparsers_action:
         lines.append("### Subcommands")
         for sub_name, subparser in subparsers_action.choices.items():
-            lines.append(f"#### `{sub_name}`")
-
+            if parent_cmd != "":
+                lines.append(f"#### `{cmd_name.replace('python.exe -m sat_save_tools ', '')} {sub_name}`")
+            else:
+                lines.append(f"#### `{sub_name}`")
             sub_md = generate_cli_markdown(subparser, parent_cmd=f"{cmd_name} {sub_name}")
             lines.append(sub_md)
             lines.append("")
-
+    if parent_cmd == "":
+        toc = generate_toc(parser)
+        return "\n".join(toc) + "\n\n" + "\n".join(lines).rstrip()
     return "\n".join(lines).rstrip()
 
 
