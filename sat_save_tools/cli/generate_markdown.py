@@ -56,10 +56,10 @@ def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "")
         for action in parser._actions:  # noqa: SLF001
             if isinstance(action, argparse._SubParsersAction):  # noqa: SLF001
                 continue
-            if action.option_strings:
+            if action.option_strings and action.option_strings[0] not in ("-h", "--help"):
                 opts = ", ".join(action.option_strings)
                 req = " (required)" if action.required else ""
-                default = f" [default: {action.default}]" if action.default not in (None, False) else ""
+                default = f" [default: {action.default}]" if action.default not in (None, False, "==SUPPRESS==") else ""
                 arg_lines.append(f"- `{opts}`: {strip_ansi(action.help or '')}{req}{default}")
             elif action.dest != "help":
                 arg_lines.append(f"- `{action.dest}`: {strip_ansi(action.help or '')}")
@@ -81,8 +81,8 @@ def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "")
             lines.append("")
     if parent_cmd == "":
         toc = generate_toc(parser)
-        return "\n".join(toc) + "\n\n" + "\n".join(lines).rstrip()
-    return "\n".join(lines).rstrip()
+        return "\n".join(toc) + "\n\n" + "\n".join(lines).rstrip().replace("python.exe ", "python ")
+    return "\n".join(lines).rstrip().replace("python.exe ", "python ")
 
 
 def cmd_gen_cli_docs(readme: pathlib.Path, parser: argparse.ArgumentParser) -> None:
