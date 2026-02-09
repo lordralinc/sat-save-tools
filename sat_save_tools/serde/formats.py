@@ -291,7 +291,7 @@ class Raw(Field[bytes], NameValueFieldMixin[bytes]):
         )
 
     @classmethod
-    def with_len(cls, content: bytes | memoryview[bytes]) -> Struct:
+    def with_len(cls, content: "bytes | memoryview[bytes]") -> Struct:
         length = len(content)
         return U32(length) | Raw(length)(bytes(content))
 

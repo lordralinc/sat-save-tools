@@ -3,7 +3,7 @@ from sat_save_tools.env import SF_DUMP_UNPARSED_SAVE, SF_DUMP_UNPARSED_SAVE_FOLD
 __all__ = ("dev_dump_unparsed_chunk",)
 
 
-def dev_dump_unparsed_chunk(*paths: str, content: bytes | memoryview[bytes]):
+def dev_dump_unparsed_chunk(*paths: str, content: "bytes | memoryview[bytes]"):
     if not SF_DUMP_UNPARSED_SAVE:
         return
 

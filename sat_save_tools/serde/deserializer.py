@@ -44,7 +44,7 @@ class Deserializer(SerdeCtx):
 
     def __init__(
         self,
-        content: bytearray | bytes | memoryview[bytes],
+        content: "bytearray | bytes | memoryview[bytes]",
         offset: int | None = None,
         *,
         context: dict[str, typing.Any] | None = None,
@@ -57,7 +57,7 @@ class Deserializer(SerdeCtx):
     def __len__(self) -> int:
         return len(self._content)
 
-    def new(self, content: bytearray | bytes | memoryview[bytes]) -> typing.Self:
+    def new(self, content: "bytearray | bytes | memoryview[bytes]") -> typing.Self:
         return self.__class__(
             content=content,
             offset=0,
@@ -79,7 +79,7 @@ class Deserializer(SerdeCtx):
         )
 
     @property
-    def content(self) -> memoryview[bytes]:
+    def content(self) -> "memoryview[bytes]":
         return typing.cast("memoryview[bytes]", self._content)
 
     def get_raw(self, size: int) -> bytes:

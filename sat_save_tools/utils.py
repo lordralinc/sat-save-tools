@@ -123,9 +123,9 @@ def pydantic_eq[T: pydantic.BaseModel](_cls: type[T]) -> type[T]:
 
 
 def make_chunks(
-    data: bytes | memoryview[bytes],
+    data: "bytes | memoryview[bytes]",
     max_size: int,
-) -> collections.abc.Iterator[memoryview[bytes]]:
+) -> "collections.abc.Iterator[memoryview[bytes]]":
     mv = data if isinstance(data, memoryview) else memoryview(data)
     size = len(mv)
 
