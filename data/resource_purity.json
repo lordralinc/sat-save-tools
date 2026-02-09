@@ -1,0 +1,2434 @@
+{
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite10": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite100": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite101": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite102": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite103_8": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite108": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite109": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite11": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite110": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite111": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite112": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite113": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite114_7": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite115": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite116": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite117": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite118": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite119": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite12": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite120": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite121": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite13": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite14": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite15": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite16": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite17": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite18_3": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite19": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite2": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite20": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite21": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite22": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite23_5": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite24": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite25": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite26": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite27": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite28": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite29": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite3": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite30": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite31": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite32": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite33": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite34": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite35": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite36": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite37": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite38": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite39": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite4": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite40": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite41": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite42": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite43": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite44": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite45": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite46": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite47": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite48": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite49": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite5": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite50": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite51_1": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite57": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite58": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite59": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite6": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite60": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D7DF01_1933830510": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D7DF01_2053713511": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D8DF01_1587984689": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D8DF01_1704280690": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D8DF01_1999134691": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite61_UAID_40B076DF2F79D9DF01_1230935868": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite62": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite63": {
+    "name": "Desc_LiquidOilWell_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite64": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite65": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite66": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite67": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite68": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite69": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite7": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite70": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite71": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite72": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite73": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite74": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite75": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite76": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite77": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite78": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite79": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite8": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite80": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite81": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite82": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite83": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite84": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite85": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite86": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite87": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite88": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite89": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite9": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite90": {
+    "name": "Desc_Water_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite91": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite92": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite93": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite94": {
+    "name": "Desc_Water_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite95": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite96": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite97": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite98": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite99": {
+    "name": "Desc_Water_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_FrackingSatellite_2": {
+    "name": "Desc_NitrogenGas_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode100": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode101_1893": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode101_UAID_40B076DF2F79E6D901_1551800812": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode101_UAID_40B076DF2F79E7D901_2125168992": {
+    "name": "Desc_SAM_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode102_2068": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode103": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode104": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode105_2463": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode106": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode107": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode108": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode109": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode11": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode110": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode111_3367": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode112": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode113": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode114": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode115": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode116": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode117": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode118_4340": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode119": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode121_4877": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode121_UAID_40B076DF2F7938DF01_2097772508": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode122": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode123_5084": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode124_5785": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode125_5930": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode126_6409": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode127": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode128_5242": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode129": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode12_91": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode13": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode130": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode131": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode132_5908": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode133_6963": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode134_8590": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode135": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode136": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode136_UAID_40B076DF2F7975DF01_1587576239": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode136_UAID_40B076DF2F7975DF01_1617269241": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode136_UAID_40B076DF2F7975DF01_1622351243": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode137_2248": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode138_590": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode139_909": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode140": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode141": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode142": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode142_UAID_40B076DF2F79E8DD01_2087440367": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode142_UAID_40B076DF2F79E9DD01_1434900545": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode142_UAID_40B076DF2F79E9DD01_1872254547": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode143_1543": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode144_1644": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode145_1749": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode146": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode147": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode148": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode149": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode14_609": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode15": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode150": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode151": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode152_995": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode153": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode154": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode155": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode156": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode157": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode158": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode159": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode16": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode160": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode161": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode162_5199": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode163": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode164": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode165": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode166": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode167": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode168": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode169_UAID_40B076DF2F7939DE01_2083925623": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode170_363": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode172": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode172_UAID_40B076DF2F79DFD901_1471130569": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode173": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode174": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode175": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode176_UAID_40B076DF2F793BDF01_1694110039": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode177": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode178": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode179": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode180": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode181": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode182": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode184": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode185": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode186": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode187_0": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode188": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode189": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode190": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode191": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode192_0": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode193": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode194": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode195": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode196": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode197": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode198": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode199": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode200": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode201": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode202": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode203": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode204_0": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode205": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode206": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode207": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode208": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode209": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode20_3137": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode210": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode211": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode212": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode213": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode214": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode215": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode216": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode217": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode218": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode219": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode220": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode221": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode222": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode223": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode224": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode225": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode226": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode227": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode228": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode229": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode230": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode231": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode232": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode233": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode234": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode235": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode236": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode237": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode238": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode239": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode23_96": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode240": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode241": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode241_UAID_40B076DF2F7947D301_1723440520": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode24_97": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode25_98": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode26_99": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode27_100": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode28_101": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode29_102": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode30_103": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode31_104": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode32_105": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode35": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode36": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode37_178": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode38_902": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode39": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode40": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode41_1099": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode426": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode427": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode42_1294": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode43": {
+    "name": "Desc_SAM_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode430": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode431": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode435_26": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode437_30": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode439_1": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode43_UAID_40B076DF2F7932D901_1711042113": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode43_UAID_40B076DF2F7936D401_1733397541": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode43_UAID_40B076DF2F793ED901_1532454233": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode43_UAID_40B076DF2F7941D901_1404601764": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode440": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode441": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode442": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode443": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode444_0": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode445": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode446_1": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode447": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode448": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode449": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode451": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode452": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode453": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode454": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode457": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode458": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode459": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode460": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode461": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode462": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode462_UAID_40B076DF2F7902E201_1630060169": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode462_UAID_40B076DF2F7907E201_1624182051": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode462_UAID_40B076DF2F790CE201_2008279933": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode463": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode464": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode464_UAID_40B076DF2F790EE201_1850696287": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode464_UAID_40B076DF2F790FE201_1577140465": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode464_UAID_40B076DF2F7914E201_2026233335": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode464_UAID_40B076DF2F7915E201_1334543513": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode465": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode466": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode467": {
+    "name": "Desc_Sulfur_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode469": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode46_2284": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode474_UAID_40B076DF2F7983DF01_2128950703": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode474_UAID_40B076DF2F798DDF01_1645035472": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode474_UAID_40B076DF2F798EDF01_2134364650": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode476": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode477": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode479": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode47_3066": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode480": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode481": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode484": {
+    "name": "Desc_OreUranium_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode484_UAID_40B076DF2F79E0DF01_2091429101": {
+    "name": "Desc_OreUranium_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode485": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode486": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode487": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode487_UAID_40B076DF2F7934DF01_1597642799": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode488": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode489": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode49": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode490": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode491": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode492": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode493": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode494": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode495": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode496": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode497_1": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode498": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode499": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode500": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode501": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode502": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode503": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode504": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode505": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode506": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode507": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode508": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode509": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode510": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode511": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode512": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode513": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode514": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode515": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode516": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode517": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode518": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode519": {
+    "name": "Desc_SAM_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode519_UAID_40B076DF2F79D3D901_1586151453": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode520": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode521": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode521_UAID_40B076DF2F79C3E101_1100698081": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode521_UAID_40B076DF2F79C3E101_1735462083": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode522": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode523_UAID_40B076DF2F7987DF01_1117795413": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode524_UAID_40B076DF2F798ADF01_1172524943": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode528": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode529": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode530": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode531": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode532": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode533": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode534": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode535": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode536": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode537": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode538": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode539": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode53_510": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode540": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode541": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode542": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode543": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode544": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode545": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode546": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode547": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode547_UAID_40B076DF2F79ADE101_1836911209": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode547_UAID_40B076DF2F79AEE101_1979010387": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode548": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode549": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode54_833": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode550": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode551": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode552": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode553": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode554": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode555": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode556": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode557": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode558": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode559": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode55_1215": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode560": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode561": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode562": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode563": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode563_UAID_40B076DF2F79B7E101_1869159978": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode563_UAID_40B076DF2F79B8E101_1620414156": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode563_UAID_40B076DF2F79B9E101_1570060334": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode563_UAID_40B076DF2F79BBE101_1434258671": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode564": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode565_8": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode566": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode567": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode568": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode569": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode570": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode571": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F795EE801_1339162695": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F796BE101_1963012602": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F796FE101_1569477308": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7971E101_2069219665": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7972E101_1083579843": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7973E101_1125437021": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7974E101_1439035199": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7974E101_1674467201": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F797DE001_1807610722": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7980E001_1705275252": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7981E001_1464253430": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7983E001_1088885785": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7983E001_1840982787": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7984E001_1384492965": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F7984E001_1664435967": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode573_UAID_40B076DF2F79ACE101_1257410031": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode574": {
+    "name": "Desc_OreGold_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode575": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode576": {
+    "name": "Desc_OreUranium_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode577": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode578": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode579": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode57_UAID_40B076DF2F7935DF01_1413169977": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode57_UAID_40B076DF2F7991DF01_1459615180": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode580": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode581": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode582": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode583_1": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode584": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode585": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode586": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode587": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode588": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode588_UAID_40B076DF2F79CEDF01_1910960903": {
+    "name": "Desc_RawQuartz_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode589": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode589_UAID_40B076DF2F79B1E101_1767545917": {
+    "name": "Desc_Stone_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode589_UAID_40B076DF2F79B2E101_1298360096": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode590": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode591": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode592": {
+    "name": "Desc_OreIron_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode593": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode594": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode595": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode596": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode597": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode598_0": {
+    "name": "Desc_OreUranium_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode599": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode59_755": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode5_381": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode600": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode601": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode602": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode603": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode604": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode605": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode606": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode607": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode609": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode60_984": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode610": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode611": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode612": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode613": {
+    "name": "Desc_Sulfur_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode614": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode615": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode616": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode617": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode618": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode619": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode62": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode620": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode621": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode622": {
+    "name": "Desc_Coal_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode623": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode624": {
+    "name": "Desc_Sulfur_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode632": {
+    "name": "Desc_OreUranium_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode633": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode634": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode635": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode636": {
+    "name": "Desc_OreBauxite_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode65_1865": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode66": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode67_2193": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode68_2514": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode69_UAID_A036BCACDEB0A7A601_1261875850": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode6_379": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode70_3132": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_736": {
+    "name": "Desc_Sulfur_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F7912DC01_2042985647": {
+    "name": "Desc_Sulfur_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F7923DB01_2085455593": {
+    "name": "Desc_Sulfur_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F7924DB01_1576108771": {
+    "name": "Desc_Sulfur_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F7925DB01_1453678949": {
+    "name": "Desc_Sulfur_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656": {
+    "name": "Desc_Sulfur_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247": {
+    "name": "Desc_Sulfur_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode71_UAID_40B076DF2F79B9DB01_1490254983": {
+    "name": "Desc_Sulfur_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode72_998": {
+    "name": "Desc_OreGold_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode73_6071": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode74": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode75_6425": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode76": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode77": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode78_1097": {
+    "name": "Desc_SAM_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode7_380": {
+    "name": "Desc_Coal_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode80": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode81": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode82": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode83": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode83_UAID_40B076DF2F79FBE101_1618730935": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode83_UAID_40B076DF2F79FFE101_1122581639": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode84": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode85": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode86": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode87": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode88": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode89": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode90_482": {
+    "name": "Desc_OreIron_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode91_785": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode92": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode93_5": {
+    "name": "Desc_Stone_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode94_406": {
+    "name": "Desc_OreCopper_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode95_579": {
+    "name": "Desc_OreIron_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode96_886": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode97_1": {
+    "name": "Desc_Stone_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode98": {
+    "name": "Desc_LiquidOil_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode99": {
+    "name": "Desc_SAM_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser10_3650": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser11_3803": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser12_3894": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser13_3999": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser14": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser15": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser18": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser19": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser2_581": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser4_1615": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser7_2873": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser8": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser9_3239": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_76": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F792DE001_1228687627": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F792EE001_1257671809": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F792FE001_1083532997": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F7967E001_1786196831": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796AE001_1661824368": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796AE001_1928280369": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796CE001_1156904726": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796DE001_2106907903": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796EE001_1440606080": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F796FE001_1768243264": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F7974E001_1257931119": {
+    "name": "Desc_Geyser_C",
+    "purity": 2
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F7975E001_2124245305": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F797AE001_1940806190": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F797AE001_2137062191": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1447318011": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1602669012": {
+    "name": "Desc_Geyser_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNodeGeyser_C_UAID_40B076DF2F79C7DB01_1750096454": {
+    "name": "Desc_Geyser_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode_700": {
+    "name": "Desc_Coal_C",
+    "purity": 3
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode_C_UAID_40B076DF2F794DE201_1841969367": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode_C_UAID_40B076DF2F794FE201_2126930721": {
+    "name": "Desc_OreCopper_C",
+    "purity": 1
+  },
+  "Persistent_Level:PersistentLevel.BP_ResourceNode_C_UAID_A036BCACDEB0A6A601_2086848673": {
+    "name": "Desc_OreCopper_C",
+    "purity": 3
+  }
+}

@@ -1,0 +1,1654 @@
+{
+  "Persistent_Level:PersistentLevel.BP_DropPod1": {
+    "level_name": "71U3QY9JC6WRRZPQKC79EZB09",
+    "rotation": {
+      "x": -0.5547969937324524,
+      "y": -0.01757180504500866,
+      "z": 0.8310319781303406,
+      "w": 0.03574034944176674
+    },
+    "position": {
+      "x": 87739.6796875,
+      "y": -62975.45703125,
+      "z": 13444.25
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod10": {
+    "level_name": "16GEMFDCR18T1QGXOOA5T2NV5",
+    "rotation": {
+      "x": -0.12096187472343445,
+      "y": 0.4601063132286072,
+      "z": -0.8703239560127258,
+      "w": 0.1273053139448166
+    },
+    "position": {
+      "x": 232138.0,
+      "y": 27191.0,
+      "z": -1629.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod11_2": {
+    "level_name": "AZXDX9YZIAVF4NXQIJ9LZRRCC",
+    "rotation": {
+      "x": -0.5259369015693665,
+      "y": 0.8038733005523682,
+      "z": -0.27771449089050293,
+      "w": 0.0072663952596485615
+    },
+    "position": {
+      "x": -238333.984375,
+      "y": 17321.701171875,
+      "z": 19741.078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod12": {
+    "level_name": "118RVQAVO1O8L58KLOCF7U88C",
+    "rotation": {
+      "x": -0.023270444944500923,
+      "y": 0.03852059319615364,
+      "z": -0.0016506215324625373,
+      "w": 0.9989854693412781
+    },
+    "position": {
+      "x": -4706.82080078125,
+      "y": -76301.984375,
+      "z": 13618.501953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod13": {
+    "level_name": "5Q1QKFVJAMPMZYOJH3KDI45OY",
+    "rotation": {
+      "x": 0.013125969097018242,
+      "y": 0.10706882923841476,
+      "z": 0.32824158668518066,
+      "w": 0.9384143352508545
+    },
+    "position": {
+      "x": 55247.98828125,
+      "y": -51316.34375,
+      "z": 14363.263671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod14_389": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -43144.0,
+      "y": 145820.0,
+      "z": 7472.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod15_821": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.03153744712471962,
+      "y": -0.11347448080778122,
+      "z": -0.841350793838501,
+      "w": 0.5275014638900757
+    },
+    "position": {
+      "x": -189258.109375,
+      "y": 116331.0,
+      "z": -1764.3046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod16_4595": {
+    "level_name": "CI0BH8Q35CXW8GPKTYNYMBTF7",
+    "rotation": {
+      "x": 0.2679233253002167,
+      "y": -0.9535162448883057,
+      "z": -0.13789866864681244,
+      "w": 0.0027913108933717012
+    },
+    "position": {
+      "x": 30383.755859375,
+      "y": 266975.65625,
+      "z": -987.3851928710938
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod17_7892": {
+    "level_name": "1Q7RLRZUNPDBZYIAUGG6AKFIE",
+    "rotation": {
+      "x": -0.12986184656620026,
+      "y": 0.12296692281961441,
+      "z": -0.827742338180542,
+      "w": 0.5318436026573181
+    },
+    "position": {
+      "x": -108812.875,
+      "y": 214051.125,
+      "z": 3200.816650390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod18": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.4476114809513092,
+      "y": 0.03900715336203575,
+      "z": -0.6952459216117859,
+      "w": 0.5610307455062866
+    },
+    "position": {
+      "x": -259577.125,
+      "y": 105048.828125,
+      "z": -1548.1669921875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod19": {
+    "level_name": "3RGVK3TXQZU2P9LPTSNKO083P",
+    "rotation": {
+      "x": 0.0014791572466492653,
+      "y": -0.1032029241323471,
+      "z": 0.9937756657600403,
+      "w": 0.04191504791378975
+    },
+    "position": {
+      "x": 8680.0,
+      "y": -41777.97265625,
+      "z": 13053.4443359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_0": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.03491522744297981,
+      "y": -0.12527300417423248,
+      "z": -0.15474948287010193,
+      "w": 0.9793570041656494
+    },
+    "position": {
+      "x": -89284.0,
+      "y": -50630.0,
+      "z": 16019.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_1": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.0994349867105484,
+      "y": 0.46986818313598633,
+      "z": -0.8125858902931213,
+      "w": 0.33021312952041626
+    },
+    "position": {
+      "x": 293299.28125,
+      "y": 51.7546272277832,
+      "z": 522.8636474609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_2": {
+    "level_name": "9WTANPYEXGNWQKRA59Z7MXFAM",
+    "rotation": {
+      "x": -0.16549691557884216,
+      "y": -0.43945935368537903,
+      "z": 0.8786717057228088,
+      "w": 0.08615245670080185
+    },
+    "position": {
+      "x": 157249.75,
+      "y": -40206.21875,
+      "z": 13694.84765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_22": {
+    "level_name": "ATA1U205B15SRCXVJTOBJ3OUZ",
+    "rotation": {
+      "x": 0.007183080539107323,
+      "y": 0.18049649894237518,
+      "z": -0.5463842153549194,
+      "w": 0.8178225159645081
+    },
+    "position": {
+      "x": -95228.078125,
+      "y": 6970.71826171875,
+      "z": 25142.943359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_3": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.25677362084388733,
+      "y": 0.12647005915641785,
+      "z": -0.06535930931568146,
+      "w": 0.9559292793273926
+    },
+    "position": {
+      "x": 46951.75,
+      "y": 221859.125,
+      "z": 5917.33154296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_4": {
+    "level_name": "6O54BQMQ6W9AB3E2UV4DBKND5",
+    "rotation": {
+      "x": 0.12952691316604614,
+      "y": 0.15779650211334229,
+      "z": -0.756667971611023,
+      "w": 0.6211091876029968
+    },
+    "position": {
+      "x": 303169.40625,
+      "y": -246169.015625,
+      "z": 5487.82373046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_8": {
+    "level_name": "5IUCQAHO2NCL6WUA5COXK9O78",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.382683664560318,
+      "w": 0.9238794445991516
+    },
+    "position": {
+      "x": 176423.359375,
+      "y": 243273.59375,
+      "z": -9780.2314453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod1_9": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.07724583148956299,
+      "y": 0.1210220605134964,
+      "z": 0.46931999921798706,
+      "w": 0.8712780475616455
+    },
+    "position": {
+      "x": -118480.78125,
+      "y": 74929.7578125,
+      "z": 16995.3515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2": {
+    "level_name": "BZG9DCNP1O24ZNRI1C3YMKQPW",
+    "rotation": {
+      "x": -0.1478140950202942,
+      "y": -0.16116629540920258,
+      "z": 0.7232717871665955,
+      "w": 0.655022382736206
+    },
+    "position": {
+      "x": -26327.44921875,
+      "y": -129047.5,
+      "z": 7780.93212890625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod20": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.43941617012023926,
+      "y": -0.4812481105327606,
+      "z": -0.5407286286354065,
+      "w": 0.5319080948829651
+    },
+    "position": {
+      "x": 66652.421875,
+      "y": -13642.076171875,
+      "z": 13420.91796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod21_2": {
+    "level_name": "5A40EPVHBKBKEVZIDQ5RQ3MY9",
+    "rotation": {
+      "x": 0.12463681399822235,
+      "y": 0.1424470990896225,
+      "z": -0.9000384211540222,
+      "w": 0.39256253838539124
+    },
+    "position": {
+      "x": 295166.53125,
+      "y": -173139.6875,
+      "z": 8083.01513671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod22": {
+    "level_name": "42KMEJ5PAEFNOYWUSBCQM4JCS",
+    "rotation": {
+      "x": 0.16612926125526428,
+      "y": 0.09591526538133621,
+      "z": -0.16830407083034515,
+      "w": 0.9668893814086914
+    },
+    "position": {
+      "x": 366637.46875,
+      "y": -303548.8125,
+      "z": -7288.51318359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod23": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.12532301247119904,
+      "y": 0.047219593077898026,
+      "z": -0.7521137595176697,
+      "w": 0.6452823281288147
+    },
+    "position": {
+      "x": 360285.0,
+      "y": -217558.578125,
+      "z": 3900.66015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod24_1": {
+    "level_name": "6HFUMMCJ4GTHKYOKHEF1ZJZ60",
+    "rotation": {
+      "x": -0.027210254222154617,
+      "y": -0.012062322348356247,
+      "z": -0.0932372584939003,
+      "w": 0.9951989054679871
+    },
+    "position": {
+      "x": 174948.34375,
+      "y": -276436.40625,
+      "z": 21151.328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod25": {
+    "level_name": "A7OSHVNB6E835B4EERH93BM2K",
+    "rotation": {
+      "x": 0.012052690610289574,
+      "y": -0.027214674279093742,
+      "z": 0.9951659440994263,
+      "w": 0.09358895570039749
+    },
+    "position": {
+      "x": 159088.34375,
+      "y": -145116.40625,
+      "z": 23164.8515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod26": {
+    "level_name": "3E3WBCALJL7Q8YLRZ9T8SNXPI",
+    "rotation": {
+      "x": 0.0611846037209034,
+      "y": -0.03180430084466934,
+      "z": 0.9933555126190186,
+      "w": 0.0921400636434555
+    },
+    "position": {
+      "x": -55111.1015625,
+      "y": -204857.859375,
+      "z": 7844.7626953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod27_20823": {
+    "level_name": "9QS3W4H9WP6I6H4WFCNDVCVFM",
+    "rotation": {
+      "x": 0.11066309362649918,
+      "y": -0.7528948783874512,
+      "z": -0.6433097720146179,
+      "w": -0.08399689942598343
+    },
+    "position": {
+      "x": 163999.0,
+      "y": 61333.0,
+      "z": 21481.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod28_23787": {
+    "level_name": "5LMJPWURFAOHH1WBE4205W5FH",
+    "rotation": {
+      "x": 0.32706376910209656,
+      "y": -0.778032124042511,
+      "z": -0.22280403971672058,
+      "w": -0.48790740966796875
+    },
+    "position": {
+      "x": 232515.75,
+      "y": -20519.28515625,
+      "z": 8979.958984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod29_27444": {
+    "level_name": "1GMCIX8T3J8XWW4Q8HOMZGGWU",
+    "rotation": {
+      "x": -0.19938741624355316,
+      "y": 0.40740570425987244,
+      "z": 0.09163257479667664,
+      "w": 0.8864923715591431
+    },
+    "position": {
+      "x": 94267.0,
+      "y": 47237.0,
+      "z": 9435.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_0": {
+    "level_name": "5A84AVZIKFF4KTKU9NBQL3HJ9",
+    "rotation": {
+      "x": -0.3080805540084839,
+      "y": 0.19933651387691498,
+      "z": 0.554818332195282,
+      "w": 0.7466779351234436
+    },
+    "position": {
+      "x": 47767.35546875,
+      "y": 195703.109375,
+      "z": 2890.685546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_1": {
+    "level_name": "6FB3587GHU02KV1IOLEGEI3WP",
+    "rotation": {
+      "x": -0.8111821413040161,
+      "y": -0.0976438820362091,
+      "z": 0.5729843974113464,
+      "w": -0.06432772427797318
+    },
+    "position": {
+      "x": 209272.09375,
+      "y": -66916.875,
+      "z": 14011.0107421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_10": {
+    "level_name": "08JGCX3NZ77YP1G4X0QBJ1GZ0",
+    "rotation": {
+      "x": -0.21163472533226013,
+      "y": -0.4473806321620941,
+      "z": 0.046611517667770386,
+      "w": 0.8676915764808655
+    },
+    "position": {
+      "x": -78236.40625,
+      "y": 90857.046875,
+      "z": 20305.7734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_11": {
+    "level_name": "5G9D4DJ8F77IXGGVQP9Y8A6KO",
+    "rotation": {
+      "x": 0.05420919507741928,
+      "y": -0.0977911725640297,
+      "z": -0.47116801142692566,
+      "w": 0.8749279975891113
+    },
+    "position": {
+      "x": 187056.4375,
+      "y": 223656.734375,
+      "z": -3215.46728515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_1325": {
+    "level_name": "8GCHP9KRLUL1Z9GXOIINKNY5X",
+    "rotation": {
+      "x": 0.27137574553489685,
+      "y": 0.5041741728782654,
+      "z": 0.755672037601471,
+      "w": 0.3179990351200104
+    },
+    "position": {
+      "x": -195756.015625,
+      "y": -59210.41015625,
+      "z": -84.3333740234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_2": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.6597397923469543,
+      "y": 0.17677870392799377,
+      "z": -0.6356433629989624,
+      "w": 0.3597918450832367
+    },
+    "position": {
+      "x": 232255.375,
+      "y": 79925.5546875,
+      "z": -1275.73828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_23": {
+    "level_name": "5RHOD41BCWFMAPOKYUFCR4IIU",
+    "rotation": {
+      "x": -0.6941865682601929,
+      "y": -0.43169739842414856,
+      "z": 0.5645998120307922,
+      "w": -0.11388346552848816
+    },
+    "position": {
+      "x": 12249.8037109375,
+      "y": 114177.2265625,
+      "z": 26721.71875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_5": {
+    "level_name": "3O0V8RX55BQN4AY1YL984IG7V",
+    "rotation": {
+      "x": -0.16616860032081604,
+      "y": 0.10454654693603516,
+      "z": -0.1405375897884369,
+      "w": 0.9704160094261169
+    },
+    "position": {
+      "x": 46048.18359375,
+      "y": 141933.078125,
+      "z": 13064.6240234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod2_6": {
+    "level_name": "5X7S7OD7874AZKS4EV2ZNIHQ5",
+    "rotation": {
+      "x": 0.10107042640447617,
+      "y": -0.09919241070747375,
+      "z": -0.9896551370620728,
+      "w": 0.022984646260738373
+    },
+    "position": {
+      "x": 360114.71875,
+      "y": -106614.1328125,
+      "z": 11815.2353515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3": {
+    "level_name": "9TBU6MFSN92XWAB7G6ZP7PIA4",
+    "rotation": {
+      "x": 0.6940656900405884,
+      "y": -0.2910114824771881,
+      "z": -0.46008679270744324,
+      "w": 0.47106826305389404
+    },
+    "position": {
+      "x": -174494.890625,
+      "y": -197134.84375,
+      "z": -1538.0528564453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod30_6998": {
+    "level_name": "3I9B29HS75HSEFT7MLOIE89LF",
+    "rotation": {
+      "x": 0.030266355723142624,
+      "y": 0.06581047922372818,
+      "z": -0.7553160190582275,
+      "w": 0.6513452529907227
+    },
+    "position": {
+      "x": 170057.671875,
+      "y": -10579.9609375,
+      "z": 18823.9140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod31": {
+    "level_name": "5INXY9FV1PWMSD4PMJRZEQ425",
+    "rotation": {
+      "x": 0.1609138548374176,
+      "y": 0.10459446907043457,
+      "z": -0.9148104786872864,
+      "w": 0.3553708791732788
+    },
+    "position": {
+      "x": 200510.453125,
+      "y": 131912.359375,
+      "z": 6341.11279296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod32_1": {
+    "level_name": "EZ0QWW5SWJ1ARG34RYCZQTQWX",
+    "rotation": {
+      "x": -0.19390563666820526,
+      "y": -0.011549841612577438,
+      "z": -0.05833912640810013,
+      "w": 0.9792158603668213
+    },
+    "position": {
+      "x": 90313.921875,
+      "y": 129583.78125,
+      "z": 9112.5146484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod33": {
+    "level_name": "8Q9U6JP0MU8U0J7VH8JZATBPJ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -78884.0,
+      "y": 292640.0,
+      "z": -4767.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod34": {
+    "level_name": "12FREXY9ZM3BL66PD3JIM6MDZ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.9679087400436401,
+      "w": 0.251302033662796
+    },
+    "position": {
+      "x": -152279.0,
+      "y": 229520.0,
+      "z": 1052.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod35": {
+    "level_name": "8P1LLQC95QWAJWXXGVK7QDSW1",
+    "rotation": {
+      "x": 0.012634980492293835,
+      "y": -0.01711186207830906,
+      "z": 0.2030123770236969,
+      "w": 0.9789450764656067
+    },
+    "position": {
+      "x": 5302.2138671875,
+      "y": -187090.59375,
+      "z": -1608.4810791015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod36": {
+    "level_name": "6C395W5NYY9U5DB5RXYXRDFPN",
+    "rotation": {
+      "x": 0.008659560233354568,
+      "y": -0.04095018655061722,
+      "z": 0.7502586841583252,
+      "w": 0.659818172454834
+    },
+    "position": {
+      "x": -135.6539306640625,
+      "y": -237257.375,
+      "z": -1760.7264404296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod36_UAID_40B076DF2F79496001_1121515405": {
+    "level_name": "5JBTJXQALDR6VASX1TGMV21Z6",
+    "rotation": {
+      "x": -0.006502233911305666,
+      "y": -0.017403779551386833,
+      "z": -0.9379172921180725,
+      "w": 0.346360981464386
+    },
+    "position": {
+      "x": -50655.65234375,
+      "y": -259272.375,
+      "z": -1667.7264404296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod37": {
+    "level_name": "64CGAQ0E33TFRWD4OSM9DFJ6D",
+    "rotation": {
+      "x": 0.030360328033566475,
+      "y": -0.02029246836900711,
+      "z": -0.03802746534347534,
+      "w": 0.9986092448234558
+    },
+    "position": {
+      "x": 44579.46484375,
+      "y": -244343.984375,
+      "z": -874.5206298828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod38": {
+    "level_name": "DLE86DOPJAXQGGYIWUP49D5QK",
+    "rotation": {
+      "x": 0.018066955730319023,
+      "y": -0.029624098911881447,
+      "z": 0.9862040877342224,
+      "w": 0.1618564873933792
+    },
+    "position": {
+      "x": 84256.1328125,
+      "y": -171122.515625,
+      "z": -290.7247009277344
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod39": {
+    "level_name": "44TG7V0SRK56WD6QVT0EYTLAW",
+    "rotation": {
+      "x": 0.0062576839700341225,
+      "y": -0.012836200185120106,
+      "z": 0.2038242667913437,
+      "w": 0.9789033532142639
+    },
+    "position": {
+      "x": 119338.546875,
+      "y": -165710.640625,
+      "z": -171.06915283203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod39_UAID_40B076DF2F79F35F01_1355966267": {
+    "level_name": "E37VG0A7EIE3AG92KZ7EZN4K1",
+    "rotation": {
+      "x": -0.16634796559810638,
+      "y": -0.04286886751651764,
+      "z": 0.9117966890335083,
+      "w": 0.3729844391345978
+    },
+    "position": {
+      "x": 52686.546875,
+      "y": -163604.640625,
+      "z": 15413.9306640625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_1": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.12470418214797974,
+      "y": 0.036517124623060226,
+      "z": 0.9635682106018066,
+      "w": 0.23377707600593567
+    },
+    "position": {
+      "x": 17807.6953125,
+      "y": -136922.796875,
+      "z": 13621.9619140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_11": {
+    "level_name": "0L3U6CJKG4MQPRI2EOOXU0CBK",
+    "rotation": {
+      "x": -0.7320746183395386,
+      "y": -0.2716725468635559,
+      "z": 0.12093357741832733,
+      "w": 0.6128913760185242
+    },
+    "position": {
+      "x": -40194.1171875,
+      "y": 62956.59375,
+      "z": 26261.65625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_12": {
+    "level_name": "27U1EWROJ3R69KNVM1DYRUYLL",
+    "rotation": {
+      "x": 0.010814026929438114,
+      "y": 0.07272276282310486,
+      "z": 0.49785104393959045,
+      "w": 0.864140510559082
+    },
+    "position": {
+      "x": 190459.03125,
+      "y": 176105.3125,
+      "z": 11478.5673828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_2": {
+    "level_name": "DU5G5MM6ATHZG5C03HBSN73BY",
+    "rotation": {
+      "x": -0.09654461592435837,
+      "y": 0.22426027059555054,
+      "z": 0.05292529985308647,
+      "w": 0.9682899117469788
+    },
+    "position": {
+      "x": -56144.28125,
+      "y": -72864.0546875,
+      "z": 27668.361328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_24": {
+    "level_name": "85K5L1F77NVGN8OYET0M9D08H",
+    "rotation": {
+      "x": -0.14380566775798798,
+      "y": -0.11783089488744736,
+      "z": -0.9748280048370361,
+      "w": 0.12306981533765793
+    },
+    "position": {
+      "x": -3511.89208984375,
+      "y": 62314.76953125,
+      "z": 22109.423828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_3": {
+    "level_name": "2IOAY27OEM8AMOD40TE15D5UU",
+    "rotation": {
+      "x": -0.32104745507240295,
+      "y": -0.41726598143577576,
+      "z": 0.5842580795288086,
+      "w": 0.6176245808601379
+    },
+    "position": {
+      "x": 291821.78125,
+      "y": 74782.0546875,
+      "z": -1574.70361328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_4": {
+    "level_name": "1KTQFD9Q9EJR3XATZG3BO1POH",
+    "rotation": {
+      "x": -0.04357928782701492,
+      "y": 0.0435778871178627,
+      "z": -0.0019026738591492176,
+      "w": 0.99809730052948
+    },
+    "position": {
+      "x": 94940.0,
+      "y": 105482.9609375,
+      "z": 9860.046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_5": {
+    "level_name": "6T513FUPX9OFNEQSO7GAJONY3",
+    "rotation": {
+      "x": -0.25609827041625977,
+      "y": -0.14459657669067383,
+      "z": 0.6402779817581177,
+      "w": 0.7096123099327087
+    },
+    "position": {
+      "x": 28695.544921875,
+      "y": 193441.09375,
+      "z": 17459.802734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_7": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.03149416297674179,
+      "y": -0.009751642122864723,
+      "z": 0.9616842865943909,
+      "w": 0.27216967940330505
+    },
+    "position": {
+      "x": 275070.0,
+      "y": -52585.0,
+      "z": 5980.0810546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_8": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.23073787987232208,
+      "y": -0.04768841341137886,
+      "z": -0.030914271250367165,
+      "w": 0.9713547825813293
+    },
+    "position": {
+      "x": -56987.55859375,
+      "y": -144927.625,
+      "z": 2202.423828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod3_8348": {
+    "level_name": "77KKYMWCG5X95OX3NG74LH3U6",
+    "rotation": {
+      "x": 0.11328639090061188,
+      "y": 0.1615905612707138,
+      "z": -0.013498470187187195,
+      "w": 0.9802410006523132
+    },
+    "position": {
+      "x": -232498.0,
+      "y": -51432.0,
+      "z": -386.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.15763984620571136,
+      "y": -0.07460089772939682,
+      "z": 0.8730683922767639,
+      "w": 0.455341637134552
+    },
+    "position": {
+      "x": 111212.859375,
+      "y": -113040.625,
+      "z": 12036.1845703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod40_1163": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.4908977448940277,
+      "y": -0.5676199197769165,
+      "z": -0.27689599990844727,
+      "w": 0.6001296639442444
+    },
+    "position": {
+      "x": 21373.3828125,
+      "y": 132336.28125,
+      "z": 2510.828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod41_8375": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.06121551990509033,
+      "y": 0.3477992117404938,
+      "z": -0.045133911073207855,
+      "w": 0.9344791769981384
+    },
+    "position": {
+      "x": -9988.3759765625,
+      "y": 227625.5,
+      "z": -1017.2890625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod42": {
+    "level_name": "5X2V7GGF2J0SQZDTX9EB18LSP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 221070.0,
+      "y": 185915.0,
+      "z": 11560.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod42_5": {
+    "level_name": "7077GZERNI0VEY3FN1KQN50IQ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.33689019083976746,
+      "w": 0.9415439367294312
+    },
+    "position": {
+      "x": 190785.0,
+      "y": -236810.0,
+      "z": 23130.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod43_2": {
+    "level_name": "8URZKFKKBTAUXSHV71JBMIWBD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 176245.0,
+      "y": -243985.0,
+      "z": 7165.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod44_10": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 109775.0,
+      "y": -162730.0,
+      "z": 15570.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod45_6": {
+    "level_name": "3OUYFKUC3NVUEGBQ2D6PJDPYW",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 190865.0,
+      "y": -127670.0,
+      "z": 16020.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_1": {
+    "level_name": "AKK7KQYEZWTFWVYKCJGCLA0SG",
+    "rotation": {
+      "x": -0.3669850826263428,
+      "y": -0.337131142616272,
+      "z": 0.7856473326683044,
+      "w": 0.36663711071014404
+    },
+    "position": {
+      "x": 143671.609375,
+      "y": 92573.4765625,
+      "z": 24990.03515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_12": {
+    "level_name": "6IFYXZK77J1182HVSKGFQLBUD",
+    "rotation": {
+      "x": 0.22411870956420898,
+      "y": 0.2333218902349472,
+      "z": -0.35941362380981445,
+      "w": 0.8753019571304321
+    },
+    "position": {
+      "x": -157077.9375,
+      "y": -6312.6201171875,
+      "z": 25128.533203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_13058": {
+    "level_name": "65MKF1QGYVMRCO02QUXK01MUE",
+    "rotation": {
+      "x": 0.1487238109111786,
+      "y": -0.09564082324504852,
+      "z": 0.9447490572929382,
+      "w": 0.27601319551467896
+    },
+    "position": {
+      "x": -200203.453125,
+      "y": -17766.8046875,
+      "z": 12193.2958984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_25": {
+    "level_name": "29P0N2BTN9946QHMRTSBAWD74",
+    "rotation": {
+      "x": -0.043012429028749466,
+      "y": -0.6181186437606812,
+      "z": 0.7812671661376953,
+      "w": 0.07550431042909622
+    },
+    "position": {
+      "x": -33340.2265625,
+      "y": 5176.29150390625,
+      "z": 23519.095703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_4": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.7281786799430847,
+      "y": -0.6643320918083191,
+      "z": -0.08843516558408737,
+      "w": 0.14351961016654968
+    },
+    "position": {
+      "x": 191366.203125,
+      "y": 37694.171875,
+      "z": 5676.720703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_6": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.1040722206234932,
+      "y": 0.28723928332328796,
+      "z": -0.8952385783195496,
+      "w": 0.3243616223335266
+    },
+    "position": {
+      "x": 88323.6953125,
+      "y": 188913.625,
+      "z": 1420.112060546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_7": {
+    "level_name": "CL7X2F1PBLXKQNAXHSSMOUSLS",
+    "rotation": {
+      "x": -0.08895062655210495,
+      "y": 0.020891858264803886,
+      "z": -0.9770656228065491,
+      "w": 0.1923384666442871
+    },
+    "position": {
+      "x": 98306.2890625,
+      "y": -149781.84375,
+      "z": 2552.47119140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_8033": {
+    "level_name": "1ANJT85V0S3IAAUY88J6GS698",
+    "rotation": {
+      "x": 0.28042539954185486,
+      "y": -0.14529302716255188,
+      "z": -0.9488154053688049,
+      "w": 0.0009127269731834531
+    },
+    "position": {
+      "x": 144456.53125,
+      "y": 36294.046875,
+      "z": 17301.25390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod4_9": {
+    "level_name": "AZJI25GUPHFUK3IW9JMGS0YHY",
+    "rotation": {
+      "x": 0.7100512981414795,
+      "y": 0.25734132528305054,
+      "z": 0.22333410382270813,
+      "w": 0.616217851638794
+    },
+    "position": {
+      "x": 118349.953125,
+      "y": 221905.25,
+      "z": -7063.04296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5": {
+    "level_name": "5PLZML58WG0KIOMKLMBUZQH5A",
+    "rotation": {
+      "x": -0.49438709020614624,
+      "y": -0.3488798141479492,
+      "z": -0.5709242820739746,
+      "w": 0.5548961758613586
+    },
+    "position": {
+      "x": 226418.21875,
+      "y": 98109.5078125,
+      "z": 7339.3720703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_10": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.06383459270000458,
+      "y": 0.4243161082267761,
+      "z": -0.3898026645183563,
+      "w": 0.8148220181465149
+    },
+    "position": {
+      "x": 156569.671875,
+      "y": 191767.78125,
+      "z": -9312.1083984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_13": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.22416560351848602,
+      "y": -0.1102018803358078,
+      "z": 0.4040530323982239,
+      "w": 0.879969596862793
+    },
+    "position": {
+      "x": -152676.609375,
+      "y": 33864.58984375,
+      "z": 19283.484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_26": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.6323378086090088,
+      "y": -0.4313131272792816,
+      "z": 0.5721504092216492,
+      "w": 0.2945535182952881
+    },
+    "position": {
+      "x": 35096.1328125,
+      "y": 16492.3359375,
+      "z": 22705.03515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_6": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.05311974138021469,
+      "y": -0.2512446939945221,
+      "z": 0.8476503491401672,
+      "w": 0.4642663896083832
+    },
+    "position": {
+      "x": 127215.8828125,
+      "y": -116866.953125,
+      "z": -1397.322021484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_740": {
+    "level_name": "3QI1FQTX3TIVUGSX0192S09MX",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -151842.0,
+      "y": 72468.0,
+      "z": 9945.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod5_9": {
+    "level_name": "DOTOWZSS2Q85LQJN13NS73MEK",
+    "rotation": {
+      "x": 0.3302094340324402,
+      "y": -0.02789209969341755,
+      "z": -0.4134586751461029,
+      "w": 0.848077654838562
+    },
+    "position": {
+      "x": 349295.3125,
+      "y": -38831.99609375,
+      "z": -1485.3040771484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod6": {
+    "level_name": "ECOHP6A2SCQQQEUIIEDYDWS9E",
+    "rotation": {
+      "x": 0.438585489988327,
+      "y": -0.33734914660453796,
+      "z": -0.28211137652397156,
+      "w": 0.7837419509887695
+    },
+    "position": {
+      "x": 272715.125,
+      "y": 28087.708984375,
+      "z": -1586.1102294921875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod6_2102": {
+    "level_name": "3R6BPJKWFPHZXM4UGKCBKM9EW",
+    "rotation": {
+      "x": 0.5569849014282227,
+      "y": -0.054474856704473495,
+      "z": -0.0181173924356699,
+      "w": 0.8285360932350159
+    },
+    "position": {
+      "x": -108774.0,
+      "y": 107811.0,
+      "z": 10154.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod6_27": {
+    "level_name": "1X2A8L5VBAU1WH5W8YI7585IL",
+    "rotation": {
+      "x": 0.0009284084080718458,
+      "y": -0.017128854990005493,
+      "z": 0.9983866810798645,
+      "w": 0.05412779375910759
+    },
+    "position": {
+      "x": -35359.9921875,
+      "y": 116594.390625,
+      "z": 21827.935546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod7": {
+    "level_name": "DCN24CJTCWUDCBZUKVB3XD54X",
+    "rotation": {
+      "x": 0.05892005190253258,
+      "y": -0.1670379638671875,
+      "z": -0.48785462975502014,
+      "w": 0.8547658324241638
+    },
+    "position": {
+      "x": 216096.71875,
+      "y": -268.4361877441406,
+      "z": -1592.905517578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod7_5615": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.0060916380025446415,
+      "y": -0.1645229160785675,
+      "z": -0.7099061608314514,
+      "w": 0.6847834587097168
+    },
+    "position": {
+      "x": -121994.0,
+      "y": 166916.0,
+      "z": -49.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod8": {
+    "level_name": "54ZQ10VOB2550ROEMUQ34SK1Z",
+    "rotation": {
+      "x": -0.03814565762877464,
+      "y": -0.6248655915260315,
+      "z": 0.029400505125522614,
+      "w": 0.7792454957962036
+    },
+    "position": {
+      "x": 261797.5,
+      "y": 124616.828125,
+      "z": -2597.287109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod9": {
+    "level_name": "ARH6JPFZJSTSBTFBRMFSUXJCA",
+    "rotation": {
+      "x": -0.06204492226243019,
+      "y": 0.4845018982887268,
+      "z": -0.4588916003704071,
+      "w": 0.7421770691871643
+    },
+    "position": {
+      "x": 249919.5,
+      "y": 59534.234375,
+      "z": 2430.315185546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod9_1568": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.06561785191297531,
+      "w": 0.9978448152542114
+    },
+    "position": {
+      "x": -129115.0,
+      "y": 60165.0,
+      "z": 4800.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_1145": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.1171485111117363,
+      "y": -0.23441669344902039,
+      "z": -0.26981520652770996,
+      "w": 0.9265661239624023
+    },
+    "position": {
+      "x": -157080.046875,
+      "y": -67028.15625,
+      "z": 11766.45703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_0": {
+    "level_name": "0HH0P11CB4KN8JME62HOE0I4Y",
+    "rotation": {
+      "x": 0.8595708012580872,
+      "y": 0.33983221650123596,
+      "z": 0.21665167808532715,
+      "w": 0.31418803334236145
+    },
+    "position": {
+      "x": -123677.3671875,
+      "y": -167107.46875,
+      "z": 29710.71875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_1": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.06316552311182022,
+      "y": -0.07817371934652328,
+      "z": 0.5640442967414856,
+      "w": 0.8196054100990295
+    },
+    "position": {
+      "x": 80980.0,
+      "y": -44100.0,
+      "z": 8303.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_10": {
+    "level_name": "5V38EQ595PC6PWD7R7ZC10VY7",
+    "rotation": {
+      "x": -0.09171289950609207,
+      "y": -0.17061550915241241,
+      "z": 0.803637683391571,
+      "w": 0.5627126693725586
+    },
+    "position": {
+      "x": -142000.0,
+      "y": 23970.0,
+      "z": 32660.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_11": {
+    "level_name": "9A0TTMX75OTZ286SXB1WZJOEC",
+    "rotation": {
+      "x": 0.009549354203045368,
+      "y": -0.015496251173317432,
+      "z": -0.09272731840610504,
+      "w": 0.9955251216888428
+    },
+    "position": {
+      "x": 219146.140625,
+      "y": -199880.15625,
+      "z": 6503.64990234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_12": {
+    "level_name": "CC1J83F9RJZCCEG1SNWQXF4TP",
+    "rotation": {
+      "x": -0.027210252359509468,
+      "y": -0.01206232514232397,
+      "z": -0.0932372584939003,
+      "w": 0.9951989054679871
+    },
+    "position": {
+      "x": 236508.34375,
+      "y": -312236.40625,
+      "z": 9971.1552734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_2": {
+    "level_name": "5A7MUYO3WUNXBYPQ6UAO1BL32",
+    "rotation": {
+      "x": -0.19390563666820526,
+      "y": -0.01154983788728714,
+      "z": -0.05833912640810013,
+      "w": 0.9792158603668213
+    },
+    "position": {
+      "x": 150633.921875,
+      "y": 146698.78125,
+      "z": 7727.5146484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_3": {
+    "level_name": "0I32DKV9HOOXGL9ULFBPIW8IT",
+    "rotation": {
+      "x": 0.027577923610806465,
+      "y": 0.26063859462738037,
+      "z": 0.9247795343399048,
+      "w": 0.2758437395095825
+    },
+    "position": {
+      "x": -146044.0625,
+      "y": -137047.46875,
+      "z": 2357.789306640625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_4": {
+    "level_name": "AHK0ZGPUGTOLNP91J86A9B9U3",
+    "rotation": {
+      "x": 0.025866612792015076,
+      "y": 0.0741625428199768,
+      "z": -0.9553694725036621,
+      "w": 0.2847805917263031
+    },
+    "position": {
+      "x": -29068.62890625,
+      "y": -22640.40234375,
+      "z": 17384.154296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_5": {
+    "level_name": "70DX749KZR2CVL8Q86VE4YIPU",
+    "rotation": {
+      "x": 0.14586754143238068,
+      "y": -0.036406002938747406,
+      "z": -0.9868736863136292,
+      "w": 0.05897113308310509
+    },
+    "position": {
+      "x": 111479.0,
+      "y": -54515.0,
+      "z": 17081.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_6": {
+    "level_name": "0KYEUZ1LXKNL8QMY37BZBNLWM",
+    "rotation": {
+      "x": -0.3373758792877197,
+      "y": 0.27080637216567993,
+      "z": -0.1541091799736023,
+      "w": 0.8883084058761597
+    },
+    "position": {
+      "x": 125497.3515625,
+      "y": -34949.3828125,
+      "z": 8220.5615234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_7": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.030761156231164932,
+      "y": -0.2884223759174347,
+      "z": -0.7085577249526978,
+      "w": 0.6432823538780212
+    },
+    "position": {
+      "x": -247303.5625,
+      "y": -142348.265625,
+      "z": 4524.17041015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_8": {
+    "level_name": "Persistent_Level",
+    "rotation": {
+      "x": 0.16354340314865112,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9865361452102661
+    },
+    "position": {
+      "x": 64696.55859375,
+      "y": 156038.6875,
+      "z": 14067.2109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_9": {
+    "level_name": "F3DKOII5P8LBQS10KADCGXCX3",
+    "rotation": {
+      "x": 0.45833027362823486,
+      "y": 0.3281719386577606,
+      "z": 0.7253167629241943,
+      "w": 0.3951609432697296
+    },
+    "position": {
+      "x": -94708.8515625,
+      "y": 40337.609375,
+      "z": 19832.365234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F01FA401_2123550800": {
+    "level_name": "1H1JHAAINGGZXKPQTO0TGZSQ4",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.032045867294073105,
+      "z": 0.0,
+      "w": 0.9994863867759705
+    },
+    "position": {
+      "x": -190866.0,
+      "y": 66921.0,
+      "z": 23751.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F020A401_1123860977": {
+    "level_name": "EIYYCRMGCGIJNU0VZENZO30S3",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -164591.0,
+      "y": 155611.0,
+      "z": 12383.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F020A401_1502230978": {
+    "level_name": "9T2ED4WSV2C7Q8JKGBTOFGUSB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -142173.0,
+      "y": 97937.0,
+      "z": 18517.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F03B7C01_1559404536": {
+    "level_name": "0PTNLAI4TEAYU9U0PPRODZVOZ",
+    "rotation": {
+      "x": 0.0965740978717804,
+      "y": -0.1701386570930481,
+      "z": 0.016757195815443993,
+      "w": 0.980533242225647
+    },
+    "position": {
+      "x": 115978.0,
+      "y": 21424.0,
+      "z": 15519.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F03B7C01_1712034537": {
+    "level_name": "52ZWOLE1UP2NJZ079OGE7M14M",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 198418.0,
+      "y": -41186.0,
+      "z": 13786.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F03B7C01_1807913538": {
+    "level_name": "EZAHXO91013LX1LBFIXQWR26W",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 121061.0,
+      "y": 45324.0,
+      "z": 17373.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F03C7C01_1131248715": {
+    "level_name": "DJQW1LZU5CE99MVZCG2RLHLF5",
+    "rotation": {
+      "x": -0.025085318833589554,
+      "y": 0.1691114902496338,
+      "z": -0.1445702612400055,
+      "w": 0.9746134877204895
+    },
+    "position": {
+      "x": 188304.0,
+      "y": 17059.0,
+      "z": 12949.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F0486401_1144991453": {
+    "level_name": "0K0ZTOH4UELEGIRIIYOENF4US",
+    "rotation": {
+      "x": -0.3096641004085541,
+      "y": -0.2950161397457123,
+      "z": 0.3301832973957062,
+      "w": 0.8414586186408997
+    },
+    "position": {
+      "x": 241532.0,
+      "y": 131343.0,
+      "z": 17157.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_DropPod_C_UAID_04421A9713F0FF6301_1123988602": {
+    "level_name": "4SB9TE4PJA5D3B0GHWPFUUULG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 182825.0,
+      "y": 93880.0,
+      "z": 17755.0
+    }
+  }
+}

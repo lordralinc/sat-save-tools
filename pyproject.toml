@@ -1,0 +1,138 @@
+[project]
+name = "sat-save-tools"
+version = "2.1.0"
+description = ""
+authors = [{ name = "lordralinc", email = "lordralinc@gmail.com" }]
+license = { file = "LICENSE" }
+readme = "README.md"
+keywords = [
+    "satisfactory",
+    "save",
+    "savefile",
+    "save-parser",
+    "serializer",
+    "deserializer",
+    "binary",
+    "binary-format",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Games/Entertainment",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Utilities",
+
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3 :: Only",
+
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic (>=2.12.5,<3.0.0)",
+    "rich (>=14.2.0,<15.0.0)",
+    "rich-argparse (>=1.7.2,<2.0.0)",
+]
+
+
+[project.optional-dependencies]
+html = ["jinja2 (>=3.1.6,<4.0.0)"]
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)",
+    "ruff (>=0.14.10,<0.15.0)",
+    "pre-commit (>=4.5.1,<5.0.0)",
+    "isort (>=7.0.0,<8.0.0)",
+    "black (>=25.12.0,<26.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+packages = [{ include = "sat_sav_parse" }]
+include = ["data/**"]
+
+[tool.ruff]
+line-length = 120
+respect-gitignore = true
+target-version = "py313"
+lint.select = [
+    "UP",
+    "I",
+    "E",
+    "W",
+    "F",
+    "B",
+    "C4",
+    "S",
+    "BLE",
+    "T20",
+    "T10",
+    "PT",
+    "RUF",
+    "DTZ",
+    "ERA",
+    "FURB",
+    "ALL",
+]
+lint.ignore = [
+    "ICN001",
+    "ANN201",
+    "ANN202",
+    "ANN204",
+    "C408",
+    "D",
+    "ANN401",
+    "DTZ005",
+    "DTZ006",
+    "EM101",
+    "EM102",
+    "FBT",
+    "G004",
+    "RET503",
+    "RUF001",
+    "RUF002",
+    "RUF003",
+    "S110",
+    "TRY003",
+    "TRY301",
+    "C901",
+    "PLR0912",
+    "PLR0913",
+    "PGH003",
+    "PLR0915",
+    "TD002",
+    "TD003",
+    "FIX002",
+    "UP037",
+    "PLR2004",
+    "COM812",
+]
+lint.fixable = ["I", "RUF022", "UP035"]
+
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+
+[tool.ruff.lint.pep8-naming]
+classmethod-decorators = [
+    "classmethod",
+    "pydantic.field_validator",
+    "pydantic.model_validator",
+]
+
+
+[tool.ruff.lint.flake8-type-checking]
+exempt-modules = ["typing_extensions", "typing"]
+
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**.py" = ["S101", "PLR2004", "S106", "ARG001", "ARG005", "ANN001"]

@@ -1,0 +1,4174 @@
+{
+  "Persistent_Level:PersistentLevel.BP_WAT102": {
+    "level_name": "BV3J6S3HGK1XQ0GTC1PUYN6PD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 846.015625,
+      "y": -168496.140625,
+      "z": 1844.283203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT103": {
+    "level_name": "CT9YVY8OWECVW3NM9UCG3905N",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 37172.015625,
+      "y": -192272.140625,
+      "z": 1099.9403076171875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT104": {
+    "level_name": "0X2A31J4BRFODOBMWQR0PFKY8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 67777.015625,
+      "y": -192082.140625,
+      "z": 3292.4248046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT105": {
+    "level_name": "1PZDL73SVDH2253GGOKTIEQCS",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 79198.703125,
+      "y": -159556.09375,
+      "z": 15953.4248046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT106": {
+    "level_name": "1P769INAVF9EGI0MSYPHJE2QT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 152032.0,
+      "y": -204217.0,
+      "z": 8686.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT106_2": {
+    "level_name": "9JEZVHCWGKROFOQP45GDWK8A3",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 163570.0,
+      "y": -294545.0,
+      "z": 23785.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT108_11": {
+    "level_name": "81JRN8EL56I1O9V4NB4Y7359I",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 164459.0,
+      "y": -271549.0,
+      "z": 17583.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT109": {
+    "level_name": "EX86OPVVFD834Z9LEG2JI00UU",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 129690.015625,
+      "y": -183159.140625,
+      "z": -578.990234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT109_11": {
+    "level_name": "2LUY6P7VRDU9JLGK9YCCZDWGT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 200644.0,
+      "y": -247527.0,
+      "z": 26623.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT10_5": {
+    "level_name": "24GBDKQ2TMQLMVKBHQ6WOH0NO",
+    "rotation": {
+      "x": -0.13511651754379272,
+      "y": 0.10964005440473557,
+      "z": -0.764667809009552,
+      "w": 0.6204883456230164
+    },
+    "position": {
+      "x": 169225.84375,
+      "y": -32285.6015625,
+      "z": 11407.16796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT11": {
+    "level_name": "DSG7ACJQX0WF3C9K5Q8MLZB9K",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.2597995102405548,
+      "w": 0.9656625986099243
+    },
+    "position": {
+      "x": -113191.875,
+      "y": -53235.6875,
+      "z": 21683.12109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT111": {
+    "level_name": "5UAWB7QBPXMB9LX8AXJHVYASF",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 139915.015625,
+      "y": -157899.140625,
+      "z": 559.0474853515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT112_14": {
+    "level_name": "05T77O664VCG76XIK7PCWON5H",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 186820.0,
+      "y": -204185.0,
+      "z": 25648.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT113": {
+    "level_name": "A0NXJCF5IYQ8579ZEDKMM5BWE",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 154805.0,
+      "y": -190795.0,
+      "z": 2575.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT113_2": {
+    "level_name": "1P769INAVF9EGI0MSYPHJE2QT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 140820.0,
+      "y": -206425.0,
+      "z": 2629.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT118": {
+    "level_name": "BXV0B0WA2UKMDBHQR4Z3U8U13",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 116955.0,
+      "y": -196713.0,
+      "z": 8911.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT119": {
+    "level_name": "3YD2PNWN9OR7FWGQAMKI7ZFLV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 161725.0,
+      "y": -170475.0,
+      "z": 17202.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT119_8": {
+    "level_name": "7350GF2H0RJTV1JNVAOSS3704",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 180577.0,
+      "y": -242488.0,
+      "z": 15323.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT11_15": {
+    "level_name": "BXR2XT9LRT5YWZTYGBYNKA9RK",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 59821.0234375,
+      "y": 75986.765625,
+      "z": 21210.15625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT11_21": {
+    "level_name": "28GAZXU4I5C5N0BOE9S71N9IF",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -273892.8125,
+      "y": -149956.640625,
+      "z": -1510.4635009765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT12": {
+    "level_name": "655A7IUW5FHON6N4WEQIT2BPM",
+    "rotation": {
+      "x": 0.010830752551555634,
+      "y": -0.012018023058772087,
+      "z": 0.6693732142448425,
+      "w": 0.7427501082420349
+    },
+    "position": {
+      "x": -218991.828125,
+      "y": -117543.3984375,
+      "z": 11051.8134765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT120": {
+    "level_name": "7D7OQT7C59XPI9USE4REHDKWD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 118715.0,
+      "y": -150470.0,
+      "z": 5030.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT122_3": {
+    "level_name": "16TS5SGLAB5OGQMHLQT1K027S",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 213200.0,
+      "y": -193520.0,
+      "z": 24567.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT124": {
+    "level_name": "2DKA3NYZ4OONXKZ65VC83ZY4Q",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.9578285217285156,
+      "w": 0.2873404324054718
+    },
+    "position": {
+      "x": -221843.875,
+      "y": -88193.5546875,
+      "z": -1601.632568359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT125": {
+    "level_name": "4HNBHMMMO2D9RCCIGZH99P8LD",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.9656092524528503,
+      "w": 0.25999754667282104
+    },
+    "position": {
+      "x": -260013.6875,
+      "y": -4717.5625,
+      "z": -126.61528778076172
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT126": {
+    "level_name": "136GIYGVORSSJ0WM2FJHWMSX7",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -138825.328125,
+      "y": -38237.640625,
+      "z": 799.69384765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT127": {
+    "level_name": "3R376PHWWS8YKBRQ91PCVT4CE",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.45337891578674316,
+      "w": 0.8913178443908691
+    },
+    "position": {
+      "x": -133099.03125,
+      "y": -93389.6015625,
+      "z": 485.6061706542969
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT12_0": {
+    "level_name": "BSTB9EDX9WB8FIEZ3JYMZB2SL",
+    "rotation": {
+      "x": -0.016307171434164047,
+      "y": 0.018242336809635162,
+      "z": -0.24936074018478394,
+      "w": 0.9681015014648438
+    },
+    "position": {
+      "x": -32922.13671875,
+      "y": -48290.0625,
+      "z": 14668.02734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT12_2": {
+    "level_name": "0RXCIC8GHQDYM2E52FZ8X831X",
+    "rotation": {
+      "x": -0.01546609215438366,
+      "y": -0.009470831602811813,
+      "z": -0.9752691984176636,
+      "w": 0.22027507424354553
+    },
+    "position": {
+      "x": -101975.6640625,
+      "y": 278426.3125,
+      "z": -1620.4888916015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT12_4": {
+    "level_name": "8GH91K6YW7OUWZ0W53QXKW620",
+    "rotation": {
+      "x": -0.013310085982084274,
+      "y": 0.03218336030840874,
+      "z": 0.3819440007209778,
+      "w": 0.9235290288925171
+    },
+    "position": {
+      "x": -5507.75,
+      "y": 102348.0703125,
+      "z": 23652.515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT130": {
+    "level_name": "17R28KVDFQ7MNZJNP8NV5JXHX",
+    "rotation": {
+      "x": -0.008772684261202812,
+      "y": 0.012122813612222672,
+      "z": -0.946088433265686,
+      "w": 0.32356253266334534
+    },
+    "position": {
+      "x": -199017.28125,
+      "y": -41617.6796875,
+      "z": 763.721923828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT135": {
+    "level_name": "6KP0OMP4ZCBMPKMTSR37JR6OG",
+    "rotation": {
+      "x": 0.68708735704422,
+      "y": 0.7265747785568237,
+      "z": 2.9024786840636807e-07,
+      "w": 2.7447364914223726e-07
+    },
+    "position": {
+      "x": -255587.75,
+      "y": -61460.14453125,
+      "z": 180.14810180664062
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT139": {
+    "level_name": "6ES6VR80IU4BHJEYSGO6HMEN0",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.10845286399126053,
+      "w": 0.9941015839576721
+    },
+    "position": {
+      "x": -33564.99609375,
+      "y": 121714.3046875,
+      "z": 3027.302001953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT13_1": {
+    "level_name": "DQE2FUE2YG5ULHVIHD55FRONS",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.2876013219356537,
+      "w": 0.9577502012252808
+    },
+    "position": {
+      "x": -36931.0,
+      "y": -76082.0,
+      "z": 11640.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT13_2": {
+    "level_name": "1URGPYHJ7GU831YVI4Z362BO8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -44172.984375,
+      "y": -259058.140625,
+      "z": 1141.6109619140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT13_4": {
+    "level_name": "7J3WGU1S94D8JCWCOKXE7KBOY",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.4510572850704193,
+      "w": 0.8924949765205383
+    },
+    "position": {
+      "x": 187164.796875,
+      "y": 165653.609375,
+      "z": 3372.411376953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT14": {
+    "level_name": "55Q36NH3ABGLRZAYIL5YECQVM",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.6034232378005981,
+      "w": 0.7974210977554321
+    },
+    "position": {
+      "x": -118080.421875,
+      "y": -186090.171875,
+      "z": 14188.654296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT140": {
+    "level_name": "48BTHXI65TZWN96E0U80XP13D",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.003554780036211014,
+      "w": 0.9999936819076538
+    },
+    "position": {
+      "x": -106845.3046875,
+      "y": 124971.9296875,
+      "z": 6294.20361328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT141": {
+    "level_name": "83B8Y9O11EQDBQ9B55OHU3ICI",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.9975969195365906,
+      "w": 0.06928477436304092
+    },
+    "position": {
+      "x": -57170.36328125,
+      "y": 140413.171875,
+      "z": -4968.2841796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT142": {
+    "level_name": "5DTDVMJE226X4RC4RXBQL4DZ1",
+    "rotation": {
+      "x": -0.2568548619747162,
+      "y": -0.01783899962902069,
+      "z": 0.9639632701873779,
+      "w": 0.06694886088371277
+    },
+    "position": {
+      "x": -124535.1640625,
+      "y": 154337.34375,
+      "z": 622.708251953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT143_4633": {
+    "level_name": "EQ3RXAR8YVCMQ5LYPC1XVLOZ4",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -145473.78125,
+      "y": 89816.0,
+      "z": 9324.46875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT144": {
+    "level_name": "F4N4HLWUIKWI5X9MEGCWP1TRY",
+    "rotation": {
+      "x": 0.49144604802131653,
+      "y": 0.2945564389228821,
+      "z": -0.42134493589401245,
+      "w": 0.7029834389686584
+    },
+    "position": {
+      "x": -110466.9921875,
+      "y": 92197.421875,
+      "z": 5077.02294921875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT145": {
+    "level_name": "AYGLQNU3ZR1Q1G7GMTNXOP87R",
+    "rotation": {
+      "x": -0.005829769652336836,
+      "y": 0.25446298718452454,
+      "z": 0.7841296195983887,
+      "w": 0.565999448299408
+    },
+    "position": {
+      "x": -168746.046875,
+      "y": 57825.16796875,
+      "z": 12554.1201171875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT148": {
+    "level_name": "A8LSMW5TTTOMV2TY8Z0A3QEER",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.9656092524528503,
+      "w": 0.25999754667282104
+    },
+    "position": {
+      "x": -205219.265625,
+      "y": 22857.388671875,
+      "z": -1181.3687744140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT149": {
+    "level_name": "41NCJK1FYJDLMI6DGTW2TCM19",
+    "rotation": {
+      "x": 5.326272116690234e-07,
+      "y": -1.0,
+      "z": -9.321035463472072e-07,
+      "w": 5.3668882173951715e-06
+    },
+    "position": {
+      "x": -278041.28125,
+      "y": -89802.8984375,
+      "z": -863.0182495117188
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT14_3": {
+    "level_name": "30U313RBXQ89JD12NUHDSVGLJ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.32598233222961426,
+      "z": 0.0,
+      "w": 0.9453758597373962
+    },
+    "position": {
+      "x": 239740.546875,
+      "y": 40268.38671875,
+      "z": -1682.3511962890625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT15_0": {
+    "level_name": "AXKBSCFFF3H53IWL29V0XIW6V",
+    "rotation": {
+      "x": -0.12449699640274048,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 0.9922199845314026
+    },
+    "position": {
+      "x": 67995.734375,
+      "y": -162824.5,
+      "z": -1759.60986328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT15_3": {
+    "level_name": "9AJ9PIG953097OLKR5YZ55LT1",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.37466979026794434,
+      "w": 0.9271582961082458
+    },
+    "position": {
+      "x": -64625.87109375,
+      "y": -65619.5703125,
+      "z": 12511.1337890625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT16_10": {
+    "level_name": "2688BJGBFVRTCIER8HTG2UA0G",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.5709362030029297,
+      "w": 0.8209944367408752
+    },
+    "position": {
+      "x": 14063.62109375,
+      "y": -10584.86328125,
+      "z": 25644.3515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT16_2": {
+    "level_name": "46B9GAZHXZGF8DE5L562IFXO2",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -58160.0,
+      "y": -197611.0,
+      "z": 13112.3515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT17": {
+    "level_name": "0V4R2YF23ZAZTMXD16HT5SAIH",
+    "rotation": {
+      "x": -0.007131583523005247,
+      "y": 0.0014473155606538057,
+      "z": 0.19896534085273743,
+      "w": 0.9799795150756836
+    },
+    "position": {
+      "x": -168901.984375,
+      "y": -173015.953125,
+      "z": 7728.04052734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT17_11": {
+    "level_name": "5YT9ST5EI7QM8DFZAXY77WCYX",
+    "rotation": {
+      "x": 0.11003340035676956,
+      "y": -0.28960126638412476,
+      "z": 0.8888091444969177,
+      "w": 0.3377012014389038
+    },
+    "position": {
+      "x": 20786.517578125,
+      "y": 23944.201171875,
+      "z": 23861.197265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT18_12": {
+    "level_name": "45UWPTO34PXL4KQTGRUE81XMI",
+    "rotation": {
+      "x": 0.22231587767601013,
+      "y": -0.46802452206611633,
+      "z": -0.10950856655836105,
+      "w": 0.8482550382614136
+    },
+    "position": {
+      "x": 46244.55078125,
+      "y": 14149.11328125,
+      "z": 23995.080078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT18_9": {
+    "level_name": "7BOBYXNJXVHSNAWS15JY4RZZU",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.4456337094306946,
+      "w": 0.8952153921127319
+    },
+    "position": {
+      "x": 142193.953125,
+      "y": 241283.109375,
+      "z": -2772.7158203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT19_10": {
+    "level_name": "6H66RI7OBR6IWMW9YZ96MANGZ",
+    "rotation": {
+      "x": 0.0010738738346844912,
+      "y": -0.07580956816673279,
+      "z": -0.03848264366388321,
+      "w": 0.9963788390159607
+    },
+    "position": {
+      "x": 169480.234375,
+      "y": 173413.34375,
+      "z": -5233.8427734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT1_9": {
+    "level_name": "0KRL3VQVHZQNVHGD96KREOOR8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 49063.51953125,
+      "y": -94567.9296875,
+      "z": 17692.578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT1_C_13": {
+    "level_name": "9SRHX1B6DG1OMS1ZMV4RL34NE",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.714019238948822,
+      "w": 0.700126051902771
+    },
+    "position": {
+      "x": 206883.25,
+      "y": 112912.1328125,
+      "z": 78.67205810546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT1_C_14": {
+    "level_name": "E61UU3MR6SINIIVNXEYQVK4R4",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.11971675604581833,
+      "w": 0.9928081035614014
+    },
+    "position": {
+      "x": 247454.109375,
+      "y": 119663.6484375,
+      "z": -950.5849609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT1_C_17": {
+    "level_name": "5O4Q8KPQYINS8P95X6C8VD8L8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 223172.953125,
+      "y": 90154.2890625,
+      "z": 1337.7686767578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT1_C_19": {
+    "level_name": "2H6LCF0B2X9IS2TDL2WB57AWV",
+    "rotation": {
+      "x": 0.0210038460791111,
+      "y": 0.3553384840488434,
+      "z": 0.47358670830726624,
+      "w": 0.8056109547615051
+    },
+    "position": {
+      "x": 270276.09375,
+      "y": -37610.57421875,
+      "z": 5306.43310546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2": {
+    "level_name": "6VPS1394N4OBPTWLU7LTJSPQ2",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -13329.421875,
+      "y": -130432.8046875,
+      "z": 9323.27734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT20": {
+    "level_name": "1PZDL73SVDH2253GGOKTIEQCS",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 74273.0,
+      "y": -155774.0,
+      "z": 21542.45703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT20_9811": {
+    "level_name": "8H8FE6U0Z98VIWI6K9ZABMR2G",
+    "rotation": {
+      "x": 0.04361938685178757,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9990482330322266
+    },
+    "position": {
+      "x": 184955.640625,
+      "y": 27670.8671875,
+      "z": 10781.6025390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT210": {
+    "level_name": "9ZI97U85BHEMNEFSBAN8Q97HH",
+    "rotation": {
+      "x": -0.03799540549516678,
+      "y": 0.5470768809318542,
+      "z": 0.8342100977897644,
+      "w": 0.05793728679418564
+    },
+    "position": {
+      "x": -21210.576171875,
+      "y": 263473.375,
+      "z": -4610.2724609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT210_42": {
+    "level_name": "2J6VZPR2SB0VML54SDQWB1P5P",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -32033.431640625,
+      "y": 51591.63671875,
+      "z": 21865.87109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT211": {
+    "level_name": "DGLJFZ90EAGLE7R9ZT5QL4N2F",
+    "rotation": {
+      "x": -0.031649768352508545,
+      "y": 0.4557092487812042,
+      "z": 0.8874281644821167,
+      "w": 0.06163336709141731
+    },
+    "position": {
+      "x": 14369.96875,
+      "y": 198309.21875,
+      "z": -11030.689453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT211_UAID_40B076DF2F79007A01_1867371992": {
+    "level_name": "5YRNRCOMWW8GWTAWGM92RFCXZ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.9975969195365906,
+      "w": 0.06928477436304092
+    },
+    "position": {
+      "x": 62877.71484375,
+      "y": 135612.8125,
+      "z": -8357.7412109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT211_UAID_40B076DF2F79007A01_1988795993": {
+    "level_name": "59W8VJTG326D3A52UH38MON2U",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.9975969195365906,
+      "w": 0.06928477436304092
+    },
+    "position": {
+      "x": 23533.453125,
+      "y": 157514.15625,
+      "z": -16557.263671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT211_UAID_40B076DF2F79017A01_1322649170": {
+    "level_name": "CRWTKFUJMS7PML9U7MCL6H03W",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.9975969195365906,
+      "w": 0.06928477436304092
+    },
+    "position": {
+      "x": 48435.0703125,
+      "y": 152059.921875,
+      "z": 6222.2197265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT212": {
+    "level_name": "F4QDBDBOVEVZJES2VWWII2ASP",
+    "rotation": {
+      "x": 0.4726196527481079,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.8812664747238159
+    },
+    "position": {
+      "x": -263894.0625,
+      "y": -111560.8515625,
+      "z": -1507.7767333984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_0": {
+    "level_name": "AAIYXGC69I0P98NVO7N7E3ELP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -90209.6640625,
+      "y": -72819.3046875,
+      "z": 15897.509765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_1": {
+    "level_name": "BA3XMSRU7IFHLPD5E4R4HRMKD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -126042.0546875,
+      "y": 215384.828125,
+      "z": 2780.00830078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_10": {
+    "level_name": "8F6S5M46QK4SWXY7YCUTC4ZUB",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.09440749883651733,
+      "w": 0.9955336451530457
+    },
+    "position": {
+      "x": 33759.9609375,
+      "y": 65594.9609375,
+      "z": 23524.431640625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_10184": {
+    "level_name": "DA0MFSEDIV8SMDUYDEN6II96E",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 124816.796875,
+      "y": 11859.55078125,
+      "z": 18559.505859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_15": {
+    "level_name": "DFTEM3CBU6AYLSJVB3NTYGRQY",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 64471.3515625,
+      "y": 102287.921875,
+      "z": 11766.455078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_2": {
+    "level_name": "DLE9SJZ8OFDG3N6EAG29CYW34",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 178776.28125,
+      "y": 189126.296875,
+      "z": 771.3890380859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_24": {
+    "level_name": "F4N4HLWUIKWI5X9MEGCWP1TRY",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -98837.203125,
+      "y": 85512.4453125,
+      "z": 17574.259765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_25": {
+    "level_name": "E61UU3MR6SINIIVNXEYQVK4R4",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 255758.875,
+      "y": 115580.6015625,
+      "z": 8746.177734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_356": {
+    "level_name": "9TXWNHWBI5748TYTTCUA1DTX0",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -74871.3828125,
+      "y": 104947.90625,
+      "z": 11242.1982421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT21_UAID_40B076DF2F79CA7C01_1851394664": {
+    "level_name": "6R7NFOA2U0H2ZVCUE51IRA47Q",
+    "rotation": {
+      "x": 0.44588470458984375,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.8950904011726379
+    },
+    "position": {
+      "x": -98170.203125,
+      "y": 231610.703125,
+      "z": -663.2359619140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22": {
+    "level_name": "EPNKO53YJKXUZRUS8MU7JYU4Q",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -267599.09375,
+      "y": -180680.859375,
+      "z": 462.4305725097656
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_11": {
+    "level_name": "CLTABPAREQ7Z1WOHDR1AISPRR",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -34385.77734375,
+      "y": 96725.1328125,
+      "z": 23434.595703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_16": {
+    "level_name": "AGQPDDHNCFVUM8C8M9TA84KAP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 110328.828125,
+      "y": 109190.6015625,
+      "z": 9321.00390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_2": {
+    "level_name": "9X46CH2VSO1SWQMRMJ4A2X536",
+    "rotation": {
+      "x": 0.03699147328734398,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9993155598640442
+    },
+    "position": {
+      "x": -29342.38671875,
+      "y": 245731.0625,
+      "z": 2510.60791015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_25": {
+    "level_name": "78LIX115PUIWUPGZJX0KA4SBG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -67361.796875,
+      "y": 29823.623046875,
+      "z": 19643.296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_26": {
+    "level_name": "52BDTAJZXRB2852CF81IC78YS",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 283017.875,
+      "y": 52946.74609375,
+      "z": -898.38671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_277": {
+    "level_name": "2X5F7NUO7P3JNEMUEB7QTVJXL",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.32163137197494507,
+      "w": 0.9468649625778198
+    },
+    "position": {
+      "x": -159288.390625,
+      "y": 132746.015625,
+      "z": 3832.71630859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_3": {
+    "level_name": "823XRZORVFGOQVHQCDXISRIZI",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 153148.953125,
+      "y": 175179.265625,
+      "z": -4478.0439453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT22_7": {
+    "level_name": "0SVIIM8X6VFVZFIZXFM5281KK",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -238994.78125,
+      "y": 56239.29296875,
+      "z": -1461.2108154296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23": {
+    "level_name": "8CYMZLYM4T5E2AA19O6K6GH0T",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 95689.0,
+      "y": -212116.0,
+      "z": 10342.724609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_1410": {
+    "level_name": "3G8XGCQNXON2KL95S12Z63MYQ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.36373916268348694,
+      "w": 0.9315008521080017
+    },
+    "position": {
+      "x": -154230.5,
+      "y": 191086.3125,
+      "z": 1619.4642333984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_15": {
+    "level_name": "57DZUJI0BTI1QVIDG9YS5HGLI",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 24240.048828125,
+      "y": 88166.8359375,
+      "z": 35420.578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_17": {
+    "level_name": "CR0SO3LMRNOSVU7S7U7MFZ92N",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 140715.625,
+      "y": 121161.515625,
+      "z": 12593.2333984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_2": {
+    "level_name": "D1FFLTHEARRNUZAIW2X4OWIS2",
+    "rotation": {
+      "x": 0.3767969012260437,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9262958765029907
+    },
+    "position": {
+      "x": -51483.890625,
+      "y": -24457.087890625,
+      "z": 18533.224609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_26": {
+    "level_name": "5M0409D7G44D847WK8Q86OMQI",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.08068769425153732,
+      "w": 0.9967394471168518
+    },
+    "position": {
+      "x": -66453.59375,
+      "y": 60150.32421875,
+      "z": 22381.48046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_27": {
+    "level_name": "9UFMWACNFBI7PUU2FL99RF8OJ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 238670.21875,
+      "y": 111306.3984375,
+      "z": -4900.26318359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_3": {
+    "level_name": "9VV623W8UZF72WNMM8DVAOP2Y",
+    "rotation": {
+      "x": -0.3837195932865143,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 0.9234496355056763
+    },
+    "position": {
+      "x": -77522.1328125,
+      "y": 254843.375,
+      "z": -4589.3466796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT23_4": {
+    "level_name": "7JD9NGZLM5GB4J102QEHEHD3L",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.6943897604942322,
+      "w": 0.7195991277694702
+    },
+    "position": {
+      "x": 196019.984375,
+      "y": 223705.21875,
+      "z": 3840.94384765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_18": {
+    "level_name": "7M2N6R92SDHZC4M6ZR0L37AZB",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.3850800096988678,
+      "w": 0.9228832125663757
+    },
+    "position": {
+      "x": 137950.421875,
+      "y": 75592.8203125,
+      "z": 13021.8935546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_19": {
+    "level_name": "875H5TT0JWN6YR85XE2XYDHXA",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -77004.6796875,
+      "y": 16958.6875,
+      "z": 23137.701171875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_27": {
+    "level_name": "BRJ2ADJWSYWB7MOC3UZBE3TB8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -129781.7890625,
+      "y": 15841.4921875,
+      "z": 19523.603515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_278": {
+    "level_name": "AL5STOI1F7GHQLHHUZBP6VNO2",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -188844.578125,
+      "y": 98522.0234375,
+      "z": 5641.3505859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_28": {
+    "level_name": "CWC9G8JCM8201E2UDN27U5SXG",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.22490191459655762,
+      "w": 0.9743813872337341
+    },
+    "position": {
+      "x": 256311.328125,
+      "y": -24293.642578125,
+      "z": 9149.595703125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_3": {
+    "level_name": "0JMESHD2WUF1ZM0KQ6ON3JKG9",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -22060.98828125,
+      "y": -44070.9921875,
+      "z": 20304.7421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_4": {
+    "level_name": "CEUR68CD6DEFP4KQJDMOXOZWK",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.6662796139717102,
+      "w": 0.7457020282745361
+    },
+    "position": {
+      "x": -10455.546875,
+      "y": 177575.3125,
+      "z": 1102.4473876953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT24_5": {
+    "level_name": "64T0U86SR48FB2NMSXXJ0Z63G",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.7042135000228882,
+      "w": 0.7099882960319519
+    },
+    "position": {
+      "x": 139037.796875,
+      "y": 216778.953125,
+      "z": -8892.1572265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25": {
+    "level_name": "57GZCK8PZ3E3ZM3A6B7XPSZKC",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -253369.953125,
+      "y": -152041.140625,
+      "z": 15231.0322265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_19": {
+    "level_name": "ATIPCD36F1FFW5FFK2Y8NHW60",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 38448.37890625,
+      "y": 40904.96875,
+      "z": 18103.447265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_23": {
+    "level_name": "790JZABNACZTTLKL0SSQG3VG0",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -42592.22265625,
+      "y": 12441.90625,
+      "z": 23999.52734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_28": {
+    "level_name": "CD56CV6662RIWBR8UHUFMMSRB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -88096.1015625,
+      "y": 52526.0234375,
+      "z": 24589.728515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_4": {
+    "level_name": "3BB631B9915ZH3AOQ4IJDGZ61",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.1467304676771164,
+      "w": 0.9891765117645264
+    },
+    "position": {
+      "x": -40593.24609375,
+      "y": -59641.37890625,
+      "z": 14472.30859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_5": {
+    "level_name": "BRA6J4XYZ2EHL2FRNZ5ILEC0L",
+    "rotation": {
+      "x": -0.37954506278038025,
+      "y": 0.1654735654592514,
+      "z": -0.3215656578540802,
+      "w": 0.851563036441803
+    },
+    "position": {
+      "x": 7656.34765625,
+      "y": 294058.34375,
+      "z": -2276.22314453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT25_6": {
+    "level_name": "ETK76NUH3SMT5CZD1LZ7XFPOR",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.23452194035053253,
+      "w": 0.9721108078956604
+    },
+    "position": {
+      "x": 163534.421875,
+      "y": 207428.203125,
+      "z": -9177.3359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26": {
+    "level_name": "CEITTSM2HPGFPMS0FKPD8DG9S",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -199601.765625,
+      "y": -176961.5625,
+      "z": -1531.4420166015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26_27": {
+    "level_name": "BR0CKOJECX3T8153Y899XOTJG",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.8891602158546448,
+      "w": 0.4575960040092468
+    },
+    "position": {
+      "x": -13387.76171875,
+      "y": 68720.2890625,
+      "z": 23096.392578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26_29": {
+    "level_name": "ETKG8NSAO6YFJTFIDYRLKXII5",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -79991.96875,
+      "y": 39740.46875,
+      "z": 19783.75390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26_3": {
+    "level_name": "2U697QH7XF9W42SPFV8AOZJL8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -211902.09375,
+      "y": -130283.125,
+      "z": 6632.6787109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26_6": {
+    "level_name": "AMZAE0VSIJM5Q1YXJLUD6WQ81",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.4663775563240051,
+      "z": 0.0,
+      "w": 0.8845857381820679
+    },
+    "position": {
+      "x": -12549.9609375,
+      "y": 195572.625,
+      "z": -1379.7899169921875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT26_7": {
+    "level_name": "0AFMHN0PYXRAZ32AHLUVLF9KG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 128959.359375,
+      "y": 252404.328125,
+      "z": -1773.4708251953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27": {
+    "level_name": "0KSRDJC6TCGZZ6RQYLKADRHHJ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -176140.484375,
+      "y": -145908.734375,
+      "z": 5993.6767578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27_30": {
+    "level_name": "90AUCIU2UGBQ5N0LN2BL28WJA",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -183084.3125,
+      "y": 13871.4453125,
+      "z": 21767.57421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27_31": {
+    "level_name": "6VG06HS27LTCQ0FW1E59SFPG8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -9284.40625,
+      "y": -14728.9296875,
+      "z": 32838.53515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27_7": {
+    "level_name": "8BHCAS3EUAOCF6NRUVIK1T4BL",
+    "rotation": {
+      "x": -0.1014920100569725,
+      "y": 0.08217736333608627,
+      "z": 0.16556935012340546,
+      "w": 0.9775137305259705
+    },
+    "position": {
+      "x": -49121.26171875,
+      "y": 267537.40625,
+      "z": -3112.3798828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27_716": {
+    "level_name": "2X5F7NUO7P3JNEMUEB7QTVJXL",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.9936275482177734,
+      "w": 0.11271315068006516
+    },
+    "position": {
+      "x": -170069.109375,
+      "y": 131714.75,
+      "z": 9363.015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT27_8": {
+    "level_name": "D86A6DNVJPIFYWQKNCJZCJ3FB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 101584.6953125,
+      "y": 205493.421875,
+      "z": -3128.280517578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT28": {
+    "level_name": "2RDF5N5FEH88BUVPW7REIVTYI",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -33627.03125,
+      "y": 198750.109375,
+      "z": 1278.084228515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT28_34": {
+    "level_name": "2J6VZPR2SB0VML54SDQWB1P5P",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -41318.65234375,
+      "y": 69776.6328125,
+      "z": 21100.06640625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT28_38": {
+    "level_name": "CYIG9OCBFVQJ01L07CNML4VKC",
+    "rotation": {
+      "x": -0.09507109224796295,
+      "y": 0.48668918013572693,
+      "z": -0.7937832474708557,
+      "w": 0.35214096307754517
+    },
+    "position": {
+      "x": 21822.35546875,
+      "y": 8591.14453125,
+      "z": 23371.8046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT28_8": {
+    "level_name": "7SBCDQ2TFQBA2QFTB5THY4H59",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 14752.21875,
+      "y": -136715.0625,
+      "z": 1231.5828857421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT28_9": {
+    "level_name": "CQ39X1KO2CYJMDK1AL2P3FDJM",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.686008870601654,
+      "w": 0.727593183517456
+    },
+    "position": {
+      "x": 90260.0625,
+      "y": 163147.4375,
+      "z": -4523.47314453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT29": {
+    "level_name": "015RYOHOFH7CVMMFME4056P54",
+    "rotation": {
+      "x": 0.3506479561328888,
+      "y": -0.46145638823509216,
+      "z": 0.6488530039787292,
+      "w": 0.493045449256897
+    },
+    "position": {
+      "x": 22878.291015625,
+      "y": 285310.875,
+      "z": -492.63140869140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT29_10": {
+    "level_name": "9MS9G6WTGIG8D58697G95CXAQ",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.670664370059967,
+      "w": 0.7417609691619873
+    },
+    "position": {
+      "x": 146849.21875,
+      "y": 279755.53125,
+      "z": -5032.17626953125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT29_11": {
+    "level_name": "02M8DS4U0NQ5C1G41ZN0B87KJ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 143162.5625,
+      "y": -48605.2890625,
+      "z": 977.876708984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT29_38": {
+    "level_name": "DE0JWSHJUML4JVA3E0SZV3MKV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -137795.75,
+      "y": 47354.94140625,
+      "z": 23703.7421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT29_42": {
+    "level_name": "9FJ691O5J6QJHTVSRL2T58ZFG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 9808.3359375,
+      "y": 41676.98046875,
+      "z": 22512.033203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_0": {
+    "level_name": "EVOBVNIZXZH3P171HK2AF9NJ5",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -28435.0,
+      "y": -180056.0,
+      "z": 11814.2529296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_1": {
+    "level_name": "CQ0CKTZT5E0ASGUGG57K4U301",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.09724479913711548,
+      "w": 0.99526047706604
+    },
+    "position": {
+      "x": 66313.796875,
+      "y": -61352.23828125,
+      "z": 7539.0390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_10": {
+    "level_name": "4U16D7OBRSOBFAAQN6OSY6RU7",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 176979.0,
+      "y": 115977.0,
+      "z": 17057.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_11": {
+    "level_name": "091CKM3H3UI1DBT79RXLW2J33",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 174067.0,
+      "y": 118773.0,
+      "z": 10465.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_12": {
+    "level_name": "4Z8QJ6AM5XIRUOKNWSRWWPEKG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 192570.046875,
+      "y": 86144.921875,
+      "z": 1121.806884765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_13": {
+    "level_name": "BSTIJIBBSJLWHWZ5AT1VYZCE6",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 167448.0,
+      "y": 86817.0,
+      "z": 6072.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_14": {
+    "level_name": "42I0D0IFNJKCZ8W35VPV4I41N",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 112216.640625,
+      "y": -73475.9375,
+      "z": 12662.31640625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_15": {
+    "level_name": "3YPSNWXKC7X17B3N9TD0DFGLJ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 109404.09375,
+      "y": -36637.0234375,
+      "z": 8860.150390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_16": {
+    "level_name": "AR8GCAJ3Z3AC57K3SC8O6BBUL",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 124815.96875,
+      "y": -10482.78125,
+      "z": 14743.533203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_17": {
+    "level_name": "EX86OPVVFD834Z9LEG2JI00UU",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 118479.015625,
+      "y": -177280.140625,
+      "z": 1279.617919921875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_18": {
+    "level_name": "03ZCPBHIVK00B2FFLHN6JMVAG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 188950.0,
+      "y": -168060.0,
+      "z": 23738.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_19": {
+    "level_name": "ABV1USTVLMPPKNABWDX60SHJY",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 193305.0,
+      "y": -149223.0,
+      "z": 23070.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_2": {
+    "level_name": "40YGIB7R85BEX98EDSWBCAB7P",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 77135.484375,
+      "y": -4646.9609375,
+      "z": 13480.1142578125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_20": {
+    "level_name": "7R2UDSS1Y1UI480ZZNICLGL6B",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.030537869781255722,
+      "z": 0.0,
+      "w": 0.9995335936546326
+    },
+    "position": {
+      "x": 182590.0,
+      "y": -179605.0,
+      "z": 27411.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_21": {
+    "level_name": "E0QMEHLPI4E13EVTDMWZB0HWN",
+    "rotation": {
+      "x": 0.1703275442123413,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9853875041007996
+    },
+    "position": {
+      "x": 281412.65625,
+      "y": 121408.7890625,
+      "z": 156.27182006835938
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_23": {
+    "level_name": "4U9TA1DBVMVT2L2U8CTNXDC05",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 215830.0,
+      "y": 139040.0,
+      "z": -3035.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_25": {
+    "level_name": "BZMDUF5VSYMR7KN629KNH1CKL",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 259073.359375,
+      "y": 91983.59375,
+      "z": -1513.933349609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_26": {
+    "level_name": "2OHPJP4RR3XUWTOVFSAL7QR8F",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 263650.40625,
+      "y": 12571.375,
+      "z": 1694.1873779296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_27": {
+    "level_name": "8XH3IUJQKSLT018FWIW7QPUIR",
+    "rotation": {
+      "x": -0.36595460772514343,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 0.9306327104568481
+    },
+    "position": {
+      "x": 219767.046875,
+      "y": 24492.244140625,
+      "z": -1714.954833984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_28": {
+    "level_name": "D50JE516JR21IVYL84YNJQ75U",
+    "rotation": {
+      "x": 0.003007638966664672,
+      "y": 0.2416163980960846,
+      "z": -0.9702920317649841,
+      "w": 0.012078186497092247
+    },
+    "position": {
+      "x": 205781.546875,
+      "y": 59100.53125,
+      "z": -1537.0631103515625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_29": {
+    "level_name": "41NAZ2752JTFZGRHEIT1NUKML",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 295279.1875,
+      "y": -293695.65625,
+      "z": 6721.52685546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_3": {
+    "level_name": "5CPLFSL53T8CJJYI8JOBJREDF",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 63992.3828125,
+      "y": -4938.796875,
+      "z": 19352.052734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_30": {
+    "level_name": "9FHXKO90N85VOFVSW61TDZOH3",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 242430.0,
+      "y": -261110.0,
+      "z": 9879.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_31": {
+    "level_name": "5XEHJ9D4NSXG10GSCFKJI7PFZ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 218915.0,
+      "y": -247705.0,
+      "z": 8273.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_32": {
+    "level_name": "5BNGT9DFF02Q8PCF6ZBKP658S",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 323969.75,
+      "y": -20408.375,
+      "z": -1447.4111328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_33": {
+    "level_name": "ECM91LC9SCX17MK67022TK8FI",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 321859.71875,
+      "y": -72076.875,
+      "z": 5668.5947265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_4": {
+    "level_name": "2688BJGBFVRTCIER8HTG2UA0G",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 11210.4921875,
+      "y": -24138.1796875,
+      "z": 13449.58984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_5": {
+    "level_name": "1CWS3JV6X8NQBUYGJ9L3IUUXB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 50824.37109375,
+      "y": -32521.841796875,
+      "z": 13389.30078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_6": {
+    "level_name": "0A2MGPVG4NN3PY8XM8661V6OF",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 36281.0,
+      "y": -169656.0,
+      "z": 11787.2412109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_7": {
+    "level_name": "6T50M87WGH05FVSSOYHHCI2WT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 13825.0,
+      "y": -166920.0,
+      "z": 12229.78125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_8": {
+    "level_name": "D9TRPKE33S98PUN1VEU3MM5MY",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 81278.0,
+      "y": -176513.0,
+      "z": 6839.63916015625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_9": {
+    "level_name": "9GBDGOZSJX3B39FFI69CQM7EC",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 74841.0,
+      "y": -200048.0,
+      "z": 14884.638671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0006401_1631706786": {
+    "level_name": "5UF96OL8F0YYFCNY82DC5HAOE",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 153515.0,
+      "y": 106900.0,
+      "z": 14153.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0156301_1631721457": {
+    "level_name": "BSTIJIBBSJLWHWZ5AT1VYZCE6",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 168160.0,
+      "y": 87610.0,
+      "z": 11633.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F01D6201_1939266754": {
+    "level_name": "2LUY6P7VRDU9JLGK9YCCZDWGT",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.49047181010246277,
+      "z": 0.0,
+      "w": 0.871457040309906
+    },
+    "position": {
+      "x": 213635.0,
+      "y": -239505.0,
+      "z": 12831.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F01D6201_1995497755": {
+    "level_name": "090RXBQSTNG5C1XD7EGH168JV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 233708.0,
+      "y": -215382.0,
+      "z": 4296.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F01E6201_1415384932": {
+    "level_name": "3B11I6EN5TWPRT9TGF7B5HI4T",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 263585.0,
+      "y": -232761.0,
+      "z": 1102.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0226201_2044450637": {
+    "level_name": "1HRAUJQC1VCL44403AS93F4FC",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 224784.0,
+      "y": -157918.0,
+      "z": 4518.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F025A401_1185385862": {
+    "level_name": "DANZO2C5SIM0LTDJFT5P2OKYK",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -121712.0,
+      "y": 127393.0,
+      "z": 15396.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F025A401_1318668863": {
+    "level_name": "A06J665WBJ8WIPNXT8S17OXFG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -115572.0,
+      "y": 147016.0,
+      "z": 13947.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F02AA401_1366971746": {
+    "level_name": "AZ6FKAJPSWV8B78XOT6NDA7K9",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -175535.0,
+      "y": 81270.0,
+      "z": 23923.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F02AA401_1546189749": {
+    "level_name": "AYGLQNU3ZR1Q1G7GMTNXOP87R",
+    "rotation": {
+      "x": 0.5950003266334534,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.8037254214286804
+    },
+    "position": {
+      "x": -161957.0,
+      "y": 63047.0,
+      "z": 18816.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F02AA401_1741245750": {
+    "level_name": "2X5F7NUO7P3JNEMUEB7QTVJXL",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -173554.0,
+      "y": 113686.0,
+      "z": 19567.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F02AA401_1814961751": {
+    "level_name": "5RGKW57ADK7HGQS195VEIC9LQ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -137627.0,
+      "y": 116054.0,
+      "z": 15174.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0307C01_1078840569": {
+    "level_name": "F38EQCJFYG8UE3JCR0F7FBTQL",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 112534.0,
+      "y": 67833.0,
+      "z": 16212.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0307C01_1582547570": {
+    "level_name": "D13QFM8V4QIS9OBE5OXH8M66H",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 119667.0,
+      "y": 52084.0,
+      "z": 14186.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0317C01_1516355747": {
+    "level_name": "0OZVJ6AU61E93AVTA1PSAVV6S",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 69901.0,
+      "y": 54545.0,
+      "z": 9747.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0317C01_2116555749": {
+    "level_name": "6PQ7314XUVCWR8O04N45EBK4X",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 84989.0,
+      "y": 34269.0,
+      "z": 11723.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0327C01_1340668927": {
+    "level_name": "1Y776OX69M13V97JAIWB3CVTT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 125465.0,
+      "y": -288.0,
+      "z": 13751.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0327C01_1394521928": {
+    "level_name": "DZA468DWIP9BBC1RLD003U4AQ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 146425.0,
+      "y": -12458.0,
+      "z": 16369.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0327C01_1605927929": {
+    "level_name": "F1OVL33BAIA1H4OCNI68V1FS9",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 198204.0,
+      "y": -157.0,
+      "z": 5407.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0337C01_1494320107": {
+    "level_name": "9A1DJC9NFO49Q45LHQU1RKE1D",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 207318.0,
+      "y": -30730.0,
+      "z": 13392.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0337C01_1544698108": {
+    "level_name": "F1OVL33BAIA1H4OCNI68V1FS9",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 201926.0,
+      "y": 4550.0,
+      "z": 12999.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0337C01_1632970109": {
+    "level_name": "1ZLOTYTKX3AI7E0G8361TIGVA",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 187921.0,
+      "y": -20166.0,
+      "z": 11033.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0357C01_1629276462": {
+    "level_name": "D2U6VEGID4QK8XYHA1P94YXFP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 160376.0,
+      "y": 7724.0,
+      "z": 16381.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0357C01_1830097463": {
+    "level_name": "8J2GQN49KF46TFD2R75NX4ZG0",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 142195.0,
+      "y": 9509.0,
+      "z": 13395.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0367C01_1997582645": {
+    "level_name": "3AIP3ZQWAIB10GWEBRSJ0BIH3",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 148721.0,
+      "y": 24496.0,
+      "z": 11566.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0397C01_1667868175": {
+    "level_name": "6OH3OUDS6PFXXMI3RUKALLYJN",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 214286.0,
+      "y": -10641.0,
+      "z": 7599.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0397C01_2086373177": {
+    "level_name": "ANFQIX0XYM1R5SJZNS9CZAT22",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 157982.0,
+      "y": 50049.0,
+      "z": 11031.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F03A7C01_1499181354": {
+    "level_name": "04HYN5W55FAATI40HRK7JCCK7",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 137971.0,
+      "y": 67038.0,
+      "z": 12668.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F03A7C01_1798728356": {
+    "level_name": "0L64YXAH3DC6JLHPN8J9EG37Y",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 109133.0,
+      "y": 34192.0,
+      "z": 10379.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0426401_1291680381": {
+    "level_name": "6CWB96QBCFR7EBIDKUVPGWJDY",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.5104051232337952,
+      "z": 0.0,
+      "w": 0.8599340915679932
+    },
+    "position": {
+      "x": 219541.0,
+      "y": 124266.0,
+      "z": 12483.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0447B01_1978893022": {
+    "level_name": "6PQ7314XUVCWR8O04N45EBK4X",
+    "rotation": {
+      "x": -1.0,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 1.2167964413833943e-08
+    },
+    "position": {
+      "x": 83739.0,
+      "y": 37811.0,
+      "z": 9868.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0466401_1164905096": {
+    "level_name": "9ESMK9H2QEDHJ9A5S015TJ0TP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 206068.0,
+      "y": 162596.0,
+      "z": 7363.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F05E6901_1906631590": {
+    "level_name": "92WAL8XQP8UN1SK7O802LWOGJ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.3663365840911865,
+      "z": 0.0,
+      "w": 0.9304823875427246
+    },
+    "position": {
+      "x": -211160.0,
+      "y": 149809.0,
+      "z": -1733.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0607801_1378431781": {
+    "level_name": "CWC9G8JCM8201E2UDN27U5SXG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 257367.0,
+      "y": -18485.0,
+      "z": 12447.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0737801_1258887144": {
+    "level_name": "EQV6F4YDIXBQYSESRGVEPSI4M",
+    "rotation": {
+      "x": 0.08341185748577118,
+      "y": 0.41933974623680115,
+      "z": 0.17635956406593323,
+      "w": 0.8866193890571594
+    },
+    "position": {
+      "x": 186351.171875,
+      "y": -30838.0,
+      "z": 10332.74609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F087BE01_1694514560": {
+    "level_name": "CLTEKSRRDYHLXQL2PCFAB56VP",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.4275550842285156,
+      "z": 0.0,
+      "w": 0.903989315032959
+    },
+    "position": {
+      "x": -138788.0,
+      "y": 157630.0,
+      "z": 17468.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F087BE01_1872685562": {
+    "level_name": "1PQ7FRCVAG4RLCU9QEB4PAQNB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -165854.0,
+      "y": 110202.0,
+      "z": 11182.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0A96F01_1534709120": {
+    "level_name": "9TXWNHWBI5748TYTTCUA1DTX0",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -82211.0,
+      "y": 104580.0,
+      "z": 21784.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0A96F01_1573952121": {
+    "level_name": "CD56CV6662RIWBR8UHUFMMSRB",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -75376.0,
+      "y": 54532.0,
+      "z": 22701.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0A96F01_1627684122": {
+    "level_name": "2HB76YYKJJ4QS20T3EC3TKJ0Z",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -111264.0,
+      "y": 51997.0,
+      "z": 23991.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0A96F01_1658558123": {
+    "level_name": "CES7K8R0XDMYUD9PX099DTYXK",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.45388931035995483,
+      "z": 0.0,
+      "w": 0.891058087348938
+    },
+    "position": {
+      "x": -54339.0,
+      "y": 81544.0,
+      "z": 20035.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0A96F01_1680839124": {
+    "level_name": "BEH3PCTHNNOMPZOV7UFF5H29S",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -188676.0,
+      "y": 39373.0,
+      "z": 16911.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0B36201_2026104153": {
+    "level_name": "45Z0CQJ0KIOFC9PMR3QXLM2ZA",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 334931.0,
+      "y": -68308.0,
+      "z": 6118.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0B37301_1874710112": {
+    "level_name": "0L64YXAH3DC6JLHPN8J9EG37Y",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 110839.0,
+      "y": 48953.0,
+      "z": 21602.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0B46201_1162892331": {
+    "level_name": "DLAE066U88DGNZ7CU6J65THSX",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 358514.0,
+      "y": -208960.0,
+      "z": 4184.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0B46201_1220705332": {
+    "level_name": "B1LCWO1Z3VY6RN86YJ7PL6S22",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 369114.0,
+      "y": -229286.0,
+      "z": 4198.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C06801_1834655836": {
+    "level_name": "2HPOYRSF0ZIL92RDMOHZOFDEM",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -271571.0,
+      "y": 104970.0,
+      "z": -1602.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C26101_1093316736": {
+    "level_name": "CUF1M93605PWFKLWIC77BQKKG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -218216.0,
+      "y": -1453.0,
+      "z": 2008.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C46101_1131406096": {
+    "level_name": "6VU7X1NWQ1O0AAPBMOBAJ243X",
+    "rotation": {
+      "x": 0.29010140895843506,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9569959044456482
+    },
+    "position": {
+      "x": -118884.0,
+      "y": -25804.0,
+      "z": 10832.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C46101_1178535097": {
+    "level_name": "DXVYYD8BKKT09X26V4GQSEQMA",
+    "rotation": {
+      "x": 0.038567349314689636,
+      "y": 0.05746646225452423,
+      "z": 0.3943534195423126,
+      "w": 0.9163490533828735
+    },
+    "position": {
+      "x": -172466.0,
+      "y": -3625.0,
+      "z": 12872.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C46101_1232106098": {
+    "level_name": "B7GL9WV21SEB6Z4W61UXPYU6D",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -180297.0,
+      "y": -22474.0,
+      "z": 3242.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0C86101_1887823809": {
+    "level_name": "B4VEW13MTSPHF46L54MSAT41G",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -182103.0,
+      "y": -90640.0,
+      "z": 1903.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0EE7A01_1386093905": {
+    "level_name": "51RJJ5B514PFPFP2MP7CJ7WY9",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 100696.0,
+      "y": 17546.0,
+      "z": 19038.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0F07A01_1459225259": {
+    "level_name": "DA0MFSEDIV8SMDUYDEN6II96E",
+    "rotation": {
+      "x": -0.05773546174168587,
+      "y": 0.01733027584850788,
+      "z": 0.0003880609292536974,
+      "w": 0.9981814026832581
+    },
+    "position": {
+      "x": 127207.0,
+      "y": 16821.0,
+      "z": 13038.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0F17A01_1899547441": {
+    "level_name": "3AIP3ZQWAIB10GWEBRSJ0BIH3",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 141000.0,
+      "y": 18583.0,
+      "z": 10929.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0F17A01_2106088442": {
+    "level_name": "C1RQPXAX4V4HC6M9BKCCNKP47",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 237050.0,
+      "y": -36906.0,
+      "z": 17298.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0F27A01_1632980625": {
+    "level_name": "DA0MFSEDIV8SMDUYDEN6II96E",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 131878.0,
+      "y": 30168.0,
+      "z": 10341.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0F47A01_2000362987": {
+    "level_name": "24GBDKQ2TMQLMVKBHQ6WOH0NO",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 163226.0,
+      "y": -26023.0,
+      "z": 19627.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0FA6801_1163136984": {
+    "level_name": "5WVJ2FAC5LSIHU2CNRQJ9MWB2",
+    "rotation": {
+      "x": 0.021215343847870827,
+      "y": -0.07334830611944199,
+      "z": -0.0015606676461175084,
+      "w": 0.9970794916152954
+    },
+    "position": {
+      "x": -171165.0,
+      "y": 159617.0,
+      "z": 247.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0FD6301_1551743241": {
+    "level_name": "4Z8QJ6AM5XIRUOKNWSRWWPEKG",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 176140.0,
+      "y": 83550.0,
+      "z": 15118.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_04421A9713F0FD6301_1747414245": {
+    "level_name": "10TH6LBPL45EHGDNWV7ITGN33",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 188755.0,
+      "y": 137135.0,
+      "z": 12000.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F79117901_1226789931": {
+    "level_name": "DT289L3R4Q62YAN7TTZSSS357",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 381621.75,
+      "y": -67653.375,
+      "z": -315.4111328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F793DA801_1139638307": {
+    "level_name": "1RDHUYU7FUM60GUGIOLC631WZ",
+    "rotation": {
+      "x": -0.4399673044681549,
+      "y": 0.08950523287057877,
+      "z": -0.04412492364645004,
+      "w": 0.8924520015716553
+    },
+    "position": {
+      "x": 211420.0,
+      "y": -83564.0,
+      "z": 11761.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F794FA001_1689147024": {
+    "level_name": "1PFD6KTXEBD26ONLZBYDGBNHX",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.35111361742019653,
+      "z": 0.0,
+      "w": 0.9363328814506531
+    },
+    "position": {
+      "x": 289400.0,
+      "y": -150062.0,
+      "z": 3508.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F79A4A101_1223072041": {
+    "level_name": "9S515VLNHQXKW74Y5NFXAKWAS",
+    "rotation": {
+      "x": 0.4817425310611725,
+      "y": -0.42414867877960205,
+      "z": -0.5369901657104492,
+      "w": 0.5474153757095337
+    },
+    "position": {
+      "x": 239346.0,
+      "y": -109822.0,
+      "z": 3526.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F79AD9B01_1500683292": {
+    "level_name": "BJ90CDRRW7NBKK9DQSQFAW3R9",
+    "rotation": {
+      "x": 0.5637055039405823,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.8259758353233337
+    },
+    "position": {
+      "x": 348548.75,
+      "y": -81514.375,
+      "z": 2424.5888671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_C_UAID_40B076DF2F79D68D01_1178565720": {
+    "level_name": "7HQ6ZKDEPDYF6WCFQ02KKTF9U",
+    "rotation": {
+      "x": -0.47631993889808655,
+      "y": -0.02046876586973667,
+      "z": 0.01109224557876587,
+      "w": 0.8789637684822083
+    },
+    "position": {
+      "x": 106404.09375,
+      "y": -7677.0234375,
+      "z": 15484.150390625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT2_UAID_40B076DF2F796A7301_1664532256": {
+    "level_name": "111AK3DFL126G8VUBWQA3FG82",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -6984.421875,
+      "y": -130402.8046875,
+      "z": 21074.27734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT30_14": {
+    "level_name": "EQV6F4YDIXBQYSESRGVEPSI4M",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 184819.609375,
+      "y": -49217.76171875,
+      "z": 5641.65869140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT31_17": {
+    "level_name": "EJUSBUBXZHMXUBS5PC7J30RBT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 153167.03125,
+      "y": -110704.8203125,
+      "z": -1196.0091552734375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT31_UAID_40B076DF2F7932A801_1176269369": {
+    "level_name": "36HBHD55OBP62ZP7N5BJBWN8U",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 193778.03125,
+      "y": -100453.8203125,
+      "z": 2416.990966796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT31_UAID_40B076DF2F7932A801_1267200370": {
+    "level_name": "DZ5ERFJK5CS6554CKDMJ9NXCE",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 123039.03125,
+      "y": -124466.8203125,
+      "z": 3788.990966796875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT32_20": {
+    "level_name": "2SZAZRPSH5MODBVZ67LMLEACX",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 162692.3125,
+      "y": -73458.125,
+      "z": -22.824737548828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT33_18": {
+    "level_name": "7T667VDD99YOYD7JCWIG51P6A",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 200555.0,
+      "y": -303560.0,
+      "z": 22415.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT38_2": {
+    "level_name": "1TWA5NPCXEP5YQC9DQNVAL8KJ",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.2723480463027954,
+      "w": 0.962198793888092
+    },
+    "position": {
+      "x": -127075.7109375,
+      "y": -148617.515625,
+      "z": 3997.942138671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT39_3": {
+    "level_name": "CDY9LT3ORF8K472H0114WSCKC",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 229725.71875,
+      "y": -189199.875,
+      "z": 6126.1572265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT3_4": {
+    "level_name": "CKREWOBFRNALUT4MOSK1J5V77",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 25598.796875,
+      "y": -118720.4296875,
+      "z": 12503.8984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT3_UAID_40B076DF2F795E7801_1675473424": {
+    "level_name": "4HNX7GQP4AU1BEHYTSNAWG8W6",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 67056.8515625,
+      "y": -77629.9765625,
+      "z": 7998.837890625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT3_UAID_40B076DF2F795E7801_2071161425": {
+    "level_name": "0KRL3VQVHZQNVHGD96KREOOR8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 40286.546875,
+      "y": -96468.5390625,
+      "z": 9342.6689453125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT3_UAID_40B076DF2F796A7301_1820015257": {
+    "level_name": "E6VDO3IRB8GYFL0D6AZYCE988",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 42208.796875,
+      "y": -118679.4296875,
+      "z": 11369.8984375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT4": {
+    "level_name": "0KRL3VQVHZQNVHGD96KREOOR8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 37399.64453125,
+      "y": -112562.328125,
+      "z": 10781.443359375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT40": {
+    "level_name": "7ECHWL6WKQE8EBWVDWYDXWMSP",
+    "rotation": {
+      "x": -1.0,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 1.2167963525655523e-08
+    },
+    "position": {
+      "x": 360181.75,
+      "y": -240032.375,
+      "z": 3096.5888671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT40_UAID_04421A9713F0D2E401_2079149903": {
+    "level_name": "7ECHWL6WKQE8EBWVDWYDXWMSP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 373688.75,
+      "y": -250924.375,
+      "z": -1004.4111328125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT41": {
+    "level_name": "5G5J4RLPVMXS3IKGMIW57032C",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 322306.75,
+      "y": -107934.375,
+      "z": 12732.5888671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT42": {
+    "level_name": "DD3SAXYBLW5V4PFB0HULLWLRT",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 386921.75,
+      "y": -221023.375,
+      "z": 5181.5888671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT43": {
+    "level_name": "BF15AQ1KJCL19W9YP52HSKDUR",
+    "rotation": {
+      "x": -0.35322824120521545,
+      "y": -0.439775288105011,
+      "z": 0.5170843005180359,
+      "w": 0.643778920173645
+    },
+    "position": {
+      "x": 286959.0,
+      "y": -235733.40625,
+      "z": 3059.57373046875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT44": {
+    "level_name": "1MZ2DS1EE8D6Z85TCCZ9X54D4",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 318098.75,
+      "y": -283229.0,
+      "z": -1756.6904296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT45_7909": {
+    "level_name": "ANFQIX0XYM1R5SJZNS9CZAT22",
+    "rotation": {
+      "x": 0.276905357837677,
+      "y": 0.14266416430473328,
+      "z": -0.5270570516586304,
+      "w": 0.7906840443611145
+    },
+    "position": {
+      "x": 160626.140625,
+      "y": 43687.6015625,
+      "z": 18793.140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT48": {
+    "level_name": "5YR7ABN2HQFIKG8GUTQNL0OF8",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 387613.75,
+      "y": -117122.375,
+      "z": 8561.4638671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT51": {
+    "level_name": "090RXBQSTNG5C1XD7EGH168JV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 234388.71875,
+      "y": -224003.078125,
+      "z": 13622.75
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT53": {
+    "level_name": "8FIN8GZNGKFVW7D1HMNF3LJVD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 240622.203125,
+      "y": -287486.65625,
+      "z": 18486.205078125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT54": {
+    "level_name": "2SHK4ENIN6BWDXHO0MAYNGRX6",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.02070867083966732,
+      "z": 0.0,
+      "w": 0.9997855424880981
+    },
+    "position": {
+      "x": 362304.75,
+      "y": -95286.375,
+      "z": 8769.4638671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT54_UAID_40B076DF2F793C8101_1652897954": {
+    "level_name": "8UDYWXEWSMNA091CPZSH9THY5",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 385674.75,
+      "y": -137041.375,
+      "z": 7326.125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT5_8": {
+    "level_name": "CGNT9WSGTVS7HU0KXLH6Z2KEX",
+    "rotation": {
+      "x": -0.031077947467565536,
+      "y": -0.0,
+      "z": 0.0,
+      "w": 0.9995169639587402
+    },
+    "position": {
+      "x": -24001.181640625,
+      "y": -91326.609375,
+      "z": 9658.271484375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT60": {
+    "level_name": "4V79DP52BUGL66ACSL6H1Y0QJ",
+    "rotation": {
+      "x": 0.023953016847372055,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9997130632400513
+    },
+    "position": {
+      "x": 291517.71875,
+      "y": -46167.875,
+      "z": 6849.5947265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT61": {
+    "level_name": "DIKPP4XVB69E8BDNXSQ9D3L4A",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 268602.71875,
+      "y": -69677.875,
+      "z": 9573.5947265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT65_1": {
+    "level_name": "7WP5162UQFDTL52KOO9KJTAOE",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 272302.1875,
+      "y": -296609.65625,
+      "z": 6152.04296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT69": {
+    "level_name": "7W9UDNX3KCC84L5VX4O792S6Q",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 293821.71875,
+      "y": -78077.875,
+      "z": 5730.5947265625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT6_7": {
+    "level_name": "7SNP1NOK9ZC0JFUT4YQXFT9GD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 4718.99609375,
+      "y": -96921.625,
+      "z": 14818.638671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT7": {
+    "level_name": "0OX6O83Q7SN4HUKQNYF26PUG1",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 77417.7890625,
+      "y": -119983.03125,
+      "z": 14084.4990234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT71": {
+    "level_name": "5XEHJ9D4NSXG10GSCFKJI7PFZ",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 231784.71875,
+      "y": -245638.078125,
+      "z": 1261.75
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT73": {
+    "level_name": "F3WI9LDL58SN8N6DYIW2OF3RO",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -72018.984375,
+      "y": -224771.140625,
+      "z": 5749.869140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT73_2": {
+    "level_name": "2T9OGPEYD5G0FJFNJD3AB74IS",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 164330.0,
+      "y": -222745.0,
+      "z": 8907.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT75": {
+    "level_name": "8V2S7IJRF1X66U2PPNU3LQ6H5",
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.3744155466556549,
+      "w": 0.9272609949111938
+    },
+    "position": {
+      "x": 261248.1875,
+      "y": -256628.65625,
+      "z": 6537.04296875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT76": {
+    "level_name": "090RXBQSTNG5C1XD7EGH168JV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 225043.71875,
+      "y": -215833.078125,
+      "z": 1283.75
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT77": {
+    "level_name": "0HZHRXOVC1IB2TIL7442CSN33",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -42082.984375,
+      "y": -210767.140625,
+      "z": 2649.4384765625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT78": {
+    "level_name": "4GEJG6PUKN0Q6HILMRAP8B17G",
+    "rotation": {
+      "x": 0.6307175755500793,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.7760124802589417
+    },
+    "position": {
+      "x": 372416.75,
+      "y": -186063.375,
+      "z": 3946.5888671875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT7_UAID_40B076DF2F795F7801_1562250602": {
+    "level_name": "1021TK291WEHIZ3YBBZBUTZO5",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 122159.296875,
+      "y": -103308.984375,
+      "z": 17466.82421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT80": {
+    "level_name": "4NZU8W6GOXZABI9LN6HFVWQAY",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -61292.984375,
+      "y": -180147.140625,
+      "z": -159.90380859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT81": {
+    "level_name": "5Z64JS49XQPE1DTEHVUQ0ATP5",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 233628.71875,
+      "y": -299693.0625,
+      "z": 1313.75
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT82": {
+    "level_name": "8FIN8GZNGKFVW7D1HMNF3LJVD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 253769.71875,
+      "y": -284738.0625,
+      "z": 2898.75
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT84": {
+    "level_name": "1VANSH8LBB1OHIHGOFVMYOS66",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -4749.984375,
+      "y": -201852.140625,
+      "z": -955.90380859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT85": {
+    "level_name": "2UGHAGZ61S0WA5I295WLMF529",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -8990.984375,
+      "y": -246390.140625,
+      "z": -736.90380859375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT86_0": {
+    "level_name": "2KCXRX17LKEC1Q83K6VT8JZOV",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 203300.0,
+      "y": -221365.0,
+      "z": 24626.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT87": {
+    "level_name": "0UT67HZZRI9QYMNAL604R9ZDH",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 118885.0,
+      "y": 41788.0,
+      "z": 9846.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT87_1": {
+    "level_name": "65TWDXCAJQT8ULQ0K3W90PF5K",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 214480.0,
+      "y": -278185.0,
+      "z": 20571.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT88": {
+    "level_name": "A83ST7K8BTOU8Q9OKEMQIOSXE",
+    "rotation": {
+      "x": 0.37520864605903625,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.926940381526947
+    },
+    "position": {
+      "x": 26512.015625,
+      "y": -233953.140625,
+      "z": 2582.09619140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT89": {
+    "level_name": "681112WPDUSKOWHZ4AXYO8ORY",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0023865981493145227,
+      "z": 0.0,
+      "w": 0.9999971389770508
+    },
+    "position": {
+      "x": 57796.0,
+      "y": -250997.140625,
+      "z": 1570.043701171875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT8_5": {
+    "level_name": "AAIYXGC69I0P98NVO7N7E3ELP",
+    "rotation": {
+      "x": 0.30352795124053955,
+      "y": -0.15670642256736755,
+      "z": 0.20980986952781677,
+      "w": 0.9161297082901001
+    },
+    "position": {
+      "x": -72810.2890625,
+      "y": -87490.421875,
+      "z": -55.43174362182617
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT9": {
+    "level_name": "1HV28XR4NNA4Z5C08E7LC6S1M",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 182016.0,
+      "y": 93031.0,
+      "z": 6673.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT90": {
+    "level_name": "BZEVNLO9HJHB5BH8TBRM90F2J",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 76962.015625,
+      "y": -216831.140625,
+      "z": 2721.09619140625
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT91_0": {
+    "level_name": "6KX3W8KN4777PL5AIQYN62PXP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 146780.0,
+      "y": -136900.0,
+      "z": 16336.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT91_340": {
+    "level_name": "52IUPTFUMF1G8JSXQR56A27YB",
+    "rotation": {
+      "x": 0.4832560122013092,
+      "y": -0.0799669399857521,
+      "z": 0.23106060922145844,
+      "w": 0.8406425714492798
+    },
+    "position": {
+      "x": 3345.35546875,
+      "y": 220743.65625,
+      "z": -1998.234375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT93": {
+    "level_name": "CBLQOVJE72F63HHDW2N1Q96UP",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 60222.015625,
+      "y": -214157.140625,
+      "z": -1077.0596923828125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT94_1": {
+    "level_name": "7D7OQT7C59XPI9USE4REHDKWD",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 123320.0,
+      "y": -152385.0,
+      "z": 19742.0
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT94_781": {
+    "level_name": "ETXFQ1WXUGLV4FN21GXWTVYNU",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 67301.0390625,
+      "y": 243297.484375,
+      "z": 1171.628662109375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT95_2253": {
+    "level_name": "2UE2D90SCKJ26UGIA11CODO7X",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 48268.71875,
+      "y": 216630.5625,
+      "z": -6016.65283203125
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT96_3047": {
+    "level_name": "2OYRFTMP06S5SN0T3MR4EQ8ZW",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 35886.84765625,
+      "y": 239511.65625,
+      "z": -5053.9560546875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT97_3991": {
+    "level_name": "CQ39X1KO2CYJMDK1AL2P3FDJM",
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 86133.5625,
+      "y": 162053.6875,
+      "z": 1756.292724609375
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT98_5463": {
+    "level_name": "9ZF50FWDEEPISIG99HTODWJGP",
+    "rotation": {
+      "x": 4.0964854974845366e-07,
+      "y": -0.9996670484542847,
+      "z": -4.0964854974845366e-07,
+      "w": -0.02580236829817295
+    },
+    "position": {
+      "x": 75108.453125,
+      "y": 202369.546875,
+      "z": 3425.719482421875
+    }
+  },
+  "Persistent_Level:PersistentLevel.BP_WAT99_2052": {
+    "level_name": "AIH3C4LI19ODUG77WR1KF9XJF",
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.26613083481788635,
+      "w": 0.9639369249343872
+    },
+    "position": {
+      "x": 51761.84765625,
+      "y": 202143.28125,
+      "z": -1560.935791015625
+    }
+  }
+}

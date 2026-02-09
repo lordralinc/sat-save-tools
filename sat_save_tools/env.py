@@ -1,0 +1,21 @@
+import os
+import pathlib
+
+__all__ = (
+    "SF_DUMP_UNPARSED_SAVE",
+    "SF_DUMP_UNPARSED_SAVE_FOLDER",
+    "SF_LOGS_ENABLE_OFFSET",
+    "SF_LOGS_ENABLE_STRUCT_PATHS",
+    "SF_PROGRESS_LOG_EVERY",
+    "SF_PROGRESS_USE_RICH",
+)
+
+
+SF_LOGS_ENABLE_STRUCT_PATHS = os.environ.get("SF_LOGS_ENABLE_STRUCT_PATHS", "0") == "1"
+SF_LOGS_ENABLE_OFFSET = os.environ.get("SF_LOGS_ENABLE_OFFSET", "0") == "1"
+SF_PROGRESS_USE_RICH = os.getenv("SF_PROGRESS_USE_RICH", "1") != "0"
+SF_PROGRESS_LOG_EVERY = int(os.getenv("SF_PROGRESS_LOG_EVERY", "100"))
+SF_DUMP_UNPARSED_SAVE = os.environ.get("SF_DUMP_UNPARSED_SAVE", "0") == "1"
+SF_DUMP_UNPARSED_SAVE_FOLDER = pathlib.Path(
+    os.environ.get("SF_DUMP_UNPARSED_SAVE_FOLDER", "unparsed"),
+)

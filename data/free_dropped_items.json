@@ -1,0 +1,6352 @@
+{
+  "/Game/FactoryGame/Resource/Parts/Rotor/Desc_Rotor.Desc_Rotor_C": [
+    {
+      "quantity": 45,
+      "location": {
+        "x": -108638.28125,
+        "y": 214652.03125,
+        "z": 3212.048095703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CFC401_1769786571"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -79117.0,
+        "y": 291096.0,
+        "z": -4861.1494140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799EC101_1478164780"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -153019.0,
+        "y": 227571.0,
+        "z": 651.4031982421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795DC101_1146000340"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": -233157.0,
+        "y": -51281.0,
+        "z": -468.4290466308594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073931718"
+    },
+    {
+      "quantity": 53,
+      "location": {
+        "x": -200896.578125,
+        "y": -17680.865234375,
+        "z": 12112.5703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065672517"
+    },
+    {
+      "quantity": 53,
+      "location": {
+        "x": -109058.1796875,
+        "y": 108773.203125,
+        "z": 9893.87109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269704713"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": -156106.25,
+        "y": -64984.6953125,
+        "z": 12089.134765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695502712"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": -146148.828125,
+        "y": -135687.546875,
+        "z": 1335.8955078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122942132"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": -124835.03125,
+        "y": -168706.28125,
+        "z": 29306.65625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811274628"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -89871.0,
+        "y": -49970.0,
+        "z": 15953.4990234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159308098"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": -43379.27734375,
+        "y": 146294.03125,
+        "z": 7440.515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944042105"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -9974.0,
+        "y": 226686.0,
+        "z": -1098.4290771484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1520654355"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 31942.0,
+        "y": 266633.0,
+        "z": -1400.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1856481276"
+    },
+    {
+      "quantity": 43,
+      "location": {
+        "x": 27779.48046875,
+        "y": 193944.015625,
+        "z": 17078.044921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183605530"
+    },
+    {
+      "quantity": 50,
+      "location": {
+        "x": 66115.5,
+        "y": 156219.671875,
+        "z": 13899.984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165878990"
+    },
+    {
+      "quantity": 42,
+      "location": {
+        "x": 20874.72265625,
+        "y": 131705.03125,
+        "z": 2652.048095703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1437005173"
+    },
+    {
+      "quantity": 57,
+      "location": {
+        "x": 20627.49609375,
+        "y": 130515.671875,
+        "z": 2958.42724609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1437004172"
+    },
+    {
+      "quantity": 71,
+      "location": {
+        "x": -29168.173828125,
+        "y": -23330.703125,
+        "z": 17425.849609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734761332"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": -29647.83984375,
+        "y": -22771.130859375,
+        "z": 17392.369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734790336"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": -55469.66796875,
+        "y": -72875.0,
+        "z": 27734.953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981112550"
+    },
+    {
+      "quantity": 42,
+      "location": {
+        "x": -24008.0,
+        "y": -127935.0,
+        "z": 8014.19287109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619414942"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 16754.0,
+        "y": -137037.0,
+        "z": 13693.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430574612"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 17931.0,
+        "y": -136332.0,
+        "z": 13657.228515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430575613"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 80688.0,
+        "y": -43642.0,
+        "z": 8187.19287109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444872226"
+    },
+    {
+      "quantity": 54,
+      "location": {
+        "x": 80151.0,
+        "y": -43817.0,
+        "z": 8243.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444873227"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": 125112.59375,
+        "y": -34038.2109375,
+        "z": 8191.5556640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541724848"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": 126110.8515625,
+        "y": -34232.30859375,
+        "z": 8179.09033203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541723847"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": 295045.53125,
+        "y": -172384.546875,
+        "z": 7692.228515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable125"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": 302115.21875,
+        "y": -245522.375,
+        "z": 4396.068359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_416"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": 304729.5625,
+        "y": -243308.828125,
+        "z": 4045.154541015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_417"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": 363272.0,
+        "y": -215973.828125,
+        "z": 4085.749267578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_428"
+    },
+    {
+      "quantity": 53,
+      "location": {
+        "x": 357789.65625,
+        "y": -104815.484375,
+        "z": 11058.7763671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420554022"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 346549.375,
+        "y": -40608.55859375,
+        "z": -1727.4285888671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2112985256"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": 112179.8203125,
+        "y": -53247.3671875,
+        "z": 16860.775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624849853"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C": [
+    {
+      "quantity": 100,
+      "location": {
+        "x": -107497.5625,
+        "y": 214104.53125,
+        "z": 3144.637939453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CFC401_1769749568"
+    },
+    {
+      "quantity": 108,
+      "location": {
+        "x": -152906.0,
+        "y": 228259.0,
+        "z": 758.4031982421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795BC101_1789143985"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": -146246.0,
+        "y": -137415.0,
+        "z": 2590.571044921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122940130"
+    },
+    {
+      "quantity": 128,
+      "location": {
+        "x": -9085.0,
+        "y": 226318.0,
+        "z": -1063.4290771484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1493836352"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -8731.0,
+        "y": 227267.0,
+        "z": -1130.4290771484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1520628354"
+    },
+    {
+      "quantity": 124,
+      "location": {
+        "x": 29696.0,
+        "y": 266783.0,
+        "z": -1334.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1638364273"
+    },
+    {
+      "quantity": 125,
+      "location": {
+        "x": 29313.5859375,
+        "y": 193928.640625,
+        "z": 17508.40234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183577528"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 26727.818359375,
+        "y": 194649.203125,
+        "z": 17004.345703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183604529"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": 79259.0,
+        "y": -44820.0,
+        "z": 8262.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444870225"
+    },
+    {
+      "quantity": 112,
+      "location": {
+        "x": 78241.0,
+        "y": -43734.0,
+        "z": 8214.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444833224"
+    },
+    {
+      "quantity": 96,
+      "location": {
+        "x": 273248.1875,
+        "y": -50479.54296875,
+        "z": 5793.11181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629253673"
+    },
+    {
+      "quantity": 128,
+      "location": {
+        "x": 294420.15625,
+        "y": -173139.453125,
+        "z": 8139.57470703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable114"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 360957.625,
+        "y": -218025.703125,
+        "z": 4069.35400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7994C301_1377266141"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/SteelPipe/Desc_SteelPipe.Desc_SteelPipe_C": [
+    {
+      "quantity": 46,
+      "location": {
+        "x": -107858.1796875,
+        "y": 214868.203125,
+        "z": 3171.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CFC401_1769787572"
+    },
+    {
+      "quantity": 106,
+      "location": {
+        "x": -244257.0625,
+        "y": -142446.5,
+        "z": 4408.41455078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120035422"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": -246664.71875,
+        "y": -142410.296875,
+        "z": 4438.00048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120039426"
+    },
+    {
+      "quantity": 124,
+      "location": {
+        "x": -186009.96875,
+        "y": 71163.4609375,
+        "z": -907.7071533203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4DD01_2098139419"
+    },
+    {
+      "quantity": 116,
+      "location": {
+        "x": -161099.0,
+        "y": 70001.40625,
+        "z": 2736.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A2DD01_1733096065"
+    },
+    {
+      "quantity": 112,
+      "location": {
+        "x": -152850.1875,
+        "y": 72509.203125,
+        "z": 10288.87109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364298738"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": -108638.5,
+        "y": 107073.671875,
+        "z": 9989.984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269682711"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": -176586.71875,
+        "y": -195777.296875,
+        "z": -1548.9993896484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093656136"
+    },
+    {
+      "quantity": 106,
+      "location": {
+        "x": -174186.0625,
+        "y": -195813.5,
+        "z": -1714.5853271484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093652132"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": -89620.65625,
+        "y": -48549.94140625,
+        "z": 16042.7685546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159304095"
+    },
+    {
+      "quantity": 134,
+      "location": {
+        "x": 46497.0,
+        "y": 221164.0,
+        "z": 5799.81201171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637932639"
+    },
+    {
+      "quantity": 44,
+      "location": {
+        "x": 20566.408203125,
+        "y": 130296.6796875,
+        "z": 3010.23046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1437006174"
+    },
+    {
+      "quantity": 103,
+      "location": {
+        "x": 8077.0,
+        "y": -42615.0,
+        "z": 13143.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683933516"
+    },
+    {
+      "quantity": 34,
+      "location": {
+        "x": 294222.40625,
+        "y": -171439.984375,
+        "z": 7312.923828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable184"
+    },
+    {
+      "quantity": 120,
+      "location": {
+        "x": 301876.5625,
+        "y": -247807.6875,
+        "z": 2612.859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_415"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": 112768.7109375,
+        "y": -54149.9140625,
+        "z": 16972.8359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624848852"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Wire/Desc_Wire.Desc_Wire_C": [
+    {
+      "quantity": 110,
+      "location": {
+        "x": -79028.0,
+        "y": 291697.0,
+        "z": -4851.48046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799EC101_1316629776"
+    },
+    {
+      "quantity": 76,
+      "location": {
+        "x": -146381.65625,
+        "y": -136670.9375,
+        "z": 2160.7685546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122941131"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": -94686.5390625,
+        "y": 7113.10546875,
+        "z": 25201.037109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214804331"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": 31851.0,
+        "y": 266398.0,
+        "z": -1394.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1695657275"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": 65786.8203125,
+        "y": 157553.203125,
+        "z": 13787.87109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165876989"
+    },
+    {
+      "quantity": 146,
+      "location": {
+        "x": 20175.818359375,
+        "y": 131241.203125,
+        "z": 2595.221435546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1437003171"
+    },
+    {
+      "quantity": 104,
+      "location": {
+        "x": 274615.71875,
+        "y": -49098.640625,
+        "z": 5901.10888671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629252672"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": 364645.15625,
+        "y": -219153.0,
+        "z": 4036.2060546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7994C301_1377300142"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/IronPlate/Desc_IronPlate.Desc_IronPlate_C": [
+    {
+      "quantity": 106,
+      "location": {
+        "x": -78533.0,
+        "y": 291841.0,
+        "z": -4824.1494140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799EC101_1374507777"
+    },
+    {
+      "quantity": 140,
+      "location": {
+        "x": -152874.0,
+        "y": 228807.0,
+        "z": 850.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7951C101_2089542226"
+    },
+    {
+      "quantity": 102,
+      "location": {
+        "x": -196507.703125,
+        "y": -60799.2578125,
+        "z": -321.0380859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060862157"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -231695.0,
+        "y": -50700.0,
+        "z": -366.4290466308594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073930717"
+    },
+    {
+      "quantity": 147,
+      "location": {
+        "x": -201020.703125,
+        "y": -20082.259765625,
+        "z": 12104.5986328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065670515"
+    },
+    {
+      "quantity": 128,
+      "location": {
+        "x": -146678.0,
+        "y": -136566.0,
+        "z": 2115.650146484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122903128"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": -42220.5625,
+        "y": 145746.53125,
+        "z": 7674.63818359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944014102"
+    },
+    {
+      "quantity": 136,
+      "location": {
+        "x": -25624.0,
+        "y": -129766.0,
+        "z": 7986.97998046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619413941"
+    },
+    {
+      "quantity": 106,
+      "location": {
+        "x": 17067.0,
+        "y": -137240.0,
+        "z": 13695.06640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430573611"
+    },
+    {
+      "quantity": 145,
+      "location": {
+        "x": 109704.1796875,
+        "y": -112924.21875,
+        "z": 11853.32421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914599123"
+    },
+    {
+      "quantity": 145,
+      "location": {
+        "x": 87354.671875,
+        "y": -63703.26171875,
+        "z": 13406.7470703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523413935"
+    },
+    {
+      "quantity": 103,
+      "location": {
+        "x": 294650.1875,
+        "y": -172702.28125,
+        "z": 8094.34521484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable115"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C": [
+    {
+      "quantity": 100,
+      "location": {
+        "x": -79366.0,
+        "y": 291321.0,
+        "z": -4861.1494140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799EC101_1374531778"
+    },
+    {
+      "quantity": 225,
+      "location": {
+        "x": -78177.0,
+        "y": 292164.0,
+        "z": -4804.1494140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795DC101_1910607341"
+    },
+    {
+      "quantity": 128,
+      "location": {
+        "x": -151898.0,
+        "y": 228593.0,
+        "z": 794.4031982421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795AC101_1501791808"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": -232459.0,
+        "y": -50591.0,
+        "z": -353.1138000488281
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073894714"
+    },
+    {
+      "quantity": 104,
+      "location": {
+        "x": -43037.1796875,
+        "y": 146932.203125,
+        "z": 7478.7392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944040103"
+    },
+    {
+      "quantity": 124,
+      "location": {
+        "x": -9495.0,
+        "y": 227376.0,
+        "z": -1112.11376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F7C201_1202575504"
+    },
+    {
+      "quantity": 120,
+      "location": {
+        "x": 21451.435546875,
+        "y": 131122.53125,
+        "z": 2918.541748046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1436977170"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 361934.46875,
+        "y": -216663.34375,
+        "z": 4015.592041015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7994C301_1349023139"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/ModularFrame/Desc_ModularFrame.Desc_ModularFrame_C": [
+    {
+      "quantity": 14,
+      "location": {
+        "x": -78266.0,
+        "y": 291563.0,
+        "z": -4806.1494140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799EC101_1478137779"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": -199129.09375,
+        "y": -17524.0546875,
+        "z": 12061.4169921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065674519"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -187501.78125,
+        "y": 71945.78125,
+        "z": -647.8575439453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ACDD01_1525324833"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -186394.484375,
+        "y": 72317.703125,
+        "z": -654.948974609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A2DD01_2087964066"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": -108392.28125,
+        "y": 108322.03125,
+        "z": 9943.0478515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269703712"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": -129723.1796875,
+        "y": 60785.203125,
+        "z": 4829.87109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152460272"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": -126563.71875,
+        "y": -167193.296875,
+        "z": 29650.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811272626"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": -124051.0625,
+        "y": -167521.5,
+        "z": 29258.4140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811271625"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 20317.005859375,
+        "y": 131771.109375,
+        "z": 2415.571533203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D8C401_1437007175"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": -29685.486328125,
+        "y": -22049.970703125,
+        "z": 17384.0078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734791337"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -6915.0,
+        "y": -76948.0,
+        "z": 13695.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152039700"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 233463.21875,
+        "y": -314702.375,
+        "z": 9956.068359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130359057"
+    },
+    {
+      "quantity": 11,
+      "location": {
+        "x": 109546.0703125,
+        "y": -112572.5390625,
+        "z": 11729.2939453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914603127"
+    },
+    {
+      "quantity": 11,
+      "location": {
+        "x": 87285.8671875,
+        "y": -63874.15625,
+        "z": 13391.84765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523417939"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 79047.0,
+        "y": -44448.0,
+        "z": 8239.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444874228"
+    },
+    {
+      "quantity": 13,
+      "location": {
+        "x": 294364.875,
+        "y": -172619.84375,
+        "z": 7920.76025390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable182"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 358497.84375,
+        "y": -104903.4921875,
+        "z": 11131.94921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420582024"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 346724.1875,
+        "y": -40932.5,
+        "z": -1779.0523681640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2113017258"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/IronScrew/Desc_IronScrew.Desc_IronScrew_C": [
+    {
+      "quantity": 120,
+      "location": {
+        "x": -152663.0,
+        "y": 228259.0,
+        "z": 759.4031982421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CC101_2070279162"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": -197235.09375,
+        "y": -59475.140625,
+        "z": -322.9495544433594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060835156"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": -232049.0,
+        "y": -51666.0,
+        "z": -451.4290466308594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073928715"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": -146649.0,
+        "y": -137208.0,
+        "z": 2566.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122939129"
+    },
+    {
+      "quantity": 86,
+      "location": {
+        "x": 32043.0,
+        "y": 267671.0,
+        "z": -1386.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1695631274"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": 67671.4375,
+        "y": 156323.53125,
+        "z": 13416.6376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165850988"
+    },
+    {
+      "quantity": 136,
+      "location": {
+        "x": 18604.0,
+        "y": -136521.0,
+        "z": 13592.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430571609"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": 17940.0,
+        "y": -137566.0,
+        "z": 13599.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430532608"
+    },
+    {
+      "quantity": 132,
+      "location": {
+        "x": 108522.0,
+        "y": -112815.0,
+        "z": 11652.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914572122"
+    },
+    {
+      "quantity": 132,
+      "location": {
+        "x": 85803.0,
+        "y": -63202.0,
+        "z": 13058.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523382934"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 272770.09375,
+        "y": -52032.59765625,
+        "z": 5909.10986328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629254674"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/IronPlateReinforced/Desc_IronPlateReinforced.Desc_IronPlateReinforced_C": [
+    {
+      "quantity": 20,
+      "location": {
+        "x": -153384.0,
+        "y": 227826.0,
+        "z": 696.4031982421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795DC101_1145974339"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": -244223.03125,
+        "y": -143895.28125,
+        "z": 4499.767578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120010421"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": -244841.546875,
+        "y": -142152.140625,
+        "z": 4430.404296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120038425"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": -196710.578125,
+        "y": -58820.86328125,
+        "z": -324.4616394042969
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060864159"
+    },
+    {
+      "quantity": 47,
+      "location": {
+        "x": -194777.09375,
+        "y": -59474.8203125,
+        "z": -329.2945251464844
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060863158"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": -232782.0,
+        "y": -52127.0,
+        "z": -495.2721252441406
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073932719"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": -198963.09375,
+        "y": -18334.8203125,
+        "z": 12094.705078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065671516"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -116524.1796875,
+        "y": 169883.203125,
+        "z": 229.8711700439453
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926585003"
+    },
+    {
+      "quantity": 54,
+      "location": {
+        "x": -115060.5625,
+        "y": 169497.53125,
+        "z": 420.6380310058594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926586004"
+    },
+    {
+      "quantity": 58,
+      "location": {
+        "x": -107493.5625,
+        "y": 108264.53125,
+        "z": 9903.6376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269705714"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -157495.734375,
+        "y": -64688.7421875,
+        "z": 12093.4375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695503713"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": -145332.0,
+        "y": -135849.0,
+        "z": 1406.7279052734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7939C301_2122943133"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": -173631.03125,
+        "y": -196658.28125,
+        "z": -1731.232421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093634131"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": -174757.546875,
+        "y": -195519.140625,
+        "z": -1645.2215576171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093655135"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": -124736.5390625,
+        "y": -166989.140625,
+        "z": 29421.404296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811275629"
+    },
+    {
+      "quantity": 50,
+      "location": {
+        "x": -89702.0,
+        "y": -49475.0,
+        "z": 15961.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159278094"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -42500.50390625,
+        "y": 145153.671875,
+        "z": 7627.984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944041104"
+    },
+    {
+      "quantity": 38,
+      "location": {
+        "x": -9818.0,
+        "y": 225840.0,
+        "z": -986.2720947265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1525774356"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 30578.0,
+        "y": 267987.0,
+        "z": -1273.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1856511277"
+    },
+    {
+      "quantity": 41,
+      "location": {
+        "x": 28986.8203125,
+        "y": 194245.390625,
+        "z": 17492.236328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183606531"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 66450.71875,
+        "y": 157601.03125,
+        "z": 13624.0478515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165879991"
+    },
+    {
+      "quantity": 34,
+      "location": {
+        "x": -55184.7109375,
+        "y": -73600.2421875,
+        "z": 27724.251953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981079546"
+    },
+    {
+      "quantity": 54,
+      "location": {
+        "x": -26149.0,
+        "y": -130296.0,
+        "z": 8019.73388671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619416943"
+    },
+    {
+      "quantity": 51,
+      "location": {
+        "x": 365819.84375,
+        "y": -300722.90625,
+        "z": -7468.7939453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825274441"
+    },
+    {
+      "quantity": 73,
+      "location": {
+        "x": 367055.0625,
+        "y": -301392.625,
+        "z": -7409.2041015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825296442"
+    },
+    {
+      "quantity": 39,
+      "location": {
+        "x": 109988.8046875,
+        "y": -112940.140625,
+        "z": 11812.72265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914601125"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": 110039.75,
+        "y": -112214.8125,
+        "z": 11735.185546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914600124"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": 89095.828125,
+        "y": -63591.81640625,
+        "z": 13805.7109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523414936"
+    },
+    {
+      "quantity": 39,
+      "location": {
+        "x": 86774.8984375,
+        "y": -62754.71484375,
+        "z": 13218.080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523415937"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 277813.375,
+        "y": -50067.4609375,
+        "z": 5991.92724609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629255675"
+    },
+    {
+      "quantity": 22,
+      "location": {
+        "x": 276606.71875,
+        "y": -52238.03515625,
+        "z": 5987.798828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629256676"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 294137.03125,
+        "y": -172153.296875,
+        "z": 7993.13720703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable119"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 361161.96875,
+        "y": -218614.953125,
+        "z": 4113.55126953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7994C301_1349062140"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": 358632.71875,
+        "y": -103315.640625,
+        "z": 11128.1083984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420584026"
+    },
+    {
+      "quantity": 58,
+      "location": {
+        "x": 347451.71875,
+        "y": -38624.640625,
+        "z": -1693.8912353515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2113019260"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 110983.9765625,
+        "y": -53001.65625,
+        "z": 16816.373046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624850854"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/SteelPlateReinforced/Desc_SteelPlateReinforced.Desc_SteelPlateReinforced_C": [
+    {
+      "quantity": 75,
+      "location": {
+        "x": -258831.1875,
+        "y": 107261.203125,
+        "z": -1641.1287841796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038675489"
+    },
+    {
+      "quantity": 52,
+      "location": {
+        "x": -260218.5625,
+        "y": 103424.53125,
+        "z": -1643.3619384765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038658488"
+    },
+    {
+      "quantity": 21,
+      "location": {
+        "x": -244154.0,
+        "y": -142796.0,
+        "z": 4434.98095703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120036423"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -182959.265625,
+        "y": 69078.53125,
+        "z": 14202.5732421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AADD01_1889295479"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -152631.5,
+        "y": 71440.671875,
+        "z": 10035.984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364297737"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": -116427.6015625,
+        "y": 169182.6875,
+        "z": 210.9367218017578
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926587005"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -115179.1796875,
+        "y": 169768.203125,
+        "z": 432.33392333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926588006"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": -108073.1796875,
+        "y": 108672.1953125,
+        "z": 9855.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269707716"
+    },
+    {
+      "quantity": 21,
+      "location": {
+        "x": -174118.0,
+        "y": -196163.0,
+        "z": -1705.01904296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093653133"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": -123176.6171875,
+        "y": -166539.953125,
+        "z": 29160.962890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811242624"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": -89877.8359375,
+        "y": -49104.546875,
+        "z": 15961.6767578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159306097"
+    },
+    {
+      "quantity": 48,
+      "location": {
+        "x": 46246.0,
+        "y": 221632.0,
+        "z": 5798.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637931638"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": 48147.0,
+        "y": 221798.0,
+        "z": 5809.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637911634"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": -57057.0,
+        "y": -147203.0,
+        "z": 1797.39599609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667062846"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": -48783.0,
+        "y": -260130.0,
+        "z": -1551.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846408199"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -49669.0,
+        "y": -257275.0,
+        "z": -1413.60400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846406198"
+    },
+    {
+      "quantity": 71,
+      "location": {
+        "x": 549.0,
+        "y": -237523.0,
+        "z": -1819.60400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126607300"
+    },
+    {
+      "quantity": 57,
+      "location": {
+        "x": -1395.0,
+        "y": -238804.0,
+        "z": -1821.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126609301"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": 3835.0,
+        "y": -187659.0,
+        "z": -1538.60400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907929118"
+    },
+    {
+      "quantity": 48,
+      "location": {
+        "x": -4946.0,
+        "y": -77388.0,
+        "z": 13636.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152041701"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": -4488.0,
+        "y": -75644.0,
+        "z": 13586.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152042702"
+    },
+    {
+      "quantity": 50,
+      "location": {
+        "x": 88121.0,
+        "y": 189533.0,
+        "z": 1371.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042488452"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 118283.5546875,
+        "y": 220785.3125,
+        "z": -7441.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378166295"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": 187345.0,
+        "y": 222678.0,
+        "z": -3259.187744140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848715909"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 186630.515625,
+        "y": 175426.0625,
+        "z": 6459.783203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553812267"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": 184545.0,
+        "y": 177062.0,
+        "z": 6186.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553781262"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": 366505.46875,
+        "y": -301600.875,
+        "z": -7421.58984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825298444"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 236264.21875,
+        "y": -313065.5,
+        "z": 9957.15234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130336056"
+    },
+    {
+      "quantity": 71,
+      "location": {
+        "x": 85997.0,
+        "y": -171557.0,
+        "z": -416.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502726193"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 120195.0,
+        "y": -164592.0,
+        "z": -188.6039581298828
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883524204"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 56864.0,
+        "y": -50221.0,
+        "z": 13745.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139935809"
+    },
+    {
+      "quantity": 41,
+      "location": {
+        "x": 67009.0,
+        "y": -13000.0,
+        "z": 13333.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565901748"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": 160430.0,
+        "y": -39944.0,
+        "z": 14975.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418403388"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": 128090.0,
+        "y": -115614.0,
+        "z": -1490.60400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1311992380"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 304404.4375,
+        "y": -244986.375,
+        "z": 4076.5625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_418"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 349661.375,
+        "y": -39793.4609375,
+        "z": -1582.0726318359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2113018259"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 111402.90625,
+        "y": -52885.58203125,
+        "z": 16835.052734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624824851"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Fuel/Desc_Fuel.Desc_Fuel_C": [
+    {
+      "quantity": 6,
+      "location": {
+        "x": -260158.828125,
+        "y": 106252.7265625,
+        "z": -1656.432861328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038676490"
+    },
+    {
+      "quantity": 3,
+      "location": {
+        "x": -48826.0,
+        "y": -258881.0,
+        "z": -1529.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846405197"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Plastic/Desc_Plastic.Desc_Plastic_C": [
+    {
+      "quantity": 120,
+      "location": {
+        "x": -260200.28125,
+        "y": 105505.03125,
+        "z": -1631.9520263671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038677491"
+    },
+    {
+      "quantity": 38,
+      "location": {
+        "x": -160471.0,
+        "y": 66187.40625,
+        "z": 3883.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799CDD01_1480630007"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": -152423.1875,
+        "y": 72614.1953125,
+        "z": 10089.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364299739"
+    },
+    {
+      "quantity": 107,
+      "location": {
+        "x": -164507.1875,
+        "y": 157067.203125,
+        "z": 12433.87109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756213767"
+    },
+    {
+      "quantity": 133,
+      "location": {
+        "x": -164749.5625,
+        "y": 154390.53125,
+        "z": 12389.4375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756215769"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 47288.0,
+        "y": 221328.0,
+        "z": 5785.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637927635"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": -48895.0,
+        "y": -257828.0,
+        "z": -1456.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846404196"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": -50398.1875,
+        "y": -259980.4375,
+        "z": -1585.1048583984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846376194"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 5334.0,
+        "y": -188245.0,
+        "z": -1546.26611328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907900114"
+    },
+    {
+      "quantity": 47,
+      "location": {
+        "x": -5778.0,
+        "y": -75962.0,
+        "z": 13641.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152038699"
+    },
+    {
+      "quantity": 108,
+      "location": {
+        "x": 175526.0,
+        "y": 244857.0,
+        "z": -9750.0009765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178480291"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": 86837.0,
+        "y": -169181.0,
+        "z": -412.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502722190"
+    },
+    {
+      "quantity": 102,
+      "location": {
+        "x": 162944.0,
+        "y": 60794.0,
+        "z": 21198.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143868067"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": 158230.0,
+        "y": -43309.0,
+        "z": 12706.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418406389"
+    },
+    {
+      "quantity": 85,
+      "location": {
+        "x": 208399.796875,
+        "y": -65057.765625,
+        "z": 9112.4912109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_393"
+    },
+    {
+      "quantity": 106,
+      "location": {
+        "x": 210493.328125,
+        "y": -67907.21875,
+        "z": 13825.087890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_394"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Rubber/Desc_Rubber.Desc_Rubber_C": [
+    {
+      "quantity": 66,
+      "location": {
+        "x": -258172.5,
+        "y": 103983.671875,
+        "z": -1675.015380859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038679493"
+    },
+    {
+      "quantity": 118,
+      "location": {
+        "x": -191524.796875,
+        "y": 67176.375,
+        "z": 23684.873046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232930761"
+    },
+    {
+      "quantity": 119,
+      "location": {
+        "x": -187985.28125,
+        "y": 116907.03125,
+        "z": -1589.9520263671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657075157"
+    },
+    {
+      "quantity": 50,
+      "location": {
+        "x": -129434.1796875,
+        "y": 60927.1953125,
+        "z": 4795.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152461273"
+    },
+    {
+      "quantity": 78,
+      "location": {
+        "x": 1195.0,
+        "y": -238336.0,
+        "z": -1814.26611328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126579296"
+    },
+    {
+      "quantity": 88,
+      "location": {
+        "x": 44078.44921875,
+        "y": -244554.359375,
+        "z": -869.5781860351562
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453329182"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 45475.3359375,
+        "y": -244615.953125,
+        "z": -856.4299926757812
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453352184"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": 7454.0,
+        "y": -186982.0,
+        "z": -1499.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907926116"
+    },
+    {
+      "quantity": 64,
+      "location": {
+        "x": 120025.8828125,
+        "y": 222007.265625,
+        "z": -7442.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378167296"
+    },
+    {
+      "quantity": 146,
+      "location": {
+        "x": 221231.546875,
+        "y": 186681.265625,
+        "z": 11606.986328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745806420"
+    },
+    {
+      "quantity": 134,
+      "location": {
+        "x": 219935.0,
+        "y": 186410.0,
+        "z": 11736.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745827422"
+    },
+    {
+      "quantity": 88,
+      "location": {
+        "x": 83788.0,
+        "y": -171426.0,
+        "z": -301.2661437988281
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502696188"
+    },
+    {
+      "quantity": 131,
+      "location": {
+        "x": 99742.8046875,
+        "y": -152720.109375,
+        "z": 1935.87060546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_103"
+    },
+    {
+      "quantity": 108,
+      "location": {
+        "x": 98503.1640625,
+        "y": -151533.453125,
+        "z": 2323.874267578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_106"
+    },
+    {
+      "quantity": 34,
+      "location": {
+        "x": 56088.0,
+        "y": -51383.0,
+        "z": 13933.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139932807"
+    },
+    {
+      "quantity": 140,
+      "location": {
+        "x": 150177.0,
+        "y": 147164.0,
+        "z": 7626.81201171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155110072"
+    },
+    {
+      "quantity": 125,
+      "location": {
+        "x": 183810.0,
+        "y": 95313.0,
+        "z": 17812.0625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166766078"
+    },
+    {
+      "quantity": 128,
+      "location": {
+        "x": 199854.0,
+        "y": 133218.0,
+        "z": 6701.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917489627"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": 156727.0,
+        "y": -39824.0,
+        "z": 13731.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418409391"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 125126.0,
+        "y": -118364.0,
+        "z": -1487.26611328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1312026383"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Computer/Desc_Computer.Desc_Computer_C": [
+    {
+      "quantity": 10,
+      "location": {
+        "x": -259459.1875,
+        "y": 106550.1953125,
+        "z": -1630.6661376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7943CE01_2038678492"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -236283.21875,
+        "y": 15616.3759765625,
+        "z": 19652.58984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463606869"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": -164143.28125,
+        "y": 154549.03125,
+        "z": 12423.9013671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756214768"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": -117335.7890625,
+        "y": 72705.4453125,
+        "z": 17360.07421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1222016227"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": -91098.1328125,
+        "y": 41734.53515625,
+        "z": 20160.150390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571674167"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -77445.40625,
+        "y": 89912.3671875,
+        "z": 20194.89453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085725295"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -41486.33203125,
+        "y": 62611.25390625,
+        "z": 25945.537109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915247652"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": -40511.546875,
+        "y": 62645.91796875,
+        "z": 25980.705078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915248653"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -32612.83984375,
+        "y": 3618.8701171875,
+        "z": 23459.369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515421867"
+    },
+    {
+      "quantity": 12,
+      "location": {
+        "x": -57686.0,
+        "y": -147637.0,
+        "z": 1648.8367919921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667081847"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -55914.6953125,
+        "y": -207082.0,
+        "z": 7776.93701171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611263919"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": -54031.0,
+        "y": -205058.0,
+        "z": 7765.19287109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611284922"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 42849.7109375,
+        "y": -244170.171875,
+        "z": -1771.8702392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453351183"
+    },
+    {
+      "quantity": 14,
+      "location": {
+        "x": 45031.953125,
+        "y": -245496.671875,
+        "z": -886.8008422851562
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453354185"
+    },
+    {
+      "quantity": 9,
+      "location": {
+        "x": 4371.0,
+        "y": -188586.0,
+        "z": -1346.1632080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907924115"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": 36371.921875,
+        "y": 15041.5283203125,
+        "z": 22571.544921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917942625"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 118397.0,
+        "y": 223269.0,
+        "z": -6903.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378169298"
+    },
+    {
+      "quantity": 10,
+      "location": {
+        "x": 185462.0,
+        "y": 175539.0,
+        "z": 6277.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553805265"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 219704.0,
+        "y": 185042.0,
+        "z": 11558.2392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745829423"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 240656.765625,
+        "y": 132547.53125,
+        "z": 17048.421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745628394"
+    },
+    {
+      "quantity": 9,
+      "location": {
+        "x": 86433.0,
+        "y": -169916.0,
+        "z": -326.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502723191"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 110859.0,
+        "y": -161811.0,
+        "z": 15618.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286313768"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 100474.9453125,
+        "y": -153999.859375,
+        "z": 1561.4755859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_107"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": 116635.65625,
+        "y": 22239.875,
+        "z": 16780.640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D6D401_1547247764"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 147097.546875,
+        "y": 94014.046875,
+        "z": 25566.75390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800394341"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 181995.4375,
+        "y": 94864.5,
+        "z": 17919.099609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166768080"
+    },
+    {
+      "quantity": 23,
+      "location": {
+        "x": 164480.0,
+        "y": 61281.9921875,
+        "z": 21342.998046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143869068"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 190999.796875,
+        "y": 38317.5390625,
+        "z": 5253.89892578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796CD601_1908097167"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": 191409.140625,
+        "y": 38311.5390625,
+        "z": 5164.92041015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796CD601_1908094165"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": 143640.890625,
+        "y": 37587.9453125,
+        "z": 17179.810546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_2023582399"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 156745.0,
+        "y": -40537.0,
+        "z": 13497.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418408390"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 126071.0,
+        "y": -115999.0,
+        "z": -1494.1632080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1312024381"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": 161609.828125,
+        "y": -146949.296875,
+        "z": 23128.642578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363267337"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": 160905.0,
+        "y": -144868.0,
+        "z": 23159.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363264336"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": 192456.96875,
+        "y": -237004.09375,
+        "z": 23098.826171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162964519"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": 209236.203125,
+        "y": -68308.078125,
+        "z": 12128.0556640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_395"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 199969.640625,
+        "y": -41318.07421875,
+        "z": 13926.8349609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_1734565297"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 218284.140625,
+        "y": 1684.538330078125,
+        "z": -1666.079345703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742962875"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": 272086.875,
+        "y": 29579.16796875,
+        "z": -1677.978759765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894813571"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 250592.8125,
+        "y": 59149.38671875,
+        "z": -1379.3492431640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679194565"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 286872.59375,
+        "y": 72929.1640625,
+        "z": -1666.833740234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278922556"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 233658.140625,
+        "y": 77299.5390625,
+        "z": -1664.079345703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399877415"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 233207.796875,
+        "y": 79056.5390625,
+        "z": -1643.578369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399880417"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 225531.546875,
+        "y": 99264.1875,
+        "z": 7263.3212890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548952579"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 190132.0,
+        "y": -128628.0,
+        "z": 15991.2763671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495303774"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Stator/Desc_Stator.Desc_Stator_C": [
+    {
+      "quantity": 37,
+      "location": {
+        "x": -245354.625,
+        "y": -143523.953125,
+        "z": 4453.962890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8C501_1120037424"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -182151.34375,
+        "y": 69137.8203125,
+        "z": 14393.501953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AADD01_1464699478"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -186342.1875,
+        "y": 118494.203125,
+        "z": -1298.1287841796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657074156"
+    },
+    {
+      "quantity": 56,
+      "location": {
+        "x": -188003.5625,
+        "y": 113661.53125,
+        "z": -1384.3619384765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657076158"
+    },
+    {
+      "quantity": 38,
+      "location": {
+        "x": -152553.28125,
+        "y": 72135.03125,
+        "z": 10189.0478515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364300740"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -129456.5,
+        "y": 59295.671875,
+        "z": 4779.984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152459271"
+    },
+    {
+      "quantity": 44,
+      "location": {
+        "x": -129919.28125,
+        "y": 60032.03125,
+        "z": 4844.0478515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152462274"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": -175382.625,
+        "y": -196722.953125,
+        "z": -1726.0369873046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CCC501_1093654134"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": -88983.7890625,
+        "y": -49355.515625,
+        "z": 16042.44921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159305096"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": -29114.201171875,
+        "y": -21939.326171875,
+        "z": 17431.015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734789335"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": -55128.484375,
+        "y": -72210.8203125,
+        "z": 27821.201171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981111549"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": -55619.796875,
+        "y": -72591.6484375,
+        "z": 27720.142578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981109548"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": -55750.0,
+        "y": -149314.0,
+        "z": 556.980224609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667082848"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": 44563.0,
+        "y": -246619.0,
+        "z": -1098.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453356187"
+    },
+    {
+      "quantity": 56,
+      "location": {
+        "x": 44674.0,
+        "y": -243825.0,
+        "z": -851.6039428710938
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1453355186"
+    },
+    {
+      "quantity": 54,
+      "location": {
+        "x": 5241.0,
+        "y": -189314.0,
+        "z": -1507.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907930119"
+    },
+    {
+      "quantity": 56,
+      "location": {
+        "x": 9849.0,
+        "y": -42575.0,
+        "z": 13108.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683959520"
+    },
+    {
+      "quantity": 47,
+      "location": {
+        "x": 9392.0,
+        "y": -42560.0,
+        "z": 13086.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683958519"
+    },
+    {
+      "quantity": 43,
+      "location": {
+        "x": 87661.0,
+        "y": 188656.0,
+        "z": 1412.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042511456"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": 117137.0859375,
+        "y": 222670.328125,
+        "z": -7009.18798828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378170299"
+    },
+    {
+      "quantity": 51,
+      "location": {
+        "x": 174779.28125,
+        "y": 244471.0,
+        "z": -9798.84375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178478289"
+    },
+    {
+      "quantity": 58,
+      "location": {
+        "x": 177208.0,
+        "y": 244045.0,
+        "z": -9686.1875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178482293"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": 185190.0,
+        "y": 223154.0,
+        "z": -3550.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848677904"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 367643.53125,
+        "y": -301063.0,
+        "z": -7476.0751953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825299445"
+    },
+    {
+      "quantity": 49,
+      "location": {
+        "x": 234244.546875,
+        "y": -315386.6875,
+        "z": 9997.859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130362059"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 85749.0,
+        "y": -168838.0,
+        "z": -315.6039733886719
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502724192"
+    },
+    {
+      "quantity": 57,
+      "location": {
+        "x": 121187.0,
+        "y": -167468.0,
+        "z": -112.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883525205"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": 56224.0,
+        "y": -51012.0,
+        "z": 13854.7333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139937810"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": 67133.0,
+        "y": -12735.0,
+        "z": 13304.193359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565900747"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": 158095.0,
+        "y": -43909.0,
+        "z": 12635.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418372386"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 126423.59375,
+        "y": -34685.25,
+        "z": 8158.26220703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541726850"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 125622.921875,
+        "y": -33525.82421875,
+        "z": 8232.5576171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541700845"
+    },
+    {
+      "quantity": 70,
+      "location": {
+        "x": 128458.0,
+        "y": -118986.0,
+        "z": -1491.019775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1312025382"
+    },
+    {
+      "quantity": 56,
+      "location": {
+        "x": 208803.234375,
+        "y": -67484.1796875,
+        "z": 13894.638671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_390"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 209068.640625,
+        "y": -68117.0234375,
+        "z": 12137.111328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_391"
+    },
+    {
+      "quantity": 22,
+      "location": {
+        "x": 360213.34375,
+        "y": -104472.6953125,
+        "z": 11208.9560546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420583025"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 348195.71875,
+        "y": -40770.03515625,
+        "z": -1743.200927734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2113016257"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 112101.3203125,
+        "y": -54031.94140625,
+        "z": 16991.365234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624852856"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/SteelPlate/Desc_SteelPlate.Desc_SteelPlate_C": [
+    {
+      "quantity": 50,
+      "location": {
+        "x": -194948.09375,
+        "y": -58664.0546875,
+        "z": -353.5832214355469
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060866161"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": -199804.71875,
+        "y": -16385.19921875,
+        "z": 12029.330078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065673518"
+    },
+    {
+      "quantity": 134,
+      "location": {
+        "x": -183601.4375,
+        "y": 68985.25,
+        "z": 12188.40625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A9DD01_1740292301"
+    },
+    {
+      "quantity": 130,
+      "location": {
+        "x": -160786.0,
+        "y": 66278.40625,
+        "z": 3894.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799BDD01_2055748830"
+    },
+    {
+      "quantity": 88,
+      "location": {
+        "x": -115959.28125,
+        "y": 169552.03125,
+        "z": 320.0480041503906
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926584002"
+    },
+    {
+      "quantity": 121,
+      "location": {
+        "x": -129975.5625,
+        "y": 58752.53125,
+        "z": 4802.63818359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152434270"
+    },
+    {
+      "quantity": 44,
+      "location": {
+        "x": -42465.1796875,
+        "y": 146424.203125,
+        "z": 7635.25048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944043106"
+    },
+    {
+      "quantity": 127,
+      "location": {
+        "x": 47196.0,
+        "y": 222618.0,
+        "z": 5671.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637930637"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 65566.3984375,
+        "y": 156835.6875,
+        "z": 13991.9365234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165881993"
+    },
+    {
+      "quantity": 77,
+      "location": {
+        "x": -29307.126953125,
+        "y": -21740.6171875,
+        "z": 17453.20703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734787333"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": -54951.6875,
+        "y": -72060.828125,
+        "z": 27895.8046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981108547"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": -55319.4453125,
+        "y": -72473.953125,
+        "z": 27785.724609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FACB01_1981113551"
+    },
+    {
+      "quantity": 133,
+      "location": {
+        "x": -6431.0,
+        "y": -75791.0,
+        "z": 13614.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152016698"
+    },
+    {
+      "quantity": 123,
+      "location": {
+        "x": 7694.0,
+        "y": -44360.0,
+        "z": 13115.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683957518"
+    },
+    {
+      "quantity": 130,
+      "location": {
+        "x": 89558.0,
+        "y": 189706.0,
+        "z": 1248.812255859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042512457"
+    },
+    {
+      "quantity": 90,
+      "location": {
+        "x": 367683.25,
+        "y": -300163.0,
+        "z": -7563.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825300446"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 365068.0625,
+        "y": -302291.40625,
+        "z": -7332.0732421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7910CC01_1825297443"
+    },
+    {
+      "quantity": 143,
+      "location": {
+        "x": 54910.0,
+        "y": -49718.0,
+        "z": 13857.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139909806"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": 346649.1875,
+        "y": -39955.54296875,
+        "z": -1738.88818359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FECB01_2113020261"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 111703.5546875,
+        "y": -52913.5546875,
+        "z": 16832.228515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1624851855"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/IronRod/Desc_IronRod.Desc_IronRod_C": [
+    {
+      "quantity": 74,
+      "location": {
+        "x": -233219.0,
+        "y": -51066.0,
+        "z": -461.4290466308594
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7931C301_1073929716"
+    },
+    {
+      "quantity": 103,
+      "location": {
+        "x": -202050.09375,
+        "y": -17865.140625,
+        "z": 12104.9072265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791EC501_2065644514"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": -157289.859375,
+        "y": -65615.1328125,
+        "z": 12059.08984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695500711"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": -157664.25,
+        "y": -64810.015625,
+        "z": 12087.12890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695467710"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -10129.0,
+        "y": 226901.0,
+        "z": -1089.4290771484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1510733353"
+    },
+    {
+      "quantity": 140,
+      "location": {
+        "x": 31512.0,
+        "y": 266401.0,
+        "z": -1394.187744140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DFC201_1481191272"
+    },
+    {
+      "quantity": 115,
+      "location": {
+        "x": -26343.0,
+        "y": -128271.0,
+        "z": 7926.39599609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619382940"
+    },
+    {
+      "quantity": 66,
+      "location": {
+        "x": 16142.0,
+        "y": -138193.0,
+        "z": 13739.927734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7980C301_1430572610"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": 273657.375,
+        "y": -51992.55859375,
+        "z": 5986.5712890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7997C301_1629220671"
+    },
+    {
+      "quantity": 112,
+      "location": {
+        "x": 362012.5,
+        "y": -218536.453125,
+        "z": 4105.4248046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_427"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/CopperSheet/Desc_CopperSheet.Desc_CopperSheet_C": [
+    {
+      "quantity": 58,
+      "location": {
+        "x": -195618.71875,
+        "y": -57525.19921875,
+        "z": -346.8668518066406
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F791CC501_2060865160"
+    },
+    {
+      "quantity": 140,
+      "location": {
+        "x": -182510.140625,
+        "y": 68798.328125,
+        "z": 14384.6435546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABDD01_1972325656"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": -160652.0,
+        "y": 66496.40625,
+        "z": 3886.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799BDD01_1695234829"
+    },
+    {
+      "quantity": 105,
+      "location": {
+        "x": -151098.5625,
+        "y": 71765.53125,
+        "z": 9570.6376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364265736"
+    },
+    {
+      "quantity": 72,
+      "location": {
+        "x": -115987.5,
+        "y": 168763.671875,
+        "z": 272.9845886230469
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0C501_1926562001"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": -156947.875,
+        "y": -64139.07421875,
+        "z": 12131.486328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695504714"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": -88544.0,
+        "y": -50158.0,
+        "z": 16074.5712890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9CB01_1159309099"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 27607.73828125,
+        "y": 193694.375,
+        "z": 17096.244140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183607532"
+    },
+    {
+      "quantity": 72,
+      "location": {
+        "x": 66643.8203125,
+        "y": 157183.203125,
+        "z": 13621.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D7C401_1165880992"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": -26765.0,
+        "y": -127959.0,
+        "z": 7941.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619417944"
+    },
+    {
+      "quantity": 132,
+      "location": {
+        "x": 87289.0,
+        "y": 188866.0,
+        "z": 1435.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042510455"
+    },
+    {
+      "quantity": 121,
+      "location": {
+        "x": 235213.5625,
+        "y": -312162.8125,
+        "z": 9933.154296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130361058"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 109172.4453125,
+        "y": -112284.796875,
+        "z": 11564.966796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7927C501_1914602126"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 86622.1953125,
+        "y": -63094.73046875,
+        "z": 13239.6650390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1523416938"
+    },
+    {
+      "quantity": 139,
+      "location": {
+        "x": 55533.0,
+        "y": -51724.0,
+        "z": 13975.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139933808"
+    },
+    {
+      "quantity": 141,
+      "location": {
+        "x": 64828.0,
+        "y": -14621.0,
+        "z": 13197.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565899746"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": 65129.0,
+        "y": -12222.0,
+        "z": 13184.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565876744"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 124736.6796875,
+        "y": -35340.33203125,
+        "z": 8083.931640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541725849"
+    },
+    {
+      "quantity": 95,
+      "location": {
+        "x": 125940.765625,
+        "y": -33378.24609375,
+        "z": 8243.7392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F797BC501_1541722846"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": 304625.21875,
+        "y": -243649.5,
+        "z": 4073.15234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790DCC01_1241109912"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": 357639.3125,
+        "y": -104662.28125,
+        "z": 11029.1201171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420585027"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/HighSpeedWire/Desc_HighSpeedWire.Desc_HighSpeedWire_C": [
+    {
+      "quantity": 127,
+      "location": {
+        "x": -236033.09375,
+        "y": 16687.09375,
+        "z": 19649.236328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463604868"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": -187244.1875,
+        "y": 117235.1953125,
+        "z": -1470.6661376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657077159"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": -141956.28125,
+        "y": 98018.03125,
+        "z": 18594.048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798753774"
+    },
+    {
+      "quantity": 82,
+      "location": {
+        "x": -141063.5,
+        "y": 97700.671875,
+        "z": 18604.279296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798732771"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -163853.5,
+        "y": 156576.671875,
+        "z": 12346.62109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756193765"
+    },
+    {
+      "quantity": 101,
+      "location": {
+        "x": -141426.1875,
+        "y": 24843.70703125,
+        "z": 32654.7265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068251584"
+    },
+    {
+      "quantity": 109,
+      "location": {
+        "x": -155327.0625,
+        "y": -3953.5595703125,
+        "z": 25284.587890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559502691"
+    },
+    {
+      "quantity": 122,
+      "location": {
+        "x": -95344.0703125,
+        "y": 8630.9599609375,
+        "z": 25143.701171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214886333"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": -95816.25,
+        "y": 40941.7109375,
+        "z": 21208.4765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571672166"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": -77241.1875,
+        "y": 89637.7109375,
+        "z": 20212.7265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085723294"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 44856.03515625,
+        "y": 140137.453125,
+        "z": 13294.4697265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911685804"
+    },
+    {
+      "quantity": 121,
+      "location": {
+        "x": 12052.5078125,
+        "y": 113337.640625,
+        "z": 26512.1875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691499269"
+    },
+    {
+      "quantity": 147,
+      "location": {
+        "x": 13787.4013671875,
+        "y": 113097.90625,
+        "z": 26462.01953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691398267"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": -1435.11376953125,
+        "y": 61439.9296875,
+        "z": 21766.787109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647548223"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": -51088.0,
+        "y": -257765.0,
+        "z": -1601.1632080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1846403195"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -662.0,
+        "y": -237283.0,
+        "z": -1783.1632080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126604297"
+    },
+    {
+      "quantity": 87,
+      "location": {
+        "x": 52164.8359375,
+        "y": -164160.265625,
+        "z": 15546.630859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79E7CE01_2045936375"
+    },
+    {
+      "quantity": 144,
+      "location": {
+        "x": 93835.359375,
+        "y": 106407.0546875,
+        "z": 9869.162109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524878342"
+    },
+    {
+      "quantity": 113,
+      "location": {
+        "x": 92263.0234375,
+        "y": 104961.4296875,
+        "z": 9867.17578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524871338"
+    },
+    {
+      "quantity": 123,
+      "location": {
+        "x": 91068.2109375,
+        "y": 129519.7421875,
+        "z": 9096.7509765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844991047"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 117665.6875,
+        "y": 222916.75,
+        "z": -6975.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378145294"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 187217.0,
+        "y": 222562.0,
+        "z": -3192.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848704905"
+    },
+    {
+      "quantity": 88,
+      "location": {
+        "x": 220418.234375,
+        "y": 186206.125,
+        "z": 11541.7626953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745830424"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 186503.0,
+        "y": 175310.0,
+        "z": 6446.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553802263"
+    },
+    {
+      "quantity": 105,
+      "location": {
+        "x": 259160.15625,
+        "y": 125516.8203125,
+        "z": -2770.380126953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203914374"
+    },
+    {
+      "quantity": 150,
+      "location": {
+        "x": 175817.171875,
+        "y": -276751.71875,
+        "z": 21020.224609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428906228"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 84482.0,
+        "y": -170164.0,
+        "z": -249.1631622314453
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1502720189"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 111739.8046875,
+        "y": -164171.359375,
+        "z": 15827.99609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286316769"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 94791.7109375,
+        "y": 48566.5234375,
+        "z": 9771.6884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_1296446395"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": 122317.03125,
+        "y": 46471.3203125,
+        "z": 17429.41015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_2121768304"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 181405.0,
+        "y": 93599.0,
+        "z": 17806.904296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166769081"
+    },
+    {
+      "quantity": 91,
+      "location": {
+        "x": 199623.0,
+        "y": 131850.0,
+        "z": 6638.2392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917492629"
+    },
+    {
+      "quantity": 102,
+      "location": {
+        "x": 144925.359375,
+        "y": 37432.43359375,
+        "z": 17162.666015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_2023590401"
+    },
+    {
+      "quantity": 119,
+      "location": {
+        "x": 170932.296875,
+        "y": -10920.712890625,
+        "z": 15869.458984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D5D401_1691666581"
+    },
+    {
+      "quantity": 134,
+      "location": {
+        "x": 171472.03125,
+        "y": -10932.6630859375,
+        "z": 15862.1142578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D5D401_1691675583"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 157381.0,
+        "y": -39247.0,
+        "z": 13723.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1418401387"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": 128983.0,
+        "y": -117443.0,
+        "z": -1491.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1312027384"
+    },
+    {
+      "quantity": 45,
+      "location": {
+        "x": 121712.0,
+        "y": -164945.0,
+        "z": -189.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883522203"
+    },
+    {
+      "quantity": 109,
+      "location": {
+        "x": 192234.171875,
+        "y": -234898.71875,
+        "z": 23080.224609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162963518"
+    },
+    {
+      "quantity": 125,
+      "location": {
+        "x": 233224.375,
+        "y": -20616.935546875,
+        "z": 8804.9365234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_397"
+    },
+    {
+      "quantity": 116,
+      "location": {
+        "x": 188778.671875,
+        "y": 17505.453125,
+        "z": 12992.75
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816337485"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": 232935.140625,
+        "y": 25841.5390625,
+        "z": -1597.079345703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955784057"
+    },
+    {
+      "quantity": 123,
+      "location": {
+        "x": 232581.796875,
+        "y": 27659.537109375,
+        "z": -1728.10107421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955786059"
+    },
+    {
+      "quantity": 125,
+      "location": {
+        "x": 249392.875,
+        "y": 59909.12890625,
+        "z": -1105.745361328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679190562"
+    },
+    {
+      "quantity": 149,
+      "location": {
+        "x": 292652.90625,
+        "y": 2605.50341796875,
+        "z": 773.8316040039062
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940795577"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 286988.1875,
+        "y": 73160.390625,
+        "z": -1640.916259765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278925559"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 226443.78125,
+        "y": 100680.3046875,
+        "z": 7210.8447265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548952578"
+    },
+    {
+      "quantity": 107,
+      "location": {
+        "x": 191329.8125,
+        "y": -129448.3671875,
+        "z": 15968.7783203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495307775"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/AluminumPlate/Desc_AluminumPlate.Desc_AluminumPlate_C": [
+    {
+      "quantity": 32,
+      "location": {
+        "x": -234819.578125,
+        "y": 18118.083984375,
+        "z": 19658.287109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463602866"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": -165373.1875,
+        "y": 156848.203125,
+        "z": 12407.421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756216770"
+    },
+    {
+      "quantity": 78,
+      "location": {
+        "x": -154637.015625,
+        "y": 33441.484375,
+        "z": 18978.240234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928505396"
+    },
+    {
+      "quantity": 85,
+      "location": {
+        "x": -155731.6875,
+        "y": -3293.478759765625,
+        "z": 25283.052734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559495687"
+    },
+    {
+      "quantity": 102,
+      "location": {
+        "x": -93539.8828125,
+        "y": 8300.134765625,
+        "z": 25108.56640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214884332"
+    },
+    {
+      "quantity": 119,
+      "location": {
+        "x": -36410.484375,
+        "y": 116474.0546875,
+        "z": 21722.0078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902840234"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": -41706.03125,
+        "y": 63447.36328125,
+        "z": 25847.119140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915149648"
+    },
+    {
+      "quantity": 113,
+      "location": {
+        "x": 94107.6171875,
+        "y": 105957.6953125,
+        "z": 9858.9296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524872339"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": 241788.546875,
+        "y": 132320.09375,
+        "z": 17014.568359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745600390"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": 258749.265625,
+        "y": 124281.0390625,
+        "z": -2778.936279296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203913373"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": 98747.796875,
+        "y": -151275.78125,
+        "z": 2330.559326171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable163"
+    },
+    {
+      "quantity": 112,
+      "location": {
+        "x": 114765.96875,
+        "y": 22138.234375,
+        "z": 16479.37109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D6D401_1547215761"
+    },
+    {
+      "quantity": 116,
+      "location": {
+        "x": 121290.21875,
+        "y": 46404.74609375,
+        "z": 17417.63671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_2121738301"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": 145843.84375,
+        "y": 92643.328125,
+        "z": 25431.90234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800365336"
+    },
+    {
+      "quantity": 45,
+      "location": {
+        "x": 166078.0,
+        "y": 60264.0,
+        "z": 21235.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143841064"
+    },
+    {
+      "quantity": 72,
+      "location": {
+        "x": 190811.953125,
+        "y": 36890.35546875,
+        "z": 5536.73876953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796CD601_1908096166"
+    },
+    {
+      "quantity": 78,
+      "location": {
+        "x": 171376.640625,
+        "y": -10385.34765625,
+        "z": 15799.578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D5D401_1691662580"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 170984.40625,
+        "y": -12098.0849609375,
+        "z": 15919.1875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D5D401_1691639579"
+    },
+    {
+      "quantity": 77,
+      "location": {
+        "x": 189154.875,
+        "y": -236481.375,
+        "z": 23142.814453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162935514"
+    },
+    {
+      "quantity": 71,
+      "location": {
+        "x": 177551.78125,
+        "y": -242843.453125,
+        "z": 7702.37255859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844804232"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": 233205.671875,
+        "y": 27156.779296875,
+        "z": -1752.038818359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955765056"
+    },
+    {
+      "quantity": 171,
+      "location": {
+        "x": 271510.625,
+        "y": 29439.888671875,
+        "z": -1664.8450927734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894812570"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": 231971.984375,
+        "y": 76542.390625,
+        "z": -1667.03857421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399878416"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/CrystalOscillator/Desc_CrystalOscillator.Desc_CrystalOscillator_C": [
+    {
+      "quantity": 58,
+      "location": {
+        "x": -236159.046875,
+        "y": 17587.55859375,
+        "z": 19611.400390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463580864"
+    },
+    {
+      "quantity": 39,
+      "location": {
+        "x": -235459.59375,
+        "y": 18115.48046875,
+        "z": 19651.82421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463601865"
+    },
+    {
+      "quantity": 12,
+      "location": {
+        "x": -190797.1875,
+        "y": 67873.1953125,
+        "z": 23772.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232933764"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": -34646.23828125,
+        "y": 117169.3984375,
+        "z": 21754.408203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902826230"
+    },
+    {
+      "quantity": 52,
+      "location": {
+        "x": 13166.248046875,
+        "y": 114409.0078125,
+        "z": 26382.498046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691510272"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": -53407.0,
+        "y": -205606.0,
+        "z": 7811.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611281920"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 52798.69140625,
+        "y": -163047.1875,
+        "z": 15477.7138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable163_UAID_40B076DF2F79E7CE01_2045954376"
+    },
+    {
+      "quantity": 42,
+      "location": {
+        "x": 92377.390625,
+        "y": 106230.3671875,
+        "z": 9868.7958984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524874340"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 219452.078125,
+        "y": 186406.9375,
+        "z": 11596.166015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745831425"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 121694.703125,
+        "y": 44478.82421875,
+        "z": 17306.357421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_2121776306"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 183206.96875,
+        "y": 92863.28125,
+        "z": 17666.7890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166745076"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": 191355.78125,
+        "y": 37187.8671875,
+        "z": 5528.85546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796CD601_1908069164"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": 199503.609375,
+        "y": -41647.41796875,
+        "z": 13978.3251953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_1734577300"
+    },
+    {
+      "quantity": 59,
+      "location": {
+        "x": 291452.71875,
+        "y": 1889.6563720703125,
+        "z": 802.5924682617188
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940791573"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 288053.78125,
+        "y": 74818.4453125,
+        "z": -1655.7283935546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278924558"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 227056.90625,
+        "y": 99557.375,
+        "z": 7161.7626953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548923574"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/CoolingSystem/Desc_CoolingSystem.Desc_CoolingSystem_C": [
+    {
+      "quantity": 17,
+      "location": {
+        "x": -235471.28125,
+        "y": 18885.662109375,
+        "z": 19611.896484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F4D201_1463603867"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": -141279.0,
+        "y": 24030.841796875,
+        "z": 32709.2421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068250583"
+    },
+    {
+      "quantity": 22,
+      "location": {
+        "x": -2991.825927734375,
+        "y": 62518.27734375,
+        "z": 21897.501953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647587227"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": -41430.96875,
+        "y": 64067.7890625,
+        "z": 25808.853515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915244650"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 215675.765625,
+        "y": 2013.9141845703125,
+        "z": -1665.31689453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742965878"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 233786.0,
+        "y": 28674.24609375,
+        "z": -1691.0927734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955788061"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 288622.15625,
+        "y": 72076.75,
+        "z": -1609.62841796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278898554"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 233503.765625,
+        "y": 75763.9140625,
+        "z": -1659.958984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399881418"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/QuartzCrystal/Desc_QuartzCrystal.Desc_QuartzCrystal_C": [
+    {
+      "quantity": 70,
+      "location": {
+        "x": -191718.828125,
+        "y": 66860.7265625,
+        "z": 23669.275390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232929760"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": -165661.828125,
+        "y": 156540.71875,
+        "z": 12393.5673828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1756212766"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": -118624.90625,
+        "y": 73932.9375,
+        "z": 17065.30078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1221990222"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": -153978.921875,
+        "y": 35823.08203125,
+        "z": 18991.26171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928590397"
+    },
+    {
+      "quantity": 87,
+      "location": {
+        "x": -3891.614990234375,
+        "y": 62239.703125,
+        "z": 22057.55078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647591228"
+    },
+    {
+      "quantity": 92,
+      "location": {
+        "x": -32376.27734375,
+        "y": 4937.69384765625,
+        "z": 23575.037109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515417866"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": -56053.0,
+        "y": -205752.0,
+        "z": 7786.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611284923"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 90286.578125,
+        "y": 128804.4765625,
+        "z": 9236.447265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844994050"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 90192.6328125,
+        "y": 127981.953125,
+        "z": 9434.3505859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844966046"
+    },
+    {
+      "quantity": 115,
+      "location": {
+        "x": 108959.703125,
+        "y": -163567.65625,
+        "z": 15543.9853515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286281764"
+    },
+    {
+      "quantity": 78,
+      "location": {
+        "x": 93086.2265625,
+        "y": 47915.92578125,
+        "z": 9553.6845703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_1296434392"
+    },
+    {
+      "quantity": 97,
+      "location": {
+        "x": 115846.3671875,
+        "y": 20480.990234375,
+        "z": 16789.7109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D6D401_1547255766"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": 150321.515625,
+        "y": 145916.6875,
+        "z": 7758.2177734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155109071"
+    },
+    {
+      "quantity": 119,
+      "location": {
+        "x": 143992.859375,
+        "y": 36937.00390625,
+        "z": 17194.83984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_2023555397"
+    },
+    {
+      "quantity": 77,
+      "location": {
+        "x": 161579.578125,
+        "y": -144433.71875,
+        "z": 23167.935546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363260334"
+    },
+    {
+      "quantity": 120,
+      "location": {
+        "x": 190879.78125,
+        "y": -234464.453125,
+        "z": 23138.373046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162960516"
+    },
+    {
+      "quantity": 77,
+      "location": {
+        "x": 214649.953125,
+        "y": -879.6430053710938,
+        "z": -1656.7686767578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742963876"
+    },
+    {
+      "quantity": 68,
+      "location": {
+        "x": 219883.78125,
+        "y": -939.1320190429688,
+        "z": -1667.3857421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742942874"
+    },
+    {
+      "quantity": 101,
+      "location": {
+        "x": 273087.09375,
+        "y": 26235.44140625,
+        "z": -1667.6661376953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894808567"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": 286287.5625,
+        "y": 71432.8359375,
+        "z": -1665.007080078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278921555"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/ModularFrameHeavy/Desc_ModularFrameHeavy.Desc_ModularFrameHeavy_C": [
+    {
+      "quantity": 19,
+      "location": {
+        "x": -191550.28125,
+        "y": 66771.03125,
+        "z": 23728.048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232931762"
+    },
+    {
+      "quantity": 11,
+      "location": {
+        "x": -190929.5,
+        "y": 66034.671875,
+        "z": 23729.328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232908759"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": -187943.828125,
+        "y": 117654.7265625,
+        "z": -1573.432861328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657072155"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -117969.1875,
+        "y": 75112.7109375,
+        "z": 16948.7265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1222015226"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": -154364.53125,
+        "y": 32883.84765625,
+        "z": 18950.41796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928595401"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": -153855.734375,
+        "y": 34635.73046875,
+        "z": 19106.583984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928594400"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": -141689.796875,
+        "y": 23128.44140625,
+        "z": 32589.07421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068252585"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": -156915.234375,
+        "y": -5445.759765625,
+        "z": 25370.6328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559501690"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": -36466.171875,
+        "y": 115506.296875,
+        "z": 21720.849609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902798229"
+    },
+    {
+      "quantity": 36,
+      "location": {
+        "x": -34825.83984375,
+        "y": 115875.8671875,
+        "z": 21734.369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902829231"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": 47171.3828125,
+        "y": 141158.578125,
+        "z": 13088.5576171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911690808"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": -3874.544677734375,
+        "y": 63110.5546875,
+        "z": 22008.509765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647580225"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": -32358.685546875,
+        "y": 2449.85986328125,
+        "z": 23548.44921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515388865"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 7504.0,
+        "y": -188000.0,
+        "z": -1530.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7985CE01_1907927117"
+    },
+    {
+      "quantity": 21,
+      "location": {
+        "x": 53463.70703125,
+        "y": -163221.640625,
+        "z": 15482.345703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79E7CE01_2045956378"
+    },
+    {
+      "quantity": 34,
+      "location": {
+        "x": 34268.21484375,
+        "y": 16332.1435546875,
+        "z": 22513.591796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917976627"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 91655.7265625,
+        "y": 129117.1953125,
+        "z": 9208.5048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844995051"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 177080.0,
+        "y": 243929.0,
+        "z": -9647.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178481292"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 186239.0,
+        "y": 222987.0,
+        "z": -3412.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848708907"
+    },
+    {
+      "quantity": 23,
+      "location": {
+        "x": 240195.0625,
+        "y": 131629.1875,
+        "z": 16983.619140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745628395"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 259948.171875,
+        "y": 125932.3984375,
+        "z": -2744.63232421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203916377"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 176259.96875,
+        "y": -278623.09375,
+        "z": 20881.826171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428907229"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": 118523.0,
+        "y": -166053.0,
+        "z": -192.1631622314453
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883519201"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 99126.8125,
+        "y": -151843.234375,
+        "z": 2097.191162109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_108"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 93692.15625,
+        "y": 48559.65234375,
+        "z": 9709.146484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_1296437393"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": 115242.1328125,
+        "y": 20669.9765625,
+        "z": 16592.390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D6D401_1547242763"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": 121705.015625,
+        "y": 45152.8125,
+        "z": 17371.728515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_2121764303"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 144805.4375,
+        "y": 92872.3125,
+        "z": 25454.802734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800389337"
+    },
+    {
+      "quantity": 25,
+      "location": {
+        "x": 148798.6875,
+        "y": 146347.765625,
+        "z": 7780.92333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155114075"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 149974.609375,
+        "y": 146763.0,
+        "z": 7682.09130859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155113074"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 200337.234375,
+        "y": 133014.125,
+        "z": 6744.7626953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917491628"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": 163350.0,
+        "y": 60144.0,
+        "z": 21226.904296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143870069"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 177887.96875,
+        "y": -244765.09375,
+        "z": 7419.8251953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844812235"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": 176729.171875,
+        "y": -243250.71875,
+        "z": 7445.6162109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844811234"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": 211800.203125,
+        "y": -68579.078125,
+        "z": 13830.0556640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7949CE01_1110513573"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 198978.90625,
+        "y": -40858.51953125,
+        "z": 13792.380859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_1734567298"
+    },
+    {
+      "quantity": 32,
+      "location": {
+        "x": 233836.390625,
+        "y": -19940.427734375,
+        "z": 8802.5009765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_396"
+    },
+    {
+      "quantity": 39,
+      "location": {
+        "x": 217744.796875,
+        "y": 1710.4521484375,
+        "z": -1676.0201416015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742964877"
+    },
+    {
+      "quantity": 33,
+      "location": {
+        "x": 189824.6875,
+        "y": 17747.9609375,
+        "z": 13068.7509765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816348486"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 272391.25,
+        "y": 28927.951171875,
+        "z": -1767.2010498046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894810568"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": 291363.875,
+        "y": 2695.968017578125,
+        "z": 829.1729125976562
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940792574"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/CircuitBoard/Desc_CircuitBoard.Desc_CircuitBoard_C": [
+    {
+      "quantity": 119,
+      "location": {
+        "x": -191473.71875,
+        "y": 65714.4375,
+        "z": 23697.185546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1232932763"
+    },
+    {
+      "quantity": 140,
+      "location": {
+        "x": -142360.5625,
+        "y": 97133.53125,
+        "z": 18499.638671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798754775"
+    },
+    {
+      "quantity": 102,
+      "location": {
+        "x": -141728.1875,
+        "y": 98828.203125,
+        "z": 18580.126953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798752773"
+    },
+    {
+      "quantity": 52,
+      "location": {
+        "x": -130147.8359375,
+        "y": 60991.72265625,
+        "z": 4820.5673828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B4CC01_1152463275"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": -54745.0,
+        "y": -147594.0,
+        "z": 751.193115234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667085851"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": -54648.0,
+        "y": -204505.0,
+        "z": 7792.39599609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611286924"
+    },
+    {
+      "quantity": 149,
+      "location": {
+        "x": -54025.0,
+        "y": -207360.0,
+        "z": 7726.97998046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79EACE01_1611282921"
+    },
+    {
+      "quantity": 127,
+      "location": {
+        "x": 51759.265625,
+        "y": -163487.03125,
+        "z": 15471.6923828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79E7CE01_2045955377"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 9423.0,
+        "y": -43305.0,
+        "z": 13137.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683955517"
+    },
+    {
+      "quantity": 54,
+      "location": {
+        "x": 10806.0,
+        "y": -43776.0,
+        "z": 13115.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A4CD01_1683960521"
+    },
+    {
+      "quantity": 64,
+      "location": {
+        "x": 89501.0,
+        "y": 188801.0,
+        "z": 1256.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042508453"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": 118619.5703125,
+        "y": 220004.921875,
+        "z": -7451.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1378168297"
+    },
+    {
+      "quantity": 115,
+      "location": {
+        "x": 184949.0,
+        "y": 176759.0,
+        "z": 6246.99853515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553803264"
+    },
+    {
+      "quantity": 95,
+      "location": {
+        "x": 183857.0,
+        "y": 175061.0,
+        "z": 6132.90380859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793CCE01_1553809266"
+    },
+    {
+      "quantity": 104,
+      "location": {
+        "x": 241499.828125,
+        "y": 133234.1875,
+        "z": 17004.458984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745626392"
+    },
+    {
+      "quantity": 79,
+      "location": {
+        "x": 66177.0,
+        "y": -13901.0,
+        "z": 13302.8369140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565897745"
+    },
+    {
+      "quantity": 117,
+      "location": {
+        "x": 181264.0,
+        "y": 94525.0,
+        "z": 17910.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166767079"
+    },
+    {
+      "quantity": 71,
+      "location": {
+        "x": 128864.0,
+        "y": -116212.0,
+        "z": -1498.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7948CE01_1312028385"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": 225491.546875,
+        "y": 100133.1875,
+        "z": 7234.08203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548951577"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/NobeliskExplosive/Desc_NobeliskExplosive.Desc_NobeliskExplosive_C": [
+    {
+      "quantity": 1,
+      "location": {
+        "x": -182706.453125,
+        "y": 69246.59375,
+        "z": 14190.591796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7956DD01_1675839678"
+    },
+    {
+      "quantity": 4,
+      "location": {
+        "x": -5216.0,
+        "y": -76994.0,
+        "z": 13638.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A5CD01_1152043703"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Equipment/StunSpear/BP_EquipmentDescriptorStunSpear.BP_EquipmentDescriptorStunSpear_C": [
+    {
+      "quantity": 1,
+      "location": {
+        "x": -183912.4375,
+        "y": 68507.25,
+        "z": 12234.40625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A8DD01_1932653124"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Equipment/JumpingStilts/BP_EquipmentDescriptorJumpingStilts.BP_EquipmentDescriptorJumpingStilts_C": [
+    {
+      "quantity": 1,
+      "location": {
+        "x": -189831.90625,
+        "y": 74437.15625,
+        "z": 5093.9501953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ADD01_1750249384"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/RebarGun/Ammo/Desc_Rebar_Spreadshot.Desc_Rebar_Spreadshot_C": [
+    {
+      "quantity": 3,
+      "location": {
+        "x": -186653.484375,
+        "y": 71978.703125,
+        "z": -620.948974609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7954DD01_1576152325"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 47267.0,
+        "y": 221931.0,
+        "z": 5642.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6CC01_1637929636"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Equipment/ShockShank/BP_EquipmentDescriptorShockShank.BP_EquipmentDescriptorShockShank_C": [
+    {
+      "quantity": 1,
+      "location": {
+        "x": -160377.0,
+        "y": 66352.40625,
+        "z": 3920.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7956DD01_1858672679"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Motor/Desc_Motor.Desc_Motor_C": [
+    {
+      "quantity": 19,
+      "location": {
+        "x": -160552.0,
+        "y": 66660.40625,
+        "z": 3925.9833984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A1DD01_1810870888"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": -186160.5,
+        "y": 115933.671875,
+        "z": -1236.015380859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7941CE01_1657047154"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": -153509.828125,
+        "y": 73394.7265625,
+        "z": 10520.5673828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1CC01_1364301741"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": -57456.0,
+        "y": -150142.0,
+        "z": 354.7338562011719
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667083849"
+    },
+    {
+      "quantity": 95,
+      "location": {
+        "x": -268.0,
+        "y": -236863.0,
+        "z": -1746.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126605298"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": 51956.05078125,
+        "y": -163710.859375,
+        "z": 15461.029296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79E7CE01_2045957379"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 88732.0,
+        "y": 189440.0,
+        "z": 1314.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B5CC01_2042510454"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 174434.0,
+        "y": 243680.0,
+        "z": -9842.095703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178479290"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 184579.0,
+        "y": 222561.0,
+        "z": -3631.09619140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848712908"
+    },
+    {
+      "quantity": 26,
+      "location": {
+        "x": 185601.0,
+        "y": 222432.0,
+        "z": -3538.001220703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793ACE01_1848705906"
+    },
+    {
+      "quantity": 28,
+      "location": {
+        "x": 240434.59375,
+        "y": 132935.03125,
+        "z": 17078.876953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745627393"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": 237635.4375,
+        "y": -314611.375,
+        "z": 9874.5625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130364060"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 117900.0,
+        "y": -166846.0,
+        "z": -181.26614379882812
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883495200"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 120265.0,
+        "y": -165520.0,
+        "z": -179.806884765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798BCE01_1883521202"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 66971.0,
+        "y": -13986.0,
+        "z": 13339.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F799ACD01_1565903749"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": 148302.46875,
+        "y": 146368.234375,
+        "z": 7815.0576171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155111073"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 201150.0,
+        "y": 133488.0,
+        "z": 7110.81201171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917486626"
+    },
+    {
+      "quantity": 30,
+      "location": {
+        "x": 166650.0,
+        "y": 61451.0,
+        "z": 21174.8125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143866066"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 226975.546875,
+        "y": 100203.1875,
+        "z": 7212.89404296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548950576"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Silica/Desc_Silica.Desc_Silica_C": [
+    {
+      "quantity": 55,
+      "location": {
+        "x": -141400.1875,
+        "y": 98701.1953125,
+        "z": 18586.333984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798755776"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": -142090.90625,
+        "y": 24495.939453125,
+        "z": 32505.30078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068223580"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": -141533.703125,
+        "y": 24404.798828125,
+        "z": 32694.267578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068247581"
+    },
+    {
+      "quantity": 94,
+      "location": {
+        "x": -93395.03125,
+        "y": 43185.3828125,
+        "z": 19765.841796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571668163"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": 45875.2421875,
+        "y": 139919.90625,
+        "z": 13249.2724609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911686805"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 11194.39453125,
+        "y": 114606.46875,
+        "z": 26723.85546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691497268"
+    },
+    {
+      "quantity": 78,
+      "location": {
+        "x": -40374.83984375,
+        "y": 63780.34765625,
+        "z": 25835.078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915243649"
+    },
+    {
+      "quantity": 120,
+      "location": {
+        "x": -33486.3984375,
+        "y": 4391.0712890625,
+        "z": 23370.4609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515425870"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 221489.34375,
+        "y": 185604.1875,
+        "z": 11613.48828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796AE101_1745826421"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": 259430.015625,
+        "y": 125427.125,
+        "z": -2764.7109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203915376"
+    },
+    {
+      "quantity": 62,
+      "location": {
+        "x": 95017.140625,
+        "y": 47621.83984375,
+        "z": 9513.8759765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_1296409391"
+    },
+    {
+      "quantity": 45,
+      "location": {
+        "x": 151624.078125,
+        "y": 145858.484375,
+        "z": 7750.029296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1155090070"
+    },
+    {
+      "quantity": 65,
+      "location": {
+        "x": 201184.34375,
+        "y": 132530.1875,
+        "z": 6812.6806640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917441624"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 157821.984375,
+        "y": -146450.9375,
+        "z": 23358.103515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363204332"
+    },
+    {
+      "quantity": 110,
+      "location": {
+        "x": 199363.46875,
+        "y": -41072.6953125,
+        "z": 13862.115234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_1734536295"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": 233033.78125,
+        "y": -20777.0,
+        "z": 8806.404296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_398"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 233683.0625,
+        "y": -21278.921875,
+        "z": 8803.125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_399"
+    },
+    {
+      "quantity": 72,
+      "location": {
+        "x": 189675.359375,
+        "y": 16546.466796875,
+        "z": 13074.90234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816353488"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": 188036.078125,
+        "y": 16286.3876953125,
+        "z": 13041.443359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816305483"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 231251.75,
+        "y": 25149.935546875,
+        "z": -1755.800537109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955785058"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 250437.5625,
+        "y": 60080.37890625,
+        "z": -1351.0146484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679193564"
+    },
+    {
+      "quantity": 63,
+      "location": {
+        "x": 291091.34375,
+        "y": 2658.77392578125,
+        "z": 869.7711181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940794576"
+    },
+    {
+      "quantity": 90,
+      "location": {
+        "x": 233806.15625,
+        "y": 78554.7578125,
+        "z": -1666.68701171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399859414"
+    },
+    {
+      "quantity": 72,
+      "location": {
+        "x": 189654.625,
+        "y": -126234.734375,
+        "z": 15977.146484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495297772"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/AluminumCasing/Desc_AluminumCasing.Desc_AluminumCasing_C": [
+    {
+      "quantity": 60,
+      "location": {
+        "x": -142074.828125,
+        "y": 98593.7265625,
+        "z": 18538.166015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795ED701_1798751772"
+    },
+    {
+      "quantity": 88,
+      "location": {
+        "x": -118261.703125,
+        "y": 74271.796875,
+        "z": 17058.267578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1222010223"
+    },
+    {
+      "quantity": 120,
+      "location": {
+        "x": -157212.375,
+        "y": -4807.697265625,
+        "z": 25326.083984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559412686"
+    },
+    {
+      "quantity": 98,
+      "location": {
+        "x": -95235.4921875,
+        "y": 9213.1865234375,
+        "z": 25144.203125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214895336"
+    },
+    {
+      "quantity": 100,
+      "location": {
+        "x": -95077.515625,
+        "y": 39841.98046875,
+        "z": 21191.2734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571588162"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": -78133.90625,
+        "y": 90648.9375,
+        "z": 20162.30078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085617290"
+    },
+    {
+      "quantity": 99,
+      "location": {
+        "x": -76966.703125,
+        "y": 91372.796875,
+        "z": 20234.267578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085719291"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": 45712.48828125,
+        "y": 140979.40625,
+        "z": 13196.6474609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911687806"
+    },
+    {
+      "quantity": 111,
+      "location": {
+        "x": -3423.33935546875,
+        "y": 63368.5078125,
+        "z": 21851.970703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647577224"
+    },
+    {
+      "quantity": 80,
+      "location": {
+        "x": 52164.65625,
+        "y": -162619.09375,
+        "z": 15512.025390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable166_UAID_40B076DF2F79E7CE01_2045958380"
+    },
+    {
+      "quantity": 69,
+      "location": {
+        "x": 33739.3828125,
+        "y": 14172.4638671875,
+        "z": 22536.046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917986630"
+    },
+    {
+      "quantity": 113,
+      "location": {
+        "x": 34265.0859375,
+        "y": 15918.9384765625,
+        "z": 22549.275390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917972626"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": 176219.78125,
+        "y": -276122.46875,
+        "z": 20903.373046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428901226"
+    },
+    {
+      "quantity": 75,
+      "location": {
+        "x": 172462.875,
+        "y": -278159.375,
+        "z": 21552.814453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428877224"
+    },
+    {
+      "quantity": 86,
+      "location": {
+        "x": 112254.6171875,
+        "y": -162208.734375,
+        "z": 15773.5439453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286305766"
+    },
+    {
+      "quantity": 60,
+      "location": {
+        "x": 145663.359375,
+        "y": 93713.59375,
+        "z": 25564.462890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800393340"
+    },
+    {
+      "quantity": 50,
+      "location": {
+        "x": 164914.0,
+        "y": 60939.0,
+        "z": 21217.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1143866065"
+    },
+    {
+      "quantity": 74,
+      "location": {
+        "x": 143740.9375,
+        "y": 37028.08203125,
+        "z": 17172.2578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_2023578398"
+    },
+    {
+      "quantity": 89,
+      "location": {
+        "x": 175339.875,
+        "y": -244328.375,
+        "z": 7071.814453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844777230"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": 248901.65625,
+        "y": 58164.65234375,
+        "z": -1660.28564453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679189561"
+    },
+    {
+      "quantity": 55,
+      "location": {
+        "x": 226387.28125,
+        "y": 99903.3671875,
+        "z": 7190.4052734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790FD201_1548949575"
+    },
+    {
+      "quantity": 90,
+      "location": {
+        "x": 187532.703125,
+        "y": -128964.6484375,
+        "z": 15921.9853515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495273770"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/RebarGun/Ammo/Desc_Rebar_Stunshot.Desc_Rebar_Stunshot_C": [
+    {
+      "quantity": 10,
+      "location": {
+        "x": -108784.8359375,
+        "y": 108263.7265625,
+        "z": 9930.5673828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C4C501_1269706715"
+    },
+    {
+      "quantity": 6,
+      "location": {
+        "x": 359179.3125,
+        "y": -105621.6953125,
+        "z": 11365.734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7908CC01_1420580023"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/ModularFrameFused/Desc_ModularFrameFused.Desc_ModularFrameFused_C": [
+    {
+      "quantity": 7,
+      "location": {
+        "x": -117038.0,
+        "y": 74073.84375,
+        "z": 17199.2421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1222013225"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": -152292.578125,
+        "y": 34392.6015625,
+        "z": 19182.6484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928592399"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": -157113.9375,
+        "y": -4087.145751953125,
+        "z": 25297.85546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559497688"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": -94612.078125,
+        "y": 7420.91943359375,
+        "z": 25141.4453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214890334"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 11324.384765625,
+        "y": 113763.1015625,
+        "z": 26734.048828125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691503270"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 93391.1171875,
+        "y": 106433.4453125,
+        "z": 9865.3037109375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524845337"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 90497.359375,
+        "y": 128846.0078125,
+        "z": 9233.7177734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844993049"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 217660.09375,
+        "y": 1175.421630859375,
+        "z": -1667.1119384765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1742966879"
+    },
+    {
+      "quantity": 9,
+      "location": {
+        "x": 287187.71875,
+        "y": 72754.265625,
+        "z": -1647.430419921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1278923557"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/NobeliskDetonator/Ammo/Desc_NobeliskCluster.Desc_NobeliskCluster_C": [
+    {
+      "quantity": 3,
+      "location": {
+        "x": -117546.625,
+        "y": 74459.03125,
+        "z": 17108.8359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F6D201_1222012224"
+    },
+    {
+      "quantity": 2,
+      "location": {
+        "x": 190017.765625,
+        "y": 38288.9140625,
+        "z": 5890.68310546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F796CD601_1908098168"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/RebarGun/Ammo/Desc_Rebar_Explosive.Desc_Rebar_Explosive_C": [
+    {
+      "quantity": 6,
+      "location": {
+        "x": -154679.9375,
+        "y": 34797.85546875,
+        "z": 18979.85546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F793BD301_1928591398"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 98900.765625,
+        "y": -150660.671875,
+        "z": 2416.87060546875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable166"
+    },
+    {
+      "quantity": 5,
+      "location": {
+        "x": 94725.3828125,
+        "y": 47770.34765625,
+        "z": 9546.501953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D4D401_1296450396"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/MotorLightweight/Desc_MotorLightweight.Desc_MotorLightweight_C": [
+    {
+      "quantity": 11,
+      "location": {
+        "x": -140832.625,
+        "y": 24472.033203125,
+        "z": 32786.8359375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8D201_2068249582"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": -155445.765625,
+        "y": -4541.3115234375,
+        "z": 25306.564453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7937D301_1559499689"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": -93533.3203125,
+        "y": 6503.9443359375,
+        "z": 25127.998046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798AD401_1214894335"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": -91760.1015625,
+        "y": 42419.578125,
+        "z": 19953.5390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571671165"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 13600.95703125,
+        "y": 114210.9375,
+        "z": 26424.455078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C8D401_1691507271"
+    },
+    {
+      "quantity": 11,
+      "location": {
+        "x": -4361.408203125,
+        "y": 62057.0390625,
+        "z": 21994.3984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1647584226"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 176321.9375,
+        "y": -277636.46875,
+        "z": 20889.955078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428903227"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 146738.453125,
+        "y": 93091.140625,
+        "z": 25493.01171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800391338"
+    },
+    {
+      "quantity": 9,
+      "location": {
+        "x": 192540.9375,
+        "y": -236285.53125,
+        "z": 23112.30078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162961517"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 175207.71875,
+        "y": -241683.5,
+        "z": 7427.35009765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844799231"
+    },
+    {
+      "quantity": 7,
+      "location": {
+        "x": 274765.78125,
+        "y": 26955.76171875,
+        "z": -1667.8232421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894785566"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/BioFuel/Desc_Biofuel.Desc_Biofuel_C": [
+    {
+      "quantity": 74,
+      "location": {
+        "x": -156284.25,
+        "y": -64173.9296875,
+        "z": 12110.7392578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DBC401_1695505715"
+    },
+    {
+      "quantity": 14,
+      "location": {
+        "x": -43852.59765625,
+        "y": 145574.6875,
+        "z": 7395.9365234375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D2C401_1944044107"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Equipment/Medkit/Desc_Medkit.Desc_Medkit_C": [
+    {
+      "quantity": 5,
+      "location": {
+        "x": -124128.0,
+        "y": -167993.0,
+        "z": 29265.98046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ABCB01_1811273627"
+    },
+    {
+      "quantity": 2,
+      "location": {
+        "x": 304038.09375,
+        "y": -244328.359375,
+        "z": 4773.28955078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_420"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/HighSpeedConnector/Desc_HighSpeedConnector.Desc_HighSpeedConnector_C": [
+    {
+      "quantity": 39,
+      "location": {
+        "x": -96358.484375,
+        "y": 41565.8671875,
+        "z": 21220.748046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945D301_1571670164"
+    },
+    {
+      "quantity": 35,
+      "location": {
+        "x": -76476.7265625,
+        "y": 90871.4921875,
+        "z": 20250.322265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085721293"
+    },
+    {
+      "quantity": 29,
+      "location": {
+        "x": -34273.90234375,
+        "y": 115892.0078125,
+        "z": 21735.083984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902833232"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 47116.82421875,
+        "y": 140255.46875,
+        "z": 13155.248046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911688807"
+    },
+    {
+      "quantity": 21,
+      "location": {
+        "x": 35442.94921875,
+        "y": 17666.091796875,
+        "z": 22521.13671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917980628"
+    },
+    {
+      "quantity": 2,
+      "location": {
+        "x": 111792.765625,
+        "y": -162906.8125,
+        "z": 15751.4716796875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286309767"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 190480.390625,
+        "y": 37959.54296875,
+        "z": 5410.6845703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7970D601_1288619873"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 250121.515625,
+        "y": 59157.62109375,
+        "z": -1429.7542724609375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679167560"
+    },
+    {
+      "quantity": 27,
+      "location": {
+        "x": 291314.15625,
+        "y": 2850.7578125,
+        "z": 843.0955200195312
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940793575"
+    },
+    {
+      "quantity": 5,
+      "location": {
+        "x": 234255.640625,
+        "y": 80359.6953125,
+        "z": -1670.0462646484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7973D601_1399883419"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/BioFuel/Desc_PackagedBiofuel.Desc_PackagedBiofuel_C": [
+    {
+      "quantity": 7,
+      "location": {
+        "x": -77287.828125,
+        "y": 91759.2421875,
+        "z": 20218.748046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FCD201_2085720292"
+    },
+    {
+      "quantity": 6,
+      "location": {
+        "x": 241256.109375,
+        "y": 132761.421875,
+        "z": 17053.515625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F790ED201_1745625391"
+    },
+    {
+      "quantity": 9,
+      "location": {
+        "x": 183179.828125,
+        "y": 95315.5078125,
+        "z": 17877.279296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DACE01_1166764077"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 161672.765625,
+        "y": -145606.8125,
+        "z": 23154.470703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363261335"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/ElectromagneticControlRod/Desc_ElectromagneticControlRod.Desc_ElectromagneticControlRod_C": [
+    {
+      "quantity": 27,
+      "location": {
+        "x": -34269.19140625,
+        "y": 116722.5859375,
+        "z": 21730.9140625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798FD401_1902836233"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 46730.0,
+        "y": 141184.0,
+        "z": 13115.1572265625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7975D501_1911653803"
+    },
+    {
+      "quantity": 31,
+      "location": {
+        "x": -39957.32421875,
+        "y": 63711.11328125,
+        "z": 25850.767578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79FED201_1915246651"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": -33910.90625,
+        "y": 5020.861328125,
+        "z": 23299.953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515423869"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 36245.5,
+        "y": 16086.876953125,
+        "z": 22530.26953125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79CAD401_1917983629"
+    },
+    {
+      "quantity": 42,
+      "location": {
+        "x": 94006.9921875,
+        "y": 105147.203125,
+        "z": 9865.736328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7978D501_1524875341"
+    },
+    {
+      "quantity": 67,
+      "location": {
+        "x": 260060.28125,
+        "y": 124890.8125,
+        "z": -2728.1640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203882372"
+    },
+    {
+      "quantity": 18,
+      "location": {
+        "x": 145919.703125,
+        "y": 93689.171875,
+        "z": 25558.58984375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F795CD601_1800392339"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 189354.921875,
+        "y": -235487.3125,
+        "z": 23140.05859375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B2D601_1162956515"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 178195.9375,
+        "y": -243802.53125,
+        "z": 7677.30029296875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1844807233"
+    },
+    {
+      "quantity": 19,
+      "location": {
+        "x": 232008.6875,
+        "y": 25226.845703125,
+        "z": -1723.688232421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7971D601_1955787060"
+    },
+    {
+      "quantity": 37,
+      "location": {
+        "x": 271136.71875,
+        "y": 29856.962890625,
+        "z": -1643.8759765625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1894811569"
+    },
+    {
+      "quantity": 40,
+      "location": {
+        "x": 292458.9375,
+        "y": 1616.680908203125,
+        "z": 753.1085205078125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1940769572"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 188897.171875,
+        "y": -127497.40625,
+        "z": 15986.9482421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495295771"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/SpikedRebar/Desc_SpikedRebar.Desc_SpikedRebar_C": [
+    {
+      "quantity": 7,
+      "location": {
+        "x": 27423.8046875,
+        "y": 195295.453125,
+        "z": 17016.396484375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAC401_1183609533"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": -29615.076171875,
+        "y": -22315.080078125,
+        "z": 17380.4453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79C0CB01_1734788334"
+    },
+    {
+      "quantity": 8,
+      "location": {
+        "x": 80113.0,
+        "y": -44803.0,
+        "z": 8348.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7922C501_1444875229"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/Rifle/Ammo/Desc_CartridgeSmartProjectile.Desc_CartridgeSmartProjectile_C": [
+    {
+      "quantity": 17,
+      "location": {
+        "x": -32609.076171875,
+        "y": 4099.91943359375,
+        "z": 23453.4453125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F798DD401_1515422868"
+    },
+    {
+      "quantity": 6,
+      "location": {
+        "x": 91185.4453125,
+        "y": 127556.3515625,
+        "z": 9551.623046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7960D601_1844992048"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 170644.28125,
+        "y": -10718.935546875,
+        "z": 15861.802734375
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D5D401_1691679584"
+    },
+    {
+      "quantity": 20,
+      "location": {
+        "x": 233370.171875,
+        "y": -20183.31640625,
+        "z": 8803.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_400"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/ComputerSuper/Desc_ComputerSuper.Desc_ComputerSuper_C": [
+    {
+      "quantity": 1,
+      "location": {
+        "x": -29442.0,
+        "y": -129172.0,
+        "z": 8048.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7926C501_1619418945"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/NobeliskDetonator/Ammo/Desc_NobeliskGas.Desc_NobeliskGas_C": [
+    {
+      "quantity": 54,
+      "location": {
+        "x": -55348.0,
+        "y": -149093.0,
+        "z": 573.6182861328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7945CE01_1667084850"
+    },
+    {
+      "quantity": 4,
+      "location": {
+        "x": 226.0,
+        "y": -236608.0,
+        "z": -1751.3817138671875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7986CE01_1126606299"
+    },
+    {
+      "quantity": 5,
+      "location": {
+        "x": 176213.0,
+        "y": 244441.0,
+        "z": -9723.0
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79F8CD01_1178457288"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/AluminumPlateReinforced/Desc_AluminumPlateReinforced.Desc_AluminumPlateReinforced_C": [
+    {
+      "quantity": 6,
+      "location": {
+        "x": 259666.21875,
+        "y": 125420.4140625,
+        "z": -2751.126220703125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79ADD201_1203915375"
+    },
+    {
+      "quantity": 15,
+      "location": {
+        "x": 172659.515625,
+        "y": -277297.90625,
+        "z": 21639.169921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B6D601_1428898225"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": 108142.7421875,
+        "y": -162850.953125,
+        "z": 15478.7998046875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1286302765"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 158022.734375,
+        "y": -145613.890625,
+        "z": 23204.91015625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B1D601_1363258333"
+    },
+    {
+      "quantity": 16,
+      "location": {
+        "x": 187619.453125,
+        "y": 16483.072265625,
+        "z": 13038.775390625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816333484"
+    },
+    {
+      "quantity": 17,
+      "location": {
+        "x": 191382.90625,
+        "y": -128120.8515625,
+        "z": 16019.171875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79B9D601_1495299773"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Filter/Desc_Filter.Desc_Filter_C": [
+    {
+      "quantity": 3,
+      "location": {
+        "x": 233138.078125,
+        "y": -313534.375,
+        "z": 9918.2890625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A7CD01_2130365061"
+    },
+    {
+      "quantity": 5,
+      "location": {
+        "x": 55807.0,
+        "y": -50701.0,
+        "z": 13821.6181640625
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79A0CD01_1139939811"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/CartridgeStandard/Desc_CartridgeStandard.Desc_CartridgeStandard_C": [
+    {
+      "quantity": 16,
+      "location": {
+        "x": 200506.71875,
+        "y": 133136.953125,
+        "z": 6814.419921875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F7904D201_1917484625"
+    }
+  ],
+  "/Game/FactoryGame/Resource/Parts/Turbofuel/Desc_TurboFuel.Desc_TurboFuel_C": [
+    {
+      "quantity": 7,
+      "location": {
+        "x": 198102.296875,
+        "y": -40248.4296875,
+        "z": 13607.361328125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79D9D401_1734562296"
+    },
+    {
+      "quantity": 5,
+      "location": {
+        "x": 249309.296875,
+        "y": 59066.765625,
+        "z": -1507.9266357421875
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79AED201_1679192563"
+    }
+  ],
+  "/Game/FactoryGame/Equipment/NobeliskDetonator/Ammo/Desc_NobeliskShockwave.Desc_NobeliskShockwave_C": [
+    {
+      "quantity": 2,
+      "location": {
+        "x": 187926.25,
+        "y": 18031.3125,
+        "z": 12956.017578125
+      },
+      "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F79DAD401_1816350487"
+    }
+  ]
+}

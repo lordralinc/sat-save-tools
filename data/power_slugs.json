@@ -1,0 +1,6218 @@
+{
+  "blue": {
+    "Persistent_Level:PersistentLevel.BP_Crystal1": {
+      "x": -211812.5625,
+      "y": -140593.296875,
+      "z": 3107.16455078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10": {
+      "x": -260891.625,
+      "y": -152810.953125,
+      "z": 991.5802001953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal102": {
+      "x": 141380.0,
+      "y": -159269.0,
+      "z": 5767.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_10": {
+      "x": 11565.03125,
+      "y": 275010.0625,
+      "z": -5485.8310546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_10171": {
+      "x": -4714.671875,
+      "y": -42869.12109375,
+      "z": 16426.92578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_12": {
+      "x": 133090.703125,
+      "y": -81206.0390625,
+      "z": 12307.630859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_13": {
+      "x": -195258.671875,
+      "y": 12077.4296875,
+      "z": 11901.970703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_15": {
+      "x": 153655.109375,
+      "y": 257705.28125,
+      "z": -925.9903564453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_3": {
+      "x": -2630.0859375,
+      "y": -141809.453125,
+      "z": 15899.30078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal10_79": {
+      "x": 227729.53125,
+      "y": 60730.6484375,
+      "z": -1641.463623046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11": {
+      "x": -190229.578125,
+      "y": -196399.984375,
+      "z": 5527.10693359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal111_3": {
+      "x": 129030.0,
+      "y": -138605.0,
+      "z": 12648.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal113": {
+      "x": 281910.8125,
+      "y": -152776.0625,
+      "z": 3937.111572265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal114": {
+      "x": 277271.40625,
+      "y": -238507.0625,
+      "z": 4069.23388671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal115": {
+      "x": 236718.15625,
+      "y": -237214.4375,
+      "z": 3417.07861328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal117": {
+      "x": 300855.46875,
+      "y": -94145.3828125,
+      "z": 8790.7919921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal117_2": {
+      "x": 188356.0,
+      "y": -152668.0,
+      "z": 23561.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal118": {
+      "x": 287542.34375,
+      "y": -87886.296875,
+      "z": 8995.7861328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal119": {
+      "x": 244057.265625,
+      "y": -240028.125,
+      "z": 2538.7607421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_10": {
+      "x": 14476.9140625,
+      "y": 230072.171875,
+      "z": 7249.8115234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_11": {
+      "x": -53805.79296875,
+      "y": 300084.34375,
+      "z": -6722.62353515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_13": {
+      "x": 135311.765625,
+      "y": -58727.6328125,
+      "z": 10234.984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_14": {
+      "x": -151933.84375,
+      "y": -40291.4453125,
+      "z": 2863.63623046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_15": {
+      "x": -2096.859375,
+      "y": -110265.2734375,
+      "z": 11560.880859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_16": {
+      "x": 115017.1484375,
+      "y": 178031.375,
+      "z": -5252.8828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_20": {
+      "x": 126616.7734375,
+      "y": 155744.75,
+      "z": 6756.451171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_7": {
+      "x": 80425.890625,
+      "y": -19572.52734375,
+      "z": 13644.5419921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal11_80": {
+      "x": 246886.296875,
+      "y": 69221.796875,
+      "z": -1707.5673828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12": {
+      "x": -159879.25,
+      "y": -184972.96875,
+      "z": 18189.853515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal121_2": {
+      "x": 168015.0,
+      "y": -241040.0,
+      "z": 5530.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal122_5": {
+      "x": 150560.0,
+      "y": -223335.0,
+      "z": -569.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal125": {
+      "x": 128250.0,
+      "y": -166055.0,
+      "z": 4005.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal125_0": {
+      "x": 205824.0,
+      "y": -156941.0,
+      "z": 22062.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal126": {
+      "x": 144750.0,
+      "y": -200675.0,
+      "z": 2340.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal127": {
+      "x": 311190.03125,
+      "y": -109510.25,
+      "z": 10724.021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal129": {
+      "x": 241707.46875,
+      "y": -310696.75,
+      "z": 6774.1396484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_10": {
+      "x": 114000.5546875,
+      "y": -14367.73046875,
+      "z": 16177.6552734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_11": {
+      "x": 19407.185546875,
+      "y": 247199.046875,
+      "z": 3313.39794921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_12": {
+      "x": -39479.77734375,
+      "y": 276042.21875,
+      "z": -2510.846923828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_12002": {
+      "x": -63922.7109375,
+      "y": -73395.671875,
+      "z": 17318.951171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_13": {
+      "x": -169210.90625,
+      "y": 75979.46875,
+      "z": 2371.747802734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_14": {
+      "x": 179796.0,
+      "y": -53461.828125,
+      "z": 10519.6240234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_15": {
+      "x": -177366.109375,
+      "y": -44370.0,
+      "z": -1751.6202392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_17": {
+      "x": 132180.9375,
+      "y": 175558.171875,
+      "z": -2330.818359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_43": {
+      "x": 46672.23046875,
+      "y": 126416.2265625,
+      "z": 13982.4755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal12_81": {
+      "x": 219926.453125,
+      "y": 85262.296875,
+      "z": -558.1073608398438
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13": {
+      "x": -136605.640625,
+      "y": -184491.40625,
+      "z": 15780.9853515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal132": {
+      "x": 286874.3125,
+      "y": -288896.125,
+      "z": 4090.10693359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal133_1": {
+      "x": 314684.65625,
+      "y": -102610.75,
+      "z": 7744.41845703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal135": {
+      "x": 324586.125,
+      "y": -53434.40625,
+      "z": 7148.39453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_11": {
+      "x": 130110.7265625,
+      "y": -26601.697265625,
+      "z": 9200.4267578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_12": {
+      "x": 43383.98046875,
+      "y": 252867.46875,
+      "z": -116.95880126953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_13": {
+      "x": -18183.1796875,
+      "y": 263638.65625,
+      "z": 1988.0001220703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_15": {
+      "x": 182197.640625,
+      "y": -74180.9609375,
+      "z": 4147.18798828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_16": {
+      "x": -164418.828125,
+      "y": -14323.5703125,
+      "z": 6184.72021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_18": {
+      "x": -93863.5390625,
+      "y": -22671.87890625,
+      "z": 17598.025390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_19": {
+      "x": 127141.078125,
+      "y": 163916.671875,
+      "z": 2336.895263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_44": {
+      "x": 53796.39453125,
+      "y": 108946.5390625,
+      "z": 11439.095703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_6": {
+      "x": 341344.53125,
+      "y": -65034.8203125,
+      "z": 990.5609741210938
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_82": {
+      "x": 223798.28125,
+      "y": 99283.203125,
+      "z": 1474.28662109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_9": {
+      "x": 3858.953125,
+      "y": -64057.21484375,
+      "z": 15100.353515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_UAID_40B076DF2F79AC9B01_1616270112": {
+      "x": 358644.53125,
+      "y": -86414.8203125,
+      "z": 2670.56103515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal13_UAID_40B076DF2F79AD9B01_1733787293": {
+      "x": 332494.53125,
+      "y": -60519.8203125,
+      "z": 1560.5609130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14": {
+      "x": -136480.890625,
+      "y": -168496.953125,
+      "z": 21128.541015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal141": {
+      "x": 241463.125,
+      "y": -226396.40625,
+      "z": 1931.482177734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal146": {
+      "x": 373734.1875,
+      "y": -126247.1875,
+      "z": 5814.2578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal147": {
+      "x": 362440.625,
+      "y": -91302.2421875,
+      "z": 6712.67578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal148": {
+      "x": 365616.6875,
+      "y": -140135.546875,
+      "z": 4929.68896484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal149": {
+      "x": 350117.65625,
+      "y": -96867.3046875,
+      "z": 8058.1484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_10": {
+      "x": 39872.58984375,
+      "y": 1630.33203125,
+      "z": 17326.091796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_12": {
+      "x": 96437.7421875,
+      "y": -39584.13671875,
+      "z": 10001.666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_13": {
+      "x": 45527.0703125,
+      "y": 226859.71875,
+      "z": 1279.4749755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_14": {
+      "x": -18093.9140625,
+      "y": 272198.40625,
+      "z": -5811.16748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_15": {
+      "x": -176793.40625,
+      "y": 79807.5546875,
+      "z": 12265.8134765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_16": {
+      "x": 158493.34375,
+      "y": -56806.19921875,
+      "z": 4905.3876953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_17": {
+      "x": -137331.921875,
+      "y": -51819.609375,
+      "z": 8182.55859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_20": {
+      "x": 175704.484375,
+      "y": 225211.5,
+      "z": -3270.1279296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_8": {
+      "x": 311602.125,
+      "y": -26395.630859375,
+      "z": 410.8971862792969
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal14_83": {
+      "x": 213707.53125,
+      "y": 85508.0625,
+      "z": 390.9596252441406
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15": {
+      "x": -208851.84375,
+      "y": -151187.046875,
+      "z": 10257.61328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal150": {
+      "x": 362063.25,
+      "y": -120811.84375,
+      "z": 8665.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal151": {
+      "x": 384480.25,
+      "y": -133836.84375,
+      "z": 6067.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal152": {
+      "x": 398590.25,
+      "y": -134013.84375,
+      "z": 5891.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal153": {
+      "x": 401055.25,
+      "y": -144112.84375,
+      "z": 4978.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal154": {
+      "x": 406175.25,
+      "y": -148723.84375,
+      "z": 7051.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal155": {
+      "x": 395150.25,
+      "y": -118249.84375,
+      "z": 5637.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal156": {
+      "x": 363096.75,
+      "y": -112040.6875,
+      "z": 6611.82666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_10": {
+      "x": 335963.375,
+      "y": -21416.771484375,
+      "z": -1221.0155029296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_11": {
+      "x": 55916.58203125,
+      "y": -16435.720703125,
+      "z": 13119.0126953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_13": {
+      "x": 114624.34375,
+      "y": -46728.42578125,
+      "z": 8321.583984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_15": {
+      "x": -4365.59765625,
+      "y": 290254.25,
+      "z": 2358.487548828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_16": {
+      "x": -165979.265625,
+      "y": 186656.390625,
+      "z": 2318.092041015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_17": {
+      "x": 212048.484375,
+      "y": -59077.625,
+      "z": 19267.078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_21": {
+      "x": 165282.28125,
+      "y": 181676.625,
+      "z": -2581.275634765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_8": {
+      "x": -12630.0,
+      "y": -77361.0,
+      "z": 11183.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal15_84": {
+      "x": 238686.390625,
+      "y": 96476.96875,
+      "z": 893.248046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16": {
+      "x": 240040.546875,
+      "y": 80232.6484375,
+      "z": -475.4589538574219
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16_10": {
+      "x": -43196.8671875,
+      "y": -102532.7265625,
+      "z": 2429.94580078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16_11": {
+      "x": -10340.0,
+      "y": -73590.0,
+      "z": 11090.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16_16": {
+      "x": -44644.91015625,
+      "y": 229139.5,
+      "z": 277.98199462890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16_19": {
+      "x": -127715.0078125,
+      "y": -83530.578125,
+      "z": 2464.6591796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal16_22": {
+      "x": 166726.59375,
+      "y": 203701.40625,
+      "z": -3605.723876953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17": {
+      "x": 47129.7890625,
+      "y": -198733.46875,
+      "z": 913.60302734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_14": {
+      "x": -8220.0,
+      "y": -69410.0,
+      "z": 10830.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_15": {
+      "x": 180559.90625,
+      "y": 189919.1875,
+      "z": -2922.4892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_17": {
+      "x": -97705.3515625,
+      "y": 200304.671875,
+      "z": 2836.096435546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_18": {
+      "x": 21591.125,
+      "y": -84423.421875,
+      "z": 18499.7734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_20": {
+      "x": -124509.0546875,
+      "y": -71728.2421875,
+      "z": 1736.126953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79175C01_2025354360": {
+      "x": 92479.84375,
+      "y": -163998.53125,
+      "z": 2321.547119140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79755B01_1333072849": {
+      "x": 33856.84765625,
+      "y": -178774.53125,
+      "z": 972.5472412109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79755B01_1353668850": {
+      "x": 21495.84765625,
+      "y": -184695.53125,
+      "z": 2482.547119140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79845B01_1828836491": {
+      "x": 45851.84765625,
+      "y": -169786.53125,
+      "z": 1673.5472412109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79875B01_2021256020": {
+      "x": 54722.84765625,
+      "y": -163372.53125,
+      "z": 2696.547119140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79F76301_1463908182": {
+      "x": 62991.84765625,
+      "y": -213663.53125,
+      "z": 1912.5472412109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79F76301_1548250183": {
+      "x": 54353.84765625,
+      "y": -226059.53125,
+      "z": -1363.4527587890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal18": {
+      "x": 229666.0,
+      "y": 160136.0,
+      "z": 7624.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal18_16": {
+      "x": 100489.6875,
+      "y": -112099.8984375,
+      "z": 18312.45703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal18_18": {
+      "x": -56673.08203125,
+      "y": 191128.578125,
+      "z": 402.45672607421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal18_19": {
+      "x": 208618.65625,
+      "y": -58329.578125,
+      "z": 20899.201171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal18_22": {
+      "x": -229149.015625,
+      "y": -21167.8828125,
+      "z": 4775.8486328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19": {
+      "x": -116191.4921875,
+      "y": -160532.140625,
+      "z": 896.9929809570312
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_17": {
+      "x": 183056.21875,
+      "y": 180707.5625,
+      "z": -4264.900390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_19": {
+      "x": -25938.310546875,
+      "y": 147256.96875,
+      "z": 296.29693603515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_20": {
+      "x": 209177.828125,
+      "y": -56344.9609375,
+      "z": 19244.8046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_23": {
+      "x": -285158.53125,
+      "y": -61168.03515625,
+      "z": -1267.362060546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_28": {
+      "x": -109870.515625,
+      "y": 69604.2734375,
+      "z": 13389.17578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal19_8": {
+      "x": 40959.7265625,
+      "y": -61444.03515625,
+      "z": 11987.2255859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_0": {
+      "x": -56825.71875,
+      "y": 234985.296875,
+      "z": -2647.916259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_1": {
+      "x": -155397.75,
+      "y": 210147.1875,
+      "z": -1543.571533203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_12": {
+      "x": -72107.359375,
+      "y": -47798.171875,
+      "z": 16772.71875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_17": {
+      "x": -225302.0,
+      "y": 55320.9453125,
+      "z": 1661.9324951171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_2": {
+      "x": -210681.90625,
+      "y": 43083.859375,
+      "z": 10394.93359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_21": {
+      "x": 70481.9609375,
+      "y": 77916.1171875,
+      "z": 13007.9443359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_227": {
+      "x": 64307.69921875,
+      "y": 49429.27734375,
+      "z": 31373.697265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_3": {
+      "x": 138339.5625,
+      "y": -45751.57421875,
+      "z": 7938.6982421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_6": {
+      "x": 112477.0,
+      "y": 200649.5625,
+      "z": -5054.66259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal1_87": {
+      "x": 229588.625,
+      "y": 69717.0625,
+      "z": -1674.5791015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2": {
+      "x": -261667.1875,
+      "y": -191990.25,
+      "z": -890.0969848632812
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20": {
+      "x": -103164.9765625,
+      "y": -120772.59375,
+      "z": 252.93231201171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20_18": {
+      "x": 178416.734375,
+      "y": 186707.515625,
+      "z": -4237.234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20_20": {
+      "x": 37452.91015625,
+      "y": 144081.03125,
+      "z": -7061.43896484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20_21": {
+      "x": -273273.40625,
+      "y": -64068.51171875,
+      "z": 3103.334716796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20_24": {
+      "x": 75580.2421875,
+      "y": -126974.9140625,
+      "z": 7007.28857421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal20_29": {
+      "x": -114214.4921875,
+      "y": 72589.9140625,
+      "z": 14877.1240234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21": {
+      "x": -140601.640625,
+      "y": -170183.734375,
+      "z": 9075.2666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21_19": {
+      "x": 178835.796875,
+      "y": 182413.59375,
+      "z": -1657.2208251953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21_21": {
+      "x": 22570.84375,
+      "y": 274565.0625,
+      "z": 2791.613525390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21_24": {
+      "x": -236733.421875,
+      "y": -38309.25390625,
+      "z": -1621.8070068359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21_26": {
+      "x": -116513.3515625,
+      "y": 69434.734375,
+      "z": 14657.619140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal21_86": {
+      "x": 207370.828125,
+      "y": 92.19921875,
+      "z": -1131.449951171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal22": {
+      "x": 96904.765625,
+      "y": 230776.3125,
+      "z": -3912.851806640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal22_22": {
+      "x": -110796.6875,
+      "y": 262232.21875,
+      "z": -6225.07080078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal22_25": {
+      "x": -263224.15625,
+      "y": -16429.10546875,
+      "z": 511.79766845703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal22_27": {
+      "x": -113223.8046875,
+      "y": 66523.9765625,
+      "z": 13003.23046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal22_7": {
+      "x": 47501.26171875,
+      "y": -126014.0,
+      "z": 13866.2626953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal23": {
+      "x": -104759.4140625,
+      "y": -186988.6875,
+      "z": -1760.2000732421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal23_15": {
+      "x": 140681.921875,
+      "y": 238884.9375,
+      "z": -11460.3291015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal23_23": {
+      "x": -111111.9921875,
+      "y": 223563.109375,
+      "z": 736.202880859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal23_26": {
+      "x": -298838.03125,
+      "y": -37510.71484375,
+      "z": 710.8389892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal24": {
+      "x": -147412.140625,
+      "y": -175893.65625,
+      "z": 10486.55859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal24_0": {
+      "x": -183688.078125,
+      "y": 16111.88671875,
+      "z": 5582.6708984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal24_16": {
+      "x": 125413.7890625,
+      "y": 237617.125,
+      "z": -10840.666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal24_24": {
+      "x": 3924.8203125,
+      "y": 191567.09375,
+      "z": -5231.451171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal24_25": {
+      "x": -117464.6640625,
+      "y": 65317.41796875,
+      "z": 13399.857421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal25": {
+      "x": -112208.234375,
+      "y": -148938.625,
+      "z": 3780.093017578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal25_17": {
+      "x": 135814.859375,
+      "y": 248732.375,
+      "z": -16827.201171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal25_21": {
+      "x": -113645.1953125,
+      "y": 148049.3125,
+      "z": 6218.9013671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal25_25": {
+      "x": -35282.4609375,
+      "y": 167057.25,
+      "z": 2545.939697265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal26": {
+      "x": 132609.921875,
+      "y": 232404.171875,
+      "z": -14229.3623046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal26_26": {
+      "x": -70297.375,
+      "y": 292339.21875,
+      "z": -6331.5673828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal26_32": {
+      "x": -139446.90625,
+      "y": 130393.3984375,
+      "z": 9832.525390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal27": {
+      "x": -160088.703125,
+      "y": -163807.921875,
+      "z": 14626.8388671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal27_18": {
+      "x": 132077.65625,
+      "y": 248280.546875,
+      "z": -10341.48828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal27_22": {
+      "x": -97120.8046875,
+      "y": 97881.109375,
+      "z": 12218.87890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal27_27": {
+      "x": -54543.35546875,
+      "y": 270830.1875,
+      "z": -1451.72412109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal28": {
+      "x": -206358.6875,
+      "y": -195657.0,
+      "z": -1391.2119140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal28_23": {
+      "x": -124469.9921875,
+      "y": 84572.625,
+      "z": 7208.09912109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal28_28": {
+      "x": -78244.0703125,
+      "y": 270755.125,
+      "z": -3966.489501953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal29": {
+      "x": -192704.40625,
+      "y": -147394.359375,
+      "z": 3606.219970703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal29_24": {
+      "x": -135682.15625,
+      "y": 72159.0625,
+      "z": 8200.4296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal29_29": {
+      "x": -24539.869140625,
+      "y": 214616.09375,
+      "z": -3446.379638671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_0": {
+      "x": 128183.6484375,
+      "y": -94789.5859375,
+      "z": 4200.3935546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_1": {
+      "x": 39006.37890625,
+      "y": 84525.21875,
+      "z": 14359.439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_2": {
+      "x": 6632.5,
+      "y": 292644.25,
+      "z": 1160.996337890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_21": {
+      "x": -210904.125,
+      "y": 138994.640625,
+      "z": -579.3234252929688
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_228": {
+      "x": 47248.09375,
+      "y": 68395.609375,
+      "z": 31465.447265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_2780": {
+      "x": -101136.0,
+      "y": -37459.0,
+      "z": 15237.251953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_3": {
+      "x": -149928.8125,
+      "y": 171000.3125,
+      "z": 3607.4423828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_6": {
+      "x": -273618.1875,
+      "y": -93543.7421875,
+      "z": -840.8453979492188
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal2_7": {
+      "x": 189389.015625,
+      "y": 200749.203125,
+      "z": 3491.12841796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3": {
+      "x": -227221.921875,
+      "y": -144439.96875,
+      "z": 4639.64013671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal30": {
+      "x": -195441.78125,
+      "y": -139536.59375,
+      "z": 2677.50732421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal30_3": {
+      "x": -11948.3671875,
+      "y": 302673.125,
+      "z": -1881.1641845703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal30_30": {
+      "x": -105264.6484375,
+      "y": 83190.828125,
+      "z": 13173.2294921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal31": {
+      "x": -161214.640625,
+      "y": 93264.5859375,
+      "z": 9840.0224609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal31_6": {
+      "x": -165206.109375,
+      "y": -147209.640625,
+      "z": 3963.79833984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal31_7": {
+      "x": -12908.09375,
+      "y": 291933.8125,
+      "z": -1779.264892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal32": {
+      "x": -68347.0078125,
+      "y": 170998.578125,
+      "z": 786.8340454101562
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal32_11": {
+      "x": -54766.41015625,
+      "y": 283464.59375,
+      "z": -1426.6380615234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal32_7": {
+      "x": -182317.9375,
+      "y": -150281.078125,
+      "z": 2007.3623046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal33": {
+      "x": -176828.28125,
+      "y": -143189.5625,
+      "z": 5312.56982421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal33_9": {
+      "x": -115731.21875,
+      "y": 238883.515625,
+      "z": -4679.34521484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal34": {
+      "x": -87052.046875,
+      "y": 276875.28125,
+      "z": -3049.356201171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal34_2": {
+      "x": -160825.3125,
+      "y": 75737.53125,
+      "z": 5015.2021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal34_21": {
+      "x": -252341.734375,
+      "y": -129725.5703125,
+      "z": 8113.98095703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal35": {
+      "x": -91820.109375,
+      "y": 249822.171875,
+      "z": -3181.374267578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal35_5": {
+      "x": -181215.8125,
+      "y": 76729.65625,
+      "z": 17784.416015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal36": {
+      "x": -15141.16796875,
+      "y": 218878.703125,
+      "z": 232.74456787109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal36_23": {
+      "x": -110938.25,
+      "y": -141243.0625,
+      "z": -528.731689453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal37": {
+      "x": -39678.30859375,
+      "y": 213270.625,
+      "z": -426.4142761230469
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal37_24": {
+      "x": -197509.203125,
+      "y": -145895.96875,
+      "z": 1994.2559814453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal38": {
+      "x": -187639.734375,
+      "y": -143409.953125,
+      "z": -1236.2874755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal38_2": {
+      "x": 167795.0,
+      "y": 97575.0,
+      "z": 6007.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal39": {
+      "x": -191989.875,
+      "y": -165497.03125,
+      "z": -2998.421630859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_1": {
+      "x": 8995.9765625,
+      "y": -144952.484375,
+      "z": 505.4852294921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_13": {
+      "x": -42609.59765625,
+      "y": -37552.48828125,
+      "z": 18913.5859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_14": {
+      "x": 101580.3125,
+      "y": 124437.34375,
+      "z": 10567.384765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_15": {
+      "x": 61847.5234375,
+      "y": 216669.4375,
+      "z": -1128.7318115234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_19": {
+      "x": -216108.515625,
+      "y": 112516.515625,
+      "z": -689.4234008789062
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_2": {
+      "x": 53704.0859375,
+      "y": -80022.1171875,
+      "z": 12783.220703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_234": {
+      "x": -589.7109375,
+      "y": 118437.8515625,
+      "z": 23006.326171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_3": {
+      "x": -64958.64453125,
+      "y": 268214.0,
+      "z": -3016.97998046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_4": {
+      "x": -178837.09375,
+      "y": 131313.015625,
+      "z": 3782.47509765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_5": {
+      "x": -107121.515625,
+      "y": -43626.359375,
+      "z": 3303.236328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal3_8": {
+      "x": 207259.578125,
+      "y": 203801.09375,
+      "z": 8445.4326171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4": {
+      "x": -216556.96875,
+      "y": -164256.03125,
+      "z": -1791.9129638671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal40": {
+      "x": -148951.65625,
+      "y": -104096.9453125,
+      "z": 1976.474365234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal41": {
+      "x": -267650.5625,
+      "y": -140337.703125,
+      "z": 6370.2626953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal42": {
+      "x": -180197.234375,
+      "y": -135956.09375,
+      "z": -1722.701904296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal43": {
+      "x": -149454.84375,
+      "y": -145816.609375,
+      "z": 7390.65625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal44": {
+      "x": 29162.509765625,
+      "y": 110840.0625,
+      "z": -8772.74609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal45": {
+      "x": -116580.078125,
+      "y": -174837.421875,
+      "z": 5764.51171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal46": {
+      "x": -152341.5625,
+      "y": -172703.921875,
+      "z": 18053.810546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal47": {
+      "x": -136411.90625,
+      "y": -184600.890625,
+      "z": 25884.150390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal48": {
+      "x": 252111.4375,
+      "y": -204393.734375,
+      "z": 1602.1171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal49": {
+      "x": 340376.8125,
+      "y": -190603.390625,
+      "z": 4548.23046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_0": {
+      "x": -3712.3046875,
+      "y": 78149.0859375,
+      "z": 21871.2734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_3": {
+      "x": 88076.7421875,
+      "y": 137502.515625,
+      "z": 10776.3427734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_3771": {
+      "x": -72765.953125,
+      "y": -66349.8984375,
+      "z": 15571.041015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_4": {
+      "x": 10973.12109375,
+      "y": 292828.78125,
+      "z": 3545.1318359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_5": {
+      "x": -180206.96875,
+      "y": 108188.75,
+      "z": 11441.1044921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_6": {
+      "x": 103335.765625,
+      "y": -125395.890625,
+      "z": -686.1143798828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_7": {
+      "x": -213660.578125,
+      "y": -68965.2734375,
+      "z": 78.11396026611328
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_73": {
+      "x": 212703.0,
+      "y": 68577.9453125,
+      "z": -1664.82470703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal4_9": {
+      "x": 194376.390625,
+      "y": 193846.625,
+      "z": -1886.0355224609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5": {
+      "x": -193556.15625,
+      "y": -96514.0703125,
+      "z": -290.72894287109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal50": {
+      "x": 351188.5625,
+      "y": -205182.96875,
+      "z": 4452.50341796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal51": {
+      "x": -2433.3359375,
+      "y": -89074.3828125,
+      "z": 16375.677734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal52": {
+      "x": 381563.6875,
+      "y": -208871.09375,
+      "z": 5197.337890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal53": {
+      "x": 364227.75,
+      "y": -210000.671875,
+      "z": 4050.9765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal54": {
+      "x": 377438.59375,
+      "y": -186364.34375,
+      "z": 5812.25830078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal55": {
+      "x": 354541.0625,
+      "y": -215740.59375,
+      "z": 4586.02392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal56_4": {
+      "x": 163254.0,
+      "y": -198418.0,
+      "z": 14214.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal57_0": {
+      "x": -126519.4453125,
+      "y": 136940.015625,
+      "z": 5168.3984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal58": {
+      "x": 356875.5,
+      "y": -129668.3203125,
+      "z": 4867.345703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal59": {
+      "x": 311589.8125,
+      "y": -112250.375,
+      "z": 6358.46533203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_10": {
+      "x": 137129.21875,
+      "y": 162099.53125,
+      "z": -4670.59619140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_15": {
+      "x": 124923.8984375,
+      "y": 117905.0078125,
+      "z": 10145.3603515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_4": {
+      "x": 53966.71484375,
+      "y": -43188.21875,
+      "z": 15948.525390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_5": {
+      "x": 14158.3515625,
+      "y": 277845.03125,
+      "z": -5275.73046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_5126": {
+      "x": -59718.74609375,
+      "y": -21522.08984375,
+      "z": 18939.73046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_6": {
+      "x": -90366.734375,
+      "y": 54629.609375,
+      "z": 3794.189697265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_8": {
+      "x": -263272.4375,
+      "y": -74855.671875,
+      "z": -1639.287353515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal5_9": {
+      "x": 26660.0625,
+      "y": 40204.4609375,
+      "z": 22600.861328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6": {
+      "x": -136276.203125,
+      "y": -113776.453125,
+      "z": 2834.945556640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal60": {
+      "x": 121986.046875,
+      "y": -60568.375,
+      "z": 8123.92333984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal61": {
+      "x": 374722.46875,
+      "y": -217658.96875,
+      "z": 4357.33984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal62": {
+      "x": 7206.1953125,
+      "y": -84186.0390625,
+      "z": 10442.3349609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal63": {
+      "x": -136888.15625,
+      "y": 162494.59375,
+      "z": 721.9017944335938
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal65": {
+      "x": 43200.58203125,
+      "y": 57778.5703125,
+      "z": 13030.2841796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal66_3": {
+      "x": 37112.0,
+      "y": 30624.154296875,
+      "z": 8911.24609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal67": {
+      "x": 71638.2265625,
+      "y": -47006.4140625,
+      "z": 14106.4169921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal68": {
+      "x": 219580.390625,
+      "y": -176569.75,
+      "z": 4903.712890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_11": {
+      "x": 169976.09375,
+      "y": 194629.59375,
+      "z": -7903.7724609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_14": {
+      "x": -18249.994140625,
+      "y": -48836.375,
+      "z": 15741.6123046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_2": {
+      "x": -35294.98046875,
+      "y": -141966.375,
+      "z": 10443.392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_5": {
+      "x": 94680.71875,
+      "y": -24578.255859375,
+      "z": 5884.416015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_6": {
+      "x": 11639.0859375,
+      "y": 278218.03125,
+      "z": -5134.7666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_7": {
+      "x": -155578.890625,
+      "y": 99241.2265625,
+      "z": 13744.4228515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_76": {
+      "x": 245766.125,
+      "y": 48679.84375,
+      "z": -1349.9429931640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal6_9": {
+      "x": -229637.59375,
+      "y": -20539.408203125,
+      "z": -1908.8685302734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7": {
+      "x": -220728.984375,
+      "y": -129010.1484375,
+      "z": 4906.93798828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal70": {
+      "x": 14540.03125,
+      "y": -82989.234375,
+      "z": 12499.2978515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal72": {
+      "x": 77700.1953125,
+      "y": -91564.5625,
+      "z": 15886.9423828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal73": {
+      "x": 283018.90625,
+      "y": -44040.80078125,
+      "z": 6246.09619140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal74": {
+      "x": 313923.1875,
+      "y": -79801.2734375,
+      "z": 5641.29931640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal75": {
+      "x": 95408.953125,
+      "y": -17844.291015625,
+      "z": 15506.841796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal76": {
+      "x": 283151.96875,
+      "y": -125203.3984375,
+      "z": 2752.610595703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal77": {
+      "x": 218984.171875,
+      "y": 74573.0703125,
+      "z": -1287.9693603515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal78": {
+      "x": 325468.625,
+      "y": -81765.9921875,
+      "z": 5739.177734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal79": {
+      "x": 272739.625,
+      "y": -164523.359375,
+      "z": 4244.916015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_10": {
+      "x": -205601.65625,
+      "y": -27120.6953125,
+      "z": 12254.884765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_11": {
+      "x": -6016.76171875,
+      "y": 14170.87890625,
+      "z": 29140.52734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_12": {
+      "x": 136433.46875,
+      "y": 205189.265625,
+      "z": -8365.3212890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_16": {
+      "x": -33544.875,
+      "y": -79359.21875,
+      "z": 784.2698974609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_5": {
+      "x": 71777.0390625,
+      "y": -32929.453125,
+      "z": 19807.615234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_6": {
+      "x": 99866.9765625,
+      "y": -64275.953125,
+      "z": 15056.083984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_7": {
+      "x": 10052.9375,
+      "y": 276179.96875,
+      "z": -5657.83203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_75": {
+      "x": 246631.03125,
+      "y": 35136.35546875,
+      "z": -1285.2376708984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal7_8": {
+      "x": -128699.984375,
+      "y": 117703.703125,
+      "z": 7809.8720703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8": {
+      "x": -237526.171875,
+      "y": -154960.765625,
+      "z": 13809.3994140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal80": {
+      "x": 336706.21875,
+      "y": -95975.7265625,
+      "z": 5910.16552734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal81": {
+      "x": 299931.375,
+      "y": -183532.84375,
+      "z": 3582.6455078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal82": {
+      "x": 346188.1875,
+      "y": -209789.609375,
+      "z": 4461.89892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal83": {
+      "x": 225006.859375,
+      "y": 77164.4140625,
+      "z": -704.5619506835938
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal84": {
+      "x": 266139.5,
+      "y": -146164.265625,
+      "z": 4396.99365234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal86": {
+      "x": 4580.86328125,
+      "y": 197112.609375,
+      "z": 906.55029296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal87": {
+      "x": 360868.875,
+      "y": -233573.609375,
+      "z": 4618.69873046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal88": {
+      "x": 235814.578125,
+      "y": -187735.6875,
+      "z": 1207.9210205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal89": {
+      "x": 234296.578125,
+      "y": -200231.453125,
+      "z": 1536.1064453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_10": {
+      "x": 63291.56640625,
+      "y": -154307.625,
+      "z": 9753.73046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_11": {
+      "x": -173585.46875,
+      "y": -78947.9765625,
+      "z": 4678.64453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_12": {
+      "x": -38396.25,
+      "y": -117359.4921875,
+      "z": 7935.1181640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_13": {
+      "x": 152137.75,
+      "y": 165805.921875,
+      "z": 236.8877410888672
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_17": {
+      "x": -47812.609375,
+      "y": -79782.5390625,
+      "z": 18904.1875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_4": {
+      "x": 48053.90234375,
+      "y": 50744.1953125,
+      "z": 24675.572265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_7": {
+      "x": 117109.1640625,
+      "y": -28657.27734375,
+      "z": 11723.1474609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_77": {
+      "x": 234864.46875,
+      "y": 50019.59375,
+      "z": -1668.769775390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_8": {
+      "x": 11884.515625,
+      "y": 276436.9375,
+      "z": -5037.3388671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_9": {
+      "x": -86889.6328125,
+      "y": 45067.33984375,
+      "z": 3570.42578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9": {
+      "x": -237200.125,
+      "y": -186283.6875,
+      "z": -136.9424591064453
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal90": {
+      "x": 318095.34375,
+      "y": -230797.171875,
+      "z": 3620.989990234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal91": {
+      "x": 335850.28125,
+      "y": -157788.734375,
+      "z": 4132.51611328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal93": {
+      "x": 127045.0,
+      "y": -183015.0,
+      "z": 5565.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal93_2": {
+      "x": 170655.0,
+      "y": -202645.0,
+      "z": 17622.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal94_8": {
+      "x": 260947.671875,
+      "y": -82120.734375,
+      "z": 7029.1025390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal96": {
+      "x": 157593.0,
+      "y": -172494.0,
+      "z": 8384.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal97": {
+      "x": 364325.21875,
+      "y": -160358.765625,
+      "z": 7239.64404296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal98": {
+      "x": 51976.859375,
+      "y": 34516.6953125,
+      "z": 21532.9921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal98_9": {
+      "x": 222225.328125,
+      "y": -192076.671875,
+      "z": 1372.5130615234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal99": {
+      "x": 51492.95703125,
+      "y": 23385.65234375,
+      "z": 19466.759765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_10": {
+      "x": -96647.5,
+      "y": 51528.09765625,
+      "z": 2483.9541015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_11": {
+      "x": 40511.71875,
+      "y": -156265.25,
+      "z": 6092.77587890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_12": {
+      "x": -268982.1875,
+      "y": 9244.5703125,
+      "z": 26.374755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_14": {
+      "x": 105235.46875,
+      "y": 233314.46875,
+      "z": -2223.519775390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_19": {
+      "x": 54318.34375,
+      "y": 56207.9453125,
+      "z": 20087.505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_78": {
+      "x": 238902.28125,
+      "y": 69953.6953125,
+      "z": -1654.9918212890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_8": {
+      "x": 128884.5625,
+      "y": -17680.28125,
+      "z": 14242.173828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_8928": {
+      "x": -24255.65234375,
+      "y": -52936.2109375,
+      "z": 15622.7021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal9_9": {
+      "x": 13037.9765625,
+      "y": 275406.0,
+      "z": -5643.6884765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_2": {
+      "x": -46997.9453125,
+      "y": -175082.5,
+      "z": 2661.658203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_5": {
+      "x": -11880.0,
+      "y": -75670.0,
+      "z": 9999.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_8": {
+      "x": 221544.0,
+      "y": 131718.0,
+      "z": -2001.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_0": {
+      "x": -7210.0,
+      "y": -72590.0,
+      "z": 9390.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_1": {
+      "x": -21927.0625,
+      "y": -123522.3828125,
+      "z": 11088.021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_10": {
+      "x": 77392.625,
+      "y": 189828.25,
+      "z": 2239.079833984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_100": {
+      "x": 332898.8125,
+      "y": -246819.234375,
+      "z": 6805.6865234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_101": {
+      "x": 380984.40625,
+      "y": -283542.53125,
+      "z": 2016.885986328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_11": {
+      "x": 58803.6640625,
+      "y": 190303.5625,
+      "z": 3287.807373046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_12": {
+      "x": 43542.25390625,
+      "y": 161856.546875,
+      "z": -1568.428955078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_13": {
+      "x": 68007.4453125,
+      "y": 6850.56640625,
+      "z": 13419.4228515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_14": {
+      "x": 14300.92578125,
+      "y": 1997.23046875,
+      "z": 23354.48046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_15": {
+      "x": 68995.8828125,
+      "y": -73351.40625,
+      "z": 12584.9296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_16": {
+      "x": 27496.048828125,
+      "y": -99943.53125,
+      "z": 12243.345703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_17": {
+      "x": 13100.1796875,
+      "y": -41116.89453125,
+      "z": 13983.9384765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_18": {
+      "x": 36057.53125,
+      "y": -55722.38671875,
+      "z": 15536.5947265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_19": {
+      "x": 33208.60546875,
+      "y": -62276.890625,
+      "z": 6328.19580078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_2": {
+      "x": -17753.6640625,
+      "y": -166056.875,
+      "z": 720.505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_20": {
+      "x": 54186.29296875,
+      "y": -65394.01953125,
+      "z": 6283.38232421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_21": {
+      "x": 52440.5078125,
+      "y": -51877.046875,
+      "z": 9318.6474609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_22": {
+      "x": 54282.03125,
+      "y": -60321.59375,
+      "z": 9871.8505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_23": {
+      "x": 37705.9921875,
+      "y": -39334.984375,
+      "z": 13521.953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_24": {
+      "x": 100095.765625,
+      "y": -231.203125,
+      "z": 19207.748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_25": {
+      "x": 89988.6640625,
+      "y": -1540.09765625,
+      "z": 17381.369140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_26": {
+      "x": 16118.18359375,
+      "y": -112630.015625,
+      "z": 16250.08984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_27": {
+      "x": 7229.33984375,
+      "y": -131490.609375,
+      "z": 13971.37890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_28": {
+      "x": 68513.265625,
+      "y": -106230.15625,
+      "z": 10610.0419921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_29": {
+      "x": 47910.71875,
+      "y": -182549.46875,
+      "z": 812.7280883789062
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_3": {
+      "x": -27513.939453125,
+      "y": -213250.609375,
+      "z": 3130.45263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_30": {
+      "x": 31548.53515625,
+      "y": -168083.34375,
+      "z": -1163.9345703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_31": {
+      "x": 33274.50390625,
+      "y": -162993.84375,
+      "z": 1598.8790283203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_32": {
+      "x": 63725.94921875,
+      "y": -157832.078125,
+      "z": 4032.529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_33": {
+      "x": 26534.40234375,
+      "y": -227792.453125,
+      "z": 1685.1961669921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_34": {
+      "x": 123342.8515625,
+      "y": 136007.125,
+      "z": 11009.1318359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_35": {
+      "x": 184977.546875,
+      "y": 184736.65625,
+      "z": -2015.0460205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_38": {
+      "x": 180344.0,
+      "y": 126586.0,
+      "z": 11567.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_39": {
+      "x": 185849.0,
+      "y": 111911.0,
+      "z": 14296.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_4": {
+      "x": 8526.06640625,
+      "y": -199634.359375,
+      "z": 798.765869140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_41": {
+      "x": 166036.0,
+      "y": 116547.0,
+      "z": 9841.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_43": {
+      "x": 165838.0,
+      "y": 141362.0,
+      "z": 9845.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_47": {
+      "x": 128172.34375,
+      "y": 91505.6328125,
+      "z": 14046.7802734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_5": {
+      "x": 25539.3828125,
+      "y": 216946.15625,
+      "z": -2490.843505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_51": {
+      "x": 181598.875,
+      "y": 85971.1484375,
+      "z": 9224.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_52": {
+      "x": 147771.0,
+      "y": 80510.0,
+      "z": 13465.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_53": {
+      "x": 179371.0,
+      "y": 73733.0,
+      "z": 4290.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_54": {
+      "x": 109484.5390625,
+      "y": -22975.251953125,
+      "z": 10756.7978515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_55": {
+      "x": 101963.1015625,
+      "y": -88116.2109375,
+      "z": 14033.30078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_56": {
+      "x": 101700.6171875,
+      "y": -52767.03515625,
+      "z": 9023.916015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_57": {
+      "x": 202542.71875,
+      "y": -44483.375,
+      "z": 4890.4296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_58": {
+      "x": 138690.0,
+      "y": -181345.0,
+      "z": 3505.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_59": {
+      "x": 112282.9765625,
+      "y": -197084.875,
+      "z": -1322.034423828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_6": {
+      "x": 34667.65234375,
+      "y": 215761.171875,
+      "z": -5369.78125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_60": {
+      "x": 28429.875,
+      "y": -212599.625,
+      "z": -1756.0439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_61": {
+      "x": 137737.734375,
+      "y": -146279.0,
+      "z": 2754.654296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_63": {
+      "x": 189073.0,
+      "y": -286000.0,
+      "z": 17916.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_64": {
+      "x": 162965.0,
+      "y": -269125.0,
+      "z": 12110.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_68": {
+      "x": 212810.0,
+      "y": 192285.0,
+      "z": 12650.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_7": {
+      "x": 76367.71875,
+      "y": 227611.03125,
+      "z": 4363.70849609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_74": {
+      "x": 220790.0,
+      "y": 129840.0,
+      "z": 9040.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_75": {
+      "x": 231636.203125,
+      "y": 94324.6640625,
+      "z": 3983.298828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_76": {
+      "x": 218619.296875,
+      "y": 82222.0234375,
+      "z": -595.37109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_77": {
+      "x": 227422.890625,
+      "y": 87136.5,
+      "z": -927.0059204101562
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_78": {
+      "x": 206735.4375,
+      "y": 79105.75,
+      "z": -889.460205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_79": {
+      "x": 237021.015625,
+      "y": 60782.328125,
+      "z": -1667.040283203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_8": {
+      "x": 88404.1171875,
+      "y": 202261.1875,
+      "z": 717.3574829101562
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_80": {
+      "x": 211427.578125,
+      "y": -56340.1328125,
+      "z": 19434.259765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_81": {
+      "x": 213452.375,
+      "y": -60481.6640625,
+      "z": 20010.029296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_82": {
+      "x": 210323.609375,
+      "y": -26245.779296875,
+      "z": 7598.6904296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_83": {
+      "x": 207552.5,
+      "y": -30936.193359375,
+      "z": 8330.7041015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_84": {
+      "x": 205059.0625,
+      "y": -41001.125,
+      "z": 2516.805419921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_85": {
+      "x": 207376.203125,
+      "y": -20683.896484375,
+      "z": 2469.19873046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_86": {
+      "x": 210337.234375,
+      "y": -28393.046875,
+      "z": 1371.4263916015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_87": {
+      "x": 211441.25,
+      "y": -20922.587890625,
+      "z": 6361.8212890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_88": {
+      "x": 204080.046875,
+      "y": -24318.109375,
+      "z": 54.50604248046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_89": {
+      "x": 206078.21875,
+      "y": -12988.080078125,
+      "z": 4165.07373046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_9": {
+      "x": 94290.8125,
+      "y": 191764.328125,
+      "z": 6766.43408203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_90": {
+      "x": 258399.0,
+      "y": -109979.5078125,
+      "z": 5797.5107421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_91": {
+      "x": 258012.953125,
+      "y": -253608.890625,
+      "z": 7161.75146484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_92": {
+      "x": 248768.8125,
+      "y": -252499.234375,
+      "z": 1279.0703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_93": {
+      "x": 275134.96875,
+      "y": -276672.53125,
+      "z": 8503.90625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_94": {
+      "x": 216565.0,
+      "y": -301215.0,
+      "z": 16625.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_96": {
+      "x": 306024.03125,
+      "y": -47557.5,
+      "z": 5785.54248046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_97": {
+      "x": 378908.9375,
+      "y": -141010.640625,
+      "z": 4787.19970703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_98": {
+      "x": 329779.4375,
+      "y": -117571.984375,
+      "z": 7559.13720703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_99": {
+      "x": 318921.65625,
+      "y": -188063.75,
+      "z": 4238.45068359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F006B101_2082315136": {
+      "x": 213060.0,
+      "y": -107089.0,
+      "z": 8812.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F007B101_1247933313": {
+      "x": 223585.0,
+      "y": -92053.0,
+      "z": 1440.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F007B101_1510242320": {
+      "x": 243257.0,
+      "y": -63569.0,
+      "z": 6945.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0217201_1462011415": {
+      "x": -95903.0,
+      "y": 8243.0,
+      "z": 22013.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0217201_2134786423": {
+      "x": -94414.0,
+      "y": 8679.0,
+      "z": 21705.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0245C01_1792102668": {
+      "x": 196708.0,
+      "y": -261893.0,
+      "z": 947.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0277201_2091967520": {
+      "x": -92948.0,
+      "y": 7469.0,
+      "z": 23110.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F02B7201_1774057258": {
+      "x": -93807.0,
+      "y": 6182.0,
+      "z": 20619.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F02C6001_1338841280": {
+      "x": 207905.0,
+      "y": -167378.0,
+      "z": 16879.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F02C6001_1557408281": {
+      "x": 221659.0,
+      "y": -204572.0,
+      "z": 14370.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F02C6001_1622416282": {
+      "x": 209102.0,
+      "y": -231180.0,
+      "z": 16946.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0316001_1179996182": {
+      "x": 160918.296875,
+      "y": -129496.28125,
+      "z": 15386.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0355B01_2005222588": {
+      "x": 204021.0,
+      "y": -240579.0,
+      "z": 24584.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0375B01_1529908943": {
+      "x": 201898.0,
+      "y": -266576.0,
+      "z": 6173.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0395B01_1557158296": {
+      "x": 192732.0,
+      "y": -173452.0,
+      "z": 23641.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0395B01_1742920298": {
+      "x": 183494.0,
+      "y": -194858.0,
+      "z": 23854.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F03A5B01_1333253475": {
+      "x": 194457.0,
+      "y": -213998.0,
+      "z": 23474.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F03B5B01_1299814658": {
+      "x": 206170.0,
+      "y": -198008.0,
+      "z": 23403.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F03B5B01_1622325660": {
+      "x": 148068.0,
+      "y": -187028.0,
+      "z": 10405.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0439B01_1646991632": {
+      "x": -193643.0,
+      "y": -78730.0,
+      "z": 1088.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F04C5E01_2099362813": {
+      "x": 127405.0,
+      "y": -154675.0,
+      "z": 16610.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05A7301_2035634448": {
+      "x": -93358.0,
+      "y": 9641.0,
+      "z": 22301.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05D5D01_2007016764": {
+      "x": 228632.0,
+      "y": 106588.0,
+      "z": 5556.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05E5D01_1095164941": {
+      "x": 228323.0,
+      "y": 109351.0,
+      "z": 8098.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05F5301_1878669572": {
+      "x": 159805.0,
+      "y": -283795.0,
+      "z": 16441.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0605301_1273983749": {
+      "x": 158746.0,
+      "y": -261100.0,
+      "z": 1394.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0615301_1117010932": {
+      "x": 169548.0,
+      "y": -181645.0,
+      "z": 20626.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0655D01_1109507179": {
+      "x": 160647.0,
+      "y": 143586.0,
+      "z": 8072.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0675D01_1725830534": {
+      "x": 214651.0,
+      "y": 113982.0,
+      "z": 10739.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F06C5C01_1356614339": {
+      "x": 219571.0,
+      "y": 111317.0,
+      "z": 5147.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F06E5D01_1646682771": {
+      "x": 181293.0,
+      "y": 149901.0,
+      "z": 8525.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0766701_1589843752": {
+      "x": -14306.0,
+      "y": -21528.0,
+      "z": 16210.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0766701_1663177753": {
+      "x": -13871.0,
+      "y": -23374.0,
+      "z": 15569.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0766701_1707460754": {
+      "x": -14725.0,
+      "y": -21597.0,
+      "z": 14980.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0766701_1729573755": {
+      "x": -15164.98046875,
+      "y": -23013.92578125,
+      "z": 14497.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0766701_1842097756": {
+      "x": -16440.0,
+      "y": -21683.0,
+      "z": 16020.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0775B01_1420184201": {
+      "x": 156985.0,
+      "y": -188437.0,
+      "z": 7352.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0775B01_1580171202": {
+      "x": 110997.0,
+      "y": -169301.0,
+      "z": 521.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0785B01_1425075382": {
+      "x": 141507.0,
+      "y": -162513.0,
+      "z": 2480.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0795B01_1115579560": {
+      "x": 124997.0,
+      "y": -143352.0,
+      "z": 2062.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0795B01_1706418562": {
+      "x": 110606.0,
+      "y": -154488.0,
+      "z": 4514.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F079AF01_2086299378": {
+      "x": 17087.0,
+      "y": -151959.0,
+      "z": 3057.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F07B6001_2100568184": {
+      "x": 180478.0,
+      "y": -125915.0,
+      "z": 17418.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0805B01_1369679802": {
+      "x": 123754.0,
+      "y": -182009.0,
+      "z": 1902.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0815B01_1784184985": {
+      "x": 133485.0,
+      "y": -147639.0,
+      "z": 6667.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0825B01_1553698166": {
+      "x": 115145.0,
+      "y": -165203.0,
+      "z": 3668.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0825B01_1706644167": {
+      "x": 145351.0,
+      "y": -186760.0,
+      "z": 1906.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F09E6901_1553651856": {
+      "x": -246584.0,
+      "y": 50205.0,
+      "z": 977.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A05F01_1896752643": {
+      "x": 205340.0,
+      "y": -135650.0,
+      "z": 18455.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A57401_1817017698": {
+      "x": 188670.0,
+      "y": -9447.0,
+      "z": 16640.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A57401_2054736699": {
+      "x": 190307.0,
+      "y": -7889.0,
+      "z": 16305.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A57401_2106808700": {
+      "x": 191676.0,
+      "y": -10331.0,
+      "z": 16377.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A67401_1113792877": {
+      "x": 190268.0,
+      "y": -12429.0,
+      "z": 17360.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A67401_1901138878": {
+      "x": 100061.0,
+      "y": 60654.0,
+      "z": 22600.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A67401_1962658879": {
+      "x": 96212.0,
+      "y": 63600.0,
+      "z": 22345.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A67401_2008955880": {
+      "x": 95950.0,
+      "y": 60899.0,
+      "z": 22448.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A67401_2137612882": {
+      "x": 97846.0,
+      "y": 56929.0,
+      "z": 22733.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A77401_1114044059": {
+      "x": 99450.0,
+      "y": 58688.0,
+      "z": 21949.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A77401_2134624060": {
+      "x": 139741.0,
+      "y": -9295.0,
+      "z": 21217.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A87401_1178078237": {
+      "x": 136605.0,
+      "y": -8650.0,
+      "z": 21781.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A87401_1211555238": {
+      "x": 136496.0,
+      "y": -6285.0,
+      "z": 21844.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A87401_1304279239": {
+      "x": 140384.0,
+      "y": -7876.0,
+      "z": 21091.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0A87401_1376559241": {
+      "x": 139727.0,
+      "y": -7445.0,
+      "z": 21396.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AA5201_1287975681": {
+      "x": 194737.0,
+      "y": -186699.0,
+      "z": 23570.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AA7401_1909401594": {
+      "x": 184587.0,
+      "y": 37045.0,
+      "z": 23154.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AA7401_1919713595": {
+      "x": 181321.0,
+      "y": 38823.0,
+      "z": 21110.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AA7401_2076003597": {
+      "x": 184000.0,
+      "y": 37967.0,
+      "z": 20988.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AB5201_1104409861": {
+      "x": 195348.0,
+      "y": -187881.0,
+      "z": 24109.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AC5201_1696194044": {
+      "x": 203915.0,
+      "y": -284267.0,
+      "z": 10054.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AE5D01_1835696000": {
+      "x": 183085.0,
+      "y": 164584.0,
+      "z": 9245.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AE7301_1502060226": {
+      "x": 191620.0,
+      "y": -11873.0,
+      "z": 16837.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AF7401_1381809479": {
+      "x": 182270.0,
+      "y": 36358.0,
+      "z": 20725.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AF7401_1394094480": {
+      "x": 182291.0,
+      "y": 40591.0,
+      "z": 21012.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B3AF01_1789903464": {
+      "x": 66153.0,
+      "y": -134287.0,
+      "z": 679.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0BF5D01_1402621031": {
+      "x": 128003.0,
+      "y": -144472.0,
+      "z": 15763.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0C7AF01_1736399985": {
+      "x": -65336.0,
+      "y": -154298.0,
+      "z": -195.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0D45B01_1751130579": {
+      "x": 109665.0,
+      "y": -180967.0,
+      "z": 4012.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0DD5B01_1562001181": {
+      "x": 148511.0,
+      "y": -172218.0,
+      "z": 3923.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0E85F01_1421899313": {
+      "x": 200225.0,
+      "y": -183930.0,
+      "z": 26734.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0E85F01_1933315318": {
+      "x": 227180.0,
+      "y": -278348.0,
+      "z": 24722.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0E95F01_1231921499": {
+      "x": 211232.0,
+      "y": -283751.0,
+      "z": 30679.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0EA5F01_1564806683": {
+      "x": 157574.0,
+      "y": -125909.0,
+      "z": 9353.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0EC5F01_1293213040": {
+      "x": 175746.0,
+      "y": -124768.0,
+      "z": 10608.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0F25F01_1725349098": {
+      "x": 204175.0,
+      "y": -225007.0,
+      "z": 23533.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0F35F01_1247028277": {
+      "x": 204012.0,
+      "y": -249790.0,
+      "z": 16103.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0F45F01_1549163457": {
+      "x": 145980.0,
+      "y": -150526.671875,
+      "z": 18421.966796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79066401_1370998836": {
+      "x": -68178.28125,
+      "y": -188867.0625,
+      "z": -1138.573974609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F790A6401_1480408547": {
+      "x": -39355.93359375,
+      "y": -189929.359375,
+      "z": 2914.765869140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79226201_1519973634": {
+      "x": 131291.734375,
+      "y": -145159.0,
+      "z": 2044.6541748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79265B01_1210582944": {
+      "x": 32860.875,
+      "y": -239912.625,
+      "z": 1056.8233642578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79275B01_1177099121": {
+      "x": 20890.267578125,
+      "y": -248994.359375,
+      "z": 1810.7230224609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79285B01_1944304298": {
+      "x": 74251.875,
+      "y": -230382.625,
+      "z": -135.17662048339844
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792A8701_1662356113": {
+      "x": -59465.0,
+      "y": -109540.0,
+      "z": 3360.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792D6001_1825806456": {
+      "x": 47033.0,
+      "y": -153055.0,
+      "z": 14990.40234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792E6001_1313258633": {
+      "x": 35933.0,
+      "y": -162478.0,
+      "z": 18702.40234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792E6001_2033315634": {
+      "x": 47189.0,
+      "y": -169433.0,
+      "z": 21354.40234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792F6001_1132971811": {
+      "x": 27934.0,
+      "y": -162468.0,
+      "z": 13921.40234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F792F6001_1856291813": {
+      "x": 92804.0,
+      "y": -173763.0,
+      "z": 18656.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79306001_1695738994": {
+      "x": 96360.0,
+      "y": -157740.0,
+      "z": 15840.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79355B01_1612365590": {
+      "x": 91911.875,
+      "y": -210864.625,
+      "z": 1053.8233642578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79386001_2015526406": {
+      "x": -20892.0,
+      "y": -199472.0,
+      "z": 14133.40234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F793A8701_1412502928": {
+      "x": 93840.0,
+      "y": -34320.0,
+      "z": 7100.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79486001_1490105224": {
+      "x": -12887.732421875,
+      "y": -226797.359375,
+      "z": 1635.7230224609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79486001_1737515225": {
+      "x": -63859.90234375,
+      "y": -217728.625,
+      "z": 3088.1240234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79486001_1870504226": {
+      "x": -52581.9375,
+      "y": -215583.609375,
+      "z": 2879.45263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79486401_1444694438": {
+      "x": 89953.0,
+      "y": -151456.0,
+      "z": 3778.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79496001_1203214406": {
+      "x": -61758.9375,
+      "y": -208868.609375,
+      "z": -1239.54736328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79496001_1424029408": {
+      "x": -65375.890625,
+      "y": -196565.09375,
+      "z": 172.93194580078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79625301_1884959066": {
+      "x": -35998.9375,
+      "y": -242815.609375,
+      "z": 190.45263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79685201_1807114065": {
+      "x": 22904.771484375,
+      "y": -168540.921875,
+      "z": -1049.6092529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F796C8301_1303426504": {
+      "x": 21985.0,
+      "y": 169795.0,
+      "z": -11810.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F796D5201_1366229946": {
+      "x": 28911.771484375,
+      "y": -179324.921875,
+      "z": -1069.6092529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79738301_1767542746": {
+      "x": -4060.0,
+      "y": 147800.0,
+      "z": -7030.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F798B5F01_1501465945": {
+      "x": -48093.9375,
+      "y": -246384.609375,
+      "z": -399.54736328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F798B5F01_1548531946": {
+      "x": -57982.9375,
+      "y": -202456.609375,
+      "z": 357.45263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79955F01_1408102760": {
+      "x": -39206.9375,
+      "y": -198515.609375,
+      "z": 8225.453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F799E5F01_1400742291": {
+      "x": 83988.0,
+      "y": -199980.0,
+      "z": -595.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F799E5F01_1682598293": {
+      "x": 96126.0,
+      "y": -208506.0,
+      "z": 6984.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79A65901_1120267361": {
+      "x": 19528.875,
+      "y": -219605.625,
+      "z": -1787.1766357421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79A75901_1341271538": {
+      "x": 34920.875,
+      "y": -220348.625,
+      "z": -1701.1766357421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79B36201_1122808154": {
+      "x": 55250.0,
+      "y": -168119.0,
+      "z": -539.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79B36201_1823459155": {
+      "x": 40619.0,
+      "y": -181290.0,
+      "z": -1191.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79B46201_1396705333": {
+      "x": 33965.0,
+      "y": -230994.0,
+      "z": -785.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79BB6201_1894786568": {
+      "x": 15760.267578125,
+      "y": -233958.359375,
+      "z": -1129.2769775390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C66201_1113882509": {
+      "x": 14699.771484375,
+      "y": -176179.921875,
+      "z": -1197.6092529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C66201_1961069510": {
+      "x": 16652.771484375,
+      "y": -190923.921875,
+      "z": -985.6091918945312
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C96201_2035056042": {
+      "x": -13969.93359375,
+      "y": -180298.359375,
+      "z": -1368.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CB6201_1168596395": {
+      "x": -14339.93359375,
+      "y": -199165.359375,
+      "z": -1422.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CC6201_1413653574": {
+      "x": -37160.93359375,
+      "y": -172970.359375,
+      "z": 1608.765869140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CC6201_1521305575": {
+      "x": -41054.93359375,
+      "y": -202378.359375,
+      "z": 2636.765869140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79D38101_2011951550": {
+      "x": 322367.34375,
+      "y": -292843.375,
+      "z": -878.4016723632812
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F25F01_1763105083": {
+      "x": 63183.0,
+      "y": -162727.0,
+      "z": 19365.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F25F01_2029785085": {
+      "x": 61387.0,
+      "y": -157028.0,
+      "z": 16611.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F35F01_1129500264": {
+      "x": 59145.0,
+      "y": -164158.0,
+      "z": 18594.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F35F01_1275724266": {
+      "x": 82842.0,
+      "y": -160989.0,
+      "z": 20260.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F35F01_1502667268": {
+      "x": 92401.0,
+      "y": -151363.0,
+      "z": 21179.59765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F76301_1288406181": {
+      "x": 9780.267578125,
+      "y": -220133.359375,
+      "z": -908.2769165039062
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_4CEDFB3E2F7F8B9201_1239800812": {
+      "x": 168431.625,
+      "y": 78660.0,
+      "z": 1260.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_4CEDFB3E2F7F8B9201_1242129813": {
+      "x": 160960.0,
+      "y": 79690.0,
+      "z": 1760.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_4CEDFB3E2F7F8B9201_1243912814": {
+      "x": 174293.4375,
+      "y": 76533.8125,
+      "z": -1155.7364501953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_UAID_40B076DF2F79065901_1178046200": {
+      "x": -42185.578125,
+      "y": -248433.96875,
+      "z": 1620.7550048828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_UAID_40B076DF2F79425901_1727560760": {
+      "x": -45922.625,
+      "y": -232262.796875,
+      "z": 387.779541015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_UAID_40B076DF2F79BF5D01_1163546993": {
+      "x": -27168.625,
+      "y": -238411.796875,
+      "z": -1518.1654052734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_UAID_40B076DF2F79FD6301_2028775242": {
+      "x": -16073.625,
+      "y": -240292.796875,
+      "z": -1476.1654052734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk16": {
+      "x": 84698.6875,
+      "y": -225472.734375,
+      "z": 1743.9923095703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk17": {
+      "x": 88785.109375,
+      "y": -211268.796875,
+      "z": -1329.7723388671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk17_UAID_40B076DF2F79036301_1202643250": {
+      "x": 79880.109375,
+      "y": -210492.796875,
+      "z": -1212.7723388671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_11": {
+      "x": 226306.015625,
+      "y": -223188.375,
+      "z": 5126.02685546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_2": {
+      "x": -4190.00390625,
+      "y": -210862.296875,
+      "z": -1383.138916015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F007B101_1436486318": {
+      "x": 221677.0,
+      "y": -77772.0,
+      "z": 10489.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0958101_1177712657": {
+      "x": -97215.0,
+      "y": 18665.0,
+      "z": 20330.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79006401_1101274773": {
+      "x": -7853.00390625,
+      "y": -228178.296875,
+      "z": -1773.138916015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_31": {
+      "x": 209182.25,
+      "y": -33151.828125,
+      "z": 4346.181640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45": {
+      "x": 115470.4140625,
+      "y": -145759.390625,
+      "z": 1624.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F790D6301_1205856025": {
+      "x": 102686.4140625,
+      "y": -149908.390625,
+      "z": -1428.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79106201_1437870469": {
+      "x": 125449.4140625,
+      "y": -149826.390625,
+      "z": 498.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79106201_1550891470": {
+      "x": 127085.4140625,
+      "y": -158390.390625,
+      "z": 135.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F791E6201_1165229929": {
+      "x": 133541.40625,
+      "y": -171204.390625,
+      "z": 339.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79236201_1250559816": {
+      "x": 142763.40625,
+      "y": -194313.390625,
+      "z": -1554.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79626201_1797282896": {
+      "x": 151858.40625,
+      "y": -205861.390625,
+      "z": -1132.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79646201_1982914249": {
+      "x": 126266.4140625,
+      "y": -193749.390625,
+      "z": 675.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F798F6001_1203275705": {
+      "x": 126704.4140625,
+      "y": -140831.390625,
+      "z": 397.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79916001_1775397058": {
+      "x": 91625.4140625,
+      "y": -157717.390625,
+      "z": 69.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79946001_1613712588": {
+      "x": 79236.4140625,
+      "y": -171572.390625,
+      "z": 15.9549560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79956001_1285061765": {
+      "x": 93307.4140625,
+      "y": -176808.390625,
+      "z": -798.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79B26201_1656659976": {
+      "x": 66848.4140625,
+      "y": -178461.390625,
+      "z": -1388.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79B26201_1806151977": {
+      "x": 77799.109375,
+      "y": -185466.578125,
+      "z": -1283.7886962890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79BB6101_1629973504": {
+      "x": 108720.4140625,
+      "y": -179155.390625,
+      "z": -964.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79C06101_1984578386": {
+      "x": 119553.4140625,
+      "y": -228340.390625,
+      "z": -942.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79C26101_1487303739": {
+      "x": 100085.4140625,
+      "y": -208456.390625,
+      "z": -1633.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk46": {
+      "x": 109060.96875,
+      "y": -159160.71875,
+      "z": -339.59686279296875
+    }
+  },
+  "yellow": {
+    "Persistent_Level:PersistentLevel.BP_Crystal138": {
+      "x": 228519.796875,
+      "y": -222136.90625,
+      "z": 9364.21484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal17_UAID_40B076DF2F79245C01_1529847652": {
+      "x": 85924.84375,
+      "y": -182499.53125,
+      "z": -487.4527587890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal8_18": {
+      "x": 143827.265625,
+      "y": 125949.3203125,
+      "z": 16239.978515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_40": {
+      "x": 183859.0,
+      "y": 104898.0,
+      "z": 5404.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_42": {
+      "x": 153421.0,
+      "y": 113802.0,
+      "z": 7941.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_48": {
+      "x": 168304.0,
+      "y": 62749.0,
+      "z": 12327.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_49": {
+      "x": 157117.0,
+      "y": 78593.0,
+      "z": 12539.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_50": {
+      "x": 164906.0,
+      "y": 94881.0,
+      "z": 8701.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_62": {
+      "x": 149461.65625,
+      "y": -176537.671875,
+      "z": -915.2530517578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_66": {
+      "x": 246888.0,
+      "y": 150580.0,
+      "z": 9420.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_67": {
+      "x": 209309.0,
+      "y": 154859.0,
+      "z": 50.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_69": {
+      "x": 201315.0,
+      "y": 169308.0,
+      "z": 11448.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_70": {
+      "x": 220420.0,
+      "y": 122285.0,
+      "z": 4015.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_72": {
+      "x": 210046.0,
+      "y": 134583.0,
+      "z": -81.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_73": {
+      "x": 224929.0,
+      "y": 131825.0,
+      "z": 4723.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05F7801_1738752601": {
+      "x": 245919.0,
+      "y": -12133.0,
+      "z": 9374.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0607801_1667283784": {
+      "x": 248612.0,
+      "y": -35291.0,
+      "z": 14055.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0607801_2027765785": {
+      "x": 227632.0,
+      "y": -37474.0,
+      "z": 17205.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0767801_1471881678": {
+      "x": 128192.0,
+      "y": -4493.0,
+      "z": 17861.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F09E7401_1282285465": {
+      "x": 151596.0,
+      "y": -11018.0,
+      "z": 18890.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AE7301_1236769225": {
+      "x": 199623.0,
+      "y": -23749.0,
+      "z": 12429.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0AE7301_1916140227": {
+      "x": 216223.0,
+      "y": -29985.0,
+      "z": 18055.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B37301_2109802113": {
+      "x": 101656.0,
+      "y": 45831.0,
+      "z": 22441.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B47301_1731763291": {
+      "x": 74776.0,
+      "y": 28178.0,
+      "z": 12092.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B47301_1859830293": {
+      "x": 89182.0,
+      "y": 14541.0,
+      "z": 17865.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B57301_1300199470": {
+      "x": 115680.0,
+      "y": 39405.0,
+      "z": 12359.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79016301_2047367890": {
+      "x": 71017.0,
+      "y": -203899.0,
+      "z": -1174.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F790F6201_1248400288": {
+      "x": 121521.9765625,
+      "y": -206977.875,
+      "z": 265.96563720703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79486001_2099963228": {
+      "x": -57684.9375,
+      "y": -232488.609375,
+      "z": 1480.45263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F798E5F01_1514525492": {
+      "x": 90408.4609375,
+      "y": -195364.9375,
+      "z": -886.4708251953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F798E5F01_1854991497": {
+      "x": 36929.0,
+      "y": -201651.0,
+      "z": -789.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79A35901_1559939832": {
+      "x": 25604.875,
+      "y": -220836.625,
+      "z": -1745.1766357421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79B56201_1247281510": {
+      "x": 29879.40234375,
+      "y": -234711.453125,
+      "z": 1798.1961669921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C56201_1257600332": {
+      "x": 28861.771484375,
+      "y": -204035.921875,
+      "z": -955.6091918945312
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C66201_2074565511": {
+      "x": 17911.771484375,
+      "y": -207271.921875,
+      "z": -1196.6092529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79C96201_1094933041": {
+      "x": 9445.06640625,
+      "y": -203096.359375,
+      "z": -1151.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CB6201_1211861396": {
+      "x": -20883.93359375,
+      "y": -218321.359375,
+      "z": -1205.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CB6201_2127484397": {
+      "x": -34836.93359375,
+      "y": -222461.359375,
+      "z": -1389.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79CC6201_1781367576": {
+      "x": -39166.93359375,
+      "y": -252318.359375,
+      "z": -1329.234130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F35F01_1207047265": {
+      "x": 70976.0,
+      "y": -160164.0,
+      "z": 17495.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_UAID_40B076DF2F79FD6301_1735716241": {
+      "x": -30461.625,
+      "y": -256500.796875,
+      "z": -106.1654281616211
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk10": {
+      "x": 8908.3671875,
+      "y": -220731.6875,
+      "z": 2202.972900390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk14": {
+      "x": 47454.2890625,
+      "y": -239545.15625,
+      "z": -517.9969482421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk19": {
+      "x": -23773.9765625,
+      "y": -186055.8125,
+      "z": 2571.208984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk20_11": {
+      "x": 163980.0,
+      "y": -206176.0,
+      "z": 20755.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21": {
+      "x": -126517.4140625,
+      "y": 169345.0,
+      "z": -5713.0048828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210": {
+      "x": -54094.01953125,
+      "y": 172147.84375,
+      "z": 1832.5125732421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_0": {
+      "x": -41314.98046875,
+      "y": 82766.75,
+      "z": 27301.111328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_1": {
+      "x": -89793.0703125,
+      "y": 19021.66796875,
+      "z": 20984.60546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_16": {
+      "x": 125262.7109375,
+      "y": 244039.9375,
+      "z": -7112.3251953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_19": {
+      "x": -200042.6875,
+      "y": -123746.0078125,
+      "z": 1762.51123046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_20": {
+      "x": -142518.828125,
+      "y": 185883.734375,
+      "z": 2270.5205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_23": {
+      "x": 250723.90625,
+      "y": -270293.90625,
+      "z": 1862.1190185546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk210_47": {
+      "x": 194852.921875,
+      "y": -69260.09375,
+      "z": 4453.92138671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211": {
+      "x": -12194.98828125,
+      "y": 283251.25,
+      "z": 3348.228515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_15": {
+      "x": 18247.28125,
+      "y": 88332.4453125,
+      "z": 24813.91796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_17": {
+      "x": 124451.8984375,
+      "y": 237040.125,
+      "z": -2511.6396484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_20": {
+      "x": -137217.21875,
+      "y": -196704.34375,
+      "z": 6527.6767578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_24": {
+      "x": 237319.296875,
+      "y": -271873.9375,
+      "z": 6301.78662109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_48": {
+      "x": 45580.5546875,
+      "y": -125434.546875,
+      "z": 2307.9052734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_85": {
+      "x": -156426.359375,
+      "y": 16549.921875,
+      "z": 18193.84375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk211_9": {
+      "x": -163138.1875,
+      "y": 91518.265625,
+      "z": -206.93145751953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212": {
+      "x": 192812.515625,
+      "y": -41491.0234375,
+      "z": 5780.171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_15": {
+      "x": -90474.4140625,
+      "y": 119844.6953125,
+      "z": 6336.6357421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_16": {
+      "x": -18871.072265625,
+      "y": 42347.16015625,
+      "z": 26922.96484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_18": {
+      "x": 142239.203125,
+      "y": 161305.4375,
+      "z": 5205.35302734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_25": {
+      "x": 268754.40625,
+      "y": -263821.3125,
+      "z": 4230.1416015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_86": {
+      "x": -169826.265625,
+      "y": 206.33203125,
+      "z": 20486.767578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk212_9": {
+      "x": 3336.51953125,
+      "y": 121870.1171875,
+      "z": 2106.491943359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213": {
+      "x": -143654.890625,
+      "y": 145513.6875,
+      "z": 4374.8564453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_17": {
+      "x": 4960.53125,
+      "y": -4575.95703125,
+      "z": 23476.080078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_19": {
+      "x": 152768.796875,
+      "y": 232176.578125,
+      "z": -9409.650390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_22": {
+      "x": -137229.1875,
+      "y": -171261.1875,
+      "z": 37361.98828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_26": {
+      "x": 192490.9375,
+      "y": -314104.46875,
+      "z": 4072.3857421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_52": {
+      "x": 162442.625,
+      "y": -59650.4765625,
+      "z": 10362.00390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk213_87": {
+      "x": -99991.9921875,
+      "y": 26448.291015625,
+      "z": 21435.484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk214": {
+      "x": 85802.1796875,
+      "y": -135144.4375,
+      "z": 7882.8466796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk214_18": {
+      "x": 8023.37890625,
+      "y": 16306.6484375,
+      "z": 23335.716796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk214_88": {
+      "x": -132430.125,
+      "y": -4225.2421875,
+      "z": 22879.83203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk214_9": {
+      "x": -132713.46875,
+      "y": -133456.046875,
+      "z": 6457.1064453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk215": {
+      "x": -206689.125,
+      "y": -191820.171875,
+      "z": 7608.8935546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk215_20": {
+      "x": 8120.0859375,
+      "y": 80104.4140625,
+      "z": 21411.35546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk215_95": {
+      "x": -86213.5859375,
+      "y": 73390.3046875,
+      "z": 20805.05078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk216": {
+      "x": -286303.84375,
+      "y": -127241.953125,
+      "z": 2345.53662109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk216_106": {
+      "x": -59982.5234375,
+      "y": 42597.1328125,
+      "z": 22058.39453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk216_19": {
+      "x": 29626.134765625,
+      "y": -4632.85546875,
+      "z": 22391.23046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk217": {
+      "x": 29384.65625,
+      "y": 55906.17578125,
+      "z": 3854.47509765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk217_91": {
+      "x": -76831.1484375,
+      "y": 61149.578125,
+      "z": 20636.3046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk218": {
+      "x": -51525.859375,
+      "y": 55750.69140625,
+      "z": 24633.041015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk219": {
+      "x": -122307.71875,
+      "y": 28472.7890625,
+      "z": 19845.18359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_0": {
+      "x": 10539.1875,
+      "y": 267942.4375,
+      "z": -3765.0478515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_1": {
+      "x": 373948.40625,
+      "y": -241997.3125,
+      "z": 4105.884765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_11": {
+      "x": -82983.390625,
+      "y": -3902.59765625,
+      "z": 24093.203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_12": {
+      "x": 324893.84375,
+      "y": -32672.748046875,
+      "z": 556.7413330078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_13": {
+      "x": 252289.375,
+      "y": -275566.84375,
+      "z": 9397.5986328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_21": {
+      "x": -167204.15625,
+      "y": 45892.015625,
+      "z": 21913.396484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_22": {
+      "x": 25995.216796875,
+      "y": -47246.828125,
+      "z": 18668.875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_23": {
+      "x": 113855.421875,
+      "y": -46987.90234375,
+      "z": 12305.359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_27": {
+      "x": 70193.78125,
+      "y": 67572.5234375,
+      "z": 17283.0546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_3": {
+      "x": -264744.71875,
+      "y": 74082.3828125,
+      "z": -910.3744506835938
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_33": {
+      "x": 143692.546875,
+      "y": -43679.30859375,
+      "z": 4640.84326171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_4": {
+      "x": 359152.9375,
+      "y": -112870.609375,
+      "z": 9359.69921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_5": {
+      "x": -248684.375,
+      "y": -168364.890625,
+      "z": 5078.03759765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_7": {
+      "x": 157444.25,
+      "y": 165266.671875,
+      "z": -3296.123046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_8": {
+      "x": 244265.046875,
+      "y": -215283.84375,
+      "z": 5473.5458984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22": {
+      "x": -144088.328125,
+      "y": -182546.9375,
+      "z": -976.7816162109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk220": {
+      "x": -62254.3515625,
+      "y": 74170.171875,
+      "z": 20370.423828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk221": {
+      "x": 251111.890625,
+      "y": 79026.0546875,
+      "z": -1671.20703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk222_6": {
+      "x": 226164.6875,
+      "y": 12413.9375,
+      "z": -1654.9744873046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk223_7": {
+      "x": 309131.40625,
+      "y": 15106.4296875,
+      "z": 3468.124755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk224": {
+      "x": 291502.21875,
+      "y": 31379.423828125,
+      "z": -930.742431640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk225": {
+      "x": 249765.4375,
+      "y": 110459.171875,
+      "z": -1958.2740478515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk226": {
+      "x": 250130.109375,
+      "y": 11352.58984375,
+      "z": -1204.5845947265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk227": {
+      "x": 257277.375,
+      "y": -14574.9140625,
+      "z": 5681.4599609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk228": {
+      "x": 287374.9375,
+      "y": 38388.28125,
+      "z": -1474.264404296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk229": {
+      "x": 220847.046875,
+      "y": 65711.2421875,
+      "z": -1192.915771484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_0": {
+      "x": -174329.875,
+      "y": 180824.140625,
+      "z": 6287.08203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_1": {
+      "x": -24915.115234375,
+      "y": 184967.953125,
+      "z": -921.794921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_10": {
+      "x": -256160.5,
+      "y": 115331.5390625,
+      "z": -634.2728881835938
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_14": {
+      "x": 286954.4375,
+      "y": -288059.75,
+      "z": 22984.947265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_18": {
+      "x": 343441.5625,
+      "y": -76968.546875,
+      "z": 5861.36669921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_2": {
+      "x": 296550.75,
+      "y": -288370.53125,
+      "z": 18058.34375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_22": {
+      "x": -69961.0234375,
+      "y": -14795.7734375,
+      "z": 23641.234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_23": {
+      "x": 30726.876953125,
+      "y": -20889.78515625,
+      "z": 13456.1962890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_24": {
+      "x": -53446.1796875,
+      "y": -485.96875,
+      "z": 23039.193359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_28": {
+      "x": 60744.42578125,
+      "y": 98717.6171875,
+      "z": 12721.857421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_34": {
+      "x": 160025.984375,
+      "y": -34908.4296875,
+      "z": 9359.224609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_4": {
+      "x": 396174.28125,
+      "y": -181215.734375,
+      "z": 3861.085205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_7": {
+      "x": -15463.234375,
+      "y": -47131.2734375,
+      "z": 14203.12890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_8": {
+      "x": 175010.609375,
+      "y": 161669.0,
+      "z": 13100.876953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk22_88": {
+      "x": 278444.71875,
+      "y": -11378.828125,
+      "z": 10741.427734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23": {
+      "x": -13805.7421875,
+      "y": -187350.15625,
+      "z": 4193.517578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk230": {
+      "x": 271675.34375,
+      "y": -267406.28125,
+      "z": 12222.5615234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_1": {
+      "x": -186682.015625,
+      "y": 55910.1015625,
+      "z": 10871.2578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_11": {
+      "x": -216626.984375,
+      "y": 127790.3046875,
+      "z": -778.8694458007812
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_14": {
+      "x": -46870.9140625,
+      "y": -57634.1953125,
+      "z": 16076.0419921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_15": {
+      "x": 280601.25,
+      "y": -286688.75,
+      "z": 1632.3546142578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_2": {
+      "x": 22335.4375,
+      "y": 182534.40625,
+      "z": -7746.95849609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_20": {
+      "x": -80489.1875,
+      "y": 47701.140625,
+      "z": 21569.576171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_21": {
+      "x": 399632.125,
+      "y": -98188.21875,
+      "z": -420.8192138671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_23": {
+      "x": 254685.421875,
+      "y": 135377.203125,
+      "z": -3415.30615234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_24": {
+      "x": -4838.44140625,
+      "y": -25353.3359375,
+      "z": 19436.115234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_25": {
+      "x": -55193.40234375,
+      "y": 23146.41015625,
+      "z": 21705.673828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_29": {
+      "x": 131772.390625,
+      "y": 133791.3125,
+      "z": 12902.7021484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk23_9": {
+      "x": 134638.859375,
+      "y": 218682.890625,
+      "z": 875.9910278320312
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24": {
+      "x": 91593.8046875,
+      "y": -55202.57421875,
+      "z": 8920.400390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_0": {
+      "x": -11343.30078125,
+      "y": -149364.71875,
+      "z": 12213.1005859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_10": {
+      "x": 148346.1875,
+      "y": 263032.5625,
+      "z": 9909.8427734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_15": {
+      "x": -101168.1640625,
+      "y": -68267.890625,
+      "z": 13817.005859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_16": {
+      "x": 298037.40625,
+      "y": -59178.5234375,
+      "z": 7096.330078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_17": {
+      "x": 241757.90625,
+      "y": -302466.8125,
+      "z": 2506.4130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_2": {
+      "x": -140201.65625,
+      "y": 62485.79296875,
+      "z": 11797.08984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_23": {
+      "x": -104846.8515625,
+      "y": 63693.9140625,
+      "z": 21511.91015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_25": {
+      "x": 54817.23046875,
+      "y": 14338.7734375,
+      "z": 13498.4326171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_26": {
+      "x": -20426.263671875,
+      "y": 7256.89453125,
+      "z": 25365.455078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_3": {
+      "x": -5944.2109375,
+      "y": 266008.28125,
+      "z": 676.9981079101562
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_30": {
+      "x": 147806.515625,
+      "y": 86562.671875,
+      "z": 17688.154296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_89": {
+      "x": 289936.6875,
+      "y": 13138.771484375,
+      "z": 5261.662109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25": {
+      "x": 137138.328125,
+      "y": -36545.453125,
+      "z": 14122.9833984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_1": {
+      "x": -64714.109375,
+      "y": -129056.734375,
+      "z": 3804.40283203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_11": {
+      "x": 185230.515625,
+      "y": 209199.1875,
+      "z": 4808.04931640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_14": {
+      "x": 23068.75,
+      "y": 56043.1796875,
+      "z": 21881.208984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_18": {
+      "x": 264767.90625,
+      "y": -307156.8125,
+      "z": 1217.761962890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_19": {
+      "x": -20905.134765625,
+      "y": -9428.3515625,
+      "z": 21601.818359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_2": {
+      "x": -145228.6875,
+      "y": -153749.90625,
+      "z": 19247.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_26": {
+      "x": 65935.2734375,
+      "y": -1704.37109375,
+      "z": 13496.3837890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_27": {
+      "x": -154659.46875,
+      "y": 49170.0703125,
+      "z": 24059.484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_3": {
+      "x": -64067.49609375,
+      "y": 123968.9140625,
+      "z": 14866.6533203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_31": {
+      "x": 91825.765625,
+      "y": 76580.765625,
+      "z": 13587.1962890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_4": {
+      "x": -31863.052734375,
+      "y": 304196.125,
+      "z": -1471.3424072265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_5": {
+      "x": 297231.21875,
+      "y": -289118.15625,
+      "z": 1615.206787109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk25_90": {
+      "x": 241825.234375,
+      "y": 121073.7734375,
+      "z": 5734.65771484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26": {
+      "x": -18206.42578125,
+      "y": -116744.9375,
+      "z": 9019.66796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_1": {
+      "x": 219260.0,
+      "y": -267056.0,
+      "z": 16643.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_26": {
+      "x": 100406.9765625,
+      "y": -1180.203125,
+      "z": 10628.08984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_27": {
+      "x": 97341.5390625,
+      "y": -9032.6328125,
+      "z": 12607.208984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_36": {
+      "x": 92688.9296875,
+      "y": 112725.8515625,
+      "z": 10873.4267578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_4": {
+      "x": -191441.34375,
+      "y": 82122.484375,
+      "z": 121.56372833251953
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_5": {
+      "x": -71178.8671875,
+      "y": 282572.96875,
+      "z": -3690.357666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_6": {
+      "x": -48138.60546875,
+      "y": 93946.6484375,
+      "z": 22369.02734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_81": {
+      "x": -64402.7265625,
+      "y": 51225.60546875,
+      "z": 20748.669921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk26_91": {
+      "x": 205127.484375,
+      "y": 74400.9609375,
+      "z": 4686.2978515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27": {
+      "x": -860.625,
+      "y": -192514.59375,
+      "z": -1115.6439208984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_13": {
+      "x": 203140.90625,
+      "y": 209019.265625,
+      "z": 13253.9130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_2": {
+      "x": 221440.0,
+      "y": -246935.0,
+      "z": 11623.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_20": {
+      "x": 238537.8125,
+      "y": -279523.5625,
+      "z": 2786.743896484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_28": {
+      "x": 11100.533203125,
+      "y": -53429.375,
+      "z": 14890.5048828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_3": {
+      "x": 31362.646484375,
+      "y": 103124.078125,
+      "z": 25912.46875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_33": {
+      "x": 34405.44140625,
+      "y": 109331.9921875,
+      "z": 18144.36328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_4": {
+      "x": -80854.125,
+      "y": -97339.5078125,
+      "z": 1520.8980712890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_5": {
+      "x": -153175.28125,
+      "y": 108961.8046875,
+      "z": 7960.06591796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_6": {
+      "x": -91286.1953125,
+      "y": 271310.28125,
+      "z": -6500.02587890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_82": {
+      "x": -202123.21875,
+      "y": -1079.80859375,
+      "z": 20376.408203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk27_92": {
+      "x": 222151.21875,
+      "y": 40181.8671875,
+      "z": 443.3900146484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28": {
+      "x": -271756.78125,
+      "y": -192357.359375,
+      "z": 2767.07373046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_14": {
+      "x": 118270.875,
+      "y": 184714.546875,
+      "z": -2799.90869140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_2": {
+      "x": 25468.916015625,
+      "y": -72203.84375,
+      "z": 10156.7392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_21": {
+      "x": 263900.75,
+      "y": -270160.53125,
+      "z": 6723.01171875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_34": {
+      "x": 134471.171875,
+      "y": 103706.8671875,
+      "z": 13407.1552734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_35": {
+      "x": 208648.015625,
+      "y": -81613.8515625,
+      "z": 3290.068115234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_6": {
+      "x": -122139.9453125,
+      "y": 98782.515625,
+      "z": 7165.41357421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_7": {
+      "x": -121973.4375,
+      "y": 206940.59375,
+      "z": -303.4131164550781
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk28_83": {
+      "x": -184098.34375,
+      "y": 31015.30859375,
+      "z": 22715.638671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29": {
+      "x": -55705.3828125,
+      "y": 250303.546875,
+      "z": -1964.357177734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_1": {
+      "x": -17159.34375,
+      "y": 89011.53125,
+      "z": 20888.681640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_15": {
+      "x": 141830.46875,
+      "y": 190145.28125,
+      "z": -5792.69287109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_18": {
+      "x": -188783.34375,
+      "y": -170113.390625,
+      "z": -506.2533874511719
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_19": {
+      "x": -169657.9375,
+      "y": 65658.6015625,
+      "z": 17682.416015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_22": {
+      "x": 283210.46875,
+      "y": -76533.90625,
+      "z": 7312.70654296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_23": {
+      "x": 145332.0,
+      "y": -238260.0,
+      "z": 5983.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_37": {
+      "x": 178969.296875,
+      "y": -91003.0,
+      "z": 9177.44140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk29_84": {
+      "x": -141907.203125,
+      "y": 47702.4140625,
+      "z": 19467.55078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_1": {
+      "x": -280227.5,
+      "y": -29335.833984375,
+      "z": 2944.010986328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_10": {
+      "x": 354279.0625,
+      "y": -176862.734375,
+      "z": 8424.3505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_11": {
+      "x": 405280.28125,
+      "y": -100422.5703125,
+      "z": 5890.81640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_12": {
+      "x": 328078.21875,
+      "y": -39446.1015625,
+      "z": 6001.0908203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_2": {
+      "x": -114662.2578125,
+      "y": -57562.48828125,
+      "z": 13728.4130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_3": {
+      "x": -211791.96875,
+      "y": -48537.265625,
+      "z": 6656.39892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_4": {
+      "x": -232566.828125,
+      "y": -73522.15625,
+      "z": 1110.4932861328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_5": {
+      "x": -140119.09375,
+      "y": -15383.72265625,
+      "z": 10426.9453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_6": {
+      "x": -176508.203125,
+      "y": -69715.21875,
+      "z": 1101.4508056640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_7": {
+      "x": -237853.1875,
+      "y": 20708.591796875,
+      "z": -815.0391845703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_8": {
+      "x": -154156.09375,
+      "y": -62049.92578125,
+      "z": 4752.837890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_9": {
+      "x": -155161.15625,
+      "y": 15770.83203125,
+      "z": 4123.70068359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_0": {
+      "x": -75500.5,
+      "y": -203822.125,
+      "z": 1109.3272705078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_1": {
+      "x": -34745.74609375,
+      "y": -207730.5,
+      "z": 3254.66748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_10": {
+      "x": 41565.52734375,
+      "y": -68761.203125,
+      "z": 9450.462890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_11": {
+      "x": 13884.37890625,
+      "y": -67552.65625,
+      "z": 6530.5732421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_12": {
+      "x": 86781.0859375,
+      "y": -111232.6953125,
+      "z": 9698.123046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_13": {
+      "x": 62244.76953125,
+      "y": -126947.90625,
+      "z": 10574.0908203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_14": {
+      "x": 25366.068359375,
+      "y": -170206.46875,
+      "z": 2813.22607421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_15": {
+      "x": 70980.03125,
+      "y": -167514.359375,
+      "z": 5002.51318359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_18": {
+      "x": 37474.80078125,
+      "y": -237484.984375,
+      "z": -118.197509765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_19": {
+      "x": 50327.3984375,
+      "y": -255416.875,
+      "z": 1702.597900390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_20": {
+      "x": 44397.59765625,
+      "y": -215375.3125,
+      "z": -1750.960693359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_21": {
+      "x": 68938.6484375,
+      "y": -214632.28125,
+      "z": 1371.331787109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_22": {
+      "x": 104300.859375,
+      "y": 152734.046875,
+      "z": 6634.48681640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_23": {
+      "x": 192313.8125,
+      "y": 25728.017578125,
+      "z": -1451.22705078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_24": {
+      "x": 177589.0,
+      "y": 66278.0,
+      "z": 16009.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_25": {
+      "x": 174300.0,
+      "y": 94266.0,
+      "z": 8096.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_26": {
+      "x": 181625.0,
+      "y": 67903.0,
+      "z": 9571.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_27": {
+      "x": 104882.671875,
+      "y": -32945.984375,
+      "z": 14088.1875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_28": {
+      "x": 139884.421875,
+      "y": -70281.2109375,
+      "z": 3153.682861328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_29": {
+      "x": 190227.125,
+      "y": -57143.13671875,
+      "z": 8015.99560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_3": {
+      "x": 30578.5859375,
+      "y": 242052.140625,
+      "z": -3493.00048828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_30": {
+      "x": 142565.0,
+      "y": -135839.0,
+      "z": 14001.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_31": {
+      "x": 198829.0,
+      "y": -163207.0,
+      "z": 27278.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_33": {
+      "x": 184075.0,
+      "y": -163335.0,
+      "z": 25400.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_34": {
+      "x": 120030.0,
+      "y": -142740.0,
+      "z": 18490.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_36": {
+      "x": 280505.375,
+      "y": 105488.046875,
+      "z": -134.734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_37": {
+      "x": 209910.0,
+      "y": 173870.0,
+      "z": 16615.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_39": {
+      "x": 214148.484375,
+      "y": 11960.88671875,
+      "z": 30.51103973388672
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_40": {
+      "x": 213676.40625,
+      "y": 100009.4296875,
+      "z": -587.4625244140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_41": {
+      "x": 237415.90625,
+      "y": 85465.8671875,
+      "z": 2368.989501953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_42": {
+      "x": 209116.34375,
+      "y": 59416.19140625,
+      "z": 1499.3280029296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_43": {
+      "x": 207989.203125,
+      "y": 27719.728515625,
+      "z": 307.5773010253906
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_45": {
+      "x": 214895.0,
+      "y": -184615.0,
+      "z": 9165.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_46": {
+      "x": 283787.90625,
+      "y": -278677.9375,
+      "z": 1692.101318359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_47": {
+      "x": 344491.03125,
+      "y": -143897.3125,
+      "z": 4534.8291015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_5": {
+      "x": 20301.822265625,
+      "y": 192237.1875,
+      "z": 18411.984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_6": {
+      "x": 68066.5078125,
+      "y": 171000.921875,
+      "z": 12604.408203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_7": {
+      "x": 52708.5625,
+      "y": 170327.734375,
+      "z": 9668.572265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_8": {
+      "x": 63528.6015625,
+      "y": 135698.796875,
+      "z": 6859.9755859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_9": {
+      "x": 71037.078125,
+      "y": -52130.26171875,
+      "z": 9506.2001953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0156301_1720971459": {
+      "x": 178365.0,
+      "y": 117380.0,
+      "z": 12980.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0245C01_1697523667": {
+      "x": 203030.0,
+      "y": -257567.0,
+      "z": 9368.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F02A8701_1121902119": {
+      "x": -85404.0,
+      "y": -143607.0,
+      "z": -888.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0327B01_1576760848": {
+      "x": 116233.0,
+      "y": 19336.0,
+      "z": 16708.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0327B01_2054731851": {
+      "x": 129829.0,
+      "y": 27414.0,
+      "z": 15565.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0357B01_1376513381": {
+      "x": 221511.0,
+      "y": -52436.0,
+      "z": 16165.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0397B01_1952176084": {
+      "x": 143192.0,
+      "y": 7531.0,
+      "z": 17435.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F03A5B01_1502427478": {
+      "x": 185962.0,
+      "y": -136393.0,
+      "z": 21262.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F03E6501_1921080728": {
+      "x": -111593.0,
+      "y": -36885.0,
+      "z": 24204.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F03F7B01_1398535141": {
+      "x": 134757.0,
+      "y": 14609.0,
+      "z": 17075.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F049B201_2036002976": {
+      "x": 63119.0,
+      "y": 210396.0,
+      "z": 1668.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0575301_1826590140": {
+      "x": 167921.0,
+      "y": -264110.0,
+      "z": 3951.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0595301_1302912499": {
+      "x": 152014.0,
+      "y": -283555.0,
+      "z": 2976.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0595D01_1702343033": {
+      "x": 228255.0,
+      "y": 109553.0,
+      "z": 3414.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F05B5D01_1459628393": {
+      "x": 228451.0,
+      "y": 115713.0,
+      "z": 7122.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F062A401_1920904598": {
+      "x": -147146.0,
+      "y": 90692.0,
+      "z": 19152.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0635D01_1402584822": {
+      "x": 222466.0,
+      "y": 112035.0,
+      "z": 10484.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F063A401_1791316779": {
+      "x": -163552.0,
+      "y": 134766.0,
+      "z": 12793.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F06D5201_1177233968": {
+      "x": 153693.0,
+      "y": -151003.0,
+      "z": 25630.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F06FA401_2035551894": {
+      "x": -144324.0,
+      "y": 156856.0,
+      "z": 14338.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0706801_1432001712": {
+      "x": 172976.96875,
+      "y": 113563.96875,
+      "z": 10456.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F071A401_1739232248": {
+      "x": -178742.0,
+      "y": 93006.0,
+      "z": 20888.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F071A401_1842127249": {
+      "x": -163321.0,
+      "y": 106057.0,
+      "z": 20025.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0775B01_1268218200": {
+      "x": 197167.0,
+      "y": -273736.0,
+      "z": 12056.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0785B01_1533531383": {
+      "x": 141595.0,
+      "y": -168654.0,
+      "z": 2592.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0795B01_1357525561": {
+      "x": 124696.0,
+      "y": -147164.0,
+      "z": 7521.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0795B01_2008124563": {
+      "x": 107782.0,
+      "y": -161384.0,
+      "z": 4122.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F07F5B01_2043697625": {
+      "x": 116687.0,
+      "y": -172844.0,
+      "z": 5954.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0805B01_1612786803": {
+      "x": 136978.0,
+      "y": -185959.0,
+      "z": 2388.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0815B01_1488038982": {
+      "x": 125681.0,
+      "y": -156174.0,
+      "z": 5259.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0815B01_1988173986": {
+      "x": 133553.0,
+      "y": -142260.0,
+      "z": 8475.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0825B01_1335318165": {
+      "x": 114992.0,
+      "y": -164153.0,
+      "z": 7442.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0855B01_1254483667": {
+      "x": 161292.0,
+      "y": -213405.0,
+      "z": 2017.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0855B01_1620780674": {
+      "x": 162272.0,
+      "y": -234132.0,
+      "z": 810.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0865B01_1135287853": {
+      "x": 173571.0,
+      "y": -233679.0,
+      "z": 11494.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0AA5201_1255154679": {
+      "x": 193282.0,
+      "y": -189305.0,
+      "z": 24604.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0AA5201_1338657684": {
+      "x": 192538.0,
+      "y": -187176.0,
+      "z": 26134.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0AE5D01_1615859992": {
+      "x": 196566.0,
+      "y": 153128.0,
+      "z": 8669.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0B65201_2137568813": {
+      "x": 170142.0,
+      "y": -130203.0,
+      "z": 19620.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0BD5201_1079947071": {
+      "x": 136325.0,
+      "y": -181035.0,
+      "z": 8958.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0D25B01_1831343223": {
+      "x": 139246.0,
+      "y": -146226.0,
+      "z": 15697.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0D45B01_1937028581": {
+      "x": 111032.0,
+      "y": -166069.0,
+      "z": 9345.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E57A01_1469842296": {
+      "x": 155132.0,
+      "y": 27074.0,
+      "z": 19268.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E57A01_1590485297": {
+      "x": 180696.0,
+      "y": 14461.0,
+      "z": 18596.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E67A01_1084770479": {
+      "x": 156882.0,
+      "y": 17776.0,
+      "z": 18279.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E85F01_1340931312": {
+      "x": 194610.0,
+      "y": -194975.0,
+      "z": 26250.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E85F01_1744709315": {
+      "x": 214632.0,
+      "y": -219424.0,
+      "z": 29564.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E87A01_1147893840": {
+      "x": 63094.0,
+      "y": 11931.0,
+      "z": 19057.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E87A01_1547094844": {
+      "x": 76289.0,
+      "y": 41302.0,
+      "z": 19581.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E95F01_1115335496": {
+      "x": 243082.0,
+      "y": -272859.0,
+      "z": 26753.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0EE7A01_1935774906": {
+      "x": 110069.0,
+      "y": 12351.0,
+      "z": 21050.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F35F01_1114488275": {
+      "x": 222910.0,
+      "y": -235200.0,
+      "z": 26282.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F37A01_1199794805": {
+      "x": 137014.0,
+      "y": 28209.0,
+      "z": 11957.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F37A01_1513905808": {
+      "x": 142769.0,
+      "y": 45435.0,
+      "z": 17570.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F67A01_1684184353": {
+      "x": 166424.0,
+      "y": 38892.0,
+      "z": 11812.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F67A01_1837729354": {
+      "x": 209097.0,
+      "y": -2989.0,
+      "z": 7236.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F67A01_1953261355": {
+      "x": 195317.0,
+      "y": 15085.0,
+      "z": 10326.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F77A01_2016858540": {
+      "x": 206543.0,
+      "y": -43030.0,
+      "z": 15264.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0F87A01_1248874721": {
+      "x": 187002.0,
+      "y": -26896.0,
+      "z": 13648.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0FC5201_1997354134": {
+      "x": 130920.0,
+      "y": -199555.0,
+      "z": 13002.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79245C01_1676679653": {
+      "x": 87154.03125,
+      "y": -182011.359375,
+      "z": 1945.51318359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79738301_1516430745": {
+      "x": -27600.0,
+      "y": 139690.0,
+      "z": -6960.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79745B01_1428147672": {
+      "x": 52932.06640625,
+      "y": -177475.46875,
+      "z": 5512.22607421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F799E5F01_1558324292": {
+      "x": 85950.25,
+      "y": -214841.5,
+      "z": 4172.66748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79AB5201_1083372854": {
+      "x": 82917.25,
+      "y": -232288.5,
+      "z": 437.66748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_40B076DF2F79BC5D01_1825052456": {
+      "x": -29418.74609375,
+      "y": -174117.5,
+      "z": 5976.66748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_4CEDFB3E2F7F8B9201_1245751815": {
+      "x": 167040.0,
+      "y": 83620.0,
+      "z": 1920.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk30_12": {
+      "x": 139980.0,
+      "y": -213485.0,
+      "z": 5350.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0747801_1178299322": {
+      "x": 164676.0,
+      "y": -3915.0,
+      "z": 21256.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0EE7A01_1112899902": {
+      "x": 82757.0,
+      "y": 22623.0,
+      "z": 21809.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0F77A01_1321147532": {
+      "x": 180444.0,
+      "y": 26740.0,
+      "z": 2049.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk43_3": {
+      "x": 190853.0,
+      "y": -222990.0,
+      "z": 23933.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F790F6201_1607312289": {
+      "x": 122984.4140625,
+      "y": -215475.390625,
+      "z": -1216.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79926001_1740797235": {
+      "x": 90580.1328125,
+      "y": -164221.203125,
+      "z": 246.10511779785156
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk45_UAID_40B076DF2F79BF6101_1113212209": {
+      "x": 100698.4140625,
+      "y": -198219.390625,
+      "z": -1071.0450439453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk47": {
+      "x": 31695.953125,
+      "y": -214888.15625,
+      "z": -1763.558837890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk48_2": {
+      "x": -55461.24609375,
+      "y": -168285.0,
+      "z": 6041.6630859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk49": {
+      "x": -66489.6875,
+      "y": -175651.984375,
+      "z": 10320.16796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk49_UAID_40B076DF2F79955F01_1622838761": {
+      "x": -59969.6875,
+      "y": -190330.984375,
+      "z": 8660.16796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk50": {
+      "x": -45529.796875,
+      "y": -177778.3125,
+      "z": 9388.494140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk51": {
+      "x": 132230.0,
+      "y": -200725.0,
+      "z": 6230.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk51_28": {
+      "x": 124495.0,
+      "y": -202820.0,
+      "z": 5405.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk52": {
+      "x": -54880.3359375,
+      "y": -214424.234375,
+      "z": 5914.1435546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk53": {
+      "x": -49350.578125,
+      "y": -228612.96875,
+      "z": 4473.7548828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk53_UAID_40B076DF2F79105301_1728144638": {
+      "x": -51260.578125,
+      "y": -250326.96875,
+      "z": 3340.952392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk53_UAID_40B076DF2F79615301_1537373889": {
+      "x": -27595.578125,
+      "y": -249981.96875,
+      "z": 623.7550048828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk53_UAID_40B076DF2F79625301_2075930067": {
+      "x": 64634.421875,
+      "y": -186578.96875,
+      "z": 615.952392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk53_UAID_40B076DF2F79F55801_1917538208": {
+      "x": -51747.23046875,
+      "y": -208020.828125,
+      "z": 2431.7509765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk54": {
+      "x": -28657.78125,
+      "y": -173784.953125,
+      "z": 9723.470703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk55": {
+      "x": -9031.7578125,
+      "y": -165461.921875,
+      "z": 6012.248046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk56": {
+      "x": 9092.78515625,
+      "y": -169112.28125,
+      "z": 4681.28125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk57": {
+      "x": 7926.26171875,
+      "y": -178551.609375,
+      "z": 4952.07373046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk58": {
+      "x": 21661.07421875,
+      "y": -176290.6875,
+      "z": 11012.22265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk59": {
+      "x": 17663.822265625,
+      "y": -154946.3125,
+      "z": 12263.912109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk6": {
+      "x": -55052.6484375,
+      "y": -185332.015625,
+      "z": 6443.4873046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk60": {
+      "x": 41029.55859375,
+      "y": -164983.21875,
+      "z": 20133.73828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk60_UAID_40B076DF2F794D6401_1849768319": {
+      "x": 19170.2734375,
+      "y": -170847.359375,
+      "z": 4531.2529296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk60_UAID_40B076DF2F79F35F01_1959731276": {
+      "x": 19376.55859375,
+      "y": -163773.21875,
+      "z": 14260.73828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk61": {
+      "x": 123850.0,
+      "y": -176825.0,
+      "z": 8070.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk63": {
+      "x": 127605.0,
+      "y": -168050.0,
+      "z": 7660.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk63_10": {
+      "x": 203544.0,
+      "y": -286437.0,
+      "z": 22147.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk66": {
+      "x": 41348.43359375,
+      "y": -173688.375,
+      "z": 9259.435546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk67": {
+      "x": 137690.0,
+      "y": -167725.0,
+      "z": 7075.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk6_2": {
+      "x": 190339.0,
+      "y": -263888.0,
+      "z": 4334.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk7": {
+      "x": -17612.271484375,
+      "y": -203213.421875,
+      "z": 1834.343505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk70_3": {
+      "x": 215380.0,
+      "y": -213390.0,
+      "z": 14660.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk72_11": {
+      "x": 238314.0,
+      "y": 133385.0,
+      "z": 12325.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk72_2": {
+      "x": 143930.0,
+      "y": -165650.0,
+      "z": 8215.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk73_3": {
+      "x": 148000.0,
+      "y": -185700.0,
+      "z": 6440.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk74_4": {
+      "x": 156251.0,
+      "y": -178558.0,
+      "z": 23.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk75_2": {
+      "x": 228660.0,
+      "y": 133683.0,
+      "z": -5741.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk75_5": {
+      "x": 158490.0,
+      "y": -165477.0,
+      "z": 15800.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk76_2": {
+      "x": 208982.0,
+      "y": 115908.0,
+      "z": 11668.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk76_6": {
+      "x": 114835.0,
+      "y": -196315.0,
+      "z": 3160.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk79": {
+      "x": 66356.4921875,
+      "y": -160959.34375,
+      "z": 7163.59130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk80": {
+      "x": 85814.6953125,
+      "y": -156663.296875,
+      "z": 19815.7109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk81": {
+      "x": 90872.78125,
+      "y": -148056.0,
+      "z": 10085.359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk82": {
+      "x": 98480.6328125,
+      "y": -158049.046875,
+      "z": 7812.2431640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk83": {
+      "x": 88413.1796875,
+      "y": -165020.484375,
+      "z": 7298.79931640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk84": {
+      "x": 87302.78125,
+      "y": -172522.328125,
+      "z": 8873.552734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk88": {
+      "x": 174657.0,
+      "y": 129903.0,
+      "z": 16334.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk9": {
+      "x": 14672.9599609375,
+      "y": -242517.984375,
+      "z": -943.78369140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk93": {
+      "x": 175015.0,
+      "y": 106610.0,
+      "z": 11552.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk94": {
+      "x": 184321.0,
+      "y": 131052.0,
+      "z": 15902.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk9_14": {
+      "x": 181935.0,
+      "y": -253645.0,
+      "z": 14235.0
+    }
+  },
+  "purple": {
+    "Persistent_Level:PersistentLevel.BP_Crystal7_17": {
+      "x": 125763.2578125,
+      "y": 81108.4296875,
+      "z": 12793.5
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05D5D01_1813536763": {
+      "x": 232352.0,
+      "y": 109088.0,
+      "z": 4992.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F05F7801_1673526600": {
+      "x": 233479.0,
+      "y": -7977.0,
+      "z": 7615.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0757801_1889185499": {
+      "x": 149148.0,
+      "y": 7319.0,
+      "z": 20663.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0757801_2136946500": {
+      "x": 119255.0,
+      "y": -2582.0,
+      "z": 17628.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_04421A9713F0B37301_2124852114": {
+      "x": 86205.0,
+      "y": 46730.0,
+      "z": 23200.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_C_UAID_40B076DF2F79F25F01_1677709082": {
+      "x": 53396.0,
+      "y": -163213.0,
+      "z": 20922.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk10_UAID_40B076DF2F79486001_1273441223": {
+      "x": 9055.3671875,
+      "y": -221877.6875,
+      "z": 4924.97265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk11": {
+      "x": 82048.578125,
+      "y": -158687.421875,
+      "z": 5138.7568359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk12": {
+      "x": 22009.87890625,
+      "y": -238735.640625,
+      "z": 1506.12158203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk13": {
+      "x": 36093.3828125,
+      "y": -252512.0,
+      "z": 3403.36962890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk13_2": {
+      "x": 187825.0,
+      "y": -257335.0,
+      "z": -1780.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk14_5": {
+      "x": 183780.0,
+      "y": -296705.0,
+      "z": 21390.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk15": {
+      "x": 54723.46875,
+      "y": -229467.15625,
+      "z": 4340.3408203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk16_2": {
+      "x": 177155.0,
+      "y": -206000.0,
+      "z": 24184.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk18": {
+      "x": 85513.96875,
+      "y": -195345.375,
+      "z": 5124.4091796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk21_6": {
+      "x": -55085.0,
+      "y": -43846.0,
+      "z": 16937.626953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk24_14": {
+      "x": 121164.390625,
+      "y": -214016.921875,
+      "z": 3009.6591796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_16": {
+      "x": 95747.03125,
+      "y": -198310.0625,
+      "z": 5835.70263671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_38": {
+      "x": 203508.0,
+      "y": 145635.0,
+      "z": 6584.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk2_C_UAID_04421A9713F0E77A01_1394636661": {
+      "x": 131035.0,
+      "y": 43109.0,
+      "z": 18044.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk30": {
+      "x": 236674.59375,
+      "y": -208776.625,
+      "z": 17216.205078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk30_10": {
+      "x": 394732.3125,
+      "y": -151165.546875,
+      "z": 9860.0380859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk30_7": {
+      "x": 385174.5625,
+      "y": -207937.796875,
+      "z": 9585.3125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31": {
+      "x": -175603.65625,
+      "y": 44187.3515625,
+      "z": 18989.81640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk310": {
+      "x": -182085.375,
+      "y": 28720.552734375,
+      "z": 10801.4111328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk310_42": {
+      "x": -21824.44140625,
+      "y": 53806.0078125,
+      "z": 21953.3671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk310_92": {
+      "x": -56255.0703125,
+      "y": 58994.22265625,
+      "z": 20969.35546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk311": {
+      "x": 27554.599609375,
+      "y": 73708.4765625,
+      "z": -753.9299926757812
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk311_48": {
+      "x": -37435.828125,
+      "y": -6213.2109375,
+      "z": 30028.802734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk311_93": {
+      "x": -91579.109375,
+      "y": 51276.21875,
+      "z": 21545.513671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk312": {
+      "x": -125151.9375,
+      "y": 49267.05859375,
+      "z": 34041.640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk312_52": {
+      "x": -28150.056640625,
+      "y": 19757.95703125,
+      "z": 22615.845703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk313": {
+      "x": -151141.078125,
+      "y": 22066.0546875,
+      "z": 26174.703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk313_59": {
+      "x": -1594.35546875,
+      "y": 29752.3046875,
+      "z": 24393.349609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk315": {
+      "x": -106598.2109375,
+      "y": 34219.25,
+      "z": 23600.427734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk316": {
+      "x": 46135.8046875,
+      "y": -190558.21875,
+      "z": 7631.56396484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk317": {
+      "x": -80753.3984375,
+      "y": 34086.46484375,
+      "z": 19814.099609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk318": {
+      "x": -127059.125,
+      "y": 43459.2265625,
+      "z": 19964.611328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk319": {
+      "x": -129127.265625,
+      "y": 20713.591796875,
+      "z": 28689.953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_0": {
+      "x": 33123.66796875,
+      "y": 176853.1875,
+      "z": -6537.74853515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_1": {
+      "x": -95974.2734375,
+      "y": 44010.58203125,
+      "z": 5091.78466796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_10": {
+      "x": -51693.63671875,
+      "y": -78723.3125,
+      "z": 5734.0498046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_12": {
+      "x": 58423.6015625,
+      "y": -27553.40625,
+      "z": 24845.505859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_13": {
+      "x": 285727.34375,
+      "y": 128183.9453125,
+      "z": 11353.857421875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_15": {
+      "x": 37876.484375,
+      "y": 36309.91015625,
+      "z": 23414.39453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_16": {
+      "x": 65682.375,
+      "y": 64887.20703125,
+      "z": 35873.38671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_2": {
+      "x": 226648.9375,
+      "y": -295590.0,
+      "z": 1647.1021728515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_3": {
+      "x": -268368.90625,
+      "y": 87125.828125,
+      "z": -1742.577880859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_4": {
+      "x": 237541.265625,
+      "y": -206787.375,
+      "z": 8012.78173828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_7": {
+      "x": 133466.40625,
+      "y": 240928.546875,
+      "z": -8871.61328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_8": {
+      "x": -132418.703125,
+      "y": -181783.421875,
+      "z": 46942.09375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk31_9": {
+      "x": 52026.44921875,
+      "y": -80073.5546875,
+      "z": 5869.5654296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32": {
+      "x": -176863.65625,
+      "y": 88804.5703125,
+      "z": 11533.1015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk320": {
+      "x": -30874.775390625,
+      "y": 68455.7109375,
+      "z": 21705.81640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk321": {
+      "x": -42888.5625,
+      "y": 40321.35546875,
+      "z": 21539.5625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk322": {
+      "x": -31905.96875,
+      "y": 31787.240234375,
+      "z": 20664.59375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk323": {
+      "x": -87771.234375,
+      "y": 62349.29296875,
+      "z": 25335.830078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk324": {
+      "x": -78122.4453125,
+      "y": 21531.38671875,
+      "z": 21166.484375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk325": {
+      "x": -59224.6015625,
+      "y": -180010.875,
+      "z": 15343.1767578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk327": {
+      "x": 51468.3359375,
+      "y": -2178.92578125,
+      "z": 13377.4892578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_0": {
+      "x": -129640.4609375,
+      "y": -124075.1953125,
+      "z": -3827.453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_1": {
+      "x": -19617.443359375,
+      "y": 163535.765625,
+      "z": 7996.703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_16": {
+      "x": -19906.82421875,
+      "y": 78261.4453125,
+      "z": 38858.62109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_17": {
+      "x": 53245.4609375,
+      "y": 73958.421875,
+      "z": 10890.1767578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_3": {
+      "x": 253883.65625,
+      "y": -292994.5,
+      "z": 5423.572265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_8": {
+      "x": 176027.28125,
+      "y": 250642.265625,
+      "z": -898.87548828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk32_84": {
+      "x": -171997.9375,
+      "y": 25223.474609375,
+      "z": 15695.169921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33": {
+      "x": -164072.734375,
+      "y": 92802.6953125,
+      "z": 7268.46142578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_1": {
+      "x": -225540.015625,
+      "y": -151572.484375,
+      "z": -5123.60888671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_11": {
+      "x": 100492.828125,
+      "y": -91392.4140625,
+      "z": 5325.3740234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_12": {
+      "x": -25619.205078125,
+      "y": -65689.890625,
+      "z": 23114.283203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_14": {
+      "x": -27367.169921875,
+      "y": -76016.6171875,
+      "z": 11631.908203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_17": {
+      "x": -16103.8046875,
+      "y": 114042.671875,
+      "z": 21485.1015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_18": {
+      "x": 114957.3046875,
+      "y": 78925.96875,
+      "z": 18274.873046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_2": {
+      "x": -19009.1015625,
+      "y": 272696.15625,
+      "z": 10535.1015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_4": {
+      "x": 299170.0,
+      "y": -296890.0,
+      "z": 9881.6875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_85": {
+      "x": -44925.21875,
+      "y": 55495.2265625,
+      "z": 21220.55859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk33_9": {
+      "x": 190325.03125,
+      "y": 230743.21875,
+      "z": -11162.1787109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34": {
+      "x": -92511.4453125,
+      "y": 57168.25390625,
+      "z": 9571.3291015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_10": {
+      "x": 171375.75,
+      "y": 174413.453125,
+      "z": 4754.60498046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_15": {
+      "x": 14423.9375,
+      "y": 2752.484375,
+      "z": 18401.87109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_18": {
+      "x": -10102.58984375,
+      "y": -28939.16015625,
+      "z": 22220.240234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_19": {
+      "x": 160559.796875,
+      "y": 133221.84375,
+      "z": 11079.7666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_20": {
+      "x": 60888.35546875,
+      "y": -130688.125,
+      "z": 2713.218017578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_3": {
+      "x": -136864.015625,
+      "y": 241803.953125,
+      "z": -11804.2587890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_31": {
+      "x": 244584.5625,
+      "y": 27220.328125,
+      "z": -1671.3302001953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_6": {
+      "x": -286815.3125,
+      "y": -160491.890625,
+      "z": 6791.59130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk34_86": {
+      "x": -96334.3359375,
+      "y": 68858.0625,
+      "z": 12270.6748046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35": {
+      "x": -62877.25390625,
+      "y": -212286.21875,
+      "z": 8378.265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_0": {
+      "x": -48773.96875,
+      "y": 131219.3125,
+      "z": 24037.513671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_1": {
+      "x": 374477.03125,
+      "y": -114466.78125,
+      "z": 5891.82666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_11": {
+      "x": 198116.75,
+      "y": 180765.671875,
+      "z": 17957.123046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_21": {
+      "x": 150970.96875,
+      "y": -88202.28125,
+      "z": 12950.685546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_22": {
+      "x": 17850.90625,
+      "y": 125646.4140625,
+      "z": 27380.458984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_6": {
+      "x": -135991.0,
+      "y": -182951.578125,
+      "z": 18125.166015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk35_87": {
+      "x": -76092.03125,
+      "y": 70610.6171875,
+      "z": 27345.791015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36": {
+      "x": -143599.03125,
+      "y": 127389.3046875,
+      "z": 13045.3330078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36_12": {
+      "x": 140604.203125,
+      "y": 251773.53125,
+      "z": -5815.24560546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36_22": {
+      "x": 201331.375,
+      "y": -90733.328125,
+      "z": 10951.8349609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36_26": {
+      "x": -61493.0703125,
+      "y": 10492.09375,
+      "z": 23072.78125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36_50": {
+      "x": 258787.484375,
+      "y": 67454.4375,
+      "z": -1043.313720703125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk36_88": {
+      "x": -51403.07421875,
+      "y": 66521.3984375,
+      "z": 24877.009765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk37": {
+      "x": -36416.3671875,
+      "y": -255208.703125,
+      "z": 4686.83984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk37_14": {
+      "x": 174830.0,
+      "y": -222015.0,
+      "z": 13420.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk37_30": {
+      "x": 9354.8046875,
+      "y": 57885.20703125,
+      "z": 20895.423828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk37_51": {
+      "x": 187595.265625,
+      "y": 55849.7109375,
+      "z": -1683.2459716796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk37_89": {
+      "x": -56554.95703125,
+      "y": 110985.234375,
+      "z": 23874.552734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk38": {
+      "x": -24413.283203125,
+      "y": -198056.4375,
+      "z": 19270.591796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk38_14": {
+      "x": 131388.5,
+      "y": 164666.140625,
+      "z": -3921.609130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk38_34": {
+      "x": 40556.29296875,
+      "y": 77732.1328125,
+      "z": 26895.443359375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk38_52": {
+      "x": 308292.53125,
+      "y": -9705.453125,
+      "z": 1764.4595947265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk38_90": {
+      "x": -109140.5546875,
+      "y": 101010.609375,
+      "z": 16307.810546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk39": {
+      "x": -15335.8125,
+      "y": -192824.09375,
+      "z": 7399.1591796875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk39_41": {
+      "x": 9161.90625,
+      "y": 100359.3046875,
+      "z": 24429.640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk39_91": {
+      "x": -73274.5703125,
+      "y": 48792.2578125,
+      "z": 25491.169921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_0": {
+      "x": 255771.609375,
+      "y": -290705.875,
+      "z": 32565.87890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_1": {
+      "x": -264290.09375,
+      "y": -33952.51171875,
+      "z": 9152.1025390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_13": {
+      "x": 66407.953125,
+      "y": 203371.78125,
+      "z": 11018.7509765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_16": {
+      "x": 78298.203125,
+      "y": 173893.265625,
+      "z": -3988.683349609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_2": {
+      "x": -198374.015625,
+      "y": -10592.21484375,
+      "z": 3815.6572265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_3": {
+      "x": -157870.546875,
+      "y": -89590.6171875,
+      "z": -4184.5078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_4": {
+      "x": -218426.5625,
+      "y": 24200.107421875,
+      "z": 8754.7333984375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_5": {
+      "x": 91263.0703125,
+      "y": 232000.015625,
+      "z": 7409.25244140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_9": {
+      "x": 16287.67578125,
+      "y": 214765.234375,
+      "z": 13773.23046875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_0": {
+      "x": -59148.09375,
+      "y": -109189.4140625,
+      "z": 1205.2802734375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_1": {
+      "x": -3403.99609375,
+      "y": -179646.296875,
+      "z": 6313.45849609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_10": {
+      "x": 45875.140625,
+      "y": -171693.171875,
+      "z": 5395.7080078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_11": {
+      "x": 25679.765625,
+      "y": -161573.9375,
+      "z": 17078.501953125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_12": {
+      "x": 52139.64453125,
+      "y": -179771.46875,
+      "z": 9201.384765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_13": {
+      "x": 62255.93359375,
+      "y": -162902.8125,
+      "z": 23171.580078125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_14": {
+      "x": 85671.078125,
+      "y": -158300.0625,
+      "z": 9725.8544921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_15": {
+      "x": 81300.3828125,
+      "y": -155563.6875,
+      "z": 28168.74609375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_16": {
+      "x": 94412.109375,
+      "y": -170437.1875,
+      "z": 13387.7783203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_17": {
+      "x": 83481.09375,
+      "y": -195208.984375,
+      "z": 19226.88671875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_18": {
+      "x": 99788.171875,
+      "y": -214924.40625,
+      "z": 4077.26904296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_19": {
+      "x": 72367.5234375,
+      "y": -207757.65625,
+      "z": 12637.537109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_2": {
+      "x": 31740.84765625,
+      "y": -175315.53125,
+      "z": 3246.547119140625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_20": {
+      "x": 162494.8125,
+      "y": 224747.375,
+      "z": -7889.8603515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_22": {
+      "x": 144988.0,
+      "y": 101902.0,
+      "z": 21318.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_23": {
+      "x": 181954.0,
+      "y": 92921.0,
+      "z": 3222.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_25": {
+      "x": 120698.1484375,
+      "y": -126195.5625,
+      "z": 19369.837890625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_27": {
+      "x": 169905.0,
+      "y": -180630.0,
+      "z": 9435.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_28": {
+      "x": 140413.234375,
+      "y": -168848.21875,
+      "z": 23048.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_29": {
+      "x": 167125.0,
+      "y": -161695.0,
+      "z": 28410.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_3": {
+      "x": -53123.8828125,
+      "y": -228897.671875,
+      "z": 8127.7197265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_30": {
+      "x": 134090.0,
+      "y": -148245.0,
+      "z": 12905.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_31": {
+      "x": 131140.0,
+      "y": -196795.0,
+      "z": 9875.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_32": {
+      "x": 121715.0,
+      "y": -170190.0,
+      "z": 12265.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_33": {
+      "x": 121695.0,
+      "y": -190865.0,
+      "z": 7765.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_34": {
+      "x": 95361.90625,
+      "y": -182902.109375,
+      "z": 5830.5908203125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_35": {
+      "x": 226568.59375,
+      "y": 106004.1796875,
+      "z": -1397.8775634765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_37": {
+      "x": 228965.0,
+      "y": 129795.0,
+      "z": 16900.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_38": {
+      "x": 231574.0,
+      "y": 148534.0,
+      "z": 10093.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_39": {
+      "x": 205619.0,
+      "y": 124952.0,
+      "z": -6371.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_4": {
+      "x": 85420.2890625,
+      "y": 125286.3046875,
+      "z": 8912.5654296875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_40": {
+      "x": 276096.40625,
+      "y": 50570.34765625,
+      "z": -615.6846923828125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_41": {
+      "x": 236032.6875,
+      "y": 94330.125,
+      "z": -896.4951782226562
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_42": {
+      "x": 278161.53125,
+      "y": 12681.8125,
+      "z": 1374.47314453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_43": {
+      "x": 228990.0,
+      "y": -265020.0,
+      "z": 20885.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_46": {
+      "x": 210835.0,
+      "y": -290925.0,
+      "z": 22885.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_5": {
+      "x": 44047.14453125,
+      "y": 189344.875,
+      "z": 10354.4130859375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_6": {
+      "x": 101425.4375,
+      "y": -44532.36328125,
+      "z": 17823.810546875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_7": {
+      "x": 53902.37890625,
+      "y": -116004.984375,
+      "z": 24484.62109375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_8": {
+      "x": 23240.18359375,
+      "y": -183814.265625,
+      "z": 5097.98681640625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_9": {
+      "x": 56082.25,
+      "y": -169283.28125,
+      "z": 25644.134765625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0036301_1297164245": {
+      "x": 238370.875,
+      "y": 153571.0,
+      "z": 13063.4736328125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0056301_2025275612": {
+      "x": 186090.0,
+      "y": 97485.0,
+      "z": 12635.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0145C01_1961591832": {
+      "x": 172164.0,
+      "y": -216179.0,
+      "z": 20199.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0277C01_2138469968": {
+      "x": 129432.0,
+      "y": 57904.0,
+      "z": 10448.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0297C01_1197302326": {
+      "x": 150205.0,
+      "y": 46067.0,
+      "z": 12251.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0297C01_2084244334": {
+      "x": 128995.0,
+      "y": 64193.0,
+      "z": 19440.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F02A7C01_1360375511": {
+      "x": 103576.0,
+      "y": 75659.0,
+      "z": 16428.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F02A7C01_1594764512": {
+      "x": 82290.0,
+      "y": 67192.0,
+      "z": 24097.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F02AA401_1523751748": {
+      "x": -151575.0,
+      "y": 77412.0,
+      "z": 21708.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0406001_1876322801": {
+      "x": 173899.0,
+      "y": -154970.0,
+      "z": 26277.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0585D01_1891820856": {
+      "x": 231950.0,
+      "y": 125298.0,
+      "z": 6984.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0585E01_1956229960": {
+      "x": 124270.0,
+      "y": -149770.0,
+      "z": 15820.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F05A5301_1813979681": {
+      "x": 154163.0,
+      "y": -271535.0,
+      "z": -1336.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0627801_2036326140": {
+      "x": 208907.0,
+      "y": -21631.0,
+      "z": 18580.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F063A401_1570680776": {
+      "x": -155221.0,
+      "y": 126132.0,
+      "z": 15257.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F06A5C01_1458580968": {
+      "x": 223085.0,
+      "y": 114951.0,
+      "z": 3132.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F06B5C01_1971558160": {
+      "x": 234537.0,
+      "y": 117263.0,
+      "z": 11707.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F06DAF01_1615607160": {
+      "x": 170487.0,
+      "y": -45485.0,
+      "z": 5512.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F06EA401_1809380716": {
+      "x": -143905.5,
+      "y": 139824.125,
+      "z": 13128.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F070A401_1749057071": {
+      "x": -128483.0,
+      "y": 156718.0,
+      "z": 13823.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0717801_1844491783": {
+      "x": 177385.0,
+      "y": 849.0,
+      "z": 18925.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0727801_1634602960": {
+      "x": 174510.0,
+      "y": -24395.0,
+      "z": 19107.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F072A401_1701014427": {
+      "x": -136317.0,
+      "y": 176577.0,
+      "z": 16319.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0775B01_1729283204": {
+      "x": 144026.0,
+      "y": -162984.0,
+      "z": 2648.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F079AF01_1615812377": {
+      "x": -30334.0,
+      "y": -159804.0,
+      "z": 16061.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F07F6001_2021531889": {
+      "x": 175113.0,
+      "y": -140313.0,
+      "z": 23781.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0807C01_1687435632": {
+      "x": 157366.0,
+      "y": 67974.0,
+      "z": -10.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0835B01_1215726345": {
+      "x": 142477.0,
+      "y": -188688.0,
+      "z": 7345.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0895B01_1662240391": {
+      "x": 163448.0,
+      "y": -221893.0,
+      "z": 4746.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F08A5B01_2054934580": {
+      "x": 175457.0,
+      "y": -225145.0,
+      "z": 21124.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F08B5B01_2043989757": {
+      "x": 124160.0,
+      "y": -156162.0,
+      "z": 11828.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0AA5201_1333563683": {
+      "x": 198073.0,
+      "y": -188701.0,
+      "z": 25342.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0AC5201_1755460045": {
+      "x": 205434.0,
+      "y": -285492.0,
+      "z": 9664.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0D45B01_1873455580": {
+      "x": 113623.0,
+      "y": -159043.0,
+      "z": 9278.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0DC5B01_1453235998": {
+      "x": 160158.0,
+      "y": -171897.0,
+      "z": 11245.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0DD5B01_1099993180": {
+      "x": 171001.0,
+      "y": -177233.0,
+      "z": 4656.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E57A01_1659753299": {
+      "x": 167368.0,
+      "y": 15657.0,
+      "z": 22839.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E57A01_1764014301": {
+      "x": 146608.0,
+      "y": 15383.0,
+      "z": 18161.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E67A01_2112441483": {
+      "x": 135567.0,
+      "y": 31101.0,
+      "z": 18559.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E85F01_1517332314": {
+      "x": 200672.0,
+      "y": -200223.0,
+      "z": 34166.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E85F01_1852831317": {
+      "x": 218848.0,
+      "y": -255005.0,
+      "z": 33313.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E87A01_1253298841": {
+      "x": 71978.0,
+      "y": 19244.0,
+      "z": 20486.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0E95F01_1176278498": {
+      "x": 216484.0,
+      "y": -286480.0,
+      "z": 42936.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0EE7A01_1230590903": {
+      "x": 92555.0,
+      "y": 21594.0,
+      "z": 19405.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0F77A01_1578399538": {
+      "x": 128833.0,
+      "y": 12802.0,
+      "z": 14071.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0F87A01_1173440720": {
+      "x": 182921.0,
+      "y": -37060.0,
+      "z": 14455.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0F87A01_1467276724": {
+      "x": 192834.0,
+      "y": -23714.0,
+      "z": 15292.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0F87A01_1842830725": {
+      "x": 258281.0,
+      "y": -41580.0,
+      "z": 14458.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_04421A9713F0FB5201_1256959955": {
+      "x": 160194.0,
+      "y": -206341.0,
+      "z": 7271.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F798B5F01_1138825944": {
+      "x": 37631.765625,
+      "y": -166386.9375,
+      "z": 22368.669921875
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F79905F01_1499395864": {
+      "x": 37881.0,
+      "y": -182601.0,
+      "z": 3610.4697265625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F79D5AD01_1325784341": {
+      "x": 294583.34375,
+      "y": -172604.734375,
+      "z": 3900.7275390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F79DBAD01_1358054399": {
+      "x": 261006.984375,
+      "y": -256438.53125,
+      "z": 3673.107666015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F79DCAD01_1900669576": {
+      "x": 380202.0,
+      "y": -274445.0,
+      "z": 1909.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk3_C_UAID_40B076DF2F79F68401_1268529865": {
+      "x": -33890.0,
+      "y": 113635.0,
+      "z": -6565.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk4": {
+      "x": -50685.578125,
+      "y": -238906.96875,
+      "z": 3870.952392578125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk40": {
+      "x": 141650.0,
+      "y": -194650.0,
+      "z": 8835.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk41": {
+      "x": 137058.328125,
+      "y": -201534.5,
+      "z": 799.7278442382812
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk42_8": {
+      "x": 180355.0,
+      "y": -267555.0,
+      "z": 19165.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk43": {
+      "x": 141585.0,
+      "y": -168570.0,
+      "z": 11485.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk44": {
+      "x": 100282.90625,
+      "y": -182879.140625,
+      "z": 2283.816650390625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk4_UAID_40B076DF2F79435901_1076437937": {
+      "x": -49357.625,
+      "y": -220523.796875,
+      "z": 3662.779541015625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk5": {
+      "x": -57751.20703125,
+      "y": -219159.546875,
+      "z": -1020.8106689453125
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk5_5": {
+      "x": 123779.3046875,
+      "y": -201060.46875,
+      "z": 9742.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk61_8": {
+      "x": 147242.0,
+      "y": -216065.0,
+      "z": 6780.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk62": {
+      "x": 129225.0,
+      "y": -167400.0,
+      "z": 10770.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk64_8": {
+      "x": 183086.0,
+      "y": -244460.0,
+      "z": 23505.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk65": {
+      "x": 122425.0,
+      "y": -183035.0,
+      "z": 10600.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk67_2": {
+      "x": 182224.0,
+      "y": -305952.0,
+      "z": 20502.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk70_0": {
+      "x": 121860.0,
+      "y": -153925.0,
+      "z": 11895.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk71_0": {
+      "x": 196414.0,
+      "y": -169702.0,
+      "z": 13456.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk71_9": {
+      "x": 212415.0,
+      "y": 126415.0,
+      "z": 6325.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk72_1": {
+      "x": 213015.0,
+      "y": -186910.0,
+      "z": 20425.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk73": {
+      "x": 237167.0,
+      "y": -273298.0,
+      "z": 16501.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk73_15": {
+      "x": 228315.0,
+      "y": 139843.0,
+      "z": 3658.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk73_UAID_04421A9713F03A5B01_1974981481": {
+      "x": 212843.0,
+      "y": -144939.0,
+      "z": 16431.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk73_UAID_04421A9713F0B65201_1605781812": {
+      "x": 151123.0,
+      "y": -135011.0,
+      "z": 21699.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk74": {
+      "x": 162130.0,
+      "y": 69133.0,
+      "z": 14664.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk75": {
+      "x": 177248.0,
+      "y": 98029.0,
+      "z": 7139.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk76": {
+      "x": 176778.0,
+      "y": 92114.0,
+      "z": 11410.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk77_1": {
+      "x": 121240.0,
+      "y": -143071.0,
+      "z": 10707.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk79_8": {
+      "x": 232149.0,
+      "y": 134644.0,
+      "z": -8415.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk8": {
+      "x": -18590.693359375,
+      "y": -229429.359375,
+      "z": 4295.728515625
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk85": {
+      "x": 177695.0,
+      "y": 68263.0,
+      "z": 19688.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk86": {
+      "x": 157461.0,
+      "y": 71204.0,
+      "z": 17878.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk87": {
+      "x": 155407.0,
+      "y": 101946.0,
+      "z": 8236.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk89": {
+      "x": 194244.0,
+      "y": 110754.0,
+      "z": 15475.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk8_UAID_40B076DF2F79915F01_1298320049": {
+      "x": -13820.693359375,
+      "y": -187407.359375,
+      "z": -727.271240234375
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk90": {
+      "x": 162677.0,
+      "y": 131663.0,
+      "z": 12843.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk91": {
+      "x": 151141.0,
+      "y": 140691.0,
+      "z": 13255.0
+    },
+    "Persistent_Level:PersistentLevel.BP_Crystal_mk92": {
+      "x": 200497.0,
+      "y": 107571.0,
+      "z": 8178.0
+    }
+  }
+}

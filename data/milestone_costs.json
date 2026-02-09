@@ -1,0 +1,264 @@
+{
+    "HUB Upgrade 1": {
+        "Iron Rod": 10
+    },
+    "HUB Upgrade 2": {
+        "Iron Rod": 20,
+        "Iron Plate": 10
+    },
+    "HUB Upgrade 3": {
+        "Iron Plate": 20,
+        "Iron Rod": 20,
+        "Wire": 20
+    },
+    "HUB Upgrade 4": {
+        "Iron Plate": 75,
+        "Cable": 20,
+        "Concrete": 10
+    },
+    "HUB Upgrade 5": {
+        "Iron Rod": 75,
+        "Cable": 50,
+        "Concrete": 20
+    },
+    "HUB Upgrade 6": {
+        "Iron Rod": 100,
+        "Iron Plate": 100,
+        "Wire": 100,
+        "Concrete": 50
+    },
+    "Base Building": {
+        "Concrete": 200,
+        "Iron Plate": 100,
+        "Iron Rod": 100
+    },
+    "Logistics": {
+        "Iron Plate": 150,
+        "Iron Rod": 150,
+        "Wire": 300
+    },
+    "Field Research": {
+        "Wire": 300,
+        "Screw": 300,
+        "Iron Plate": 100
+    },
+    "Part Assembly": {
+        "Cable": 200,
+        "Iron Rod": 200,
+        "Screw": 500,
+        "Iron Plate": 300
+    },
+    "Obstacle Clearing": {
+        "Screw": 500,
+        "Cable": 100,
+        "Concrete": 100
+    },
+    "Jump Pads": {
+        "Rotor": 50,
+        "Iron Plate": 300,
+        "Cable": 150
+    },
+    "Resource Sink Bonus Program": {
+        "Concrete": 400,
+        "Wire": 500,
+        "Iron Rod": 200,
+        "Iron Plate": 200
+    },
+    "Logistics Mk.2": {
+        "Reinforced Iron Plate": 50,
+        "Concrete": 200,
+        "Iron Rod": 300,
+        "Iron Plate": 300
+    },
+    "Coal Power": {
+        "Reinforced Iron Plate": 150,
+        "Rotor": 50,
+        "Cable": 500
+    },
+    "Vehicular Transport": {
+        "Modular Frame": 25,
+        "Rotor": 100,
+        "Cable": 200,
+        "Iron Rod": 400
+    },
+    "Basic Steel Production": {
+        "Modular Frame": 50,
+        "Rotor": 150,
+        "Concrete": 500,
+        "Wire": 1000
+    },
+    "Enhanced Asset Security": {
+        "Reinforced Iron Plate": 100,
+        "Iron Rod": 600,
+        "Wire": 1500
+    },
+    "FICSIT Blueprints": {
+        "Modular Frame": 100,
+        "Steel Beam": 200,
+        "Cable": 500,
+        "Concrete": 1000
+    },
+    "Logistics Mk.3": {
+        "Steel Beam": 200,
+        "Steel Pipe": 200,
+        "Reinforced Iron Plate": 400
+    },
+    "Advanced Steel Production": {
+        "Steel Pipe": 100,
+        "Modular Frame": 100,
+        "Rotor": 200,
+        "Concrete": 500
+    },
+    "Expanded Power Infrastructure": {
+        "Encased Industrial Beam": 50,
+        "Steel Beam": 100,
+        "Modular Frame": 200,
+        "Wire": 2000
+    },
+    "Hypertubes": {
+        "Encased Industrial Beam": 50,
+        "Steel Pipe": 300,
+        "Copper Sheet": 500
+    },
+    "Jetpack": {
+        "Motor": 50,
+        "Cable": 1000,
+        "Iron Plate": 1000
+    },
+    "Oil Processing": {
+        "Motor": 50,
+        "Encased Industrial Beam": 100,
+        "Steel Pipe": 500,
+        "Copper Sheet": 500
+    },
+    "Logistics Mk.4": {
+        "Rubber": 200,
+        "Encased Industrial Beam": 300,
+        "Modular Frame": 400
+    },
+    "Fluid Packaging": {
+        "Plastic": 200,
+        "Steel Beam": 400,
+        "Copper Sheet": 1000
+    },
+    "Petroleum Power": {
+        "Motor": 100,
+        "Encased Industrial Beam": 100,
+        "Rubber": 200,
+        "Plastic": 200
+    },
+    "Industrial Manufacturing": {
+        "Motor": 200,
+        "Modular Frame": 200,
+        "Plastic": 400,
+        "Cable": 1000
+    },
+    "Monorail Train Technology": {
+        "Motor": 250,
+        "Encased Industrial Beam": 500,
+        "Steel Beam": 100,
+        "Steel Pipe": 1000
+    },
+    "Railway Signaling": {
+        "Computer": 50,
+        "Steel Pipe": 400,
+        "Copper Sheet": 1000
+    },
+    "Pipeline Engineering Mk.2": {
+        "Heavy Modular Frame": 50,
+        "Plastic": 500,
+        "Rubber": 500
+    },
+    "FICSIT Blueprints Mk.2": {
+        "Heavy Modular Frame": 100,
+        "Computer": 200,
+        "Rubber": 400,
+        "Concrete": 1500
+    },
+    "Bauxite Refinement": {
+        "Computer": 100,
+        "Heavy Modular Frame": 100,
+        "Motor": 200,
+        "Rubber": 500
+    },
+    "Hover Pack": {
+        "Alclad Aluminum Sheet": 100,
+        "Heavy Modular Frame": 100,
+        "Computer": 100,
+        "Motor": 250
+    },
+    "Logistics Mk.5": {
+        "Alclad Aluminum Sheet": 200,
+        "Encased Industrial Beam": 400,
+        "Reinforced Iron Plate": 600
+    },
+    "Hazmat Suit": {
+        "Gas Filter": 50,
+        "Aluminum Casing": 100,
+        "Quickwire": 500
+    },
+    "Control System Development": {
+        "Alclad Aluminum Sheet": 200,
+        "Aluminum Casing": 400,
+        "Computer": 200,
+        "Plastic": 1000
+    },
+    "Aeronautical Engineering": {
+        "Radio Control Unit": 50,
+        "Alclad Aluminum Sheet": 100,
+        "Aluminum Casing": 200,
+        "Motor": 300
+    },
+    "Nuclear Power": {
+        "Supercomputer": 50,
+        "Heavy Modular Frame": 200,
+        "Cable": 1000,
+        "Concrete": 2000
+    },
+    "Advanced Aluminum Production": {
+        "Radio Control Unit": 50,
+        "Aluminum Casing": 200,
+        "Alclad Aluminum Sheet": 400,
+        "Wire": 3000
+    },
+    "Leading-edge Production": {
+        "Fused Modular Frame": 50,
+        "Supercomputer": 100,
+        "Steel Pipe": 1000
+    },
+    "Particle Enrichment": {
+        "Turbo Motor": 50,
+        "Fused Modular Frame": 100,
+        "Cooling System": 200,
+        "Quickwire": 2500
+    },
+    "Matter Conversion": {
+        "Fused Modular Frame": 100,
+        "Radio Control Unit": 250,
+        "Cooling System": 500
+    },
+    "Quantum Encoding": {
+        "Time Crystal": 50,
+        "Ficsite Trigon": 100,
+        "Turbo Motor": 200,
+        "Supercomputer": 400
+    },
+    "Ficsit Blueprints Mk.3": {
+        "Neural-Quantum Processor": 100,
+        "Time Crystal": 250,
+        "Ficsite Trigon": 500,
+        "Fused Modular Frame": 500
+    },
+    "Spatial Energy Regulation": {
+        "Superposition Oscillator": 100,
+        "Turbo Motor": 250,
+        "Radio Control Unit": 500,
+        "SAM Fluctuator": 1000
+    },
+    "Peak Efficiency": {
+        "Time Crystal": 250,
+        "Ficsite Trigon": 250,
+        "Alclad Aluminum Sheet": 5000,
+        "Iron Plate": 10000
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "/Game/FactoryGame/GamePhases/GP_Project_Assembly_Phase_1.GP_Project_Assembly_Phase_1": {
+    "Smart Plating": 50
+  },
+  "/Game/FactoryGame/GamePhases/GP_Project_Assembly_Phase_2.GP_Project_Assembly_Phase_2": {
+    "Smart Plating": 1000,
+    "Versatile Framework": 1000,
+    "Automated Wiring": 100
+  },
+  "/Game/FactoryGame/GamePhases/GP_Project_Assembly_Phase_3.GP_Project_Assembly_Phase_3": {
+    "Versatile Framework": 2500,
+    "Modular Engine": 500,
+    "Adaptive Control Unit": 100
+  },
+  "/Game/FactoryGame/GamePhases/GP_Project_Assembly_Phase_4.GP_Project_Assembly_Phase_4": {
+    "Assembly Director System": 500,
+    "Magnetic Field Generator": 500,
+    "Nuclear Pasta": 100,
+    "Thermal Propulsion Rocket": 250
+  },
+  "/Game/FactoryGame/GamePhases/GP_Project_Assembly_Phase_5.GP_Project_Assembly_Phase_5": {
+    "Nuclear Pasta": 1000,
+    "Biochemical Sculptor": 1000,
+    "AI Expansion Server": 256,
+    "Ballistic Warp Drive": 200
+  }
+}
