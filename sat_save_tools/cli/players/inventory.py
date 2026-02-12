@@ -4,10 +4,11 @@ import typing
 
 import rich
 import rich.table
+from argcomplete.completers import FilesCompleter
 
 from sat_save_tools import SatisfactorySaveFile
 from sat_save_tools.actions.players import get_player_list, get_player_nickname
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager, add_input_file_action, add_output_file_action, set_completer
 
 if typing.TYPE_CHECKING:
     import argparse
@@ -22,8 +23,8 @@ if typing.TYPE_CHECKING:
 __all__ = ("setup",)
 
 
-def show_player_inventory(filename: pathlib.Path, player_id: str) -> None:
-    file = SatisfactorySaveFile.load_from_json(filename)
+def show_player_inventory(save_path: pathlib.Path, player_id: str) -> None:
+    file = SatisfactorySaveFile.load_from_json(save_path)
     players = get_player_list(file)
 
     player = next((it for it in players if it.header.instance_name == player_id), None)
@@ -61,12 +62,12 @@ def show_player_inventory(filename: pathlib.Path, player_id: str) -> None:
 
 
 def export_player_inventory(
-    filename: pathlib.Path,
+    save_path: pathlib.Path,
     player_id: str,
     output: pathlib.Path | None = None,
 ) -> None:
-    file = SatisfactorySaveFile.load_from_json(filename)
-    output = output or filename.parent.with_suffix(f".{player_id}_inventory.json")
+    file = SatisfactorySaveFile.load_from_json(save_path)
+    output = output or save_path.parent.with_suffix(f".{player_id}_inventory.json")
     players = get_player_list(file)
 
     player = next((it for it in players if it.header.instance_name == player_id), None)
@@ -90,23 +91,49 @@ def export_player_inventory(
     AnswerManager.success(f"export inventory for player {player_nickname}", f"exported to {output}")
 
 
+def import_player_inventory(
+    save_path: pathlib.Path,
+    inventory_path: pathlib.Path,  # noqa: ARG001
+    player_id: str,  # noqa: ARG001
+    output: pathlib.Path | None = None,
+) -> None:
+    file = SatisfactorySaveFile.load_from_json(save_path)
+    output = output or save_path
+
+    file.save_to_file(output)
+    AnswerManager.success("import inventory", f"File saved to {output}")
+
+
 def setup(subparsers: "argparse._SubParsersAction[argparse.ArgumentParser]"):
     inventory_parser = subparsers.add_parser("inventory", help="Player inventories commands")
     inventory_subparsers = inventory_parser.add_subparsers(required=True)
 
     show_inventory_parser = inventory_subparsers.add_parser("show", help="Show player inventory")
-    show_inventory_parser.add_argument("filename", type=pathlib.Path, help="Path to the JSON file")
+    add_input_file_action(show_inventory_parser)
     show_inventory_parser.add_argument("--player-id", type=str, help="Player ID to show inventory for", required=True)
     show_inventory_parser.set_defaults(func=show_player_inventory)
 
     export_inventory_parser = inventory_subparsers.add_parser("export", help="Export player inventory")
-    export_inventory_parser.add_argument("filename", type=pathlib.Path, help="Path to the JSON file")
+    add_input_file_action(export_inventory_parser)
     export_inventory_parser.add_argument("--player-id", type=str, help="Player ID to export inventory", required=True)
-    export_inventory_parser.add_argument(
-        "--output",
-        "-o",
-        type=pathlib.Path,
-        help="Player ID to export inventory",
-        required=False,
+    set_completer(
+        export_inventory_parser.add_argument(
+            "--output",
+            "-o",
+            type=pathlib.Path,
+            help="Output file",
+            required=False,
+        ),
+        FilesCompleter([".json"], directories=False),
     )
     export_inventory_parser.set_defaults(func=export_player_inventory)
+
+    import_inventory_parser = inventory_subparsers.add_parser("import", help="Import player inventory")
+    add_input_file_action(import_inventory_parser)
+    set_completer(
+        import_inventory_parser.add_argument("--inventory-path", "-i", type=pathlib.Path, help="Path to the JSON file"),
+        FilesCompleter([".json"], directories=False),
+    )
+    import_inventory_parser.add_argument("--player-id", type=str, help="Player ID to import inventory", required=True)
+    add_output_file_action(import_inventory_parser)
+    import_inventory_parser.set_defaults(func=import_player_inventory)

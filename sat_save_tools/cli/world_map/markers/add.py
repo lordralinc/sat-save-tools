@@ -24,7 +24,7 @@ from sat_save_tools import (
     StructProperty,
     StructTypeName,
 )
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager
 from sat_save_tools.const import MAP_MARKERS_LIMIT
 from sat_save_tools.models.properties.typed_data import UUIDGUID
 from sat_save_tools.utils import require

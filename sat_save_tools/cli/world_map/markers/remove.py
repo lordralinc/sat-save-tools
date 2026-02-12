@@ -8,7 +8,7 @@ from sat_save_tools import (
     PropertyList,
     SatisfactorySaveFile,
 )
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager
 from sat_save_tools.models.properties.typed_data import UUIDGUID
 
 if typing.TYPE_CHECKING:

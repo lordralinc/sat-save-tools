@@ -1,8 +1,12 @@
+#!/usr/bin/env python
+# PYTHON_ARGCOMPLETE_OK
+
 import argparse
 import logging
 import pathlib
 import sys
 
+import argcomplete
 from rich.logging import RichHandler
 from rich_argparse import RichHelpFormatter
 
@@ -14,7 +18,8 @@ from .logger import ContextFilter
 RICH_FORMAT = "%(name)s %(context)s - %(message)s"
 
 parser = argparse.ArgumentParser(
-    description="Save file CLI",
+    prog="sst",
+    description="Satisfactory save tools CLI",
     formatter_class=(RichHelpFormatter if "gen-cli-docs" not in sys.argv else argparse.HelpFormatter),
 )
 parser.add_argument("--log-level", type=str, default="INFO", help="Set log level")
@@ -29,6 +34,9 @@ parser.add_argument(
 subparsers = parser.add_subparsers(required=True)
 cli.setup(subparsers)
 cli.generate_markdown.setup(subparsers, parser)
+
+
+argcomplete.autocomplete(parser)
 
 
 def main():

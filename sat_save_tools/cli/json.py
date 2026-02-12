@@ -5,17 +5,19 @@ import rich
 import rich.panel
 
 from sat_save_tools import SatisfactorySaveFile
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager, add_input_file_action, add_output_file_action
+
+__all__ = ("setup",)
 
 
-def to_json_command(filename: pathlib.Path, output: pathlib.Path | None = None) -> None:
-    if not filename.exists():
-        AnswerManager.error("SAV2JSON Result", f"File {filename} does not exist")
+def to_json_command(save_path: pathlib.Path, output: pathlib.Path | None = None) -> None:
+    if not save_path.exists():
+        AnswerManager.error("SAV2JSON Result", f"File {save_path} does not exist")
         return
 
-    output = output or filename.with_suffix(".json")
+    output = output or save_path.with_suffix(".json")
 
-    save_content = SatisfactorySaveFile.load_from_file(filename)
+    save_content = SatisfactorySaveFile.load_from_file(save_path)
     save_content.save_to_json(output)
     AnswerManager.success(
         "SAV2JSON result",
@@ -27,12 +29,12 @@ def to_json_command(filename: pathlib.Path, output: pathlib.Path | None = None) 
     )
 
 
-def from_json_command(filename: pathlib.Path, output: pathlib.Path | None = None) -> None:
-    if not filename.exists():
-        AnswerManager.error("JSON2SAV Result", f"File {filename} does not exist")
+def from_json_command(save_path: pathlib.Path, output: pathlib.Path | None = None) -> None:
+    if not save_path.exists():
+        AnswerManager.error("JSON2SAV Result", f"File {save_path} does not exist")
         return
-    output = output or filename.with_suffix(".sav")
-    save_content = SatisfactorySaveFile.load_from_file(filename)
+    output = output or save_path.with_suffix(".sav")
+    save_content = SatisfactorySaveFile.load_from_file(save_path)
     save_content.save_to_sav(output)
     AnswerManager.success(
         "JSON2SAV Result",
@@ -48,24 +50,11 @@ def setup(
     subparsers: _SubParsersAction[ArgumentParser],
 ):
     parser_to_json = subparsers.add_parser("to-json", help="Save to JSON")
-    parser_to_json.add_argument("filename", type=pathlib.Path, help="Path to the save file")
-    parser_to_json.add_argument(
-        "--output",
-        "-o",
-        type=pathlib.Path,
-        required=False,
-        help="Path to output JSON file; if not set, saved in {input}.json",
-    )
+    add_input_file_action(parser_to_json)
+    add_output_file_action(parser_to_json)
     parser_to_json.set_defaults(func=to_json_command)
 
     parser_from_json = subparsers.add_parser("from-json", help="Save to sav")
-    parser_from_json.add_argument("filename", type=pathlib.Path, help="Path to the JSON file")
-    parser_from_json.add_argument(
-        "--output",
-        "-o",
-        type=pathlib.Path,
-        required=False,
-        help="Path to output sav file; if not set, saved in {input}.sav",
-    )
-
+    add_input_file_action(parser_from_json)
+    add_output_file_action(parser_from_json)
     parser_from_json.set_defaults(func=from_json_command)

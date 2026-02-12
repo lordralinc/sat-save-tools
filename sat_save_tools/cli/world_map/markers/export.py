@@ -3,7 +3,7 @@ import pathlib
 import typing
 
 from sat_save_tools import SatisfactorySaveFile
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager
 
 if typing.TYPE_CHECKING:
     import argparse

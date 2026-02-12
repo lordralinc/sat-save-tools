@@ -5,18 +5,20 @@ import rich
 from rich.table import Table
 
 from sat_save_tools import Deserializer, SaveFileHeader
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager, add_input_file_action
 from sat_save_tools.utils import b64_bytes
+
+__all__ = ("setup",)
 
 console = rich.console.Console()
 
 
-def info_command(filename: pathlib.Path, json: bool = False, plain: bool = False) -> None:
-    if not filename.exists():
-        AnswerManager.error("Info", f"File {filename} does not exist")
+def info_command(save_path: pathlib.Path, json: bool = False, plain: bool = False) -> None:
+    if not save_path.exists():
+        AnswerManager.error("Info", f"File {save_path} does not exist")
         return
 
-    file = filename.read_bytes()
+    file = save_path.read_bytes()
     des = Deserializer(file)
 
     file_info = des.get(SaveFileHeader)
@@ -24,7 +26,7 @@ def info_command(filename: pathlib.Path, json: bool = False, plain: bool = False
         (print if plain else console.print)(file_info.model_dump_json(indent=2 if not plain else None))
         return
 
-    table = Table(title=f"Save file info: {filename.name}", show_lines=True)
+    table = Table(title=f"Save file info: {save_path.name}", show_lines=True)
 
     table.add_column("Field", style="bold cyan")
     table.add_column("Value", style="magenta", no_wrap=False, overflow="fold")
@@ -73,7 +75,7 @@ def info_command(filename: pathlib.Path, json: bool = False, plain: bool = False
 
 def setup(subparsers: _SubParsersAction[ArgumentParser]):
     parser = subparsers.add_parser("info", help="Show save info")
-    parser.add_argument("filename", type=pathlib.Path, help="Path to the save file")
+    add_input_file_action(parser)
     parser.add_argument("--json", "-j", action="store_true", help="Show as JSON")
     parser.add_argument(
         "--plain",

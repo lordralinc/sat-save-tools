@@ -5,6 +5,7 @@ from argparse import ArgumentParser, _SubParsersAction
 import rich
 import rich.panel
 
+from sat_save_tools.cli.info import add_input_file_action
 from sat_save_tools.satisfactory_save import SatisfactorySaveFile
 
 if typing.TYPE_CHECKING:
@@ -51,7 +52,7 @@ def setup(
         return
     else:
         parser = subparsers.add_parser("html", help="Generate HTML")
-        parser.add_argument("filename", type=pathlib.Path, help="Path to the save file")
+        add_input_file_action(parser)
         parser.add_argument(
             "--output",
             "-o",

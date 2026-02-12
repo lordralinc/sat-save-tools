@@ -2,10 +2,10 @@ import pathlib
 from argparse import ArgumentParser, _SubParsersAction
 
 import rich
-import rich.panel
+from argcomplete.completers import DirectoriesCompleter
 from rich.text import Text
 
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager, set_completer
 from sat_save_tools.data import ConstDataView
 
 console = rich.console.Console()
@@ -27,5 +27,12 @@ def setup(
     subparsers: _SubParsersAction[ArgumentParser],
 ):
     parser = subparsers.add_parser("export-consts-data", help="Save JSON consts data to folder")
-    parser.add_argument("foldername", type=pathlib.Path, help="Path to the save file")
+    set_completer(
+        parser.add_argument(
+            "foldername",
+            type=pathlib.Path,
+            help="Path to the save folder",
+        ),
+        DirectoriesCompleter(),
+    )
     parser.set_defaults(func=export_consts_data_command)

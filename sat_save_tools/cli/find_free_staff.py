@@ -1,15 +1,16 @@
 import pathlib
 from argparse import ArgumentParser, _SubParsersAction
 
+from argcomplete.completers import FilesCompleter
 from rich.table import Table
 
 from sat_save_tools import ConstDataView, DoubleVector3, SatisfactorySaveFile
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager, set_completer
 
 __all__ = ("setup",)
 
 
-def find_free_staff_command(filename: pathlib.Path | None, item: str | None = None) -> None:
+def find_free_staff_command(save_path: pathlib.Path | None, item: str | None = None) -> None:
     data_view = ConstDataView()
     if not item:
         table = Table(show_lines=True)
@@ -33,8 +34,8 @@ def find_free_staff_command(filename: pathlib.Path | None, item: str | None = No
     if not dropped_instances:
         AnswerManager.error("Free dropped items", f"No free {item} found")
         return
-    if filename is not None:
-        save = SatisfactorySaveFile.load_from_file(filename)
+    if save_path is not None:
+        save = SatisfactorySaveFile.load_from_file(save_path)
 
         collected = set()
         for level in save.body.levels:
@@ -70,12 +71,15 @@ def setup(subparsers: _SubParsersAction[ArgumentParser]):
             "If --item is provided, shows detailed locations of that item."
         ),
     )
-    parser.add_argument(
-        "--filename",
-        "-f",
-        type=pathlib.Path,
-        help="Path to the save file",
-        required=False,
+    set_completer(
+        parser.add_argument(
+            "--save_path",
+            "-s",
+            type=pathlib.Path,
+            help="Path to the save file",
+            required=False,
+        ),
+        FilesCompleter([".sav", ".json"], directories=False),
     )
     parser.add_argument("--item", "-i", type=str, required=False)
     parser.set_defaults(func=find_free_staff_command)

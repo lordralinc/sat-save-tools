@@ -260,6 +260,14 @@ class ClientIdentityInfoIdentity(pydantic.BaseModel):
     variant: ClientIdentityInfoIdentityVariant
     payload: pydantic.Base64Bytes
 
+    @property
+    def hex(self) -> str:
+        variant_byte = int(self.variant).to_bytes(1, "big")
+        payload_bytes = bytes(self.payload)
+
+        data = variant_byte + payload_bytes
+        return data.hex().upper()
+
     def __serialize__(self, ser: "Serializer") -> None:
         ser.add_struct(Object(self.variant) | Raw.with_len(self.payload))
 

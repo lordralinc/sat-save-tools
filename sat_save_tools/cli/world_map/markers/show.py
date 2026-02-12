@@ -10,7 +10,7 @@ from sat_save_tools import (
     PropertyList,
     SatisfactorySaveFile,
 )
-from sat_save_tools.cli.answers import AnswerManager
+from sat_save_tools.cli.utils import AnswerManager
 from sat_save_tools.models.properties.base import BaseProperty
 from sat_save_tools.models.properties.typed_data import UUIDGUID
 

@@ -3,6 +3,10 @@ import pathlib
 import re
 from functools import partial
 
+from argcomplete.completers import FilesCompleter
+
+from sat_save_tools.cli.utils import set_completer
+
 CLI_HEADER = "## Command-Line Interface (CLI)"
 LIB_HEADER = "## Using as a Library"
 ANSI_ESCAPE = re.compile(r"\x1B\[[0-?]*[ -/]*[@-~]")
@@ -73,7 +77,7 @@ def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "")
         lines.append("### Subcommands")
         for sub_name, subparser in subparsers_action.choices.items():
             if parent_cmd != "":
-                lines.append(f"#### `{cmd_name.replace('python.exe -m sat_save_tools ', '')} {sub_name}`")
+                lines.append(f"#### `{cmd_name.replace('sst ', '')} {sub_name}`")
             else:
                 lines.append(f"#### `{sub_name}`")
             sub_md = generate_cli_markdown(subparser, parent_cmd=f"{cmd_name} {sub_name}")
@@ -81,8 +85,8 @@ def generate_cli_markdown(parser: argparse.ArgumentParser, parent_cmd: str = "")
             lines.append("")
     if parent_cmd == "":
         toc = generate_toc(parser)
-        return "\n".join(toc) + "\n\n" + "\n".join(lines).rstrip().replace("python.exe ", "python ")
-    return "\n".join(lines).rstrip().replace("python.exe ", "python ")
+        return "\n".join(toc) + "\n\n" + "\n".join(lines).rstrip()
+    return "\n".join(lines).rstrip()
 
 
 def cmd_gen_cli_docs(readme: pathlib.Path, parser: argparse.ArgumentParser) -> None:
@@ -109,10 +113,13 @@ def setup(
         "gen-cli-docs",
         help="Generate CLI documentation section in README.md",
     )
-    parser.add_argument(
-        "--readme",
-        type=pathlib.Path,
-        default=pathlib.Path("README.md"),
-        help="Path to README.md",
+    set_completer(
+        parser.add_argument(
+            "--readme",
+            type=pathlib.Path,
+            default=pathlib.Path("README.md"),
+            help="Path to README.md",
+        ),
+        FilesCompleter([".md"], directories=False),
     )
     parser.set_defaults(func=partial(cmd_gen_cli_docs, parser=main_parser))

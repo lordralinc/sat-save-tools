@@ -13,6 +13,21 @@ files = [
 ]
 
 [[package]]
+name = "argcomplete"
+version = "3.6.3"
+description = "Bash tab completion for argparse"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "argcomplete-3.6.3-py3-none-any.whl", hash = "sha256:f5007b3a600ccac5d25bbce33089211dfd49eab4a7718da3f10e3082525a92ce"},
+    {file = "argcomplete-3.6.3.tar.gz", hash = "sha256:62e8ed4fd6a45864acc8235409461b72c9a28ee785a2011cc5eb78318786c89c"},
+]
+
+[package.extras]
+test = ["coverage", "mypy", "pexpect", "ruff", "wheel"]
+
+[[package]]
 name = "black"
 version = "25.12.0"
 description = "The uncompromising code formatter."
@@ -833,4 +848,4 @@ html = ["jinja2"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "6ccefb7e5ff83b3d7112565315c33408f437255facc895b73744eab7d20c4151"
+content-hash = "87afaa24295dd454f51c273ce6ef1550bde7d2ae55a8c5976c70524091ad49cb"
