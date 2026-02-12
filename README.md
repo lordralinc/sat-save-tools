@@ -124,11 +124,11 @@ usage: sst set-session-name [-h] [--output OUTPUT] save_path session-name
 
 #### `html`
 ```bash
-usage: sst html [-h] [--output OUTPUT] filename
+usage: sst html [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
-- `filename`: Path to the save file
+- `save_path`: Path to the input save file
 - `--output, -o`: Path to output JSON file; if not set, saved in {input}.html
 
 #### `players`
@@ -203,8 +203,9 @@ usage: sst map markers show [-h] filename
 
 #### `map markers add`
 ```bash
-Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID] [--somersloops]
-                           [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE] [--hd-icon-id HD_ICON_ID]
+Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID]
+                           [--somersloops] [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME]
+                           [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE] [--hd-icon-id HD_ICON_ID]
                            filename
 ```
 
