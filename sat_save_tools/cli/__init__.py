@@ -9,6 +9,7 @@ from . import (
     json,
     players,
     set_session_name,
+    somersloops,
     world_map,
 )
 
@@ -28,6 +29,7 @@ def setup(subparsers: "argparse._SubParsersAction[argparse.ArgumentParser]"):
     export_consts_data.setup(subparsers)
     set_session_name.setup(subparsers)
     html.setup(subparsers)
+    somersloops.setup(subparsers)
     players.setup(subparsers)
     world_map.setup(subparsers)
     find_free_staff.setup(subparsers)

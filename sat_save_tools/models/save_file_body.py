@@ -29,6 +29,10 @@ class SaveFileBody(pydantic.BaseModel):
     levels: list["Level"]
     persistent_level: "Level"
 
+    @property
+    def full_levels(self) -> "list[Level]":
+        return [*self.levels, self.persistent_level]
+
     def __serialize__(self, ser: "Serializer") -> None:
         header: "SaveFileHeader" = ser.ctx_get("header")
         ns = ser.new()

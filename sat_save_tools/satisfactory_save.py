@@ -36,6 +36,8 @@ class SatisfactorySaveFile(pydantic.BaseModel):
     maximum_chunk_size: int
     unknown: int
 
+
+
     def __serialize__(self, ser: "Serializer") -> None:
         ser.add(self.header)
 

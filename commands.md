@@ -58,7 +58,7 @@
 | Command                 | Args                                                                               | Description                                  | CHECK |
 | ----------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------- | ----- |
 | `--restore-somersloops` | `<original-save-filename> <new-save-filename> [--same-time]`                       | Restore all Somersloops to uncollected state | [ ]   |
-| `--export-somersloops`  | `<save-filename> <output-json-filename>`                                           | Export Somersloops data to JSON              | [ ]   |
+| `--export-somersloops`  | `<save-filename> <output-json-filename>`                                           | Export Somersloops data to JSON              | [x]   |
 | `--import-somersloops`  | `<original-save-filename> <input-json-filename> <new-save-filename> [--same-time]` | Import Somersloops data from JSON            | [ ]   |
 
 ## Mercer spheres
