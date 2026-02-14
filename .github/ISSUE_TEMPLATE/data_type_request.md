@@ -3,7 +3,7 @@ name: New data type support
 about: Request support for a new type of data in saves
 title: "[DATA TYPE]"
 labels: enhancement, data
-assignees: ''
+assignees: ""
 ---
 
 **Data type**

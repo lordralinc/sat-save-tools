@@ -1,6 +1,5 @@
 # Satisfactory Save Tools
 
-
 [![PyPI version](https://badge.fury.io/py/sat-save-tools.svg)](https://pypi.org/project/sat-save-tools/)
 [![Python versions](https://img.shields.io/pypi/pyversions/sat-save-tools)](https://pypi.org/project/sat-save-tools/)
 [![PyPI status](https://img.shields.io/pypi/status/sat-save-tools)](https://pypi.org/project/sat-save-tools/)
@@ -73,173 +72,228 @@ The library behavior can be controlled via environment variables:
 - [`gen-cli-docs`](#gen-cli-docs)
 
 ```bash
-usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,make-objects-tree,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
+usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging]
+           [--data-folder DATA_FOLDER]
+           {info,to-json,from-json,make-objects-tree,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
 ```
 
 **Arguments:**
+
 - `--log-level`: Set log level [default: INFO]
 - `--disable-logging`: Disable logging
 - `--data-folder`: Path to static JSON data
 
 ### Subcommands
+
 #### `info`
+
 ```bash
 usage: sst info [-h] [--json] [--plain] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--json, -j`: Show as JSON
 - `--plain, -p`: Disable indent and colors for JSON output
 
 #### `to-json`
+
 ```bash
 usage: sst to-json [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to the output save file
 
 #### `from-json`
+
 ```bash
 usage: sst from-json [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to the output save file
 
 #### `make-objects-tree`
+
 ```bash
 usage: sst make-objects-tree [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to the output file
 
 #### `export-consts-data`
+
 ```bash
 usage: sst export-consts-data [-h] foldername
 ```
 
 **Arguments:**
+
 - `foldername`: Path to the save folder
 
 #### `set-session-name`
+
 ```bash
 usage: sst set-session-name [-h] [--output OUTPUT] save_path session-name
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `session-name`: Session name
 - `--output, -o`: Path to the output save file
 
 #### `html`
+
 ```bash
 usage: sst html [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to output JSON file; if not set, saved in {input}.html
 
 #### `somersloops`
+
 ```bash
 usage: sst somersloops [-h] {export} ...
 ```
 
 ### Subcommands
+
 #### `somersloops export`
+
 ```bash
 usage: sst somersloops export [-h] [--output OUTPUT] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to the output JSON file
 
 #### `players`
+
 ```bash
 usage: sst players [-h] {list,inventory} ...
 ```
 
 ### Subcommands
+
 #### `players list`
+
 ```bash
 usage: sst players list [-h] save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 
 #### `players inventory`
+
 ```bash
 usage: sst players inventory [-h] {show,export,import} ...
 ```
 
 ### Subcommands
+
 #### `players inventory show`
+
 ```bash
 usage: sst players inventory show [-h] --player-id PLAYER_ID save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--player-id`: Player ID to show inventory for (required)
 
 #### `players inventory export`
+
 ```bash
-usage: sst players inventory export [-h] --player-id PLAYER_ID [--output OUTPUT] save_path
+usage: sst players inventory export [-h] --player-id PLAYER_ID
+                                    [--output OUTPUT]
+                                    save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--player-id`: Player ID to export inventory (required)
 - `--output, -o`: Output file
 
 #### `players inventory import`
+
 ```bash
-usage: sst players inventory import [-h] [--inventory-path INVENTORY_PATH] --player-id PLAYER_ID [--output OUTPUT] save_path
+usage: sst players inventory import [-h] [--inventory-path INVENTORY_PATH]
+                                    --player-id PLAYER_ID [--output OUTPUT]
+                                    save_path
 ```
 
 **Arguments:**
+
 - `save_path`: Path to the input save file
 - `--inventory-path, -i`: Path to the JSON file
 - `--player-id`: Player ID to import inventory (required)
 - `--output, -o`: Path to the output save file
 
 #### `map`
+
 ```bash
 usage: sst map [-h] {markers} ...
 ```
 
 ### Subcommands
+
 #### `map markers`
+
 ```bash
 usage: sst map markers [-h] {show,add,export,remove} ...
 ```
 
 ### Subcommands
+
 #### `map markers show`
+
 ```bash
 usage: sst map markers show [-h] filename
 ```
 
 **Arguments:**
+
 - `filename`: Path to the save file or JSON file to show map markers from
 
 #### `map markers add`
+
 ```bash
-Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID] [--somersloops]
-                           [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE]
+Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids]
+                           [--account-id ACCOUNT_ID] [--skip-len-check]
+                           [--src SRC] [--mode {add,replace,merge}] [--ms]
+                           [--ms-name MS_NAME]
+                           [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE]
+                           [--ms-icon-id MS_ICON_ID] [--somersloops]
+                           [--somersloops-name SOMERSLOOPS_NAME]
+                           [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE]
+                           [--somersloops-icon-id SOMERSLOOPS_ICON_ID]
+                           [--hard-drives] [--hd-name HD_NAME]
+                           [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE]
                            [--hd-icon-id HD_ICON_ID]
                            filename
 ```
 
 **Arguments:**
+
 - `filename`: Save file path
 - `--output, -o`: Output save file path (required)
 - `--recreate-ids`: Recreate marker IDs
@@ -261,39 +315,47 @@ Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id A
 - `--hd-icon-id`: Icon ID for Hard Drives. See icon_ids.json. [default: 652]
 
 #### `map markers export`
+
 ```bash
 usage: sst map markers export [-h] [-o OUTPUT] filename
 ```
 
 **Arguments:**
+
 - `filename`: Path to the save file to export map markers from
 - `-o, --output`: Path to output the exported map markers to (defaults: {filename}.map_markers.json)
 
 #### `map markers remove`
+
 ```bash
 usage: sst map markers remove [-h] [-o OUTPUT] [--id MARKER_IDS] filename
 ```
 
 **Arguments:**
+
 - `filename`: Path to the save file
 - `-o, --output`: Path to output
 - `--id, -i`: Marker IDs [default: []]
 
 #### `find-free-stuff`
+
 ```bash
 usage: sst find-free-stuff [-h] [--save_path SAVE_PATH] [--item ITEM]
 ```
 
 **Arguments:**
+
 - `--save_path, -s`: Path to the save file
 - `--item, -i`:
 
 #### `gen-cli-docs`
+
 ```bash
 usage: sst gen-cli-docs [-h] [--readme README]
 ```
 
 **Arguments:**
+
 - `--readme`: Path to README.md [default: README.md]
 
 ## Using as a Library

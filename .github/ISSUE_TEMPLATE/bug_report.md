@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug
 title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
 **Describe the bug**
@@ -11,6 +11,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. ...
 2. ...
 3. ...
@@ -26,6 +27,7 @@ Please attach a save file if relevant to help reproduce the bug.
 Add any relevant logs or screenshots.
 
 **Environment (please complete the following):**
+
 - OS: [e.g., Windows, Linux]
 - Python version: [e.g., 3.13]
 - Package version: [commit hash or tag]
