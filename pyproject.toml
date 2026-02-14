@@ -1,6 +1,6 @@
 [project]
 name = "sat-save-tools"
-version = "2.1.0"
+version = "0.1.0"
 description = ""
 authors = [{ name = "lordralinc", email = "lordralinc@gmail.com" }]
 license = { file = "LICENSE" }
@@ -37,6 +37,10 @@ dependencies = [
     "argcomplete (>=3.6.3,<4.0.0)",
 ]
 
+[project.urls]
+Repository = "https://github.com/lordralinc/sat-save-tools"
+Issues = "https://github.com/lordralinc/sat-save-tools/issues"
+Documentation = "https://github.com/lordralinc/sat-save-tools#readme"
 
 [project.scripts]
 sst = "sat_save_tools.__main__:main"
