@@ -6,24 +6,28 @@ __all__ = ("ArrayElementTypeName", "PropertyTypeName")
 
 
 class PropertyTypeName(StrEnumSerializerMixin, StrEnumDeserializerMixin, enum.StrEnum):
-    ARRAY = "ArrayProperty"
     BOOL = "BoolProperty"
     BYTE = "ByteProperty"
-    ENUM = "EnumProperty"
+
     FLOAT = "FloatProperty"
     DOUBLE = "DoubleProperty"
     INT = "IntProperty"
     INT8 = "Int8Property"
     U_INT32 = "UInt32Property"
     INT64 = "Int64Property"
-    MAP = "MapProperty"
+
+    ENUM = "EnumProperty"
+
     NAME = "NameProperty"
     OBJECT = "ObjectProperty"
     SOFT_OBJECT = "SoftObjectProperty"
-    SET = "SetProperty"
     STR = "StrProperty"
-    STRUCT = "StructProperty"
     TEXT = "TextProperty"
+
+    MAP = "MapProperty"
+    SET = "SetProperty"
+    ARRAY = "ArrayProperty"
+    STRUCT = "StructProperty"
 
 
 class ArrayElementTypeName(StrEnumSerializerMixin, StrEnumDeserializerMixin, enum.StrEnum):

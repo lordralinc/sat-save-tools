@@ -51,6 +51,7 @@ The library behavior can be controlled via environment variables:
 - [`info`](#info)
 - [`to-json`](#to-json)
 - [`from-json`](#from-json)
+- [`make-objects-tree`](#make-objects-tree)
 - [`export-consts-data`](#export-consts-data)
 - [`set-session-name`](#set-session-name)
 - [`html`](#html)
@@ -72,7 +73,7 @@ The library behavior can be controlled via environment variables:
 - [`gen-cli-docs`](#gen-cli-docs)
 
 ```bash
-usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
+usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,make-objects-tree,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
 ```
 
 **Arguments:**
@@ -108,6 +109,15 @@ usage: sst from-json [-h] [--output OUTPUT] save_path
 **Arguments:**
 - `save_path`: Path to the input save file
 - `--output, -o`: Path to the output save file
+
+#### `make-objects-tree`
+```bash
+usage: sst make-objects-tree [-h] [--output OUTPUT] save_path
+```
+
+**Arguments:**
+- `save_path`: Path to the input save file
+- `--output, -o`: Path to the output file
 
 #### `export-consts-data`
 ```bash
@@ -224,7 +234,8 @@ usage: sst map markers show [-h] filename
 #### `map markers add`
 ```bash
 Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID] [--somersloops]
-                           [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE] [--hd-icon-id HD_ICON_ID]
+                           [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE]
+                           [--hd-icon-id HD_ICON_ID]
                            filename
 ```
 

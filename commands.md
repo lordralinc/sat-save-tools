@@ -1,12 +1,10 @@
 ## Main commands
 
-| Command                                  | Args                                                                                           | Description                                    | CHECK |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----- |
-| `--rotate-foundations`                   | `<primary-color> <secondary-color> <original-save-filename> <new-save-filename> [--same-time]` | Rotate foundation colors                       | [ ]   |
-| `--clear-fog`                            | `<original-save-filename> <new-save-filename> [--same-time]`                                   | Clear world fog of war                         | [ ]   |
-| `--export-crash-sites`                   | `<save-filename> <output-json-filename>`                                                       | Export crash site data to JSON                 | [ ]   |
-| `--resave-only`                          | `<original-save-filename> <new-save-filename>`                                                 | Resave file without modifications              | [ ]   |
-| `--add-missing-items-to-sav_stack_sizes` | —                                                                                              | Add missing items to internal stack size table | [ ]   |
+| Command                | Args                                                                                           | Description                    | CHECK |
+| ---------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------ | ----- |
+| `--rotate-foundations` | `<primary-color> <secondary-color> <original-save-filename> <new-save-filename> [--same-time]` | Rotate foundation colors       | [ ]   |
+| `--clear-fog`          | `<original-save-filename> <new-save-filename> [--same-time]`                                   | Clear world fog of war         | [ ]   |
+| `--export-crash-sites` | `<save-filename> <output-json-filename>`                                                       | Export crash site data to JSON | [ ]   |
 
 ## Player commands
 
@@ -20,20 +18,20 @@
 
 ## Blueprint commands
 
-| Command                            | Args                                                                                                                         | Description                                             | CHECK |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----- |
-| `--blueprint --show`               | `<save-filename>`                                                                                                            | Show blueprint categories, subcategories and blueprints | [ ]   |
-| `--blueprint --sort`               | `<original-save-filename> <new-save-filename>`                                                                               | Sort blueprints (categories → subcategories → names)    | [ ]   |
-| `--blueprint --export`             | `<save-filename> <output-json-filename>`                                                                                     | Export blueprints to JSON                               | [ ]   |
-| `--blueprint --import`             | `<original-save-filename> <input-json-filename> <new-save-filename>`                                                         | Import blueprints from JSON                             | [ ]   |
-| `--blueprint --add-category`       | `<category> <original-save-filename> <new-save-filename>`                                                                    | Add new blueprint category                              | [ ]   |
-| `--blueprint --add-subcategory`    | `<category> <subcategory> <original-save-filename> <new-save-filename>`                                                      | Add subcategory to category                             | [ ]   |
-| `--blueprint --add-blueprint`      | `<category> <subcategory> <blueprint> <original-save-filename> <new-save-filename>`                                          | Add blueprint to subcategory                            | [ ]   |
-| `--blueprint --remove-category`    | `<category> <original-save-filename> <new-save-filename>`                                                                    | Remove blueprint category                               | [ ]   |
-| `--blueprint --remove-subcategory` | `<category> <subcategory> <original-save-filename> <new-save-filename>`                                                      | Remove subcategory from category                        | [ ]   |
-| `--blueprint --remove-blueprint`   | `<category> <subcategory> <blueprint> <original-save-filename> <new-save-filename>`                                          | Remove blueprint                                        | [ ]   |
-| `--blueprint --move-blueprint`     | `<old-category> <old-subcategory> <new-category> <new-subcategory> <blueprint> <original-save-filename> <new-save-filename>` | Move blueprint between categories                       | [ ]   |
-| `--blueprint --reset`              | `<original-save-filename> <new-save-filename>`                                                                               | Reset blueprints to default state                       | [ ]   |
+| Command                            | Args                                                                                                     | Description                                             | CHECK |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----- |
+| `--blueprint --show`               | `<save-filename>`                                                                                        | Show blueprint categories, subcategories and blueprints | [ ]   |
+| `--blueprint --sort`               | `<original-save-filename> <new-save-filename>`                                                           | Sort blueprints (categories → subcategories → names)    | [ ]   |
+| `--blueprint --export`             | `<save-filename> <output-json-filename>`                                                                 | Export blueprints to JSON                               | [ ]   |
+| `--blueprint --import`             | `<original-save-filename> <input-json-filename> <new-save-filename>`                                     | Import blueprints from JSON                             | [ ]   |
+| `--blueprint --add-category`       | `<category> <original-save-filename> <new-save-filename>`                                                | Add new blueprint category                              | [ ]   |
+| `--blueprint --add-subcategory`    | `<category> <subcategory> <original-save-filename> <new-save-filename>`                                  | Add subcategory to category                             | [ ]   |
+| `--blueprint --add-blueprint`      | `<category> <subcategory> <blueprint> <original-save-filename> <new-save-filename>`                      | Add blueprint to subcategory                            | [ ]   |
+| `--blueprint --remove-category`    | `<category> <original-save-filename> <new-save-filename>`                                                | Remove blueprint category                               | [ ]   |
+| `--blueprint --remove-subcategory` | `<category> <subcategory> <original-save-filename> <new-save-filename>`                                  | Remove subcategory from category                        | [ ]   |
+| `--blueprint --remove-blueprint`   | `<category> <subcategory> <blueprint> <original-save-filename> <new-save-filename>`                      | Remove blueprint                                        | [ ]   |
+| `--blueprint --move-blueprint`     | `<old-cat> <old-subcat> <new-cat> <new-subcat> <blueprint> <original-save-filename> <new-save-filename>` | Move blueprint between categories                       | [ ]   |
+| `--blueprint --reset`              | `<original-save-filename> <new-save-filename>`                                                           | Reset blueprints to default state                       | [ ]   |
 
 ## Somersloops
 

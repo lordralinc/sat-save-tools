@@ -7,6 +7,7 @@ from . import (
     html,
     info,
     json,
+    objects,
     players,
     set_session_name,
     somersloops,
@@ -26,6 +27,7 @@ __all__ = (
 def setup(subparsers: "argparse._SubParsersAction[argparse.ArgumentParser]"):
     info.setup(subparsers)
     json.setup(subparsers)
+    objects.setup(subparsers)
     export_consts_data.setup(subparsers)
     set_session_name.setup(subparsers)
     html.setup(subparsers)
