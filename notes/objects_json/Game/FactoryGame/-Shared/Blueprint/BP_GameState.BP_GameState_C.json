@@ -1,0 +1,435 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_GameState.BP_GameState_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714",
+    "unknown": 72,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mStorySubsystem": {
+        "name": "mStorySubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.StorySubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mRailroadSubsystem": {
+        "name": "mRailroadSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.RailroadSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCircuitSubsystem": {
+        "name": "mCircuitSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.CircuitSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mRecipeManager": {
+        "name": "mRecipeManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.recipeManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mSchematicManager": {
+        "name": "mSchematicManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.schematicManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mGamePhaseManager": {
+        "name": "mGamePhaseManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.GamePhaseManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mResearchManager": {
+        "name": "mResearchManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.ResearchManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTutorialIntroManager": {
+        "name": "mTutorialIntroManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.TutorialIntroManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mActorRepresentationManager": {
+        "name": "mActorRepresentationManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.ActorRepresentationManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mMapManager": {
+        "name": "mMapManager",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.MapManager"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCentralStorageSubsystem": {
+        "name": "mCentralStorageSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.CentralStorageSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mPipeSubsystem": {
+        "name": "mPipeSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.PipeSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mUnlockSubsystem": {
+        "name": "mUnlockSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.unlockSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mResourceSinkSubsystem": {
+        "name": "mResourceSinkSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.ResourceSinkSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mStatisticsSubsystem": {
+        "name": "mStatisticsSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.StatisticsSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBlueprintSubsystem": {
+        "name": "mBlueprintSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BlueprintSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mGameRulesSubsystem": {
+        "name": "mGameRulesSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.GameRulesSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIconDatabaseSubsystem": {
+        "name": "mIconDatabaseSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.IconDatabaseSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mWorldEventSubsystem": {
+        "name": "mWorldEventSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.WorldEventSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mProjectAssembly": {
+        "name": "mProjectAssembly",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_ProjectAssembly_C_2147458869"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mVisitedMapAreas": {
+        "name": "mVisitedMapAreas",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Interface/UI/Minimap/MapAreaPersistenLevel/Area_GrassFields_2.Area_GrassFields_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Interface/UI/Minimap/MapAreaPersistenLevel/Area_GrassFields_3.Area_GrassFields_3_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mPickedUpItems": {
+        "name": "mPickedUpItems",
+        "value": {
+          "length": 1,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/RawResources/OreIron/Desc_OreIron.Desc_OreIron_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mPlayDurationWhenLoaded": {
+        "name": "mPlayDurationWhenLoaded",
+        "value": 2817,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mReplicatedSessionName": {
+        "name": "mReplicatedSessionName",
+        "value": "clean_",
+        "type_name": "StrProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBuildableLightColorSlots": {
+        "name": "mBuildableLightColorSlots",
+        "value": {
+          "length": 7,
+          "elements": [
+            {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            {
+              "r": 1.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 1.0
+            },
+            {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 0.0,
+              "a": 1.0
+            },
+            {
+              "r": 0.0,
+              "g": 1.0,
+              "b": 0.0,
+              "a": 1.0
+            },
+            {
+              "r": 0.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            {
+              "r": 1.0,
+              "g": 0.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mBuildableLightColorSlots",
+          "type_name": "StructProperty",
+          "payload_size": 112,
+          "element_type": "LinearColor",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mIsTradingPostBuilt": {
+        "name": "mIsTradingPostBuilt",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasInitalTradingPostLandAnimPlayed": {
+        "name": "mHasInitalTradingPostLandAnimPlayed",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsSpaceElevatorBuilt": {
+        "name": "mIsSpaceElevatorBuilt",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasGivenStartingRecipes": {
+        "name": "mHasGivenStartingRecipes",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsCreativeModeEnabled": {
+        "name": "mIsCreativeModeEnabled",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": "AAAAAA=="
+}

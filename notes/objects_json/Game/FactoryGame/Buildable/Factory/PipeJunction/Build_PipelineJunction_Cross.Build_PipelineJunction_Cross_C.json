@@ -1,0 +1,143 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/PipeJunction/Build_PipelineJunction_Cross.Build_PipelineJunction_Cross_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.7071067690849304,
+      "w": 0.7071067690849304
+    },
+    "position": {
+      "x": -52655.15625,
+      "y": 256436.46875,
+      "z": -915.8555297851562
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.Connection0"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.InventoryPotential"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.powerInfo"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.Connection3"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.Connection1"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.Connection2"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mPowerInfo": {
+        "name": "mPowerInfo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_PipelineJunction_Cross_C_2147137638.powerInfo"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTimeSinceStartStopProducing": {
+        "name": "mTimeSinceStartStopProducing",
+        "value": 3.3999999521443642e+38,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInventoryPotential": {
+        "name": "mInventoryPotential",
+        "value": {
+          "level_name": "",
+          "path_name": ""
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mColorSlot": {
+        "name": "mColorSlot",
+        "value": "EQ==",
+        "type_name": "ByteProperty",
+        "index": 0,
+        "type": "None",
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot17.SwatchDesc_Slot17_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_PipelineJunction_Cross.Recipe_PipelineJunction_Cross_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

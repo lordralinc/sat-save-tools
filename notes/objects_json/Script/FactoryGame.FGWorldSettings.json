@@ -1,0 +1,64 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Script/FactoryGame.FGWorldSettings",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.FGWorldSettings",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mBuildableSubsystem": {
+        "name": "mBuildableSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLightweightBuildableSubsystem": {
+        "name": "mLightweightBuildableSubsystem",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.LightweightBuildableSubsystem"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

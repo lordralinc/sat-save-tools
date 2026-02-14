@@ -1,0 +1,172 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Vehicle/Tractor/BP_Tractor.BP_Tractor_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.00027196522569283843,
+      "y": 0.0002132170629920438,
+      "z": -0.7071103453636169,
+      "w": 0.7071031332015991
+    },
+    "position": {
+      "x": -57696.1953125,
+      "y": 261366.421875,
+      "z": -1067.9693603515625
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.FuelInventory"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.HealthComponent"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.StorageInventory"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mFuelInventory": {
+        "name": "mFuelInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.FuelInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mStorageInventory": {
+        "name": "mStorageInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.StorageInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInfo": {
+        "name": "mInfo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.FGWheeledVehicleInfo_2147029765"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTargetList": {
+        "name": "mTargetList",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.FGDrivingTargetList_2147477345"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHealthComponent": {
+        "name": "mHealthComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777.HealthComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Vehicle/Recipe_Tractor.Recipe_Tractor_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mOwningPlayerState": {
+        "name": "mOwningPlayerState",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeLocation": {
+        "name": "mLastSafeLocation",
+        "value": {
+          "x": -57696.194911439685,
+          "y": 261366.4210112853,
+          "z": -1067.9694039113112
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": "CgAAAAUAAABSb290ACSPuz8GLOzAux4UXrPnD0EQc0xr36+QwAB8JhNc0DE/ABBun6LiKz9entHWpaDmvzYo78iWoOY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzAxALDgJIkOQOzAmw9wNl/rD0Gjfl4ujrSIwLmxNmhxfEK/F3tyzqsAN7/hgR0q3tPmP0HUPtzobOa/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzAyAD3q5M8OQOzAVvdi8V7rD0HuioIKruOHwBoS4SgJxEA/AMQnOq9+Oj8uiV2MLATnv8Lz/dxRO+Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzAzAE+ivwEPQOzA271+nl7rD0Fuk+noWfmGwKdM2XTooSW/iE4K6la+L78HhMLbNTfnP6+iOncBBua/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA0ANmtby4PQOzADCmQk17rD0HP+epufmCGwKtwwA8l296/DsZrfMiQ4D9ZPN0s64jgv75vn/Bd3d4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA1AAGSjr4OQOzAUt8Lal7rD0FiQY2HZMSFwJF5P3zqUBS/wVR5KB3aTb/Jo8FBCJnnP8K34/4OneW/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA2ADYakzUOQOzABN5dR17rD0GYKaB6TVGFwNzaGXgBPt6/WbTD0gTa4D+h689W/Mzgv/fcsFjURd4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA3AFhGTaANQOzAAJV1A17rD0FHE9gQL9CEwII8qDca2lG/TsnP4FuzT7+HtU2G3frnP+Nvp1pNMOW/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA4AIUn4w4OQOzABkbdqV3rD0EuRT8zYVeEwGWQ0Urlit2/arRGQh4U4T+M6BEI3Bjhv4DSVTSJyd0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQsAAABBbnRlbm5hXzA5AJ2C0WUQQOzACqEeSV3rD0EUKtpxWtqDwL51Pbh822q/NF25++MOKj/Bp90d21roP1H8x26iweS/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=="
+}

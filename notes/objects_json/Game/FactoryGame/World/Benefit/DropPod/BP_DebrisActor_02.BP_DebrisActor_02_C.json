@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/World/Benefit/DropPod/BP_DebrisActor_02.BP_DebrisActor_02_C",
+    "root_object": "AYA5Y3Y4QXOR0ZIGYI7IA16CF",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_DebrisActor_02_C_11836",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.10799937695264816,
+      "y": 0.9923433065414429,
+      "z": 0.05969399958848953,
+      "w": -0.005251020658761263
+    },
+    "position": {
+      "x": -9122.9052734375,
+      "y": 227664.53125,
+      "z": -1038.651123046875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mDismantleRefundsIndex": {
+        "name": "mDismantleRefundsIndex",
+        "value": 1,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

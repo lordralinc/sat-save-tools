@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Script/FactoryGame.FGConveyorChainActor",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.FGConveyorChainActor_2147424337",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -39055.15625,
+      "y": 257769.8125,
+      "z": -3390.85546875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": "EQAAAFBlcnNpc3RlbnRfTGV2ZWwARAAAAFBlcnNpc3RlbnRfTGV2ZWw6UGVyc2lzdGVudExldmVsLkJ1aWxkX0NvbnZleW9yQmVsdE1rMV9DXzIxNDc0MjQ0NjgAEQAAAFBlcnNpc3RlbnRfTGV2ZWwARAAAAFBlcnNpc3RlbnRfTGV2ZWw6UGVyc2lzdGVudExldmVsLkJ1aWxkX0NvbnZleW9yQmVsdE1rMV9DXzIxNDc0MjQ0NjgAAQAAABEAAABQZXJzaXN0ZW50X0xldmVsAEEAAABQZXJzaXN0ZW50X0xldmVsOlBlcnNpc3RlbnRMZXZlbC5GR0NvbnZleW9yQ2hhaW5BY3Rvcl8yMTQ3NDI0MzM3ABEAAABQZXJzaXN0ZW50X0xldmVsAEQAAABQZXJzaXN0ZW50X0xldmVsOlBlcnNpc3RlbnRMZXZlbC5CdWlsZF9Db252ZXlvckJlbHRNazFfQ18yMTQ3NDI0NDY4AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIXBQzJqahvAAAAAAAAPA/AAAAAAAAAADMz8+vm5MrvQAAAAAAAHlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAEASET//////////wAAAAABAEhECQAAAP//////////AAAAAA=="
+}

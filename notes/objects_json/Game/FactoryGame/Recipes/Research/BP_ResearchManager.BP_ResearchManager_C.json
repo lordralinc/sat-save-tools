@@ -1,0 +1,96 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Recipes/Research/BP_ResearchManager.BP_ResearchManager_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.ResearchManager",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mUnlockedResearchTrees": {
+        "name": "mUnlockedResearchTrees",
+        "value": {
+          "length": 9,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_AlienOrganisms.BPD_ResearchTree_AlienOrganisms_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_AlienTech.BPD_ResearchTree_AlienTech_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Caterium.BPD_ResearchTree_Caterium_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_XMas.BPD_ResearchTree_XMas_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Mycelia.BPD_ResearchTree_Mycelia_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Nutrients.BPD_ResearchTree_Nutrients_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_PowerSlugs.BPD_ResearchTree_PowerSlugs_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Quartz.BPD_ResearchTree_Quartz_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Sulfur.BPD_ResearchTree_Sulfur_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mIsActivated": {
+        "name": "mIsActivated",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

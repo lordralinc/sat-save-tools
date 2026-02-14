@@ -1,0 +1,1232 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_BuildableSubsystem.BP_BuildableSubsystem_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BuildableSubsystem",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.FGWorldSettings"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mColorSlots_Data": {
+        "name": "mColorSlots_Data",
+        "value": {
+          "length": 28,
+          "elements": [
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.9529410004615784,
+                    "g": 0.3019610047340393,
+                    "b": 0.06666699796915054,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.11372499912977219,
+                    "g": 0.1333329975605011,
+                    "b": 0.2627449929714203,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.1441279947757721,
+                    "b": 0.3864299952983856,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9046609997749329,
+                    "g": 0.4564110040664673,
+                    "b": 0.015995999798178673,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.015995999798178673,
+                    "g": 0.01680699922144413,
+                    "b": 0.01850000023841858,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.4969330132007599,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.3094690144062042,
+                    "g": 0.30498701333999634,
+                    "b": 0.2917709946632385,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.09084200114011765,
+                    "g": 0.10702300071716309,
+                    "b": 0.07035999745130539,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0262410007417202,
+                    "g": 0.4507859945297241,
+                    "b": 0.6038280129432678,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.5906190276145935,
+                    "g": 0.040915001183748245,
+                    "b": 0.6795430183410645,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.07421399652957916,
+                    "g": 0.08649999648332596,
+                    "b": 0.03310500085353851,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.1412629932165146,
+                    "g": 0.12213899940252304,
+                    "b": 0.11443500220775604,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.9646869897842407,
+                    "g": 0.9215819835662842,
+                    "b": 0.7681509852409363,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9559739828109741,
+                    "g": 0.30054399371147156,
+                    "b": 0.06662599742412567,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.23455099761486053,
+                    "g": 0.13286800682544708,
+                    "b": 0.4564110040664673,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.13563300669193268,
+                    "g": 0.38132598996162415,
+                    "b": 0.07421399652957916,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.9473069906234741,
+                    "g": 0.7379109859466553,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.03310500085353851,
+                    "g": 0.40724000334739685,
+                    "b": 0.3324519991874695,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.18782100081443787,
+                    "g": 0.006994999945163727,
+                    "b": 0.006994999945163727,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9046609997749329,
+                    "g": 0.4564110040664673,
+                    "b": 0.015995999798178673,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 1.0,
+                    "g": 0.46207699179649353,
+                    "b": 0.6866850256919861,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9215819835662842,
+                    "g": 0.04373500123620033,
+                    "b": 0.37123799324035645,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.8069519996643066,
+                    "g": 0.4396570026874542,
+                    "b": 0.05126899853348732,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.057805001735687256,
+                    "g": 0.09758699685335159,
+                    "b": 0.10224200040102005,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.7304610013961792,
+                    "g": 0.4341540038585663,
+                    "b": 0.16826899349689484,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.2195259928703308,
+                    "g": 0.11443500220775604,
+                    "b": 0.04518600180745125,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.1980690062046051,
+                    "g": 0.07035999745130539,
+                    "b": 0.015208999626338482,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.5647119879722595,
+                    "g": 0.2663559913635254,
+                    "b": 0.05448000133037567,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.7379099726676941,
+                    "g": 1.0,
+                    "b": 0.2158609926700592,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.36625298857688904,
+                    "g": 0.13013599812984467,
+                    "b": 0.0466650016605854,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.11443500220775604,
+                    "g": 0.13286800682544708,
+                    "b": 0.26225098967552185,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9559730291366577,
+                    "g": 0.30054399371147156,
+                    "b": 0.06662599742412567,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.10980399698019028,
+                    "g": 0.10980399698019028,
+                    "b": 0.10980399698019028,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.10980399698019028,
+                    "g": 0.10980399698019028,
+                    "b": 0.10980399698019028,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.9529410004615784,
+                    "g": 0.3019610047340393,
+                    "b": 0.06666699796915054,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9529410004615784,
+                    "g": 0.3019610047340393,
+                    "b": 0.06666699796915054,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.9529410004615784,
+                    "g": 0.3019610047340393,
+                    "b": 0.06666699796915054,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/PaintFinishes/Metals/PaintFinishDesc_CarbonSteel.PaintFinishDesc_CarbonSteel_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/PaintFinishes/Metals/PaintFinishDesc_Caterium.PaintFinishDesc_Caterium_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/PaintFinishes/Metals/PaintFinishDesc_Chrome.PaintFinishDesc_Chrome_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/PaintFinishes/Metals/PaintFinishDesc_Copper.PaintFinishDesc_Copper_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/PaintFinishes/Metals/PaintFinishDesc_Unpainted.PaintFinishDesc_Unpainted_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.3515329957008362,
+                    "g": 0.06124600023031235,
+                    "b": 0.023152999579906464,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.665386974811554,
+                    "g": 0.42326799035072327,
+                    "b": 0.11443500220775604,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.13013599812984467,
+                    "g": 0.2307399958372116,
+                    "b": 0.3864299952983856,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.2917709946632385,
+                    "g": 0.5088809728622437,
+                    "b": 0.42326799035072327,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.03189599886536598,
+                    "g": 0.44520100951194763,
+                    "b": 0.5149180293083191,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.22352942824363708,
+                    "g": 0.22352942824363708,
+                    "b": 0.22352942824363708,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "PrimaryColor": {
+                  "name": "PrimaryColor",
+                  "value": {
+                    "r": 0.9529410004615784,
+                    "g": 0.3019610047340393,
+                    "b": 0.06666699796915054,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "SecondaryColor": {
+                  "name": "SecondaryColor",
+                  "value": {
+                    "r": 0.11372499912977219,
+                    "g": 0.1333329975605011,
+                    "b": 0.2627449929714203,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "PaintFinish": {
+                  "name": "PaintFinish",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mColorSlots_Data",
+          "type_name": "StructProperty",
+          "payload_size": 7587,
+          "element_type": "FactoryCustomizationColorSlot",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

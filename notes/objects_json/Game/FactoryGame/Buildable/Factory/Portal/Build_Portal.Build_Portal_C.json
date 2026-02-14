@@ -1,0 +1,161 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/Portal/Build_Portal.Build_Portal_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -71455.15625,
+      "y": 263669.8125,
+      "z": -1090.85546875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.PowerInput"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.InventoryPotential"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.powerInfo"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.FuelInventory"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.ConveyorInput0_0"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mFuelInventory": {
+        "name": "mFuelInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.FuelInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCachedFactoryTickData": {
+        "name": "mCachedFactoryTickData",
+        "value": {
+          "items": {
+            "mCachedPowerConsumption": {
+              "name": "mCachedPowerConsumption",
+              "value": 0.10000000149011612,
+              "type_name": "FloatProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FGPortalCachedFactoryTickData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mPowerInfo": {
+        "name": "mPowerInfo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.powerInfo"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTimeSinceStartStopProducing": {
+        "name": "mTimeSinceStartStopProducing",
+        "value": 3.3999999521443642e+38,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInventoryPotential": {
+        "name": "mInventoryPotential",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_Portal_C_2146966548.InventoryPotential"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_Portal.Recipe_Portal_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

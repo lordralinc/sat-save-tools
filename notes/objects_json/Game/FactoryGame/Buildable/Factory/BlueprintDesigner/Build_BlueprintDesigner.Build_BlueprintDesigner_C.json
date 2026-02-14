@@ -1,0 +1,269 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/BlueprintDesigner/Build_BlueprintDesigner.Build_BlueprintDesigner_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_BlueprintDesigner_C_2146958643",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -69855.15625,
+      "y": 259769.8125,
+      "z": -1090.8446044921875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_BlueprintDesigner_C_2146958643.FactoryLegs"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mStorage": {
+        "name": "mStorage",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_StorageBlueprint_C_2146958637"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBuildables": {
+        "name": "mBuildables",
+        "value": {
+          "length": 7,
+          "elements": [
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorBeltMk1_C_2147473399"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorPole_C_2147473396"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorPole_C_2147473393"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorBeltMk1_C_2147472265"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorPole_C_2147472262"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorPole_C_2147472259"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorBeltMk1_C_2147471790"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mCurrentRecordData": {
+        "name": "mCurrentRecordData",
+        "value": {
+          "items": {
+            "BlueprintName": {
+              "name": "BlueprintName",
+              "value": "New blueprint",
+              "type_name": "StrProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "BlueprintDescription": {
+              "name": "BlueprintDescription",
+              "value": "1111",
+              "type_name": "StrProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "IconID": {
+              "name": "IconID",
+              "value": {
+                "items": {
+                  "IconLibrary": {
+                    "name": "IconLibrary",
+                    "value": {
+                      "items": {
+                        "PackageName": {
+                          "name": "PackageName",
+                          "value": "/Game/FactoryGame/-Shared/Blueprint/IconLibrary",
+                          "type_name": "NameProperty",
+                          "index": 0,
+                          "guid": {
+                            "guid": null
+                          }
+                        },
+                        "AssetName": {
+                          "name": "AssetName",
+                          "value": "IconLibrary",
+                          "type_name": "NameProperty",
+                          "index": 0,
+                          "guid": {
+                            "guid": null
+                          }
+                        }
+                      }
+                    },
+                    "type_name": "StructProperty",
+                    "index": 0,
+                    "type": "TopLevelAssetPath",
+                    "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                  },
+                  "IconID": {
+                    "name": "IconID",
+                    "value": 782,
+                    "type_name": "IntProperty",
+                    "index": 0,
+                    "guid": {
+                      "guid": null
+                    }
+                  }
+                }
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "PersistentGlobalIconId",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "Color": {
+              "name": "Color",
+              "value": {
+                "r": 0.10702300071716309,
+                "g": 0.4341540038585663,
+                "b": 0.5583410263061523,
+                "a": 1.0
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "LinearColor",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "lastEditedBy": {
+              "name": "lastEditedBy",
+              "value": {
+                "length": 1,
+                "elements": [
+                  {
+                    "items": {
+                      "AssociatedAccountIdString": {
+                        "name": "AssociatedAccountIdString",
+                        "value": "069E65E23401001001",
+                        "type_name": "StrProperty",
+                        "index": 0,
+                        "guid": {
+                          "guid": null
+                        }
+                      },
+                      "DisplayName": {
+                        "name": "DisplayName",
+                        "value": "lordralinc",
+                        "type_name": "StrProperty",
+                        "index": 0,
+                        "guid": {
+                          "guid": null
+                        }
+                      },
+                      "BackendName": {
+                        "name": "BackendName",
+                        "value": "STEAM",
+                        "type_name": "StrProperty",
+                        "index": 0,
+                        "guid": {
+                          "guid": null
+                        }
+                      }
+                    }
+                  }
+                ],
+                "type": "StructProperty",
+                "name": "lastEditedBy",
+                "type_name": "StructProperty",
+                "payload_size": 194,
+                "element_type": "LocalUserNetIdBundle",
+                "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+              },
+              "type_name": "ArrayProperty",
+              "index": 0
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "BlueprintRecord",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_BlueprintDesigner.Recipe_BlueprintDesigner_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

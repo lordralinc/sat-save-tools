@@ -1,0 +1,186 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_BlueprintSusbystem.BP_BlueprintSusbystem_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BlueprintSubsystem",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mBlueprintCategoryRecords": {
+        "name": "mBlueprintCategoryRecords",
+        "value": {
+          "length": 1,
+          "elements": [
+            {
+              "items": {
+                "CategoryName": {
+                  "name": "CategoryName",
+                  "value": "Не определено",
+                  "type_name": "StrProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IconID": {
+                  "name": "IconID",
+                  "value": -1,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MenuPriority": {
+                  "name": "MenuPriority",
+                  "value": 3.4028234663852886e+38,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IsUndefined": {
+                  "name": "IsUndefined",
+                  "value": true,
+                  "type_name": "BoolProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "SubCategoryRecords": {
+                  "name": "SubCategoryRecords",
+                  "value": {
+                    "length": 1,
+                    "elements": [
+                      {
+                        "items": {
+                          "SubCategoryName": {
+                            "name": "SubCategoryName",
+                            "value": "Не определено",
+                            "type_name": "StrProperty",
+                            "index": 0,
+                            "guid": {
+                              "guid": null
+                            }
+                          },
+                          "MenuPriority": {
+                            "name": "MenuPriority",
+                            "value": 3.4028234663852886e+38,
+                            "type_name": "FloatProperty",
+                            "index": 0,
+                            "guid": {
+                              "guid": null
+                            }
+                          },
+                          "IsUndefined": {
+                            "name": "IsUndefined",
+                            "value": "AQ==",
+                            "type_name": "ByteProperty",
+                            "index": 0,
+                            "type": "None",
+                            "guid": {
+                              "guid": null
+                            }
+                          },
+                          "BlueprintNames": {
+                            "name": "BlueprintNames",
+                            "value": {
+                              "length": 1,
+                              "elements": [
+                                "New blueprint"
+                              ],
+                              "type": "StrProperty"
+                            },
+                            "type_name": "ArrayProperty",
+                            "index": 0
+                          },
+                          "lastEditedBy": {
+                            "name": "lastEditedBy",
+                            "value": {
+                              "length": 0,
+                              "elements": [],
+                              "type": "StructProperty",
+                              "name": "lastEditedBy",
+                              "type_name": "StructProperty",
+                              "payload_size": 0,
+                              "element_type": "LocalUserNetIdBundle",
+                              "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+                            },
+                            "type_name": "ArrayProperty",
+                            "index": 0
+                          }
+                        }
+                      }
+                    ],
+                    "type": "StructProperty",
+                    "name": "SubCategoryRecords",
+                    "type_name": "StructProperty",
+                    "payload_size": 423,
+                    "element_type": "BlueprintSubCategoryRecord",
+                    "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+                  },
+                  "type_name": "ArrayProperty",
+                  "index": 0
+                },
+                "lastEditedBy": {
+                  "name": "lastEditedBy",
+                  "value": {
+                    "length": 0,
+                    "elements": [],
+                    "type": "StructProperty",
+                    "name": "lastEditedBy",
+                    "type_name": "StructProperty",
+                    "payload_size": 0,
+                    "element_type": "LocalUserNetIdBundle",
+                    "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+                  },
+                  "type_name": "ArrayProperty",
+                  "index": 0
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mBlueprintCategoryRecords",
+          "type_name": "StructProperty",
+          "payload_size": 961,
+          "element_type": "BlueprintCategoryRecord",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

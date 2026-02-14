@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/World/Hazard/SporeCloudPlant/BP_SporeFlower.BP_SporeFlower_C",
+    "root_object": "C8DQSG4KBNJY1YM1AKEWS0JEN",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_SporeFlower17_344",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -52161.59765625,
+      "y": 269183.71875,
+      "z": -3229.92919921875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": ""
+}

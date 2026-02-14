@@ -1,0 +1,172 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Vehicle/Explorer/BP_Explorer.BP_Explorer_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0023435635957866907,
+      "y": 0.0024138200096786022,
+      "z": -0.7071071863174438,
+      "w": 0.7070983648300171
+    },
+    "position": {
+      "x": -58097.0078125,
+      "y": 259275.796875,
+      "z": -1065.13818359375
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.FuelInventory"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.HealthComponent"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.StorageInventory"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mFuelInventory": {
+        "name": "mFuelInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.FuelInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mStorageInventory": {
+        "name": "mStorageInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.StorageInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInfo": {
+        "name": "mInfo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.FGWheeledVehicleInfo_2147027326"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTargetList": {
+        "name": "mTargetList",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.FGDrivingTargetList_2147477339"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHealthComponent": {
+        "name": "mHealthComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Explorer_C_2147027339.HealthComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Vehicle/Recipe_Explorer.Recipe_Explorer_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mOwningPlayerState": {
+        "name": "mOwningPlayerState",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeLocation": {
+        "name": "mLastSafeLocation",
+        "value": {
+          "x": -58097.007091166,
+          "y": 259275.79684099118,
+          "z": -1065.1382380773289
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": "AQAAAAUAAABSb290ABkvayUgXuzAMqw/Xl6mD0Hi6Q4Qq6SQwMp8NgKrPmM/iiW1hcyNYz8wRq08n6DmvzNcR+6MoOY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=="
+}

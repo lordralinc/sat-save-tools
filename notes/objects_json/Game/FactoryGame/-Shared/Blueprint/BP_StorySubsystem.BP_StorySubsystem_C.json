@@ -1,0 +1,111 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_StorySubsystem.BP_StorySubsystem_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.StorySubsystem",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mAllPlayedMessages": {
+        "name": "mAllPlayedMessages",
+        "value": {
+          "length": 15,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-1.MSG_Tier1_Schematic_1-1"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-2.MSG_Tier1_Schematic_1-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-3.MSG_Tier1_Schematic_1-3"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-1.MSG_Tier2_Schematic_2-1"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-2.MSG_Tier2_Schematic_2-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-3.MSG_Tier2_Schematic_2-3"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-5.MSG_Tier2_Schematic_2-5"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_3-2.MSG_Tier2_Schematic_3-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/ProjectAssembly/MSG_PA_SpaceElevator.MSG_PA_SpaceElevator"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_CoalGenerator.MSG_Tier3_CoalGenerator"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_Pipeline.MSG_Tier3_Pipeline"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_TruckStation.MSG_Tier3_TruckStation"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_Tractor.MSG_Tier3_Tractor"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier9/Actions/MSG_Tier9_Portal.MSG_Tier9_Portal"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier4/Actions/MSG_Tier4_BlueprintDesigner.MSG_Tier4_BlueprintDesigner"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

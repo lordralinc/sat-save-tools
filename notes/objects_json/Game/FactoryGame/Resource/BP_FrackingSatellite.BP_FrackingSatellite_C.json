@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Resource/BP_FrackingSatellite.BP_FrackingSatellite_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_FrackingSatellite33",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.049919407814741135,
+      "y": 0.013046924956142902,
+      "z": -0.21744731068611145,
+      "w": 0.9747073650360107
+    },
+    "position": {
+      "x": -142911.4375,
+      "y": 118402.375,
+      "z": 14995.01953125
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": ""
+}

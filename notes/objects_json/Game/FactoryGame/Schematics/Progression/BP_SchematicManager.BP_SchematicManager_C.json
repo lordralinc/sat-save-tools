@@ -1,0 +1,1936 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Schematics/Progression/BP_SchematicManager.BP_SchematicManager_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.schematicManager",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mPurchasedSchematics": {
+        "name": "mPurchasedSchematics",
+        "value": {
+          "length": 466,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Schematic_StartingRecipes.Schematic_StartingRecipes_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial1.Schematic_Tutorial1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial1_5.Schematic_Tutorial1_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial2.Schematic_Tutorial2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial3.Schematic_Tutorial3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial4.Schematic_Tutorial4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial5.Schematic_Tutorial5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Screw.Schematic_Alternate_Screw_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Wire1.Schematic_Alternate_Wire1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Upgrades/Schematic_Alternate_InventorySlots1.Schematic_Alternate_InventorySlots1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_1-1.Schematic_1-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_1-2.Schematic_1-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_1-3.Schematic_1-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_2-1.Schematic_2-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_BoltedFrame.Schematic_Alternate_BoltedFrame_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CopperRotor.Schematic_Alternate_CopperRotor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_ReinforcedIronPlate1.Schematic_Alternate_ReinforcedIronPlate1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_ReinforcedIronPlate2.Schematic_Alternate_ReinforcedIronPlate2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_2-2.Schematic_2-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_2-3.Schematic_2-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_2-5.Schematic_2-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/CustomizerUnlock_ColourSwatches.CustomizerUnlock_ColourSwatches_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/CustomizerUnlock_PipelineSwatch.CustomizerUnlock_PipelineSwatch_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_3-2.Schematic_3-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Calendar_Schematics/Ficsmas_Schematic_FingerGun_Emote.Ficsmas_Schematic_FingerGun_Emote_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Calendar_Schematics/Ficsmas_Schematic_Fireworks.Ficsmas_Schematic_Fireworks_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Calendar_Schematics/Ficsmas_Schematic_SkinBundle_1.Ficsmas_Schematic_SkinBundle_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Calendar_Schematics/Ficsmas_Schematic_SkinBundle_2.Ficsmas_Schematic_SkinBundle_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_DeepRockGalactic.Schematic_DeepRockGalactic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Beta.Schematic_Helmet_Beta_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Bobble.Schematic_Helmet_Bobble_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Default.Schematic_Helmet_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Ficsmas.Schematic_Helmet_Ficsmas_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Golden.Schematic_Helmet_Golden_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Scout.Schematic_Helmet_Scout_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Helmets/Schematic_Helmet_Welder.Schematic_Helmet_Welder_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_Huntdown.Schematic_Huntdown_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_Camo.Schematic_Skin_Buildgun_Camo_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_ColoredSides.Schematic_Skin_Buildgun_ColoredSides_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_Default.Schematic_Skin_Buildgun_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_Golden.Schematic_Skin_Buildgun_Golden_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_HalfNHalf.Schematic_Skin_Buildgun_HalfNHalf_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/BuildGunSkins/Schematic_Skin_Buildgun_Striped.Schematic_Skin_Buildgun_Striped_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_SongsOfConquest.Schematic_SongsOfConquest_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_AirFreshener.Schematic_Trinket_AirFreshener_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_Checkit.Schematic_Trinket_Checkit_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_Default.Schematic_Trinket_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_FicsitCoupon.Schematic_Trinket_FicsitCoupon_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_FicsmasBall.Schematic_Trinket_FicsmasBall_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_FicsmasStar.Schematic_Trinket_FicsmasStar_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_NuclearWaste.Schematic_Trinket_NuclearWaste_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_Nut.Schematic_Trinket_Nut_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Pioneercosmetics/Trinkets/Schematic_Trinket_Somersloop.Schematic_Trinket_Somersloop_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Buildings/TreeDecor/Schematic_XMassTree_T1.Schematic_XMassTree_T1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Buildings/TreeDecor/Schematic_XMassTree_T2.Schematic_XMassTree_T2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Buildings/TreeDecor/Schematic_XMassTree_T3.Schematic_XMassTree_T3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Events/Christmas/Buildings/TreeDecor/Schematic_XMassTree_T4.Schematic_XMassTree_T4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_BeamSet.ResourceSink_BeamSet_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_BeamSet_Cables.ResourceSink_BeamSet_Cables_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_BeamSet2.ResourceSink_BeamSet2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Catwalks.ResourceSink_Catwalks_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConcretePillarSet.ResourceSink_ConcretePillarSet_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FactoryBarrier.ResourceSink_FactoryBarrier_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FactoryBarrier2.ResourceSink_FactoryBarrier2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FactoryFence.ResourceSink_FactoryFence_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FactoryRailing.ResourceSink_FactoryRailing_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Fences.ResourceSink_Fences_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FoudationPillar.ResourceSink_FoudationPillar_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FramePillarSet.ResourceSink_FramePillarSet_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FrameworkFoundations.ResourceSink_FrameworkFoundations_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Ladders.ResourceSink_Ladders_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_PersonnelElevator.ResourceSink_PersonnelElevator_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Roofs_Basic.ResourceSink_Roofs_Basic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Roofs_Corners.ResourceSink_Roofs_Corners_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_VentilationBundle.ResourceSink_VentilationBundle_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Walkways.ResourceSink_Walkways_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_ACarapace_0.Research_ACarapace_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_ACarapace_2.Research_ACarapace_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_ACarapace_3.Research_ACarapace_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AO_DNACapsule.Research_AO_DNACapsule_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AO_Hatcher.Research_AO_Hatcher_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AO_Pre_Rebar.Research_AO_Pre_Rebar_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AO_Stinger.Research_AO_Stinger_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AOrganisms_2.Research_AOrganisms_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AOrgans_0.Research_AOrgans_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AOrgans_2.Research_AOrgans_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienOrganisms_RS/Research_AOrgans_3.Research_AOrgans_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_AdheredIronPlate.Schematic_Alternate_AdheredIronPlate_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_AlcladCasing.Schematic_Alternate_AlcladCasing_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_SteelBeam_Aluminum.Schematic_Alternate_SteelBeam_Aluminum_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_AluminumRod.Schematic_Alternate_AluminumRod_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_AutomatedMiner.Schematic_Alternate_AutomatedMiner_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_HighSpeedWiring.Schematic_Alternate_HighSpeedWiring_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_IronIngot_Basic.Schematic_Alternate_IronIngot_Basic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Coal2.Schematic_Alternate_Coal2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_CircuitBoard2.Schematic_Alternate_CircuitBoard2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Computer1.Schematic_Alternate_Computer1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Wire2.Schematic_Alternate_Wire2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Coal1.Schematic_Alternate_Coal1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Silica.Schematic_Alternate_Silica_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_ClassicBattery.Schematic_Alternate_ClassicBattery_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_Diamond_Cloudy.Schematic_Alternate_Diamond_Cloudy_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CoatedCable.Schematic_Alternate_CoatedCable_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CoatedIronCanister.Schematic_Alternate_CoatedIronCanister_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CoatedIronPlate.Schematic_Alternate_CoatedIronPlate_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CokeSteelIngot.Schematic_Alternate_CokeSteelIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_EnrichedCoal.Schematic_Alternate_EnrichedCoal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_IngotSteel2.Schematic_Alternate_IngotSteel2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_CoolingDevice.Schematic_Alternate_CoolingDevice_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_CopperAlloyIngot.Schematic_Alternate_CopperAlloyIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Computer2.Schematic_Alternate_Computer2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_DarkMatter_Crystallization.Schematic_Alternate_DarkMatter_Crystallization_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_DarkMatter_Trap.Schematic_Alternate_DarkMatter_Trap_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_IonizedFuel_Dark.Schematic_Alternate_IonizedFuel_Dark_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_DilutedFuel.Schematic_Alternate_DilutedFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_DilutedPackagedFuel.Schematic_Alternate_DilutedPackagedFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_Silica_Distilled.Schematic_Alternate_Silica_Distilled_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_ElectricMotor.Schematic_Alternate_ElectricMotor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_ElectroAluminumScrap.Schematic_Alternate_ElectroAluminumScrap_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_ElectrodeCircuitBoard.Schematic_Alternate_ElectrodeCircuitBoard_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_ElectromagneticControlRod1.Schematic_Alternate_ElectromagneticControlRod1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_ReinforcedSteelPlate.Schematic_Alternate_ReinforcedSteelPlate_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_FertileUranium.Schematic_Alternate_FertileUranium_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Gunpowder1.Schematic_Alternate_Gunpowder1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Concrete.Schematic_Alternate_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_FlexibleFramework.Schematic_Alternate_FlexibleFramework_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_Quartz_Fused.Schematic_Alternate_Quartz_Fused_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Quickwire.Schematic_Alternate_Quickwire_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_FusedWire.Schematic_Alternate_FusedWire_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_HeatSink1.Schematic_Alternate_HeatSink1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_HeatFusedFrame.Schematic_Alternate_HeatFusedFrame_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_HeavyModularFrame.Schematic_Alternate_HeavyModularFrame_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_HeavyFlexibleFrame.Schematic_Alternate_HeavyFlexibleFrame_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_HeavyOilResidue.Schematic_Alternate_HeavyOilResidue_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_UraniumCell1.Schematic_Alternate_UraniumCell1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_InstantPlutoniumCell.Schematic_Alternate_InstantPlutoniumCell_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_InstantScrap.Schematic_Alternate_InstantScrap_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Cable1.Schematic_Alternate_Cable1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_CrystalOscillator.Schematic_Alternate_CrystalOscillator_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_IngotIron.Schematic_Alternate_IngotIron_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_SteelPipe_Iron.Schematic_Alternate_SteelPipe_Iron_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_CateriumIngot_Leached.Schematic_Alternate_CateriumIngot_Leached_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_CopperIngot_Leached.Schematic_Alternate_CopperIngot_Leached_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_IronIngot_Leached.Schematic_Alternate_IronIngot_Leached_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_SteelBeam_Molded.Schematic_Alternate_SteelBeam_Molded_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_SteelPipe_Molded.Schematic_Alternate_SteelPipe_Molded_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_RocketFuel_Nitro.Schematic_Alternate_RocketFuel_Nitro_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_OCSupercomputer.Schematic_Alternate_OCSupercomputer_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_Diamond_OilBased.Schematic_Alternate_Diamond_OilBased_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_Diamond_Petroleum.Schematic_Alternate_Diamond_Petroleum_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_Diamond_Pink.Schematic_Alternate_Diamond_Pink_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_AILimiter_Plastic.Schematic_Alternate_AILimiter_Plastic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PlasticSmartPlating.Schematic_Alternate_PlasticSmartPlating_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_PlutoniumFuelUnit.Schematic_Alternate_PlutoniumFuelUnit_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PolymerResin.Schematic_Alternate_PolymerResin_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PureAluminumIngot.Schematic_Alternate_PureAluminumIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PureCateriumIngot.Schematic_Alternate_PureCateriumIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PureCopperIngot.Schematic_Alternate_PureCopperIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PureIronIngot.Schematic_Alternate_PureIronIngot_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_PureQuartzCrystal.Schematic_Alternate_PureQuartzCrystal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_Quartz_Purified.Schematic_Alternate_Quartz_Purified_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Cable2.Schematic_Alternate_Cable2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Stator.Schematic_Alternate_Stator_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_RadioControlUnit1.Schematic_Alternate_RadioControlUnit1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_RadioControlSystem.Schematic_Alternate_RadioControlSystem_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Plastic1.Schematic_Alternate_Plastic1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_RecycledRubber.Schematic_Alternate_RecycledRubber_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Motor1.Schematic_Alternate_Motor1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_RubberConcrete.Schematic_Alternate_RubberConcrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_CircuitBoard1.Schematic_Alternate_CircuitBoard1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_HighSpeedConnector.Schematic_Alternate_HighSpeedConnector_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_SloppyAlumina.Schematic_Alternate_SloppyAlumina_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_IngotSteel1.Schematic_Alternate_IngotSteel1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_SteamedCopperSheet.Schematic_Alternate_SteamedCopperSheet_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_SteelCanister.Schematic_Alternate_SteelCanister_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9/Schematic_Alternate_SteelCastedPlate.Schematic_Alternate_SteelCastedPlate_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_SteelRod.Schematic_Alternate_SteelRod_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Rotor.Schematic_Alternate_Rotor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_Screw2.Schematic_Alternate_Screw2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_ModularFrame.Schematic_Alternate_ModularFrame_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_SuperStateComputer.Schematic_Alternate_SuperStateComputer_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_CateriumIngot_Tempered.Schematic_Alternate_CateriumIngot_Tempered_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update9_Ingots/Schematic_Alternate_CopperIngot_Tempered.Schematic_Alternate_CopperIngot_Tempered_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_TurboBlendFuel.Schematic_Alternate_TurboBlendFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Alt_Tier9/Schematic_Alternate_Diamond_Turbo.Schematic_Alternate_Diamond_Turbo_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_TurboMotor1.Schematic_Alternate_TurboMotor1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_TurboHeavyFuel.Schematic_Alternate_TurboHeavyFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_TurboPressureMotor.Schematic_Alternate_TurboPressureMotor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_TurboFuel.Schematic_Alternate_TurboFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Parts/Schematic_Alternate_NuclearFuelRod1.Schematic_Alternate_NuclearFuelRod1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_WetConcrete.Schematic_Alternate_WetConcrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Alternate/Upgrades/Schematic_Alternate_InventorySlots2.Schematic_Alternate_InventorySlots2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_ActiveSAM.Research_Alien_ActiveSAM_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_BoosterBlocker.Research_Alien_BoosterBlocker_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_BoosterFuel.Research_Alien_BoosterFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralInventory.Research_Alien_CentralInventory_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralStackExpansion_01.Research_Alien_CentralStackExpansion_01_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralStackExpansion_02.Research_Alien_CentralStackExpansion_02_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralStackExpansion_03.Research_Alien_CentralStackExpansion_03_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralStackExpansion_04.Research_Alien_CentralStackExpansion_04_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralStorage.Research_Alien_CentralStorage_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralUploadBoost_01.Research_Alien_CentralUploadBoost_01_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralUploadBoost_02.Research_Alien_CentralUploadBoost_02_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralUploadBoost_03.Research_Alien_CentralUploadBoost_03_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_CentralUploadBoost_04.Research_Alien_CentralUploadBoost_04_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_MercerSphere.Research_Alien_MercerSphere_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_PowerBooster.Research_Alien_PowerBooster_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_ProductionBooster.Research_Alien_ProductionBooster_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_SAM.Research_Alien_SAM_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_SAMFluctuator.Research_Alien_SAMFluctuator_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_Somersloop.Research_Alien_Somersloop_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_0.Research_Caterium_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_1.Research_Caterium_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_2_1.Research_Caterium_2_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_2.Research_Caterium_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_3_2.Research_Caterium_3_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_3.Research_Caterium_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_4_1_1.Research_Caterium_4_1_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_4_1_2.Research_Caterium_4_1_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_4_1.Research_Caterium_4_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_4_2.Research_Caterium_4_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_5_1.Research_Caterium_5_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_5.Research_Caterium_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_6_2.Research_Caterium_6_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_6_3.Research_Caterium_6_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_7_1.Research_Caterium_7_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_7_2.Research_Caterium_7_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_1.Research_XMas_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_1-1.Research_XMas_1-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_1-2.Research_XMas_1-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_2.Research_XMas_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_2-1.Research_XMas_2-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_2-2.Research_XMas_2-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_3.Research_XMas_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_3-1.Research_XMas_3-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_3-2.Research_XMas_3-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_4.Research_XMas_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_4-1.Research_XMas_4-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_4-2.Research_XMas_4-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/XMas_RS/Research_XMas_5.Research_XMas_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_1.Research_Mycelia_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_2_1.Research_Mycelia_2_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_2.Research_Mycelia_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_3.Research_Mycelia_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_4.Research_Mycelia_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_5.Research_Mycelia_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_6.Research_Mycelia_6_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_7.Research_Mycelia_7_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_8.Research_Mycelia_8_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_GasMask.Research_Mycelia_GasMask_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Nutrients_RS/Research_Nutrients_0.Research_Nutrients_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Nutrients_RS/Research_Nutrients_1.Research_Nutrients_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Nutrients_RS/Research_Nutrients_2.Research_Nutrients_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Nutrients_RS/Research_Nutrients_3.Research_Nutrients_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Nutrients_RS/Research_Nutrients_4.Research_Nutrients_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_1.Research_PowerSlugs_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_2.Research_PowerSlugs_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_3.Research_PowerSlugs_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_4.Research_PowerSlugs_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_5.Research_PowerSlugs_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/PowerSlugs_RS/Research_PowerSlugs_6.Research_PowerSlugs_6_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_3_1.Research_Caterium_3_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_4_3.Research_Caterium_4_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_0.Research_Quartz_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_1_1.Research_Quartz_1_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_1_2.Research_Quartz_1_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_2_1.Research_Quartz_2_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_2.Research_Quartz_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_3_1.Research_Quartz_3_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_3_4.Research_Quartz_3_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_4_1.Research_Quartz_4_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_4.Research_Quartz_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Quartz_RS/Research_Quartz_PriorityMerger.Research_Quartz_PriorityMerger_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_0.Research_Sulfur_0_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_1.Research_Sulfur_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_3_1.Research_Sulfur_3_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_3.Research_Sulfur_3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_4_1.Research_Sulfur_4_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_4_2.Research_Sulfur_4_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_4.Research_Sulfur_4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_5_1.Research_Sulfur_5_1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_5_2.Research_Sulfur_5_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_5.Research_Sulfur_5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_6.Research_Sulfur_6_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_compactedCoal.Research_Sulfur_CompactedCoal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_ExperimentalPower.Research_Sulfur_ExperimentalPower_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_IonizedFuel.Research_Sulfur_IonizedFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_RocketFuel.Research_Sulfur_RocketFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_TurboFuel.Research_Sulfur_TurboFuel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Arrows_FoundationPatterns.ResourceSink_Arrows_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_CarbonSteel_PaintFinish.ResourceSink_CarbonSteel_PaintFinish_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Caterium_PaintFinish.ResourceSink_Caterium_PaintFinish_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Chrome_PaintFinish.ResourceSink_Chrome_PaintFinish_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Copper_PaintFinish.ResourceSink_Copper_PaintFinish_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_Asphalt_FoundationMaterial.ResourceSink_Customizer_Asphalt_FoundationMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_Concrete_FoundationMaterial.ResourceSink_Customizer_Concrete_FoundationMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_ConcreteWallMaterial.ResourceSink_Customizer_ConcreteWallMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_GlassRoofMaterial.ResourceSink_Customizer_GlassRoofMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_GripMetal_FoundationMaterial.ResourceSink_Customizer_GripMetal_FoundationMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_PolishedConcrete_FoundationMaterial.ResourceSink_Customizer_PolishedConcrete_FoundationMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_SteelRoofMaterial.ResourceSink_Customizer_SteelRoofMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_SteelWallMaterial.ResourceSink_Customizer_SteelWallMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer/ResourceSink_Customizer_TarRoofMaterial.ResourceSink_Customizer_TarRoofMaterial_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_DotLines_FoundationPatterns.ResourceSink_DotLines_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_FullLines_FoundationPatterns.ResourceSink_FullLines_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_IconsFactory_FoundationPatterns.ResourceSink_IconsFactory_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_IconsTransport_FoundationPatterns.ResourceSink_IconsTransport_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Number_FoundationPatterns.ResourceSink_Number_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Pathways_FoundationPatterns.ResourceSink_Pathways_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_UnPainted_PaintFinish.ResourceSink_UnPainted_PaintFinish_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Patterns/ResourceSink_Zones_FoundationPatterns.ResourceSink_Zones_FoundationPatterns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Checkmark.ResourceSink_Checkmark_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_CyberWagon.ResourceSink_CyberWagon_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_CyberWagon_Unlock.ResourceSink_CyberWagon_Unlock_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FactoryCart.ResourceSink_FactoryCart_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_GoldenCart.ResourceSink_GoldenCart_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_GoldenCart_Unlock.ResourceSink_GoldenCart_Unlock_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_GoldenCup.ResourceSink_GoldenCup_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_AbsoluteFicsit.Schematic_AbsoluteFicsit_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_Goat.Schematic_Goat_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_JoelSyntholm.Schematic_JoelSyntholm_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_LeMichael.Schematic_LeMichael_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_Sanctum.Schematic_Sanctum_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Tapes/Schematic_Sanctum2.Schematic_Sanctum2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_CurvedFoundationPack.ResourceSink_CurvedFoundationPack_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_DiagonalRamps.ResourceSink_DiagonalRamps_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FoundationExpansionPack.ResourceSink_FoundationExpansionPack_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FoundationStairs.ResourceSink_FoundationStairs_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_HalfFoundations.ResourceSink_HalfFoundations_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_InvertedCornerRamps.ResourceSink_InvertedCornerRamps_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_InvertedRampPack.ResourceSink_InvertedRampPack_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_QuarterPipeExtensions.ResourceSink_QuarterPipeExtensions_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveyorCeilingMount.ResourceSink_ConveyorCeilingMount_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveyorLiftHole.ResourceSink_ConveyorLiftHole_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveyorMonitor.ResourceSink_ConveyorMonitor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveyorWallHole.ResourceSink_ConveyorWallHole_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveyorWallMount.ResourceSink_ConveyorWallMount_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_HyperTubeFloorHole.ResourceSink_HyperTubeFloorHole_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_HyperTubeWallAttachements.ResourceSink_HyperTubeWallAttachements_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_NoIndicator_PipelineMK1.ResourceSink_NoIndicator_PipelineMK1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_NoIndicator_PipelineMK2.ResourceSink_NoIndicator_PipelineMK2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_PipelineFloorHole.ResourceSink_PipelineFloorHole_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_PipelineWallAttachments.ResourceSink_PipelineWallAttachments_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_WallPowerPoles.ResourceSink_WallPowerPoles_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_WallPowerPolesMK2.ResourceSink_WallPowerPolesMK2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_WallPowerPolesMK3.ResourceSink_WallPowerPolesMK3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_BillboardSigns.ResourceSink_BillboardSigns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_CeilingLight.ResourceSink_CeilingLight_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_DisplaySigns.ResourceSink_DisplaySigns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_HazardBoxSkin.ResourceSink_HazardBoxSkin_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_LabelSigns.ResourceSink_LabelSigns_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_LightControlPanel.ResourceSink_LightControlPanel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_LightTower.ResourceSink_LightTower_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_MedicalBoxSkin.ResourceSink_MedicalBoxSkin_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_StackableShelf.ResourceSink_StackableShelf_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_StreetLight.ResourceSink_StreetLight_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_ConveryWalls_Normal.ResourceSink_ConveryWalls_Normal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Diagonal_Down_Wallset.ResourceSink_Diagonal_Down_Wallset_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Diagonal_Up_WallSet.ResourceSink_Diagonal_Up_WallSet_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_DoorWalls_Normal.ResourceSink_DoorWalls_Normal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_FrameWindows.ResourceSink_FrameWindows_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_GateWalls.ResourceSink_GateWalls_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_Tilted_Walls.ResourceSink_Tilted_Walls_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/ResourceSink_WindowedWalls.ResourceSink_WindowedWalls_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_3-1.Schematic_3-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_3-3.Schematic_3-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_3-4.Schematic_3-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_4-2.Schematic_4-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_4-1.Schematic_4-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_4-3.Schematic_4-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_4-4.Schematic_4-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_4-5.Schematic_4-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-3.Schematic_5-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-1.Schematic_5-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-1-1.Schematic_5-1-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-4.Schematic_5-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-4-1.Schematic_5-4-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-5.Schematic_5-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-5-1.Schematic_5-5-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-1.Schematic_6-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-2.Schematic_6-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_5-2.Schematic_5-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-3.Schematic_6-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-5.Schematic_6-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-6.Schematic_6-6_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_6-7.Schematic_6-7_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-1.Schematic_7-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-1-1.Schematic_7-1-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-2.Schematic_7-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-3.Schematic_7-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-4-1.Schematic_7-4-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-5.Schematic_7-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-3.Schematic_8-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_7-4.Schematic_7-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-1.Schematic_8-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-2.Schematic_8-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-2-1.Schematic_8-2-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-4.Schematic_8-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-5.Schematic_8-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_8-5-1.Schematic_8-5-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-1.Schematic_9-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-1-1.Schematic_9-1-1_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-2.Schematic_9-2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-3.Schematic_9-3_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-4.Schematic_9-4_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_9-5.Schematic_9-5_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Tilted.CBG_Concrete_Walls_Tilted_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_Tilted.CBG_Steel_Walls_Tilted_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Corners_Glass.CBG_Roofs_Corners_Glass_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Corners_Steel.CBG_Roofs_Corners_Steel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Corners_Tar.CBG_Roofs_Corners_Tar_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_5_2_Hidden.Research_Sulfur_5_2_Hidden_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Foundations_Asphalt.CBG_Foundations_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Corners_Asphalt.CBG_Ramps_Corners_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Double_Asphalt.CBG_Ramps_Double_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_InvCorners_Asphalt.CBG_Ramps_InvCorners_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Inverted_Asphalt.CBG_Ramps_Inverted_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_QuarterPipes_Asphalt.CBG_QuarterPipes_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Half_Foundations_Asphalt.CBG_Half_Foundations_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_ExtensionQuarterPipes_Asphalt.CBG_ExtensionQuarterPipes_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Stairs_Asphalt.CBG_Stairs_Asphalt_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Foundations_Concrete.CBG_Foundations_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Corners_Concrete.CBG_Ramps_Corners_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Double_Concrete.CBG_Ramps_Double_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_InvCorners_Concrete.CBG_Ramps_InvCorners_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Inverted_Concrete.CBG_Ramps_Inverted_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_QuarterPipes_Concrete.CBG_QuarterPipes_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Colour_ConcreteSwatch.CBG_Colour_ConcreteSwatch_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Half_Foundations_Concrete.CBG_Half_Foundations_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_ExtensionQuarterPipes_Concrete.CBG_ExtensionQuarterPipes_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Stairs_Concrete.CBG_Stairs_Concrete_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Basic.CBG_Concrete_Walls_Basic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Conveyor.CBG_Concrete_Walls_Conveyor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_DiagonalDown.CBG_Concrete_Walls_DiagonalDown_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_DiagonalUp.CBG_Concrete_Walls_DiagonalUp_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Doors.CBG_Concrete_Walls_Doors_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Gates.CBG_Concrete_Walls_Gates_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Concrete_Walls_Windows.CBG_Concrete_Walls_Windows_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Basic_Glass.CBG_Roofs_Basic_Glass_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Foundations_Metal.CBG_Foundations_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Corners_Metal.CBG_Ramps_Corners_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Double_Metal.CBG_Ramps_Double_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_InvCorners_Metal.CBG_Ramps_InvCorners_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Inverted_Metal.CBG_Ramps_Inverted_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_QuarterPipes_GripMetal.CBG_QuarterPipes_GripMetal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Half_Foundations_Metal.CBG_Half_Foundations_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_ExtensionQuarterPipes_GripMetal.CBG_ExtensionQuarterPipes_GripMetal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Stairs_Metal.CBG_Stairs_Metal_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Foundations_Coated.CBG_Foundations_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Corners_Coated.CBG_Ramps_Corners_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Double_Coated.CBG_Ramps_Double_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_InvCorners_Coated.CBG_Ramps_InvCorners_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Ramps_Inverted_Coated.CBG_Ramps_Inverted_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_QuarterPipes_Coated.CBG_QuarterPipes_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Half_Foundations_Polished.CBG_Half_Foundations_Polished_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_ExtensionQuarterPipes_Polished.CBG_ExtensionQuarterPipes_Polished_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Stairs_Coated.CBG_Stairs_Coated_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Basic_Steel.CBG_Roofs_Basic_Steel_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_Basic.CBG_Steel_Walls_Basic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_Conveyor.CBG_Steel_Walls_Conveyor_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_DiagonalDown.CBG_Steel_Walls_DiagonalDown_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_DiagonalUp.CBG_Steel_Walls_DiagonalUp_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_Doors.CBG_Steel_Walls_Doors_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_Gates.CBG_Steel_Walls_Gates_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Steel_Walls_WIndows.CBG_Steel_Walls_WIndows_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Schematics/ResourceSink/Customizer_Background/CBG_Roofs_Basic_Tar.CBG_Roofs_Basic_Tar_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mLastActiveSchematic": {
+        "name": "mLastActiveSchematic",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Schematics/Progression/Schematic_3-2.Schematic_3-2_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mShipLandTimeStampSave": {
+        "name": "mShipLandTimeStampSave",
+        "value": -2825.814208984375,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

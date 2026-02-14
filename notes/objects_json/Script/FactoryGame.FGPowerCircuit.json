@@ -1,0 +1,46 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGPowerCircuit",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.CircuitSubsystem.FGPowerCircuit_2147235943",
+    "unknown": 0,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.CircuitSubsystem"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mCircuitID": {
+        "name": "mCircuitID",
+        "value": 3,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mComponents": {
+        "name": "mComponents",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_PowerPoleMk1_C_2147236865.PowerConnection"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.Build_PowerSwitch_C_2147238087.PowerConnection2"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

@@ -1,0 +1,69 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Character/Creature/Wildlife/SpaceGiraffe/Char_SpaceGiraffe.Char_SpaceGiraffe_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Char_SpaceGiraffe_C_2147355985",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 0.6875237822532654,
+      "w": 0.7261618375778198
+    },
+    "position": {
+      "x": -74490.296875,
+      "y": 243551.859375,
+      "z": -3096.03759765625
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_SpaceGiraffe_C_2147355985.HealthComponent"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mHealthComponent": {
+        "name": "mHealthComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_SpaceGiraffe_C_2147355985.HealthComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeLoadLocation": {
+        "name": "mLastSafeLoadLocation",
+        "value": {
+          "x": -74490.29463500825,
+          "y": 243551.85605690363,
+          "z": -3096.0376477596074
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": ""
+}

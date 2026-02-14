@@ -1,0 +1,108 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Character/Creature/BP_CreatureSpawner.BP_CreatureSpawner_C",
+    "root_object": "8BHCAS3EUAOCF6NRUVIK1T4BL",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_EnemySpawner405_4",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -36520.81640625,
+      "y": 245899.0625,
+      "z": -2449.72705078125
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mSpawnData": {
+        "name": "mSpawnData",
+        "value": {
+          "length": 1,
+          "elements": [
+            {
+              "items": {
+                "creature": {
+                  "name": "creature",
+                  "value": {
+                    "level_name": "",
+                    "path_name": ""
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "WasKilled": {
+                  "name": "WasKilled",
+                  "value": false,
+                  "type_name": "BoolProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "NumTimesKilled": {
+                  "name": "NumTimesKilled",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "KilledOnDayNr": {
+                  "name": "KilledOnDayNr",
+                  "value": -1,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mSpawnData",
+          "type_name": "StructProperty",
+          "payload_size": 194,
+          "element_type": "SpawnData",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mCachedIsNearBase": {
+        "name": "mCachedIsNearBase",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

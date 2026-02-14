@@ -1,0 +1,63 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Script/FactoryGame.FGTrainStationIdentifier",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.FGTrainStationIdentifier_2147011753",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mStation": {
+        "name": "mStation",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_TrainStation_C_2147011757"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mStationName": {
+        "name": "mStationName",
+        "value": {
+          "history_type": 255,
+          "has_culture_invariant_string": true,
+          "value": "Skövde",
+          "flags": 18
+        },
+        "type_name": "TextProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

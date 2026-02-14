@@ -1,0 +1,52 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Script/FactoryGame.FGWheeledVehicleInfo",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.FGWheeledVehicleInfo_2147029765",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0002762781223282218,
+      "y": 0.00021913147065788507,
+      "z": -0.7071098685264587,
+      "w": 0.7071036100387573
+    },
+    "position": {
+      "x": -57696.1796875,
+      "y": 261366.421875,
+      "z": -1067.966796875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mVehicle": {
+        "name": "mVehicle",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_Tractor_C_2147029777"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

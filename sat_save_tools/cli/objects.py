@@ -491,9 +491,12 @@ A list of objects contained in the save file.
         if desc.properties:
             text += ObjectDescriptor.build_props(desc.properties, title="Properties")
 
-        text += MD.spoiler(
-            "JSON repr",
-            MD.code_block(json.dumps(desc.component.model_dump(mode="json"), ensure_ascii=False, indent=2)),
+        text += f"[JSON Repr](/notes/objects_json/{key}.json)"
+        json_output = pathlib.Path("notes", "objects_json", (key.removeprefix("/") + ".json"))
+        json_output.parent.mkdir(exist_ok=True, parents=True)
+        json_output.write_text(
+            json.dumps(desc.component.model_dump(mode="json"), ensure_ascii=False, indent=2),
+            encoding="utf-8",
         )
         text += "\n\n"
 

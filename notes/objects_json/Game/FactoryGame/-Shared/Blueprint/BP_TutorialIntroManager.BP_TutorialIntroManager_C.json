@@ -1,0 +1,109 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_TutorialIntroManager.BP_TutorialIntroManager_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.TutorialIntroManager",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mTradingPostBuilt": {
+        "name": "mTradingPostBuilt",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCurrentOnboardingStep": {
+        "name": "mCurrentOnboardingStep",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/OnboardingSteps/OS_OnboardingComplete.OS_OnboardingComplete"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasCompletedIntroTutorial": {
+        "name": "mHasCompletedIntroTutorial",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasCompletedIntroSequence": {
+        "name": "mHasCompletedIntroSequence",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTradingPost": {
+        "name": "mTradingPost",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_TradingPost_C_2147437712"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTradingPostLevel": {
+        "name": "mTradingPostLevel",
+        "value": 6,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasStartedProgression01Activity": {
+        "name": "mHasStartedProgression01Activity",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

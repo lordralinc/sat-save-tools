@@ -1,0 +1,379 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGFactoryLegsComponent",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_SpaceElevator_C_2147458886.FGFactoryLegs",
+    "unknown": 2097152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.Build_SpaceElevator_C_2147458886"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mCachedFeetOffset": {
+        "name": "mCachedFeetOffset",
+        "value": {
+          "length": 15,
+          "elements": [
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "AQ==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": 0.0,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Ag==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -4.460227966308594,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Aw==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -16.124176025390625,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "BA==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -2.6134986877441406,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "BQ==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -80.06361389160156,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Bg==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -266.6807861328125,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Bw==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -434.07098388671875,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "CA==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -434.07098388671875,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "CQ==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -300.94696044921875,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Cg==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -434.07098388671875,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Cw==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -164.08714294433594,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "DA==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -214.14796447753906,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "DQ==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -125.15557861328125,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Dg==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -29.78179168701172,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "FeetIndex": {
+                  "name": "FeetIndex",
+                  "value": "Dw==",
+                  "type_name": "ByteProperty",
+                  "index": 0,
+                  "type": "None",
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "OffsetZ": {
+                  "name": "OffsetZ",
+                  "value": -27.427534103393555,
+                  "type_name": "FloatProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mCachedFeetOffset",
+          "type_name": "StructProperty",
+          "payload_size": 1530,
+          "element_type": "FeetOffset",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": "AAAAAA=="
+}

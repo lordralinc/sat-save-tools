@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/World/Benefit/Mushroom/BP_Shroom_01.BP_Shroom_01_C",
+    "root_object": "9ZI97U85BHEMNEFSBAN8Q97HH",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_Shroom_2714",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.0,
+      "y": -0.08715560287237167,
+      "z": 0.0,
+      "w": 0.9961947202682495
+    },
+    "position": {
+      "x": -27048.978515625,
+      "y": 267114.0625,
+      "z": -13342.9716796875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": ""
+}

@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGPipeConnectionComponent",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_Pipeline_NoIndicator_C_2147160419.PipelineConnection0",
+    "unknown": 262152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.Build_Pipeline_NoIndicator_C_2147160419"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mPipeNetworkID": {
+        "name": "mPipeNetworkID",
+        "value": 0,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": "AAAAAA=="
+}

@@ -1,0 +1,17 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGFactoryConnectionComponent",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_SpaceElevator_C_2147458886.Input3",
+    "unknown": 2097152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.Build_SpaceElevator_C_2147458886"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {}
+  },
+  "trailing": "AAAAAA=="
+}

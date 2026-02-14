@@ -1,0 +1,261 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/Elevator/Build_Elevator.Build_Elevator_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -73055.15625,
+      "y": 263769.8125,
+      "z": -1090.85546875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561.PowerConnection "
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561.InventoryPotential"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561.powerInfo"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mElevatorCabin": {
+        "name": "mElevatorCabin",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_ElevatorCabin_C_2146961545"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHeight": {
+        "name": "mHeight",
+        "value": 2100.0,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mFloorStopInfos": {
+        "name": "mFloorStopInfos",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "items": {
+                "FloorStop": {
+                  "name": "FloorStop",
+                  "value": {
+                    "level_name": "Persistent_Level",
+                    "path_name": "Persistent_Level:PersistentLevel.Build_ElevatorFloorStop_C_2146961560"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "FloorName": {
+                  "name": "FloorName",
+                  "value": "0m",
+                  "type_name": "StrProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IconID": {
+                  "name": "IconID",
+                  "value": -1,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IconColor": {
+                  "name": "IconColor",
+                  "value": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                }
+              }
+            },
+            {
+              "items": {
+                "FloorStop": {
+                  "name": "FloorStop",
+                  "value": {
+                    "level_name": "Persistent_Level",
+                    "path_name": "Persistent_Level:PersistentLevel.Build_ElevatorFloorStop_C_2146961555"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "FloorName": {
+                  "name": "FloorName",
+                  "value": "17m",
+                  "type_name": "StrProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IconID": {
+                  "name": "IconID",
+                  "value": -1,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "IconColor": {
+                  "name": "IconColor",
+                  "value": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "LinearColor",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mFloorStopInfos",
+          "type_name": "StructProperty",
+          "payload_size": 645,
+          "element_type": "ElevatorFloorStopInfo",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mPowerInfo": {
+        "name": "mPowerInfo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561.powerInfo"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mTimeSinceStartStopProducing": {
+        "name": "mTimeSinceStartStopProducing",
+        "value": 3.3999999521443642e+38,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsProductionPaused": {
+        "name": "mIsProductionPaused",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInventoryPotential": {
+        "name": "mInventoryPotential",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_Elevator_C_2146961561.InventoryPotential"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Elevator/Recipe_Elevator.Recipe_Elevator_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

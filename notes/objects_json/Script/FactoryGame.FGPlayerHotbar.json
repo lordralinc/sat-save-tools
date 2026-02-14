@@ -1,0 +1,69 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGPlayerHotbar",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822",
+    "unknown": 0,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mShortcuts": {
+        "name": "mShortcuts",
+        "value": {
+          "length": 10,
+          "elements": [
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822.FGRecipeShortcut_2147463812"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822.FGRecipeShortcut_2147463811"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822.FGRecipeShortcut_2147463810"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822.FGRecipeShortcut_2147463809"
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

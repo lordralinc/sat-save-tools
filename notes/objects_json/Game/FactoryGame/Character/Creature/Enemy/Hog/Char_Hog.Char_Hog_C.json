@@ -1,0 +1,69 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Character/Creature/Enemy/Hog/Char_Hog.Char_Hog_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Char_Hog_C_2146959943",
+    "unknown": 8,
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.009111493825912476,
+      "w": 0.9999585151672363
+    },
+    "position": {
+      "x": -74081.8515625,
+      "y": 263393.09375,
+      "z": -3788.2939453125
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Hog_C_2146959943.HealthComponent"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mHealthComponent": {
+        "name": "mHealthComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Hog_C_2146959943.HealthComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeLoadLocation": {
+        "name": "mLastSafeLoadLocation",
+        "value": {
+          "x": -74081.85316698176,
+          "y": 263393.1062083254,
+          "z": -3788.29394633843
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": ""
+}

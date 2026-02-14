@@ -1,0 +1,74 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Script/FactoryGame.FGItemPickup_Spawnable",
+    "root_object": "AYA5Y3Y4QXOR0ZIGYI7IA16CF",
+    "instance_name": "Persistent_Level:PersistentLevel.FGItemPickup_Spawnable_UAID_40B076DF2F792FC301_1525774356",
+    "unknown": 2621448,
+    "rotation": {
+      "x": -0.08728968352079391,
+      "y": -0.00884624756872654,
+      "z": -0.6974772810935974,
+      "w": 0.7112156748771667
+    },
+    "position": {
+      "x": -9818.0,
+      "y": 225840.0,
+      "z": -986.2720947265625
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mPickupItems": {
+        "name": "mPickupItems",
+        "value": {
+          "items": {
+            "Item": {
+              "name": "Item",
+              "value": {
+                "unknown": 0,
+                "name": "/Game/FactoryGame/Resource/Parts/IronPlateReinforced/Desc_IronPlateReinforced.Desc_IronPlateReinforced_C",
+                "unknown_2": null,
+                "type": null,
+                "properties": null
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "InventoryItem",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "NumItems": {
+              "name": "NumItems",
+              "value": 38,
+              "type_name": "IntProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "InventoryStack",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": ""
+}

@@ -1,0 +1,67 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Resource/BP_ResourceDeposit.BP_ResourceDeposit_C",
+    "root_object": "CCI4JZNY4T9LIJ11WUJXCE4XZ",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_ResourceDeposit193_285",
+    "unknown": 2621448,
+    "rotation": {
+      "x": -0.4206387400627136,
+      "y": 0.11665275692939758,
+      "z": 0.10874390602111816,
+      "w": 0.8931013345718384
+    },
+    "position": {
+      "x": -44515.7421875,
+      "y": 272100.0,
+      "z": -3477.231201171875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mResourceDepositTableIndex": {
+        "name": "mResourceDepositTableIndex",
+        "value": 2,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mMineAmount": {
+        "name": "mMineAmount",
+        "value": 5,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mResourcesLeft": {
+        "name": "mResourcesLeft",
+        "value": 23,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

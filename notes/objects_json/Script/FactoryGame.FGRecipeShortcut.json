@@ -1,0 +1,30 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGRecipeShortcut",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822.FGRecipeShortcut_2147463812",
+    "unknown": 0,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mRecipeToActivate": {
+        "name": "mRecipeToActivate",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_PowerPoleMk1.Recipe_PowerPoleMk1_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

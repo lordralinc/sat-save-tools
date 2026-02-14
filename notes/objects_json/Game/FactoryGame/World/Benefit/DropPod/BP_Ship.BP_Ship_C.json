@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/World/Benefit/DropPod/BP_Ship.BP_Ship_C",
+    "root_object": "8Q9U6JP0MU8U0J7VH8JZATBPJ",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_Ship_C_UAID_40B076DF2F790FC101_1586826613",
+    "unknown": 2621448,
+    "rotation": {
+      "x": -0.028703264892101288,
+      "y": -0.04137295484542847,
+      "z": -0.08890094608068466,
+      "w": 0.9947668313980103
+    },
+    "position": {
+      "x": -78923.484375,
+      "y": 294693.84375,
+      "z": -4669.24609375
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mDismantleRefundsIndex": {
+        "name": "mDismantleRefundsIndex",
+        "value": 0,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

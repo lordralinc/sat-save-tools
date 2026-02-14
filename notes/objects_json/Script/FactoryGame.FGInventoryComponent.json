@@ -1,0 +1,17 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGInventoryComponent",
+    "root_object": "8Q9U6JP0MU8U0J7VH8JZATBPJ",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_DropPod33.Inventory2",
+    "unknown": 2883592,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.BP_DropPod33"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {}
+  },
+  "trailing": "AAAAAA=="
+}

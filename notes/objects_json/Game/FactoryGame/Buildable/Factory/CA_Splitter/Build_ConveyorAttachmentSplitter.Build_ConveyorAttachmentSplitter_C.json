@@ -1,0 +1,132 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/CA_Splitter/Build_ConveyorAttachmentSplitter.Build_ConveyorAttachmentSplitter_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918",
+    "unknown": 8,
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.7071067690849304,
+      "w": 0.7071067690849304
+    },
+    "position": {
+      "x": -39855.15625,
+      "y": 258869.8125,
+      "z": -3390.8544921875
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.Output2"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.StorageInventory"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.Output1"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.Input1"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.Output3"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mCurrentOutputIndex": {
+        "name": "mCurrentOutputIndex",
+        "value": 0,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBufferInventory": {
+        "name": "mBufferInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_ConveyorAttachmentSplitter_C_2147411918.StorageInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mSavedDirections": {
+        "name": "mSavedDirections",
+        "value": {
+          "length": 4,
+          "elements": [
+            "EFactoryConnectionDirection::FCD_OUTPUT",
+            "EFactoryConnectionDirection::FCD_INPUT",
+            "EFactoryConnectionDirection::FCD_OUTPUT",
+            "EFactoryConnectionDirection::FCD_OUTPUT"
+          ],
+          "type": "EnumProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot0.SwatchDesc_Slot0_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorAttachmentSplitter.Recipe_ConveyorAttachmentSplitter_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

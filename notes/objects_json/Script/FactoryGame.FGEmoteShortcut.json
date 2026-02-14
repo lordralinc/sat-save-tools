@@ -1,0 +1,30 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGEmoteShortcut",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463813.FGEmoteShortcut_2147463808",
+    "unknown": 0,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463813"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mEmoteToActivate": {
+        "name": "mEmoteToActivate",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Emotes/Emote_Heart.Emote_Heart_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

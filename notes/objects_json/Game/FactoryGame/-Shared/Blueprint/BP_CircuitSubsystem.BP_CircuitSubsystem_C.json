@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/-Shared/Blueprint/BP_CircuitSubsystem.BP_CircuitSubsystem_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.CircuitSubsystem",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": "BAAAAAMAAAARAAAAUGVyc2lzdGVudF9MZXZlbABMAAAAUGVyc2lzdGVudF9MZXZlbDpQZXJzaXN0ZW50TGV2ZWwuQ2lyY3VpdFN1YnN5c3RlbS5GR1Bvd2VyQ2lyY3VpdF8yMTQ3MjM1OTQzAAQAAAARAAAAUGVyc2lzdGVudF9MZXZlbABMAAAAUGVyc2lzdGVudF9MZXZlbDpQZXJzaXN0ZW50TGV2ZWwuQ2lyY3VpdFN1YnN5c3RlbS5GR1Bvd2VyQ2lyY3VpdF8yMTQ3MjM1NzAyABYAAAARAAAAUGVyc2lzdGVudF9MZXZlbABMAAAAUGVyc2lzdGVudF9MZXZlbDpQZXJzaXN0ZW50TGV2ZWwuQ2lyY3VpdFN1YnN5c3RlbS5GR1Bvd2VyQ2lyY3VpdF8yMTQ2OTYxNTU5AAkAAAARAAAAUGVyc2lzdGVudF9MZXZlbABMAAAAUGVyc2lzdGVudF9MZXZlbDpQZXJzaXN0ZW50TGV2ZWwuQ2lyY3VpdFN1YnN5c3RlbS5GR1Bvd2VyQ2lyY3VpdF8yMTQ3NDc1NzEwAA=="
+}

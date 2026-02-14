@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Prototype/WAT/BP_WAT1.BP_WAT1_C",
+    "root_object": "9ZI97U85BHEMNEFSBAN8Q97HH",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_WAT110",
+    "unknown": 2621448,
+    "rotation": {
+      "x": -0.3479424715042114,
+      "y": -0.10763715952634811,
+      "z": -0.8222628235816956,
+      "w": 0.43730318546295166
+    },
+    "position": {
+      "x": -25118.654296875,
+      "y": 267763.21875,
+      "z": -11490.32421875
+    },
+    "scale": {
+      "x": 1.600000023841858,
+      "y": 1.600000023841858,
+      "z": 1.600000023841858
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {}
+  },
+  "trailing": ""
+}

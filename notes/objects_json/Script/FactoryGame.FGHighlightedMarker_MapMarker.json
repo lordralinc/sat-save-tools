@@ -1,0 +1,125 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGHighlightedMarker_MapMarker",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.MapManager.FGHighlightedMarker_MapMarker_2147476223",
+    "unknown": 0,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.MapManager"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mMapMarker": {
+        "name": "mMapMarker",
+        "value": {
+          "items": {
+            "markerGuid": {
+              "name": "markerGuid",
+              "value": "c9c26a24-71a2-3f46-99f7-73d0043ed1d2",
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "Guid",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "Location": {
+              "name": "Location",
+              "value": {
+                "items": {
+                  "X": {
+                    "name": "X",
+                    "value": -38372.21484375,
+                    "type_name": "DoubleProperty",
+                    "index": 0,
+                    "guid": {
+                      "guid": null
+                    }
+                  },
+                  "Y": {
+                    "name": "Y",
+                    "value": 234677.8125,
+                    "type_name": "DoubleProperty",
+                    "index": 0,
+                    "guid": {
+                      "guid": null
+                    }
+                  },
+                  "Z": {
+                    "name": "Z",
+                    "value": -3833.6122216465883,
+                    "type_name": "DoubleProperty",
+                    "index": 0,
+                    "guid": {
+                      "guid": null
+                    }
+                  }
+                }
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "Vector_NetQuantize",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "Name": {
+              "name": "Name",
+              "value": "New Marker",
+              "type_name": "StrProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "MapMarkerType": {
+              "name": "MapMarkerType",
+              "value": "ERepresentationType::RT_MapMarker",
+              "type_name": "EnumProperty",
+              "index": 0,
+              "type": "ERepresentationType",
+              "guid": {
+                "guid": null
+              }
+            },
+            "IconID": {
+              "name": "IconID",
+              "value": 336,
+              "type_name": "IntProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "Color": {
+              "name": "Color",
+              "value": {
+                "r": 0.13286800682544708,
+                "g": 0.13286800682544708,
+                "b": 0.13563300669193268,
+                "a": 1.0
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "LinearColor",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "MarkerPlacedByAccountID": {
+              "name": "MarkerPlacedByAccountID",
+              "value": "069E65E23401001001",
+              "type_name": "StrProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "MapMarker",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": ""
+}

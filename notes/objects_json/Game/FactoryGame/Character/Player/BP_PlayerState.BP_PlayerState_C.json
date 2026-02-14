@@ -1,0 +1,798 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Character/Player/BP_PlayerState.BP_PlayerState_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.ShoppingListComponent"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mPlayerHotbars": {
+        "name": "mPlayerHotbars",
+        "value": {
+          "length": 10,
+          "elements": [
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463822"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463821"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463820"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463819"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463818"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463817"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463816"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463815"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463814"
+            },
+            {
+              "level_name": "Persistent_Level",
+              "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.FGPlayerHotbar_2147463813"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mBuildableSubCategoryDefaultMatDesc": {
+        "name": "mBuildableSubCategoryDefaultMatDesc",
+        "value": {
+          "length": 12,
+          "elements": [
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Floors.SC_Floors_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Foundation_Default.MaterialDesc_Foundation_Default_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Inverted.SC_Inverted_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Foundation_Default.MaterialDesc_Foundation_Default_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Ramps.SC_Ramps_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Foundation_Default.MaterialDesc_Foundation_Default_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_QuatPipes.SC_QuatPipes_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Foundation_Default.MaterialDesc_Foundation_Default_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_Walls.SC_Walls_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_DiagonalWalls.SC_DiagonalWalls_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_AngularWalls.SC_AngularWalls_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_UpperDiagonalWalls.SC_UpperDiagonalWalls_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_Windows.SC_Windows_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_ConveyorConnections.SC_ConveyorConnections_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_Doors.SC_Doors_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Roofs.SC_Roofs_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Roof_Ficsit.MaterialDesc_Roof_Ficsit_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mBuildableSubCategoryDefaultMatDesc",
+          "type_name": "StructProperty",
+          "payload_size": 3999,
+          "element_type": "SubCategoryMaterialDefault",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mMaterialSubCategoryDefaultMatDesc": {
+        "name": "mMaterialSubCategoryDefaultMatDesc",
+        "value": {
+          "length": 3,
+          "elements": [
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Floors.SC_Floors_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Foundation_Default.MaterialDesc_Foundation_Default_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Walls/SC_Walls.SC_Walls_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Wall_Orange.MaterialDesc_Wall_Orange_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Category": {
+                  "name": "Category",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Interface/UI/InGame/BuildMenu/BuildCategories/Sub_Organisation/SC_Roofs.SC_Roofs_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                },
+                "MaterialDesc": {
+                  "name": "MaterialDesc",
+                  "value": {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Materials/MaterialDesc_Roof_Ficsit.MaterialDesc_Roof_Ficsit_C"
+                  },
+                  "type_name": "ObjectProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mMaterialSubCategoryDefaultMatDesc",
+          "type_name": "StructProperty",
+          "payload_size": 981,
+          "element_type": "SubCategoryMaterialDefault",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mPlayerRules": {
+        "name": "mPlayerRules",
+        "value": {
+          "items": {
+            "HasInitialized": {
+              "name": "HasInitialized",
+              "value": true,
+              "type_name": "BoolProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "NoBuildCost": {
+              "name": "NoBuildCost",
+              "value": true,
+              "type_name": "BoolProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "FlightMode": {
+              "name": "FlightMode",
+              "value": true,
+              "type_name": "BoolProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "GodMode": {
+              "name": "GodMode",
+              "value": true,
+              "type_name": "BoolProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "PlayerRules",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mOwnedPawn": {
+        "name": "mOwnedPawn",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHasReceivedInitialItems": {
+        "name": "mHasReceivedInitialItems",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mVisitedAreas": {
+        "name": "mVisitedAreas",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Interface/UI/Minimap/MapAreaPersistenLevel/Area_GrassFields_2.Area_GrassFields_2_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Interface/UI/Minimap/MapAreaPersistenLevel/Area_GrassFields_3.Area_GrassFields_3_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mShoppingListSettings": {
+        "name": "mShoppingListSettings",
+        "value": {
+          "items": {
+            "Size": {
+              "name": "Size",
+              "value": 450.0,
+              "type_name": "FloatProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "ShoppingListSettings",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mClientIdentityInfo": {
+        "name": "mClientIdentityInfo",
+        "value": {
+          "uuid": "c882c7e94460b8b47b71e28320f81274",
+          "identities": [
+            {
+              "variant": 6,
+              "payload": "nmXiNAEAEAE="
+            }
+          ]
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "ClientIdentityInfo",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mPlayedMessages": {
+        "name": "mPlayedMessages",
+        "value": {
+          "length": 16,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-1.MSG_Tier1_Schematic_1-1"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-2.MSG_Tier1_Schematic_1-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Priority_Interruptions/MSG_Priority_Interruption_01.MSG_Priority_Interruption_01"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/ProjectAssembly/MSG_PA_SpaceElevator.MSG_PA_SpaceElevator"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier1/MSG_Tier1_Schematic_1-3.MSG_Tier1_Schematic_1-3"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-1.MSG_Tier2_Schematic_2-1"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-2.MSG_Tier2_Schematic_2-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-3.MSG_Tier2_Schematic_2-3"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_2-5.MSG_Tier2_Schematic_2-5"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier2/MSG_Tier2_Schematic_3-2.MSG_Tier2_Schematic_3-2"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_CoalGenerator.MSG_Tier3_CoalGenerator"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_Pipeline.MSG_Tier3_Pipeline"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_TruckStation.MSG_Tier3_TruckStation"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier3/Actions/MSG_Tier3_Tractor.MSG_Tier3_Tractor"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier9/Actions/MSG_Tier9_Portal.MSG_Tier9_Portal"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Narrative/Tier4/Actions/MSG_Tier4_BlueprintDesigner.MSG_Tier4_BlueprintDesigner"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mRememberedFirstTimeEquipmentClasses": {
+        "name": "mRememberedFirstTimeEquipmentClasses",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/ResourceScanner/BP_ResourceScanner.BP_ResourceScanner_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/BuildGun/BP_BuildGun.BP_BuildGun_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mNumObservedInventorySlots": {
+        "name": "mNumObservedInventorySlots",
+        "value": 87,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mShoppingListComponent": {
+        "name": "mShoppingListComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.ShoppingListComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeCharacterLocation": {
+        "name": "mLastSafeCharacterLocation",
+        "value": {
+          "x": -70680.5274373117,
+          "y": 260081.78493545603,
+          "z": -982.8446994803676
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": "8QYIAAAAnmXiNAEAEAE="
+}

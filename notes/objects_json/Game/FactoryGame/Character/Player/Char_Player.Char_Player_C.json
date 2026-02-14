@@ -1,0 +1,349 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Character/Player/Char_Player.Char_Player_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212",
+    "unknown": 8,
+    "rotation": {
+      "x": -0.0,
+      "y": 0.0,
+      "z": -0.587589681148529,
+      "w": 0.8091590404510498
+    },
+    "position": {
+      "x": -70680.53125,
+      "y": 260081.78125,
+      "z": -892.694580078125
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.UploadInventory"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.TrashSlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.BodySlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.HealthComponent"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.HeadSlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.LegsSlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.BackSlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.ArmSlot"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.inventory"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mBuildGun": {
+        "name": "mBuildGun",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_BuildGun_C_2147463715"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mResourceScanner": {
+        "name": "mResourceScanner",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.BP_ResourceScanner_C_2147463719"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mResourceMiner": {
+        "name": "mResourceMiner",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Equip_ResourceMiner_C_2147463717"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeGroundPositions": {
+        "name": "mLastSafeGroundPositions",
+        "value": {
+          "x": -70680.5274373117,
+          "y": 260081.78493545603,
+          "z": -982.8446994803676
+        },
+        "type_name": "StructProperty",
+        "index": 2,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mLastSafeGroundPositionLoopHead": {
+        "name": "mLastSafeGroundPositionLoopHead",
+        "value": 2,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInventory": {
+        "name": "mInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.inventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mUploadInventory": {
+        "name": "mUploadInventory",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.UploadInventory"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mArmsEquipmentSlot": {
+        "name": "mArmsEquipmentSlot",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.ArmSlot"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBackEquipmentSlot": {
+        "name": "mBackEquipmentSlot",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.BackSlot"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLegsEquipmentSlot": {
+        "name": "mLegsEquipmentSlot",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.LegsSlot"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mHeadEquipmentSlot": {
+        "name": "mHeadEquipmentSlot",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.HeadSlot"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mBodyEquipmentSlot": {
+        "name": "mBodyEquipmentSlot",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.BodySlot"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mUploadTimer": {
+        "name": "mUploadTimer",
+        "value": -1.0,
+        "type_name": "FloatProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCachedPlayerName": {
+        "name": "mCachedPlayerName",
+        "value": "lordralinc",
+        "type_name": "StrProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mCachedPlayerCustomizationData": {
+        "name": "mCachedPlayerCustomizationData",
+        "value": {
+          "items": {
+            "PrimaryColor": {
+              "name": "PrimaryColor",
+              "value": {
+                "r": 0.7835379838943481,
+                "g": 0.2917709946632385,
+                "b": 0.057805001735687256,
+                "a": 1.0
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "LinearColor",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "SecondaryColor": {
+              "name": "SecondaryColor",
+              "value": {
+                "r": 0.11697100102901459,
+                "g": 0.13286800682544708,
+                "b": 0.26225098967552185,
+                "a": 1.0
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "LinearColor",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "DetailColor": {
+              "name": "DetailColor",
+              "value": {
+                "r": 0.6927080154418945,
+                "g": 0.5976309776306152,
+                "b": 0.45093899965286255,
+                "a": 1.0
+              },
+              "type_name": "StructProperty",
+              "index": 0,
+              "type": "LinearColor",
+              "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+            },
+            "HelmetCustomizationDesc": {
+              "name": "HelmetCustomizationDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Default.Desc_Helmet_Default_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "TrinketCustomizationDesc": {
+              "name": "TrinketCustomizationDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_Checkit.Desc_Trinket_Checkit_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            },
+            "EquipmentCustomizationDesc": {
+              "name": "EquipmentCustomizationDesc",
+              "value": {
+                "length": 1,
+                "elements": [
+                  {
+                    "level_name": "",
+                    "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_Default.Desc_Skin_Buildgun_Default_C"
+                  }
+                ],
+                "type": "ObjectProperty"
+              },
+              "type_name": "ArrayProperty",
+              "index": 0
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "PlayerCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mHealthComponent": {
+        "name": "mHealthComponent",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.HealthComponent"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mLastSafeLoadLocation": {
+        "name": "mLastSafeLoadLocation",
+        "value": {
+          "x": -70680.5274373117,
+          "y": 260081.78493545603,
+          "z": -982.8446994803676
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "Vector",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      }
+    }
+  },
+  "trailing": ""
+}

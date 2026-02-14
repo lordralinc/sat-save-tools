@@ -1,0 +1,17 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGShoppingListComponent",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679.ShoppingListComponent",
+    "unknown": 262152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.BP_PlayerState_C_2147464679"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {}
+  },
+  "trailing": "AAAAAA=="
+}

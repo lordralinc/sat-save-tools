@@ -1,0 +1,199 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline_NoIndicator.Build_Pipeline_NoIndicator_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_Pipeline_NoIndicator_C_2147160419",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -52655.15625,
+      "y": 259169.8125,
+      "z": -915.8555297851562
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": true,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BuildableSubsystem"
+  },
+  "components": [
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Pipeline_NoIndicator_C_2147160419.PipelineConnection1"
+    },
+    {
+      "level_name": "Persistent_Level",
+      "path_name": "Persistent_Level:PersistentLevel.Build_Pipeline_NoIndicator_C_2147160419.PipelineConnection0"
+    }
+  ],
+  "properties": {
+    "items": {
+      "mSplineData": {
+        "name": "mSplineData",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "items": {
+                "Location": {
+                  "name": "Location",
+                  "value": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "ArriveTangent": {
+                  "name": "ArriveTangent",
+                  "value": {
+                    "x": -1.2246467991473535e-16,
+                    "y": -1.0,
+                    "z": 0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "LeaveTangent": {
+                  "name": "LeaveTangent",
+                  "value": {
+                    "x": -3.67394039744206e-14,
+                    "y": -300.0,
+                    "z": 0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                }
+              }
+            },
+            {
+              "items": {
+                "Location": {
+                  "name": "Location",
+                  "value": {
+                    "x": 0.0,
+                    "y": -600.0,
+                    "z": 0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "ArriveTangent": {
+                  "name": "ArriveTangent",
+                  "value": {
+                    "x": -0.0,
+                    "y": -300.0,
+                    "z": -0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "LeaveTangent": {
+                  "name": "LeaveTangent",
+                  "value": {
+                    "x": -0.0,
+                    "y": -1.0,
+                    "z": -0.0
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "Vector",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mSplineData",
+          "type_name": "StructProperty",
+          "payload_size": 588,
+          "element_type": "SplinePointData",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mSnappedPassthroughs": {
+        "name": "mSnappedPassthroughs",
+        "value": {
+          "length": 2,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mCustomizationData": {
+        "name": "mCustomizationData",
+        "value": {
+          "items": {
+            "SwatchDesc": {
+              "name": "SwatchDesc",
+              "value": {
+                "level_name": "",
+                "path_name": "/Game/FactoryGame/Buildable/-Shared/Customization/Swatches/SwatchDesc_Slot17.SwatchDesc_Slot17_C"
+              },
+              "type_name": "ObjectProperty",
+              "index": 0,
+              "guid": {
+                "guid": null
+              }
+            }
+          }
+        },
+        "type_name": "StructProperty",
+        "index": 0,
+        "type": "FactoryCustomizationData",
+        "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "mBuiltWithRecipe": {
+        "name": "mBuiltWithRecipe",
+        "value": {
+          "level_name": "",
+          "path_name": "/Game/FactoryGame/Recipes/Buildings/Recipe_Pipeline_NoIndicator.Recipe_Pipeline_NoIndicator_C"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

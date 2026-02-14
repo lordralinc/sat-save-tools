@@ -1,0 +1,466 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/Unlocks/BP_UnlockSubsystem.BP_UnlockSubsystem_C",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.unlockSubsystem",
+    "unknown": 8,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": false
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "Persistent_Level",
+    "path_name": "Persistent_Level:PersistentLevel.BP_GameState_C_2147477714"
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mScannableResourcesPairs": {
+        "name": "mScannableResourcesPairs",
+        "value": {
+          "length": 15,
+          "elements": [
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mScannableResourcesPairs",
+          "type_name": "StructProperty",
+          "payload_size": 135,
+          "element_type": "ScannableResourcePair",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mScannableObjectData": {
+        "name": "mScannableObjectData",
+        "value": {
+          "length": 24,
+          "elements": [
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            },
+            {
+              "items": {}
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mScannableObjectData",
+          "type_name": "StructProperty",
+          "payload_size": 216,
+          "element_type": "ScannableObjectData",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mIsMapUnlocked": {
+        "name": "mIsMapUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsBuildingEfficiencyUnlocked": {
+        "name": "mIsBuildingEfficiencyUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsBuildingOverclockUnlocked": {
+        "name": "mIsBuildingOverclockUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsBlueprintsUnlocked": {
+        "name": "mIsBlueprintsUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsCustomizerUnlocked": {
+        "name": "mIsCustomizerUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mIsBuildingProductionBoostUnlocked": {
+        "name": "mIsBuildingProductionBoostUnlocked",
+        "value": true,
+        "type_name": "BoolProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mNumTotalInventorySlots": {
+        "name": "mNumTotalInventorySlots",
+        "value": 87,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mNumTotalArmEquipmentSlots": {
+        "name": "mNumTotalArmEquipmentSlots",
+        "value": 7,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mUnlockedEmotes": {
+        "name": "mUnlockedEmotes",
+        "value": {
+          "length": 12,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Clap.Emote_Clap_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_BuildGunSpin.Emote_BuildGunSpin_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_FacePalm.Emote_FacePalm_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Rock.Emote_Rock_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Paper.Emote_Paper_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Scissors.Emote_Scissors_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Point.Emote_Point_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Wave.Emote_Wave_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Heart.Emote_Heart_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_ThumbsUp.Emote_ThumbsUp_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_ThumbsDown.Emote_ThumbsDown_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Emotes/Emote_Fingerguns.Emote_Fingerguns_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mUnlockedTapes": {
+        "name": "mUnlockedTapes",
+        "value": {
+          "length": 9,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/DeepRockGalactic/Tape_DeepRockGalactic.Tape_DeepRockGalactic_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/Huntdown/Tape_Huntdown.Tape_Huntdown_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/SongsOfConquest/Tape_SongsOfConquest.Tape_SongsOfConquest_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/AbsoluteFicsit/Tape_AbsoluteFicsit.Tape_AbsoluteFicsit_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/Goat/Tape_WorstOfGoat.Tape_WorstOfGoat_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/JoelSyntholm/Tape_JoelSyntholm.Tape_JoelSyntholm_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/LeMichael/Tape_LeMichael.Tape_LeMichael_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/Sanctum/Tape_Sanctum.Tape_Sanctum_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Resource/Tape/Sanctum2/Tape_Sanctum2.Tape_Sanctum2_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mUnlockedPlayerCustomizations": {
+        "name": "mUnlockedPlayerCustomizations",
+        "value": {
+          "length": 22,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Beta.Desc_Helmet_Beta_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Bobble.Desc_Helmet_Bobble_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Default.Desc_Helmet_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Ficsmas.Desc_Helmet_Ficsmas_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Golden.Desc_Helmet_Golden_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Scout.Desc_Helmet_Scout_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/Helmets/Desc_Helmet_Welder.Desc_Helmet_Welder_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_Cammo.Desc_Skin_Buildgun_Cammo_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_ColoredSides.Desc_Skin_Buildgun_ColoredSides_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_Default.Desc_Skin_Buildgun_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_Golden.Desc_Skin_Buildgun_Golden_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_HalfNHalf.Desc_Skin_Buildgun_HalfNHalf_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Buildable/Factory/Locker/EquipmentSkins/Desc_Skin_Buildgun_Striped.Desc_Skin_Buildgun_Striped_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_AirFrechener.Desc_Trinket_AirFrechener_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_Checkit.Desc_Trinket_Checkit_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_Default.Desc_Trinket_Default_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_FicsitCoupon.Desc_Trinket_FicsitCoupon_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_FicsmasBall.Desc_Trinket_FicsmasBall_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_FicsmasStar.Desc_Trinket_FicsmasStar_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_NuclearWaste.Desc_Trinket_NuclearWaste_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_Nut.Desc_Trinket_Nut_C"
+            },
+            {
+              "level_name": "",
+              "path_name": "/Game/FactoryGame/Equipment/Trinkets/Desc_Trinket_Somersloop.Desc_Trinket_Somersloop_C"
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": ""
+}

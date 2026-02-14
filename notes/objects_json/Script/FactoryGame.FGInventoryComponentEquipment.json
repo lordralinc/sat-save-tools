@@ -1,0 +1,328 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGInventoryComponentEquipment",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212.ArmSlot",
+    "unknown": 262152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.Char_Player_C_2147464212"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mSlottedInEquipments": {
+        "name": "mSlottedInEquipments",
+        "value": {
+          "length": 7,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mAdjustedSizeDiff": {
+        "name": "mAdjustedSizeDiff",
+        "value": 2,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mInventoryStacks": {
+        "name": "mInventoryStacks",
+        "value": {
+          "length": 7,
+          "elements": [
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            },
+            {
+              "items": {
+                "Item": {
+                  "name": "Item",
+                  "value": {
+                    "unknown": 0,
+                    "name": "",
+                    "unknown_2": null,
+                    "type": null,
+                    "properties": null
+                  },
+                  "type_name": "StructProperty",
+                  "index": 0,
+                  "type": "InventoryItem",
+                  "unk1": "AAAAAAAAAAAAAAAAAAAAAAA="
+                },
+                "NumItems": {
+                  "name": "NumItems",
+                  "value": 0,
+                  "type_name": "IntProperty",
+                  "index": 0,
+                  "guid": {
+                    "guid": null
+                  }
+                }
+              }
+            }
+          ],
+          "type": "StructProperty",
+          "name": "mInventoryStacks",
+          "type_name": "StructProperty",
+          "payload_size": 938,
+          "element_type": "InventoryStack",
+          "uuid": "AAAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mArbitrarySlotSizes": {
+        "name": "mArbitrarySlotSizes",
+        "value": {
+          "length": 7,
+          "elements": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": "IntProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      },
+      "mAllowedItemDescriptors": {
+        "name": "mAllowedItemDescriptors",
+        "value": {
+          "length": 7,
+          "elements": [
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            },
+            {
+              "level_name": "",
+              "path_name": ""
+            }
+          ],
+          "type": "ObjectProperty"
+        },
+        "type_name": "ArrayProperty",
+        "index": 0
+      }
+    }
+  },
+  "trailing": "AAAAAA=="
+}

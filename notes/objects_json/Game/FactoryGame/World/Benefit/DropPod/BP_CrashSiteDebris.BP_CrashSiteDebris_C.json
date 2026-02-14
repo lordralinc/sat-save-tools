@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "header": {
+    "type": 1,
+    "type_path": "/Game/FactoryGame/World/Benefit/DropPod/BP_CrashSiteDebris.BP_CrashSiteDebris_C",
+    "root_object": "AYA5Y3Y4QXOR0ZIGYI7IA16CF",
+    "instance_name": "Persistent_Level:PersistentLevel.BP_CrashSiteDebris7_532",
+    "unknown": 2621448,
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": -9806.2080078125,
+      "y": 228348.875,
+      "z": -831.1485595703125
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "need_transform": false,
+    "was_placed_in_level": true
+  },
+  "save_version": 52,
+  "flag": 0,
+  "parent_object_reference": {
+    "level_name": "",
+    "path_name": ""
+  },
+  "components": [],
+  "properties": {
+    "items": {
+      "mDismantleRefundsIndex": {
+        "name": "mDismantleRefundsIndex",
+        "value": 0,
+        "type_name": "IntProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": ""
+}

@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "header": {
+    "type": 0,
+    "type_path": "/Script/FactoryGame.FGTrainPlatformConnection",
+    "root_object": "Persistent_Level",
+    "instance_name": "Persistent_Level:PersistentLevel.Build_TrainStation_C_2147011757.PlatformConnection0",
+    "unknown": 262152,
+    "parent_actor_name": "Persistent_Level:PersistentLevel.Build_TrainStation_C_2147011757"
+  },
+  "save_version": 52,
+  "flag": 0,
+  "properties": {
+    "items": {
+      "mRailroadTrackConnection": {
+        "name": "mRailroadTrackConnection",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_RailroadTrackIntegrated_C_2147011750.TrackConnection0"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      },
+      "mConnectedTo": {
+        "name": "mConnectedTo",
+        "value": {
+          "level_name": "Persistent_Level",
+          "path_name": "Persistent_Level:PersistentLevel.Build_TrainDockingStation_C_2147009159.PlatformConnection1"
+        },
+        "type_name": "ObjectProperty",
+        "index": 0,
+        "guid": {
+          "guid": null
+        }
+      }
+    }
+  },
+  "trailing": "AAAAAA=="
+}
