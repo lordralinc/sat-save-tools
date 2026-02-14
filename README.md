@@ -4,6 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/sat-save-tools)](https://pypi.org/project/sat-save-tools/)
 [![PyPI status](https://img.shields.io/pypi/status/sat-save-tools)](https://pypi.org/project/sat-save-tools/)
 [![License](https://img.shields.io/pypi/l/sat-save-tools)](https://pypi.org/project/sat-save-tools/)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 ![Game](https://img.shields.io/badge/Game-Satisfactory-orange)
 
 A collection of Python tools for parsing **Satisfactory** save files, as well as
@@ -72,9 +73,7 @@ The library behavior can be controlled via environment variables:
 - [`gen-cli-docs`](#gen-cli-docs)
 
 ```bash
-usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging]
-           [--data-folder DATA_FOLDER]
-           {info,to-json,from-json,make-objects-tree,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
+usage: sst [-h] [--log-level LOG_LEVEL] [--disable-logging] [--data-folder DATA_FOLDER] {info,to-json,from-json,make-objects-tree,export-consts-data,set-session-name,html,somersloops,players,map,find-free-stuff,gen-cli-docs} ...
 ```
 
 **Arguments:**
@@ -222,9 +221,7 @@ usage: sst players inventory show [-h] --player-id PLAYER_ID save_path
 #### `players inventory export`
 
 ```bash
-usage: sst players inventory export [-h] --player-id PLAYER_ID
-                                    [--output OUTPUT]
-                                    save_path
+usage: sst players inventory export [-h] --player-id PLAYER_ID [--output OUTPUT] save_path
 ```
 
 **Arguments:**
@@ -236,9 +233,7 @@ usage: sst players inventory export [-h] --player-id PLAYER_ID
 #### `players inventory import`
 
 ```bash
-usage: sst players inventory import [-h] [--inventory-path INVENTORY_PATH]
-                                    --player-id PLAYER_ID [--output OUTPUT]
-                                    save_path
+usage: sst players inventory import [-h] [--inventory-path INVENTORY_PATH] --player-id PLAYER_ID [--output OUTPUT] save_path
 ```
 
 **Arguments:**
@@ -277,17 +272,8 @@ usage: sst map markers show [-h] filename
 #### `map markers add`
 
 ```bash
-Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids]
-                           [--account-id ACCOUNT_ID] [--skip-len-check]
-                           [--src SRC] [--mode {add,replace,merge}] [--ms]
-                           [--ms-name MS_NAME]
-                           [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE]
-                           [--ms-icon-id MS_ICON_ID] [--somersloops]
-                           [--somersloops-name SOMERSLOOPS_NAME]
-                           [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE]
-                           [--somersloops-icon-id SOMERSLOOPS_ICON_ID]
-                           [--hard-drives] [--hd-name HD_NAME]
-                           [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE]
+Usage: sst map markers add [-h] --output OUTPUT [--recreate-ids] [--account-id ACCOUNT_ID] [--skip-len-check] [--src SRC] [--mode {add,replace,merge}] [--ms] [--ms-name MS_NAME] [--ms-compass-view-distance MS_COMPASS_VIEW_DISTANCE] [--ms-icon-id MS_ICON_ID] [--somersloops]
+                           [--somersloops-name SOMERSLOOPS_NAME] [--somersloops-compass-view-distance SOMERSLOOPS_COMPASS_VIEW_DISTANCE] [--somersloops-icon-id SOMERSLOOPS_ICON_ID] [--hard-drives] [--hd-name HD_NAME] [--hd-compass-view-distance HD_COMPASS_VIEW_DISTANCE]
                            [--hd-icon-id HD_ICON_ID]
                            filename
 ```

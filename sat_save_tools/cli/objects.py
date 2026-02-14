@@ -1,3 +1,4 @@
+import json
 import pathlib
 import typing
 from argparse import ArgumentParser, _SubParsersAction
@@ -8,7 +9,7 @@ from hashlib import md5
 import pydantic
 from argcomplete.completers import FilesCompleter
 
-from sat_save_tools import HeaderType, SatisfactorySaveFile
+from sat_save_tools import HeaderType, KeyTypeName, SatisfactorySaveFile, SetType, ValueTypeName
 from sat_save_tools.cli.utils import (  # noqa: F401
     AnswerManager,
     add_input_file_action,
@@ -17,6 +18,7 @@ from sat_save_tools.cli.utils import (  # noqa: F401
 )
 from sat_save_tools.models import LevelObjectType, PropertyTypeName
 from sat_save_tools.models.properties import PropertyList
+from sat_save_tools.models.properties.array import ObjectReference
 from sat_save_tools.models.properties.enums import ArrayElementTypeName
 
 __all__ = ("setup",)
@@ -32,8 +34,23 @@ class MD:
         return "`" + val + "`"
 
     @staticmethod
+    def code_block(val: str, lang: str = "json") -> str:
+        return f"```{lang}\n" + val + "\n```"
+
+    @staticmethod
     def make_id(name: str) -> str:
         return md5(name.encode("utf-8")).hexdigest()  # noqa: S324
+
+    @staticmethod
+    def spoiler(name: str, content: str) -> str:
+        def _add_indent(v: str, i: int = 2) -> str:
+            return "\n".join([" " * i + line for line in v.splitlines()])
+
+        return f"""<details>
+  <summary>{name}</summary>
+
+{_add_indent(content, 2)}
+</details>"""
 
     @staticmethod
     def make_table(
@@ -141,6 +158,7 @@ class ObjectDescriptor(pydantic.BaseModel):
     type: HeaderType
     obj_type: str
     properties: PropsTree
+    component: LevelObjectType
 
     @classmethod
     def from_object(cls, save_file: SatisfactorySaveFile, obj: LevelObjectType) -> typing.Self:
@@ -148,6 +166,7 @@ class ObjectDescriptor(pydantic.BaseModel):
             type=obj.header.type,
             obj_type=obj.header.type_path,
             properties=cls.tree(save_file, obj.properties),
+            component=obj,
         )
 
     @classmethod
@@ -189,9 +208,26 @@ class ObjectDescriptor(pydantic.BaseModel):
             return result
 
         return cls(
-            type=a.type,
-            obj_type=a.obj_type,
-            properties=merge_props(a.properties, b.properties),
+            type=a.type, obj_type=a.obj_type, properties=merge_props(a.properties, b.properties), component=a.component
+        )
+
+    @classmethod
+    def make_type_from_rel_objects(
+        cls,
+        save_file: SatisfactorySaveFile,
+        rel_objects: list[ObjectReference],
+    ) -> Property:
+        if len(rel_objects) == 0:
+            return Property(category="ObjectReference")
+        related_objects = [key.get_related_object_or_none(save_file) for key in rel_objects]
+        related_types = list({it.header.type_path for it in related_objects if it is not None})
+        if len(related_types) == 0:
+            return Property(category="ObjectReference")
+        if len(related_types) == 1:
+            return Property(category="ObjectReference", sub=related_types[0])
+        return Property(
+            category="ObjectReference",
+            sub=Property(category="Union", sub=[Property(category=t) for t in related_types]),
         )
 
     @classmethod
@@ -221,7 +257,104 @@ class ObjectDescriptor(pydantic.BaseModel):
                 related_object = value.value.get_related_object_or_none(save_file)
                 if related_object:
                     tree[key] = Property(category="ObjectReference", sub=related_object.header.type_path)
-
+            elif value.type_name == PropertyTypeName.SET:
+                if value.set_type == SetType.OBJECT:
+                    tree[key] = Property(
+                        category="Set",
+                        sub=cls.make_type_from_rel_objects(
+                            save_file,
+                            typing.cast("list[ObjectReference]", value.value),
+                        ),
+                    )
+                if value.set_type == SetType.STRUCT:
+                    tree[key] = Property(
+                        category="Set",
+                        sub=Property(category="Tuple", sub=[Property(category="U64"), Property(category="U64")]),
+                    )
+                if value.set_type == SetType.U_INT_32:
+                    tree[key] = Property(
+                        category="Set",
+                        sub=Property(category="U32"),
+                    )
+            elif value.type_name == PropertyTypeName.MAP:
+                match value.key_type:
+                    case KeyTypeName.INT:
+                        key_prop = Property(category="Key", sub="I32")
+                    case KeyTypeName.INT64:
+                        key_prop = Property(category="Key", sub="I64")
+                    case KeyTypeName.NAME | KeyTypeName.STR | KeyTypeName.ENUM:
+                        key_prop = Property(category="Key", sub="String")
+                    case KeyTypeName.OBJECT:
+                        key_prop = Property(
+                            category="Key",
+                            sub=cls.make_type_from_rel_objects(
+                                save_file,
+                                typing.cast("list[ObjectReference]", [it[0] for it in value.value]),
+                            ),
+                        )
+                    case KeyTypeName.STRUCT:
+                        key_prop = Property(
+                            category="Key",
+                            sub=Property(
+                                category="Tuple",
+                                sub=[
+                                    Property(category="I32"),
+                                    Property(category="I32"),
+                                    Property(category="I32"),
+                                ],
+                            ),
+                        )
+                    case _:
+                        typing.assert_never(value.key_type)
+                match value.value_type:
+                    case ValueTypeName.BYTE:
+                        value_prop = Property(
+                            category="Value",
+                            sub=Property(
+                                category="Union", sub=[Property(category="Byte"), Property(category="String")]
+                            ),
+                        )
+                    case ValueTypeName.BOOL:
+                        value_prop = Property(category="Value", sub=Property(category="U8Bool"))
+                    case ValueTypeName.INT:
+                        value_prop = Property(category="Value", sub=Property(category="I32"))
+                    case ValueTypeName.INT64:
+                        value_prop = Property(category="Value", sub=Property(category="I64"))
+                    case ValueTypeName.FLOAT:
+                        value_prop = Property(category="Value", sub=Property(category="Float"))
+                    case ValueTypeName.DOUBLE:
+                        value_prop = Property(category="Value", sub=Property(category="Double"))
+                    case ValueTypeName.STR:
+                        value_prop = Property(category="Value", sub=Property(category="String"))
+                    case ValueTypeName.OBJECT:
+                        value_prop = Property(
+                            category="Value",
+                            sub=cls.make_type_from_rel_objects(
+                                save_file,
+                                typing.cast(
+                                    "list[ObjectReference]",
+                                    [it[1] for it in value.value],
+                                ),
+                            ),
+                        )
+                    case ValueTypeName.TEXT:
+                        value_prop = Property(category="Value", sub=Property(category="Text"))
+                    case ValueTypeName.STRUCT:
+                        prop_lists = [typing.cast("PropertyList", it[1]).items for it in value.value]
+                        merged_prop_list = {}
+                        for prop_list in prop_lists:
+                            merged_prop_list.update(prop_list)
+                        value_prop = Property(
+                            category="Value",
+                            sub=cls.tree(save_file, PropertyList(items=merged_prop_list)),
+                            original_type=value.name + "Props",
+                        )
+                    case _ as vt:
+                        typing.assert_never(vt)
+                tree[key] = Property(
+                    category="Map",
+                    sub=[key_prop, value_prop],
+                )
             elif value.type_name == PropertyTypeName.SOFT_OBJECT:
                 tree[key] = Property(
                     category="Tuple",
@@ -357,6 +490,13 @@ A list of objects contained in the save file.
 """
         if desc.properties:
             text += ObjectDescriptor.build_props(desc.properties, title="Properties")
+
+        text += MD.spoiler(
+            "JSON repr",
+            MD.code_block(json.dumps(desc.component.model_dump(mode="json"), ensure_ascii=False, indent=2)),
+        )
+        text += "\n\n"
+
     text += "\n\n# Typed Data\n\n"
     for table in TABLES.values():
         text += table + "\n\n"
