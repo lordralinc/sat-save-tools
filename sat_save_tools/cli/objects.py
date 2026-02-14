@@ -79,7 +79,7 @@ class MD:
 
 
 type PropsTree = "dict[str, Property]"
-TABLES = {}
+TABLES_TO_RENDER: "dict[str, Property]" = {}
 
 
 class Property(pydantic.BaseModel):
@@ -349,6 +349,11 @@ class ObjectDescriptor(pydantic.BaseModel):
                             sub=cls.tree(save_file, PropertyList(items=merged_prop_list)),
                             original_type=value.name + "Props",
                         )
+                        TABLES_TO_RENDER[value.name + "Props"] = Property(
+                            category="Value",
+                            sub=cls.tree(save_file, PropertyList(items=merged_prop_list)),
+                            original_type=value.name + "Props",
+                        )
                     case _ as vt:
                         typing.assert_never(vt)
                 tree[key] = Property(
@@ -374,6 +379,30 @@ class ObjectDescriptor(pydantic.BaseModel):
                     tree[key] = Property(
                         category="Array", sub=Property(category="Struct", sub=value.value.element_type.value)
                     )
+
+                    elements = value.value.elements
+                    if isinstance(elements, (bytes, bytearray, memoryview)):
+                        continue
+                    prop_lists = [el for el in elements if isinstance(el, PropertyList)]
+                    merged_prop_list = PropertyList(items={})
+                    for el in prop_lists:
+                        merged_prop_list.items.update(el.items)
+                    if not merged_prop_list.items:
+                        continue
+                    tree[key] = Property(
+                        category="Array",
+                        sub=Property(
+                            category="Struct",
+                            sub=cls.tree(save_file, merged_prop_list),
+                            original_type=value.name + "Props",
+                        ),
+                    )
+                    TABLES_TO_RENDER[value.name + "Props"] = Property(
+                        category="Struct",
+                        sub=cls.tree(save_file, merged_prop_list),
+                        original_type=value.name + "Props",
+                    )
+
                 elif value.value.type in {ArrayElementTypeName.OBJECT, ArrayElementTypeName.INTERFACE}:
                     elements = value.value.elements
                     rel_objects = [el.get_related_object_or_none(save_file) for el in elements]  # type: ignore
@@ -403,6 +432,11 @@ class ObjectDescriptor(pydantic.BaseModel):
                         sub=cls.tree(save_file, value.value),
                         original_type=value.type.value,
                     )
+                    TABLES_TO_RENDER[value.type.value] = Property(
+                        category="Struct",
+                        sub=cls.tree(save_file, value.value),
+                        original_type=value.type.value,
+                    )
                 else:
                     tree[key] = Property(
                         category="Struct",
@@ -420,11 +454,6 @@ class ObjectDescriptor(pydantic.BaseModel):
         for key, value in tree.items():
             if isinstance(value.sub, dict):
                 global_table_id = MD.make_id(value.original_type or "")
-                TABLES[value.original_type or ""] = cls.build_props(
-                    value.sub,
-                    title=value.original_type,  # type: ignore
-                    table_id=global_table_id,
-                )
                 table["rows"].append([key, f"[`{value.original_type}`](#{global_table_id})"])
             else:
                 table["rows"].append([key, f"{value}"])
@@ -468,7 +497,11 @@ def command(save_path: pathlib.Path, output: pathlib.Path | None = None) -> None
         return text
 
     tree = make_tree(list(descriptors.keys()))
-    toc = "# Content:\n\n" + render_tree(tree)
+    toc = "# Content:\n\n" + render_tree(tree) + "\n"
+
+    toc += "- [`Typed data`](#typed_data)\n"
+    for key in TABLES_TO_RENDER:
+        toc += f"  - [`{key}`](#{MD.make_id(key)})\n"
 
     text = f"""# Objects
 
@@ -495,14 +528,15 @@ A list of objects contained in the save file.
         json_output = pathlib.Path("notes", "objects_json", (key.removeprefix("/") + ".json"))
         json_output.parent.mkdir(exist_ok=True, parents=True)
         json_output.write_text(
-            json.dumps(desc.component.model_dump(mode="json"), ensure_ascii=False, indent=2),
+            json.dumps(desc.component.model_dump(mode="json"), ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
         text += "\n\n"
 
-    text += "\n\n# Typed Data\n\n"
-    for table in TABLES.values():
-        text += table + "\n\n"
+    text += '\n\n# Typed Data <a id="typed_data"></a>\n\n'
+
+    for table_key, table_data in TABLES_TO_RENDER.items():
+        text += ObjectDescriptor.build_props(table_data.sub, title=table_key, table_id=MD.make_id(table_key)) + "\n\n"  # type: ignore
 
     output.write_text(text, encoding="utf-8")
 

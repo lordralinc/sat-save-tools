@@ -366,16 +366,48 @@ A list of objects contained in the save file.
   - [`FactoryGame.FGWheeledVehicleInfo`](#c3453bc41814a7ab61761d4d0df33783)
   - [`FactoryGame.FGWorldSettings`](#6186464d789eabc6d83d97b9b8c0e62d)
 
+- [`Typed data`](#typed_data)
+  - [`mSpawnDataProps`](#6e1bfb6f8edba6f3e79e5d243ce8adf3)
+  - [`InventoryStack`](#4bbe9209e8486bf4b08ef002709eeeee)
+  - [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)
+  - [`mColorSlots_DataProps`](#923f8f93f9fd8a37e64cf135c6a55df4)
+  - [`Vector_NetQuantize`](#56605402e390a6c6eebe9c5560cbb4dd)
+  - [`mMapMarkersProps`](#fa7f3eebc830bd97fffbc9ba71c28366)
+  - [`mHighlightedMarkersProps`](#e47267acce5d64bf143e5f3f60bd2ea7)
+  - [`mActorsBuiltCountProps`](#249c4a696c55341205032e9dccdc9b79)
+  - [`SubCategoryRecordsProps`](#47e021755f0f2419e367d7d02b131c18)
+  - [`mBlueprintCategoryRecordsProps`](#3d69ebb1d9484ab4f348bf95406d69cf)
+  - [`mBuildableSubCategoryDefaultMatDescProps`](#f5bad20f50fa8036737d52ac42fa68e3)
+  - [`mMaterialSubCategoryDefaultMatDescProps`](#6f3bb9b51868df18df9cc86204aa66a5)
+  - [`PlayerRules`](#81b332f2070f04404a9ef41e7eafd9a3)
+  - [`ShoppingListSettings`](#178bbc1d599e54b7e500b56ea855f60d)
+  - [`PlayerCustomizationData`](#838788afcbb3999f32a37bfd88511a60)
+  - [`mWireInstancesProps`](#282aa1176cbc40f834e8b1f8470311c1)
+  - [`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)
+  - [`Transform`](#2ff4148554480a37f85efd299df04850)
+  - [`LightSourceControlData`](#882260b0489081e91de74c64dafcbeb4)
+  - [`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)
+  - [`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)
+  - [`FGPortalCachedFactoryTickData`](#bb7f3cb99e19336c996c2aaad6ce4838)
+  - [`mFloorStopInfosProps`](#ccf23821a8be1bfb4b5445c7aa0997ec)
+  - [`TopLevelAssetPath`](#b8eb7d49028f2861323b205e72f27b8a)
+  - [`PersistentGlobalIconId`](#39a413951cb07a63b3d79117e931cc19)
+  - [`lastEditedByProps`](#483075ab6c2c667f9eac67304fe712cd)
+  - [`BlueprintRecord`](#97cb3c52814c3296b485b314f5d4eaf7)
+  - [`MapMarker`](#876da7352e32a199a1eab9f0a0864669)
+  - [`mInventoryStacksProps`](#f28728332cc56b79607b38cc91334a9d)
+  - [`mCachedFeetOffsetProps`](#d62e369c53e3f596b3520e3feca05d04)
+
 ## `/Game/FactoryGame/Character/Creature/BP_CreatureSpawner.BP_CreatureSpawner_C` <a id="300f34b684b8e9e734a8d1aca74e0b2a"></a>
 
 **Component type** `ACTOR`
 
 ## Properties
 
-| Name              | Type                           |
-| ----------------- | ------------------------------ |
-| mSpawnData        | `Array`<`Struct`<`SpawnData`>> |
-| mCachedIsNearBase | `Bool`                         |
+| Name              | Type                                                                                                                                                                                                                                     |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| mSpawnData        | `Union`<`Array`<`Struct`<[`mSpawnDataProps`](#6e1bfb6f8edba6f3e79e5d243ce8adf3)>>, `Array`<`Struct`<[`mSpawnDataProps`](#6e1bfb6f8edba6f3e79e5d243ce8adf3)>>, `Array`<`Struct`<[`mSpawnDataProps`](#6e1bfb6f8edba6f3e79e5d243ce8adf3)>>> |
+| mCachedIsNearBase | `Bool`                                                                                                                                                                                                                                   |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Character/Creature/BP_CreatureSpawner.BP_CreatureSpawner_C.json)
 
@@ -589,12 +621,12 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                    | Type                                 |
-| ----------------------- | ------------------------------------ |
-| mAdjustedSizeDiff       | `Int`                                |
-| mInventoryStacks        | `Array`<`Struct`<`InventoryStack`>>  |
-| mArbitrarySlotSizes     | `Array`<`IntProperty`>               |
-| mAllowedItemDescriptors | `Array`<`Struct`<`ObjectReference`>> |
+| Name                    | Type                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| mAdjustedSizeDiff       | `Int`                                                                           |
+| mInventoryStacks        | `Array`<`Struct`<[`mInventoryStacksProps`](#f28728332cc56b79607b38cc91334a9d)>> |
+| mArbitrarySlotSizes     | `Array`<`IntProperty`>                                                          |
+| mAllowedItemDescriptors | `Array`<`Struct`<`ObjectReference`>>                                            |
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGInventoryComponent.json)
 
@@ -643,9 +675,9 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name             | Type                                               |
-| ---------------- | -------------------------------------------------- |
-| mColorSlots_Data | `Array`<`Struct`<`FactoryCustomizationColorSlot`>> |
+| Name             | Type                                                                            |
+| ---------------- | ------------------------------------------------------------------------------- |
+| mColorSlots_Data | `Array`<`Struct`<[`mColorSlots_DataProps`](#923f8f93f9fd8a37e64cf135c6a55df4)>> |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/-Shared/Blueprint/BP_BuildableSubsystem.BP_BuildableSubsystem_C.json)
 
@@ -663,7 +695,7 @@ A list of objects contained in the save file.
 
 | Name                            | Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| mFluidIntegrantScriptInterfaces | `Union`<`Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline_NoIndicator.Build_Pipeline_NoIndicator_C`](#c90bebba6ea367f02157102940522456)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline.Build_Pipeline_C`](#109c5b7382c0b125962d3b0b0b25a649)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`](#906b7894316e76793ae494b9c150a364)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2.Build_PipelineMK2_C`](#fd4e2eee24bd6581c74dabf8b5a5b827)>>>, `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`, `/Game/FactoryGame/Buildable/Factory/PipePump/Build_PipelinePump.Build_PipelinePump_C`, `/Game/FactoryGame/Buildable/Factory/PipeJunction/Build_PipelineJunction_Cross.Build_PipelineJunction_Cross_C`>>>, `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`, `/Game/FactoryGame/Buildable/Factory/PipePumpMk2/Build_PipelinePumpMK2.Build_PipelinePumpMk2_C`, `/Game/FactoryGame/Buildable/Factory/PipeValve/Build_Valve.Build_Valve_C`>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/StorageTank/Build_PipeStorageTank.Build_PipeStorageTank_C`](#fddab7360d0f275272c3d113a75f6543)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/IndustrialFluidContainer/Build_IndustrialTank.Build_IndustrialTank_C`](#152fe74c629323e7116bee97ebc4de28)>>>> |
+| mFluidIntegrantScriptInterfaces | `Union`<`Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline_NoIndicator.Build_Pipeline_NoIndicator_C`](#c90bebba6ea367f02157102940522456)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline.Build_Pipeline_C`](#109c5b7382c0b125962d3b0b0b25a649)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`](#906b7894316e76793ae494b9c150a364)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2.Build_PipelineMK2_C`](#fd4e2eee24bd6581c74dabf8b5a5b827)>>>, `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/PipePump/Build_PipelinePump.Build_PipelinePump_C`, `/Game/FactoryGame/Buildable/Factory/PipeJunction/Build_PipelineJunction_Cross.Build_PipelineJunction_Cross_C`, `/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`>>>, `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/PipePumpMk2/Build_PipelinePumpMK2.Build_PipelinePumpMk2_C`, `/Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C`, `/Game/FactoryGame/Buildable/Factory/PipeValve/Build_Valve.Build_Valve_C`>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/StorageTank/Build_PipeStorageTank.Build_PipeStorageTank_C`](#fddab7360d0f275272c3d113a75f6543)>>>, `Array`<`Struct`<`Union`<[`/Game/FactoryGame/Buildable/Factory/IndustrialFluidContainer/Build_IndustrialTank.Build_IndustrialTank_C`](#152fe74c629323e7116bee97ebc4de28)>>>> |
 | mPipeNetworkID                  | `Int`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGPipeNetwork.json)
@@ -884,11 +916,11 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                | Type                                       |
-| ------------------- | ------------------------------------------ |
-| mFogOfWarRawData    | `Array`<`ByteProperty`>                    |
-| mMapMarkers         | `Array`<`Struct`<`MapMarker`>>             |
-| mHighlightedMarkers | `Array`<`Struct`<`HighlightedMarkerPair`>> |
+| Name                | Type                                                                               |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| mFogOfWarRawData    | `Array`<`ByteProperty`>                                                            |
+| mMapMarkers         | `Array`<`Struct`<[`mMapMarkersProps`](#fa7f3eebc830bd97fffbc9ba71c28366)>>         |
+| mHighlightedMarkers | `Array`<`Struct`<[`mHighlightedMarkersProps`](#e47267acce5d64bf143e5f3f60bd2ea7)>> |
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGMapManager.json)
 
@@ -958,9 +990,9 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                      | Type                                         |
-| ------------------------- | -------------------------------------------- |
-| mBlueprintCategoryRecords | `Array`<`Struct`<`BlueprintCategoryRecord`>> |
+| Name                      | Type                                                                                     |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| mBlueprintCategoryRecords | `Array`<`Struct`<[`mBlueprintCategoryRecordsProps`](#3d69ebb1d9484ab4f348bf95406d69cf)>> |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/-Shared/Blueprint/BP_BlueprintSusbystem.BP_BlueprintSusbystem_C.json)
 
@@ -1000,8 +1032,8 @@ A list of objects contained in the save file.
 | Name                                 | Type                                                                                                                   |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | mPlayerHotbars                       | `Array`<`Struct`<`Union`<[`/Script/FactoryGame.FGPlayerHotbar`](#0b7c1c7032b9ea87265ea8ba1481bdef)>>>                  |
-| mBuildableSubCategoryDefaultMatDesc  | `Array`<`Struct`<`SubCategoryMaterialDefault`>>                                                                        |
-| mMaterialSubCategoryDefaultMatDesc   | `Array`<`Struct`<`SubCategoryMaterialDefault`>>                                                                        |
+| mBuildableSubCategoryDefaultMatDesc  | `Array`<`Struct`<[`mBuildableSubCategoryDefaultMatDescProps`](#f5bad20f50fa8036737d52ac42fa68e3)>>                     |
+| mMaterialSubCategoryDefaultMatDesc   | `Array`<`Struct`<[`mMaterialSubCategoryDefaultMatDescProps`](#6f3bb9b51868df18df9cc86204aa66a5)>>                      |
 | mPlayerRules                         | [`PlayerRules`](#81b332f2070f04404a9ef41e7eafd9a3)                                                                     |
 | mOwnedPawn                           | `ObjectReference`<[`/Game/FactoryGame/Character/Player/Char_Player.Char_Player_C`](#d9af50be26eb7b8c38428115c2ede530)> |
 | mHasReceivedInitialItems             | `Bool`                                                                                                                 |
@@ -1343,12 +1375,12 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name               | Type                                                            |
-| ------------------ | --------------------------------------------------------------- |
-| mWireInstances     | `Array`<`Struct`<`WireInstance`>>                               |
-| mCachedLength      | `Float`                                                         |
-| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe   | `ObjectReference`                                               |
+| Name               | Type                                                                          |
+| ------------------ | ----------------------------------------------------------------------------- |
+| mWireInstances     | `Array`<`Struct`<[`mWireInstancesProps`](#282aa1176cbc40f834e8b1f8470311c1)>> |
+| mCachedLength      | `Float`                                                                       |
+| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)               |
+| mBuiltWithRecipe   | `ObjectReference`                                                             |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/PowerLine/Build_PowerLine.Build_PowerLine_C.json)
 
@@ -1360,7 +1392,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                                                                                              |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                                                                                              |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                                                                                        |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)>                                                                |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                                                                                   |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                                                                                 |
@@ -1396,7 +1428,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                               |
 | ------------------- | -------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                               |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                         |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)> |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                    |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                  |
@@ -1915,7 +1947,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                               |
 | ------------------- | -------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                               |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                         |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)> |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                    |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                  |
@@ -1930,7 +1962,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                               |
 | ------------------- | -------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                               |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                         |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)> |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                    |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                  |
@@ -1945,7 +1977,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                               |
 | ------------------- | -------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                               |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                         |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)> |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                    |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                  |
@@ -1960,7 +1992,7 @@ A list of objects contained in the save file.
 
 | Name                | Type                                                                                               |
 | ------------------- | -------------------------------------------------------------------------------------------------- |
-| mSplineData         | `Array`<`Struct`<`SplinePointData`>>                                                               |
+| mSplineData         | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                         |
 | mConveyorChainActor | `ObjectReference`<[`/Script/FactoryGame.FGConveyorChainActor`](#9cd04441c0a87b984b69e6b76bc66a75)> |
 | mCustomizationData  | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                    |
 | mBuiltWithRecipe    | `ObjectReference`                                                                                  |
@@ -2091,12 +2123,12 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                 | Type                                                            |
-| -------------------- | --------------------------------------------------------------- |
-| mSplineData          | `Array`<`Struct`<`SplinePointData`>>                            |
-| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                            |
-| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe     | `ObjectReference`                                               |
+| Name                 | Type                                                                       |
+| -------------------- | -------------------------------------------------------------------------- |
+| mSplineData          | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>> |
+| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                                       |
+| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)            |
+| mBuiltWithRecipe     | `ObjectReference`                                                          |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/Pipeline/Build_Pipeline_NoIndicator.Build_Pipeline_NoIndicator_C.json)
 
@@ -2124,7 +2156,7 @@ A list of objects contained in the save file.
 | Name                 | Type                                                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | mFlowIndicator       | `ObjectReference`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/FlowIndicator/Build_PipelineFlowIndicator.Build_PipelineFlowIndicator_C`](#e30d99eeeccec8e638ce88d55dc29fcb)> |
-| mSplineData          | `Array`<`Struct`<`SplinePointData`>>                                                                                                                                           |
+| mSplineData          | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                                                                                                     |
 | mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                                                                                                                                           |
 | mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                                                                                                |
 | mBuiltWithRecipe     | `ObjectReference`                                                                                                                                                              |
@@ -2149,12 +2181,12 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                 | Type                                                            |
-| -------------------- | --------------------------------------------------------------- |
-| mSplineData          | `Array`<`Struct`<`SplinePointData`>>                            |
-| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                            |
-| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe     | `ObjectReference`                                               |
+| Name                 | Type                                                                       |
+| -------------------- | -------------------------------------------------------------------------- |
+| mSplineData          | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>> |
+| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                                       |
+| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)            |
+| mBuiltWithRecipe     | `ObjectReference`                                                          |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/PipelineMk2/Build_PipelineMK2_NoIndicator.Build_PipelineMK2_NoIndicator_C.json)
 
@@ -2167,7 +2199,7 @@ A list of objects contained in the save file.
 | Name                 | Type                                                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | mFlowIndicator       | `ObjectReference`<[`/Game/FactoryGame/Buildable/Factory/Pipeline/FlowIndicator/Build_PipelineFlowIndicator.Build_PipelineFlowIndicator_C`](#e30d99eeeccec8e638ce88d55dc29fcb)> |
-| mSplineData          | `Array`<`Struct`<`SplinePointData`>>                                                                                                                                           |
+| mSplineData          | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>>                                                                                                     |
 | mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                                                                                                                                           |
 | mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                                                                                                |
 | mBuiltWithRecipe     | `ObjectReference`                                                                                                                                                              |
@@ -2421,15 +2453,15 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Small.Build_StandaloneWidgetSign_Small_C.json)
 
@@ -2439,15 +2471,15 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_SmallWide.Build_StandaloneWidgetSign_SmallWide_C.json)
 
@@ -2457,15 +2489,15 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_SmallVeryWide.Build_StandaloneWidgetSign_SmallVeryWide_C.json)
 
@@ -2475,16 +2507,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Square_Tiny.Build_StandaloneWidgetSign_Square_Tiny_C.json)
 
@@ -2494,16 +2526,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Square_Small.Build_StandaloneWidgetSign_Square_Small_C.json)
 
@@ -2513,16 +2545,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Square.Build_StandaloneWidgetSign_Square_C.json)
 
@@ -2532,16 +2564,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Medium.Build_StandaloneWidgetSign_Medium_C.json)
 
@@ -2551,15 +2583,15 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Portrait.Build_StandaloneWidgetSign_Portrait_C.json)
 
@@ -2569,16 +2601,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Huge.Build_StandaloneWidgetSign_Huge_C.json)
 
@@ -2588,16 +2620,16 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                       | Type                                                            |
-| -------------------------- | --------------------------------------------------------------- |
-| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                               |
-| mPrefabTextElementSaveData | `Array`<`Struct`<`PrefabTextElementSaveData`>>                  |
-| mPrefabIconElementSaveData | `Array`<`Struct`<`PrefabIconElementSaveData`>>                  |
-| mForegroundColor           | `Struct`<`LinearColor`>                                         |
-| mBackgroundColor           | `Struct`<`LinearColor`>                                         |
-| mAuxilaryColor             | `Struct`<`LinearColor`>                                         |
-| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe           | `ObjectReference`                                               |
+| Name                       | Type                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| mSoftActivePrefabLayout    | `Tuple`<`ObjectReference`, `Int`>                                                         |
+| mPrefabTextElementSaveData | `Array`<`Struct`<[`mPrefabTextElementSaveDataProps`](#16bd4a79d0b83d1d09bda0941a3f5ac7)>> |
+| mPrefabIconElementSaveData | `Array`<`Struct`<[`mPrefabIconElementSaveDataProps`](#6506b8c07ff8ca5dc9065a527ffcc94b)>> |
+| mForegroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mBackgroundColor           | `Struct`<`LinearColor`>                                                                   |
+| mAuxilaryColor             | `Struct`<`LinearColor`>                                                                   |
+| mCustomizationData         | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                           |
+| mBuiltWithRecipe           | `ObjectReference`                                                                         |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/SignDigital/Build_StandaloneWidgetSign_Large.Build_StandaloneWidgetSign_Large_C.json)
 
@@ -2846,11 +2878,11 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name               | Type                                                            |
-| ------------------ | --------------------------------------------------------------- |
-| mSplineData        | `Array`<`Struct`<`SplinePointData`>>                            |
-| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe   | `ObjectReference`                                               |
+| Name               | Type                                                                       |
+| ------------------ | -------------------------------------------------------------------------- |
+| mSplineData        | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>> |
+| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)            |
+| mBuiltWithRecipe   | `ObjectReference`                                                          |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/Train/Track/Build_RailroadTrack.Build_RailroadTrack_C.json)
 
@@ -2890,11 +2922,11 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name               | Type                                                            |
-| ------------------ | --------------------------------------------------------------- |
-| mSplineData        | `Array`<`Struct`<`SplinePointData`>>                            |
-| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe   | `ObjectReference`                                               |
+| Name               | Type                                                                       |
+| ------------------ | -------------------------------------------------------------------------- |
+| mSplineData        | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>> |
+| mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)            |
+| mBuiltWithRecipe   | `ObjectReference`                                                          |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/Train/Track/Build_RailroadTrackIntegrated.Build_RailroadTrackIntegrated_C.json)
 
@@ -3036,12 +3068,12 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                 | Type                                                            |
-| -------------------- | --------------------------------------------------------------- |
-| mSplineData          | `Array`<`Struct`<`SplinePointData`>>                            |
-| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                            |
-| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7) |
-| mBuiltWithRecipe     | `ObjectReference`                                               |
+| Name                 | Type                                                                       |
+| -------------------- | -------------------------------------------------------------------------- |
+| mSplineData          | `Array`<`Struct`<[`mSplineDataProps`](#2eaa9d9ee1b6728b4c3e6e35615fca63)>> |
+| mSnappedPassthroughs | `Array`<`Struct`<`ObjectReference`>>                                       |
+| mCustomizationData   | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)            |
+| mBuiltWithRecipe     | `ObjectReference`                                                          |
 
 [JSON Repr](/notes/objects_json//Game/FactoryGame/Buildable/Factory/PipeHyper/Build_PipeHyper.Build_PipeHyper_C.json)
 
@@ -3168,7 +3200,7 @@ A list of objects contained in the save file.
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | mElevatorCabin               | `ObjectReference`<[`/Game/FactoryGame/Buildable/Factory/Elevator/BP_ElevatorCabin.BP_ElevatorCabin_C`](#5b73508f96f242c071bda5157b5b9ccb)> |
 | mHeight                      | `Float`                                                                                                                                    |
-| mFloorStopInfos              | `Array`<`Struct`<`ElevatorFloorStopInfo`>>                                                                                                 |
+| mFloorStopInfos              | `Array`<`Struct`<[`mFloorStopInfosProps`](#ccf23821a8be1bfb4b5445c7aa0997ec)>>                                                             |
 | mPowerInfo                   | `ObjectReference`<[`/Script/FactoryGame.FGPowerInfoComponent`](#3e8784c9adfe12165c1b84b89f26722e)>                                         |
 | mTimeSinceStartStopProducing | `Float`                                                                                                                                    |
 | mIsProductionPaused          | `Bool`                                                                                                                                     |
@@ -3221,7 +3253,7 @@ A list of objects contained in the save file.
 | Name               | Type                                                                                                                                                                                                                        |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | mStorage           | `ObjectReference`<[`/Game/FactoryGame/Buildable/Factory/StoragePlayer/Build_StorageBlueprint.Build_StorageBlueprint_C`](#c37d05dec915a36424fea249e7253738)>                                                                 |
-| mBuildables        | `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk1/Build_ConveyorBeltMk1.Build_ConveyorBeltMk1_C`, `/Game/FactoryGame/Buildable/Factory/ConveyorPole/Build_ConveyorPole.Build_ConveyorPole_C`>>> |
+| mBuildables        | `Array`<`Struct`<`Union`<`/Game/FactoryGame/Buildable/Factory/ConveyorPole/Build_ConveyorPole.Build_ConveyorPole_C`, `/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk1/Build_ConveyorBeltMk1.Build_ConveyorBeltMk1_C`>>> |
 | mCurrentRecordData | [`BlueprintRecord`](#97cb3c52814c3296b485b314f5d4eaf7)                                                                                                                                                                      |
 | mCustomizationData | [`FactoryCustomizationData`](#3907ccdfb651047144091e52e10390c7)                                                                                                                                                             |
 | mBuiltWithRecipe   | `ObjectReference`                                                                                                                                                                                                           |
@@ -3295,13 +3327,13 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name                    | Type                                 |
-| ----------------------- | ------------------------------------ |
-| mSlottedInEquipments    | `Array`<`Struct`<`ObjectReference`>> |
-| mAdjustedSizeDiff       | `Int`                                |
-| mInventoryStacks        | `Array`<`Struct`<`InventoryStack`>>  |
-| mArbitrarySlotSizes     | `Array`<`IntProperty`>               |
-| mAllowedItemDescriptors | `Array`<`Struct`<`ObjectReference`>> |
+| Name                    | Type                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| mSlottedInEquipments    | `Array`<`Struct`<`ObjectReference`>>                                            |
+| mAdjustedSizeDiff       | `Int`                                                                           |
+| mInventoryStacks        | `Array`<`Struct`<[`mInventoryStacksProps`](#f28728332cc56b79607b38cc91334a9d)>> |
+| mArbitrarySlotSizes     | `Array`<`IntProperty`>                                                          |
+| mAllowedItemDescriptors | `Array`<`Struct`<`ObjectReference`>>                                            |
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGInventoryComponentEquipment.json)
 
@@ -3335,9 +3367,9 @@ A list of objects contained in the save file.
 
 ## Properties
 
-| Name              | Type                            |
-| ----------------- | ------------------------------- |
-| mCachedFeetOffset | `Array`<`Struct`<`FeetOffset`>> |
+| Name              | Type                                                                             |
+| ----------------- | -------------------------------------------------------------------------------- |
+| mCachedFeetOffset | `Array`<`Struct`<[`mCachedFeetOffsetProps`](#d62e369c53e3f596b3520e3feca05d04)>> |
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGFactoryLegsComponent.json)
 
@@ -3422,20 +3454,112 @@ A list of objects contained in the save file.
 
 [JSON Repr](/notes/objects_json//Script/FactoryGame.FGEmoteShortcut.json)
 
-# Typed Data
+# Typed Data <a id="typed_data"></a>
+
+## mSpawnDataProps<a id="6e1bfb6f8edba6f3e79e5d243ce8adf3"></a>
+
+| Name           | Type              |
+| -------------- | ----------------- |
+| creature       | `ObjectReference` |
+| WasKilled      | `Bool`            |
+| NumTimesKilled | `Int`             |
+| KilledOnDayNr  | `Int`             |
 
 ## InventoryStack<a id="4bbe9209e8486bf4b08ef002709eeeee"></a>
 
-| Name     | Type                      |
-| -------- | ------------------------- |
-| Item     | `Struct`<`InventoryItem`> |
-| NumItems | `Int`                     |
+| Name     | Type  |
+| -------- | ----- |
+| NumItems | `Int` |
 
 ## FactoryCustomizationData<a id="3907ccdfb651047144091e52e10390c7"></a>
 
 | Name       | Type              |
 | ---------- | ----------------- |
 | SwatchDesc | `ObjectReference` |
+
+## mColorSlots_DataProps<a id="923f8f93f9fd8a37e64cf135c6a55df4"></a>
+
+| Name           | Type                    |
+| -------------- | ----------------------- |
+| PrimaryColor   | `Struct`<`LinearColor`> |
+| SecondaryColor | `Struct`<`LinearColor`> |
+| PaintFinish    | `ObjectReference`       |
+
+## Vector_NetQuantize<a id="56605402e390a6c6eebe9c5560cbb4dd"></a>
+
+| Name | Type     |
+| ---- | -------- |
+| X    | `Double` |
+| Y    | `Double` |
+| Z    | `Double` |
+
+## mMapMarkersProps<a id="fa7f3eebc830bd97fffbc9ba71c28366"></a>
+
+| Name                    | Type                                                      |
+| ----------------------- | --------------------------------------------------------- |
+| markerGuid              | `Struct`<`Guid`>                                          |
+| Location                | [`Vector_NetQuantize`](#56605402e390a6c6eebe9c5560cbb4dd) |
+| Name                    | `Str`                                                     |
+| CategoryName            | `Str`                                                     |
+| MapMarkerType           | `Enum`<`ERepresentationType`>                             |
+| IconID                  | `Int`                                                     |
+| Color                   | `Struct`<`LinearColor`>                                   |
+| Scale                   | `Float`                                                   |
+| compassViewDistance     | `Enum`<`ECompassViewDistance`>                            |
+| MarkerPlacedByAccountID | `Str`                                                     |
+
+## mHighlightedMarkersProps<a id="e47267acce5d64bf143e5f3f60bd2ea7"></a>
+
+| Name              | Type                                                                                                                         |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| PlayerState       | `ObjectReference`<[`/Game/FactoryGame/Character/Player/BP_PlayerState.BP_PlayerState_C`](#4c001bfe67d1ec5cacd2a1a2c3539513)> |
+| HighlightedMarker | `ObjectReference`<[`/Script/FactoryGame.FGHighlightedMarker_MapMarker`](#1d93764e1b0b912afba78502d3c9d4bb)>                  |
+
+## mActorsBuiltCountProps<a id="249c4a696c55341205032e9dccdc9b79"></a>
+
+| Name                | Type                                                                                                                                                       |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BuiltPerPlayer      | `Map`<`Key`<`ObjectReference`<[`/Game/FactoryGame/Character/Player/BP_PlayerState.BP_PlayerState_C`](#4c001bfe67d1ec5cacd2a1a2c3539513)>>, `Value`<`I64`>> |
+| DismantledPerPlayer | `Map`<`Key`<`ObjectReference`>, `Value`<`I64`>>                                                                                                            |
+| Current             | `Int64`                                                                                                                                                    |
+| CurrentMax          | `Int64`                                                                                                                                                    |
+| Total               | `Int64`                                                                                                                                                    |
+| TotalDismantled     | `Int64`                                                                                                                                                    |
+
+## SubCategoryRecordsProps<a id="47e021755f0f2419e367d7d02b131c18"></a>
+
+| Name            | Type                                      |
+| --------------- | ----------------------------------------- |
+| SubCategoryName | `Str`                                     |
+| MenuPriority    | `Float`                                   |
+| IsUndefined     | `Byte`                                    |
+| BlueprintNames  | `Array`<`StrProperty`>                    |
+| lastEditedBy    | `Array`<`Struct`<`LocalUserNetIdBundle`>> |
+
+## mBlueprintCategoryRecordsProps<a id="3d69ebb1d9484ab4f348bf95406d69cf"></a>
+
+| Name               | Type                                                                              |
+| ------------------ | --------------------------------------------------------------------------------- |
+| CategoryName       | `Str`                                                                             |
+| IconID             | `Int`                                                                             |
+| MenuPriority       | `Float`                                                                           |
+| IsUndefined        | `Bool`                                                                            |
+| SubCategoryRecords | `Array`<`Struct`<[`SubCategoryRecordsProps`](#47e021755f0f2419e367d7d02b131c18)>> |
+| lastEditedBy       | `Array`<`Struct`<`LocalUserNetIdBundle`>>                                         |
+
+## mBuildableSubCategoryDefaultMatDescProps<a id="f5bad20f50fa8036737d52ac42fa68e3"></a>
+
+| Name         | Type              |
+| ------------ | ----------------- |
+| Category     | `ObjectReference` |
+| MaterialDesc | `ObjectReference` |
+
+## mMaterialSubCategoryDefaultMatDescProps<a id="6f3bb9b51868df18df9cc86204aa66a5"></a>
+
+| Name         | Type              |
+| ------------ | ----------------- |
+| Category     | `ObjectReference` |
+| MaterialDesc | `ObjectReference` |
 
 ## PlayerRules<a id="81b332f2070f04404a9ef41e7eafd9a3"></a>
 
@@ -3463,6 +3587,21 @@ A list of objects contained in the save file.
 | TrinketCustomizationDesc   | `ObjectReference`                    |
 | EquipmentCustomizationDesc | `Array`<`Struct`<`ObjectReference`>> |
 
+## mWireInstancesProps<a id="282aa1176cbc40f834e8b1f8470311c1"></a>
+
+| Name                    | Type               |
+| ----------------------- | ------------------ |
+| Locations               | `Struct`<`Vector`> |
+| CachedRelativeLocations | `Struct`<`Vector`> |
+
+## mSplineDataProps<a id="2eaa9d9ee1b6728b4c3e6e35615fca63"></a>
+
+| Name          | Type               |
+| ------------- | ------------------ |
+| Location      | `Struct`<`Vector`> |
+| ArriveTangent | `Struct`<`Vector`> |
+| LeaveTangent  | `Struct`<`Vector`> |
+
 ## Transform<a id="2ff4148554480a37f85efd299df04850"></a>
 
 | Name        | Type               |
@@ -3470,11 +3609,40 @@ A list of objects contained in the save file.
 | Rotation    | `Struct`<`Quat`>   |
 | Translation | `Struct`<`Vector`> |
 
+## LightSourceControlData<a id="882260b0489081e91de74c64dafcbeb4"></a>
+
+| Name      | Type    |
+| --------- | ------- |
+| Intensity | `Float` |
+
+## mPrefabTextElementSaveDataProps<a id="16bd4a79d0b83d1d09bda0941a3f5ac7"></a>
+
+| Name        | Type  |
+| ----------- | ----- |
+| ElementName | `Str` |
+| Text        | `Str` |
+
+## mPrefabIconElementSaveDataProps<a id="6506b8c07ff8ca5dc9065a527ffcc94b"></a>
+
+| Name        | Type  |
+| ----------- | ----- |
+| ElementName | `Str` |
+| IconID      | `Int` |
+
 ## FGPortalCachedFactoryTickData<a id="bb7f3cb99e19336c996c2aaad6ce4838"></a>
 
 | Name                    | Type    |
 | ----------------------- | ------- |
 | mCachedPowerConsumption | `Float` |
+
+## mFloorStopInfosProps<a id="ccf23821a8be1bfb4b5445c7aa0997ec"></a>
+
+| Name      | Type                                                                                                                                                     |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FloorStop | `ObjectReference`<[`/Game/FactoryGame/Buildable/Factory/Elevator/Build_ElevatorFloorStop.Build_ElevatorFloorStop_C`](#c7902e457c389891906f000b5c2cd491)> |
+| FloorName | `Str`                                                                                                                                                    |
+| IconID    | `Int`                                                                                                                                                    |
+| IconColor | `Struct`<`LinearColor`>                                                                                                                                  |
 
 ## TopLevelAssetPath<a id="b8eb7d49028f2861323b205e72f27b8a"></a>
 
@@ -3490,23 +3658,23 @@ A list of objects contained in the save file.
 | IconLibrary | [`TopLevelAssetPath`](#b8eb7d49028f2861323b205e72f27b8a) |
 | IconID      | `Int`                                                    |
 
+## lastEditedByProps<a id="483075ab6c2c667f9eac67304fe712cd"></a>
+
+| Name                      | Type  |
+| ------------------------- | ----- |
+| AssociatedAccountIdString | `Str` |
+| DisplayName               | `Str` |
+| BackendName               | `Str` |
+
 ## BlueprintRecord<a id="97cb3c52814c3296b485b314f5d4eaf7"></a>
 
-| Name                 | Type                                                          |
-| -------------------- | ------------------------------------------------------------- |
-| BlueprintName        | `Str`                                                         |
-| BlueprintDescription | `Str`                                                         |
-| IconID               | [`PersistentGlobalIconId`](#39a413951cb07a63b3d79117e931cc19) |
-| Color                | `Struct`<`LinearColor`>                                       |
-| lastEditedBy         | `Array`<`Struct`<`LocalUserNetIdBundle`>>                     |
-
-## Vector_NetQuantize<a id="56605402e390a6c6eebe9c5560cbb4dd"></a>
-
-| Name | Type     |
-| ---- | -------- |
-| X    | `Double` |
-| Y    | `Double` |
-| Z    | `Double` |
+| Name                 | Type                                                                        |
+| -------------------- | --------------------------------------------------------------------------- |
+| BlueprintName        | `Str`                                                                       |
+| BlueprintDescription | `Str`                                                                       |
+| IconID               | [`PersistentGlobalIconId`](#39a413951cb07a63b3d79117e931cc19)               |
+| Color                | `Struct`<`LinearColor`>                                                     |
+| lastEditedBy         | `Array`<`Struct`<[`lastEditedByProps`](#483075ab6c2c667f9eac67304fe712cd)>> |
 
 ## MapMarker<a id="876da7352e32a199a1eab9f0a0864669"></a>
 
@@ -3519,3 +3687,17 @@ A list of objects contained in the save file.
 | IconID                  | `Int`                                                     |
 | Color                   | `Struct`<`LinearColor`>                                   |
 | MarkerPlacedByAccountID | `Str`                                                     |
+
+## mInventoryStacksProps<a id="f28728332cc56b79607b38cc91334a9d"></a>
+
+| Name     | Type                      |
+| -------- | ------------------------- |
+| Item     | `Struct`<`InventoryItem`> |
+| NumItems | `Int`                     |
+
+## mCachedFeetOffsetProps<a id="d62e369c53e3f596b3520e3feca05d04"></a>
+
+| Name      | Type    |
+| --------- | ------- |
+| FeetIndex | `Byte`  |
+| OffsetZ   | `Float` |
