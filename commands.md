@@ -1,26 +1,18 @@
 ## Main commands
 
-| Command                                  | Args                                                                                                                       | Description                                    | CHECK |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----- |
-| `--info`                                 | `<save-filename>`                                                                                                          | Show save file info                            | [x]   |
-| `--to-json`                              | `<save-filename> <output-json-filename>`                                                                                   | Export save file to JSON                       | [x]   |
-| `--from-json`                            | `<input-json-filename> <new-save-filename>`                                                                                | Create save file from JSON                     | [x]   |
-| `--set-session-name`                     | `<new-session-name> <original-save-filename> <new-save-filename>`                                                          | Change session name in save file               | [x]   |
-| `--find-free-stuff`                      | `[item] [save-filename]`                                                                                                   | Find free items in save file                   | [x]   |
-| `--rotate-foundations`                   | `<primary-color-hex-or-preset> <secondary-color-hex-or-preset> <original-save-filename> <new-save-filename> [--same-time]` | Rotate foundation colors                       | [ ]   |
-| `--clear-fog`                            | `<original-save-filename> <new-save-filename> [--same-time]`                                                               | Clear world fog of war                         | [ ]   |
-| `--export-crash-sites`                   | `<save-filename> <output-json-filename>`                                                                                   | Export crash site data to JSON                 | [ ]   |
-| `--resave-only`                          | `<original-save-filename> <new-save-filename>`                                                                             | Resave file without modifications              | [ ]   |
-| `--add-missing-items-to-sav_stack_sizes` | —                                                                                                                          | Add missing items to internal stack size table | [ ]   |
+| Command                                  | Args                                                                                           | Description                                    | CHECK |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----- |
+| `--rotate-foundations`                   | `<primary-color> <secondary-color> <original-save-filename> <new-save-filename> [--same-time]` | Rotate foundation colors                       | [ ]   |
+| `--clear-fog`                            | `<original-save-filename> <new-save-filename> [--same-time]`                                   | Clear world fog of war                         | [ ]   |
+| `--export-crash-sites`                   | `<save-filename> <output-json-filename>`                                                       | Export crash site data to JSON                 | [ ]   |
+| `--resave-only`                          | `<original-save-filename> <new-save-filename>`                                                 | Resave file without modifications              | [ ]   |
+| `--add-missing-items-to-sav_stack_sizes` | —                                                                                              | Add missing items to internal stack size table | [ ]   |
 
 ## Player commands
 
 | Command                        | Args                                                                                       | Description                          | CHECK |
 | ------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------ | ----- |
-| `--list-players`               | `<save-filename>`                                                                          | List all players in save file        | [x]   |
-| `--list-player-inventory`      | `<player-num> <save-filename>`                                                             | Show inventory of selected player    | [x]   |
-| `--export-player-inventory`    | `<player-num> <save-filename> <output-json-filename>`                                      | Export player inventory to JSON      | [x]   |
-| `--import-player-inventory`    | `<player-num> <original-save-filename> <input-json-filename> <new-save-filename>`          | Import inventory from JSON into save | [ ]   |
+| `--import-player-inventory`    | `<player-num> <original-save-filename> <input-json-filename> <new-save-filename>`          | Import inventory from JSON into save | [x]   |
 | `--tweak-player-inventory`     | `<player-num> <slot-index> <item> <quantity> <original-save-filename> <new-save-filename>` | Modify single inventory slot         | [ ]   |
 | `--export-hotbar`              | `<player-num> <save-filename> <output-json-filename>`                                      | Export player hotbar to JSON         | [ ]   |
 | `--import-hotbar`              | `<player-num> <original-save-filename> <input-json-filename> <new-save-filename>`          | Import player hotbar from JSON       | [ ]   |
@@ -42,16 +34,6 @@
 | `--blueprint --remove-blueprint`   | `<category> <subcategory> <blueprint> <original-save-filename> <new-save-filename>`                                          | Remove blueprint                                        | [ ]   |
 | `--blueprint --move-blueprint`     | `<old-category> <old-subcategory> <new-category> <new-subcategory> <blueprint> <original-save-filename> <new-save-filename>` | Move blueprint between categories                       | [ ]   |
 | `--blueprint --reset`              | `<original-save-filename> <new-save-filename>`                                                                               | Reset blueprints to default state                       | [ ]   |
-
-## Map markers
-
-| Command                            | Args                                                                               | Description                        | CHECK |
-| ---------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------- | ----- |
-| `--list-map-markers`               | `<save-filename>`                                                                  | List all map markers in save file  | [x]   |
-| `--add-map-markers-json`           | `<original-save-filename> <input-json-filename> <new-save-filename> [--same-time]` | Add map markers from JSON          | [x]   |
-| `--add-map-markers-somersloops`    | `<original-save-filename> <new-save-filename> [--same-time]`                       | Add all Somersloops map markers    | [x]   |
-| `--add-map-markers-mercer-spheres` | `<original-save-filename> <new-save-filename> [--same-time]`                       | Add all Mercer Spheres map markers | [x]   |
-| `--add-map-markers-hard-drives`    | `<original-save-filename> <new-save-filename> [--same-time]`                       | Add all Hard Drives map markers    | [x]   |
 
 ## Somersloops
 

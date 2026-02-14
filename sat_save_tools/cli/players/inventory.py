@@ -6,7 +6,7 @@ import rich
 import rich.table
 from argcomplete.completers import FilesCompleter
 
-from sat_save_tools import SatisfactorySaveFile
+from sat_save_tools import ComponentObject, SatisfactorySaveFile
 from sat_save_tools.actions.players import get_player_list, get_player_nickname
 from sat_save_tools.cli.utils import AnswerManager, add_input_file_action, add_output_file_action, set_completer
 
@@ -93,12 +93,36 @@ def export_player_inventory(
 
 def import_player_inventory(
     save_path: pathlib.Path,
-    inventory_path: pathlib.Path,  # noqa: ARG001
-    player_id: str,  # noqa: ARG001
+    inventory_path: pathlib.Path,
+    player_id: str,
     output: pathlib.Path | None = None,
 ) -> None:
     file = SatisfactorySaveFile.load_from_json(save_path)
     output = output or save_path
+
+    players = get_player_list(file)
+
+    player = next((it for it in players if it.header.instance_name == player_id), None)
+    if player is None:
+        return AnswerManager.error("player inventory", f"Player with ID '{player_id}' not found")
+    owner_pawn = typing.cast("ObjectReference", player.properties.get_value("mOwnedPawn").value).get_related_object(
+        file,
+    )
+    current_inventory = typing.cast(
+        "ComponentObject",
+        typing.cast(
+            "ObjectReference",
+            owner_pawn.properties.get_value("mInventory").value,
+        ).get_related_object(file),
+    )
+
+    new_inventory = ComponentObject.model_validate_json(inventory_path.read_text(encoding="utf-8"))
+
+    new_inventory.header.instance_name = current_inventory.header.instance_name
+    new_inventory.header.unknown = current_inventory.header.unknown
+    new_inventory.header.parent_actor_name = current_inventory.header.parent_actor_name
+
+    file.body.persistent_level.objects[current_inventory.header.instance_name] = new_inventory
 
     file.save_to_file(output)
     AnswerManager.success("import inventory", f"File saved to {output}")
